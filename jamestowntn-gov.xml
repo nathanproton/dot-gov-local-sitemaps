@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="//jamestowntn.gov/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://jamestowntn.gov/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://jamestowntn.gov/residents</loc></url>
+<url><loc>http://jamestowntn.gov/visitors</loc></url>
+<url><loc>http://jamestowntn.gov/building-inspector</loc></url>
+<url><loc>http://jamestowntn.gov/events</loc></url>
+<url><loc>http://jamestowntn.gov/employment</loc></url>
+<url><loc>http://jamestowntn.gov/links</loc></url>
+</urlset>

@@ -1,0 +1,816 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="/runtime/images/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/runtime/styles/aos.css?v=11" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/common/styles/ezpopup.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/main.css?v=5.5.2018" type="text/css" media="screen" />
+    
+    <title>Stayton, Oregon</title>
+
+    <link rel="stylesheet" href="/runtime/styles/normalize.min.css" />
+    <link rel="stylesheet" href="/runtime/styles/layout.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/ionicons.min.css" />
+    <link type="text/css" rel="stylesheet" href="/runtime/styles/ezmegastyle.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezGallery.css?v=5.11.4.0" media="screen" />
+
+    <link rel="stylesheet" href="/runtime/styles/custom.css?v=12.7.2023" />
+    
+
+
+	<!-- Google tag (gtag.js) --> <script async src=https://www.googletagmanager.com/gtag/js?id=G-PLX3PGMX8C></script>
+	<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PLX3PGMX8C'); </script>
+</head>
+
+<body class="show-alert">
+    <a id="skip-navigation" href="#contentwrapper" tab-index="0" alt="Press enter to skip the Navigation" title="Press enter to skip to the Navigation">Skip Navigation</a>
+    <form method="post" action="./" id="nseForm">
+<input type="hidden" name="CP1_RadScriptManager1_TSM" id="CP1_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODUyNzQ2ODkxD2QWAmYPZBYQAgMPZBYQAgEPZBYaAgEPFCsAAjwrAAQBAA8WAh4HVmlzaWJsZWhkZGQCAg8UKwAEDxYEHwBoHg5Mb2FkaW5nUGFuZWxJRAUnY3RsMDBfQ1AxX0RvY3VtZW50TGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMi4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHgRTa2luBQdEZWZhdWx0ZGQCAw8UKwAEDxYEHwBoHwEFJ2N0bDAwX0NQMV9DYWxlbmRhckxpZ2h0Qm94X0xvYWRpbmdQYW5lbGQUKwADZGQ8KwAFABAWAWYWARQrAAFkDxYBZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRMaWdodEJveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjIuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAAWAgIBDw8WAh8CBQdEZWZhdWx0ZGQCBA8UKwAEDxYEHwBoHwEFJmN0bDAwX0NQMV9Db25maXJtTGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMi4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHwIFB0RlZmF1bHRkZAIFDxQrAAQPFgQfAGgfAQUoY3RsMDBfQ1AxX1NlbmRFbWFpbExpZ2h0Qm94X0xvYWRpbmdQYW5lbGQUKwADZGQ8KwAFABAWAWYWARQrAAFkDxYBZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRMaWdodEJveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjIuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAAWAgIBDw8WAh8CBQdEZWZhdWx0ZGQCBg8WAh8AaGQCBw8WAh8AaGQCCA8WAh8AaGQCCQ8WAh8AaGQCCg8WAh8AaGQCDA8WAh8AaBYCZg8UKwAEDxYCHwEFK2N0bDAwX0NQMV9TdWJzY3JpcHRpb25MaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIyLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAg0PDxYCHwBoZBYEZg8WAh8AaGQCAg8WAh8AaGQCDg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgICAQ8WBB4FY2xhc3MFIHdpZGdldGl0ZW0gdmVydGljYWwtYWxpZ24tbGF5b3V0HgVzdHlsZQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7FgJmD2QWAmYPZBYEAgEPFgIfBQUKd2lkdGg6NzIlOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYEHwQFEXdpZGdldGl0ZW0gdG9wbmF2HwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAw8WAh8FBQp3aWR0aDoyOCU7FgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIDD2QWAgIBDxYCHwMCARYCZg9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDsWAmYPZBYCZg9kFgQCAQ8WAh8FBQp3aWR0aDo2MyU7FgICAQ8WAh8DAgIWBGYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7ZAIBD2QWAgIBDxYEHwQFFXdpZGdldGl0ZW0gaGVhZGVybG9nbx8FBSJtYXJnaW4tdG9wOjMwcHg7bWFyZ2luLWJvdHRvbTowcHg7FgJmD2QWAmYPZBYCZg8WAh8EBQ9pbWFnZXNpemVpdExlZnQWAgIBDxYCHgRocmVmBQ4vcGFnZS9ob21lcGFnZWQCAw8WAh8FBQp3aWR0aDozNyU7FgICAQ8WAh8DAgEWAmYPZBYCAgEPFgQfBAUYd2lkZ2V0aXRlbSBoZWFkZXItc2xvZ2FuHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCBQ9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7FgJmD2QWAmYPZBYCAgEPFgIeCWlubmVyaHRtbAWaTDx1bCBjbGFzcz0ibWFpbiIgcm9sZT0ibWVudWJhciIgYXJpYS1sYWJlbD0ibWVnYSBtZW51Ij48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+Q2l0eSBHb3Zlcm5tZW50PC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24iIHJvbGU9Im1lbnUiIGFyaWEtbGFiZWw9IkNpdHkgR292ZXJubWVudCI+PHVsIGNsYXNzPSdjb2x1bW4gY29sLTEnPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PHNwYW4+TWF5b3IgYW5kIENpdHkgQ291bmNpbDwvc3Bhbj48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9nb3ZfY2l0eV9jb3VuY2lsJz5Db3VuY2lsIEluZm9ybWF0aW9uLCBBZ2VuZGFzLCAmIE1pbnV0ZXM8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3N0YXRlX29mX3RoZV9jaXR5Jz5TdGF0ZSBvZiB0aGUgQ2l0eTwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZ292X2VsZWN0aW9uXzIwMjQnPkdlbmVyYWwgRWxlY3Rpb24gLSBOb3ZlbWJlciAyMDI0PC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PHVsIGNsYXNzPSdjb2x1bW4gY29sLTInPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PHNwYW4+Qm9hcmRzIGFuZCBDb21taXNzaW9uczwvc3Bhbj48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9nb3ZfYm9hcmRzX2NvbW1pc3Npb25zJz5Kb2luIGEgQm9hcmQgb3IgQ29tbWlzc2lvbjwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZ292X2J1ZGdldF9jb21taXR0ZWUnPkJ1ZGdldCBDb21taXR0ZWU8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2dvdl9saWJyYXJ5X2JvYXJkJz5MaWJyYXJ5IEJvYXJkPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9nb3ZfcGFya3NfYm9hcmQnPlBhcmtzIGFuZCBSZWNyZWF0aW9uIEJvYXJkPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9nb3ZfcGxhbm5pbmdfY29tbWlzc2lvbic+UGxhbm5pbmcgQ29tbWlzc2lvbjwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZ292X2FydHNfY29tbWlzc2lvbic+UHVibGljIEFydHMgQ29tbWlzc2lvbjwvYT48L2xpPjwvdWw+PC9saT48L3VsPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0zJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPk90aGVyIEdvdmVybm1lbnQgTGlua3M8L3NwYW4+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0naHR0cHM6Ly93d3cuY28ubWFyaW9uLm9yLnVzLycgdGFyZ2V0PSdfYmxhbmsnPk1hcmlvbiBDb3VudHk8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vd3d3Lmxpbm5jb3VudHlvci5nb3YvJyB0YXJnZXQ9J19ibGFuayc+TGlubiBDb3VudHk8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vd3d3Lm9yZWdvbi5nb3YvcGFnZXMvaW5kZXguYXNweCcgdGFyZ2V0PSdfYmxhbmsnPlN0YXRlIG9mIE9yZWdvbjwvYT48L2xpPjwvdWw+PC9saT48L3VsPjwvdWw+PC9saT48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+RGVwYXJ0bWVudHM8L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93biIgcm9sZT0ibWVudSIgYXJpYS1sYWJlbD0iRGVwYXJ0bWVudHMiPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0xJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPkFkbWluaXN0cmF0aW9uPC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2FkbWluX2FkbWluaXN0cmF0aW9uJz5BZG1pbmlzdHJhdGlvbiBIb21lPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9ocl9odW1hbl9yZXNvdXJjZXMnPkh1bWFuIFJlc291cmNlczwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvYWRtaW5fZGlyZWN0b3J5Jz5TdGFmZiBEaXJlY3Rvcnk8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5GaW5hbmNlPC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2ZpbmFuY2VfaG9tZSc+RmluYW5jZSBIb21lPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9maW5hbmNlX2J1ZGdldHMnPkFubnVhbCBCdWRnZXQ8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2ZpbmFuY2Vfc3VycGx1c19wcm9wZXJ0eSc+U3VycGx1cyBQcm9wZXJ0eTwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZmluYW5jZV9vbmxpbmVfZm9ybXMnPk9ubGluZSBGb3JtcyBhbmQgUGF5bWVudHM8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5MaWJyYXJ5PC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2xpYnJhcnlfaG9tZSc+TGlicmFyeSBIb21lPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9saWJyYXJ5X2NhbGVuZGFyJz5DYWxlbmRhciBvZiBMaWJyYXJ5IEV2ZW50czwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvbGlicmFyeV9uZXdzJz5MaWJyYXJ5IE5ld3M8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2xpYnJhcnlfY2FyZHMnPkxpYnJhcnkgQ2FyZHM8L2E+PC9saT48L3VsPjwvbGk+PC91bD48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMic+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5Db21tdW5pdHkgJiBFY29ub21pYyBEZXZlbG9wbWVudCBEZXBhcnRtZW50PC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3BsYW5uaW5nX2hvbWUnPkNvbW11bml0eSAmIEVjb25vbWljIERldmVsb3BtZW50IEhvbWU8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3BsYW5uaW5nX3BlbmRpbmdkZWNpc2lvbnMnPlBlbmRpbmcgRGVjaXNpb25zPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wbGFubmluZ19jb2RlX2VuZm9yY2VtZW50Jz5Db2RlIEVuZm9yY2VtZW50IENvbXBsYWludCBGb3JtPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wbGFubmluZ19ob3VzaW5nX3JlaGFiaWxpdGF0aW9uX3Byb2dyYW0nPkhvdXNpbmcgUmVoYWJpbGl0YXRpb248L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2dvdl9zb2xpY2l0b3JfaW5mb3JtYXRpb24nPlNvbGljaXRvciBJbmZvcm1hdGlvbjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPlBvbGljZTwvc3Bhbj48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wb2xpY2VfaG9tZSc+UG9saWNlIEhvbWU8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3BvbGljZV9ubm9fcmVnaXN0ZXInPk5hdGlvbmFsIE5pZ2h0IE91dDwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZXZlbnRfc2FmZXR5X3Rvd24nPktpZHMgU2FmZXR5IFRvd248L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vY29tbXVuaXR5Y3JpbWVtYXAuY29tLycgdGFyZ2V0PSdfYmxhbmsnPkxleGlzTmV4aXMgQ29tbXVuaXR5IENyaW1lIE1hcDwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvcG9saWNlX3Jlc291cmNlcyc+UmVzb3VyY2VzIGFuZCBFdmVudHM8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2FkbWluX3B1YmxpY19yZWNvcmRzJz5QdWJsaWMgUmVjb3JkcyBSZXF1ZXN0PC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wb2xpY2VfY29udGFjdCc+Q29udGFjdCBQb2xpY2UgRGVwYXJ0bWVudDwvYT48L2xpPjwvdWw+PC9saT48L3VsPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0zJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPlN0YXl0b24gTXVuaWNpcGFsIENvdXJ0PC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL211bmljaXBhbF9jb3VydCc+TXVuaWNpcGFsIENvdXJ0IEhvbWU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5TdGF5dG9uIEZhbWlseSBNZW1vcmlhbCBQb29sPC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3Bvb2xfaG9tZSc+UG9vbCBIb21lPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PHNwYW4+UHVibGljIFdvcmtzPC9zcGFuPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3B3X2hvbWUnPlB1YmxpYyBXb3JrcyBIb21lPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wd19wZXJtaXR0aW5nJz5QZXJtaXR0aW5nIENlbnRlcjwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvcHdfRW5naW5lZXJpbmcnPkVuZ2luZWVyaW5nPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wd19QYXJrcyc+UGFya3MgYW5kIFJlY3JlYXRpb248L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3B3X3Byb2plY3RzJz5QdWJsaWMgV29ya3MgUHJvamVjdHM8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3B3X1N0cmVldHMnPlN0cmVldCBNYWludGVuYW5jZSBhbmQgQ29uc3RydWN0aW9uPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wd19XYXN0ZXdhdGVyJz5XYXN0ZXdhdGVyIENvbGxlY3Rpb25zICYgVHJlYXRtZW50PC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wd19XYXRlcic+V2F0ZXIgU3lzdGVtcyAmIFRyZWF0bWVudDwvYT48L2xpPjwvdWw+PC9saT48L3VsPjwvdWw+PC9saT48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+Q2FsZW5kYXJzPC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24iIHJvbGU9Im1lbnUiIGFyaWEtbGFiZWw9IkNhbGVuZGFycyI+PHVsIGNsYXNzPSdjb2x1bW4gc2luZ2xlLWNvbCc+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9hZG1pbl9jYWxlbmRhcic+TWVldGluZyAmIEV2ZW50IENhbGVuZGFyPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9saWJyYXJ5X2NhbGVuZGFyJz5MaWJyYXJ5IENhbGVuZGFyPC9hPjwvbGk+PC91bD48L3VsPjwvbGk+PGxpIGNsYXNzPSJ0b3AtbGluayBtZW51LWRyb3Bkb3duLWljb24iPjxzcGFuIHRhYmluZGV4PSIwIiByb2xlPSJtZW51aXRlbSIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtZGVzY3JpYmVkYnk9ImN5Y2xlLWhlYWRlcnMiPkRvY3VtZW50IENlbnRlcjwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duIiByb2xlPSJtZW51IiBhcmlhLWxhYmVsPSJEb2N1bWVudCBDZW50ZXIiPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0xJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPlB1YmxpYyBEb2N1bWVudHM8L3NwYW4+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3VwbG9hZC9wYWdlLzAyMTYvZG9jcy9GZWVzIGFuZCBDaGFyZ2VzIEZZMjUgRXhoaWJpdCBBLnBkZicgdGFyZ2V0PSdfYmxhbmsnPkZlZXMgYW5kIENoYXJnZXMgU2NoZWR1bGU8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RvY3NfZXNwYW5vbCc+RG9jdW1lbnRzIGVuIEVzcGHDsW9sPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9kb2NzX21vbnRobHlfcGVyZm9ybWFuY2VfcmVwb3J0cyc+TW9udGhseSBQZXJmb3JtYW5jZSBSZXBvcnRzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9hZG1pbl9wdWJsaWNfcmVjb3Jkcyc+UHVibGljIFJlY29yZCBSZXF1ZXN0czwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19yZnAnPlJlcXVlc3QgZm9yIFByb3Bvc2FsczwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19uZXdzbGV0dGVycyc+V29yZCBvbiB0aGUgU3RyZWV0IE5ld3NsZXR0ZXI8L2E+PC9saT48L3VsPjwvbGk+PC91bD48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMic+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5DaXR5IERvY3VtZW50cyBhbmQgUGxhbnM8L3NwYW4+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19tdW5pY2lwYWxfY29kZSc+Q2hhcnRlciBhbmQgTXVuaWNpcGFsIENvZGU8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RvY3NfcmVzb2x1dGlvbnMnPkNpdHkgb2YgU3RheXRvbiBSZXNvbHV0aW9ucyA8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RvY3Nfb3JkaW5hbmNlcyc+Q2l0eSBvZiBTdGF5dG9uIE9yZGluYW5jZXMgIDwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvcGxhbm5pbmdfZWNvX2Rldm9fc3RyYXRlZ2llcyc+RWNvbm9taWMgRGV2ZWxvcG1lbnQgUGxhbjwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19pbnRlcmFjdGl2ZV9jaXR5X21hcCc+SW50ZXJhY3RpdmUgQ2l0eSBNYXA8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3BsYW5uaW5nX21hc3Rlcl9wbGFucyc+TWFzdGVyIFBsYW5zPC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PHVsIGNsYXNzPSdjb2x1bW4gY29sLTMnPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PHNwYW4+Rm9ybXMgYW5kIFBlcm1pdHM8L3NwYW4+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19ldmVudF9wZXJtaXRzJz5FdmVudCBQZXJtaXRzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9maW5hbmNlX29ubGluZV9mb3Jtcyc+RmluYW5jZSBGb3JtcyBhbmQgUGF5bWVudHM8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy91cGxvYWQvcGFnZS8wMjE2L2RvY3MvTW9iaWxlIEZvb2QgVW5pdCBBcHBsaWNhdGlvbi5wZGYnIHRhcmdldD0nX2JsYW5rJz5Nb2JpbGUgRm9vZCBVbml0IEFwcGxpY2F0aW9uPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvdXBsb2FkL3BhZ2UvMDIxNi9kb2NzL05vaXNlIE9yZGluYW5jZSBXYWl2ZXIgUGVybWl0IFJlcXVlc3QucGRmJyB0YXJnZXQ9J19ibGFuayc+Tm9pc2UgT3JkaW5hbmNlIFdhaXZlciBQZXJtaXQ8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy91cGxvYWQvcGFnZS8wMjE2L2RvY3MvUmlkZS1BbG9uZy1BcHBsaWNhdGlvbl9maWxsYWJsZS5wZGYnIHRhcmdldD0nX2JsYW5rJz5SaWRlLUFsb25nIFByb2dyYW0gQXBwbGljYXRpb248L2E+PC9saT48L3VsPjwvbGk+PC91bD48L3VsPjwvbGk+PGxpIGNsYXNzPSJ0b3AtbGluayI+PGEgaHJlZj0iL3BhZ2UvZW1wbG95bWVudCIgcm9sZT0ibWVudWl0ZW0iIGFyaWEtaGFzcG9wdXA9ImZhbHNlIj5FbXBsb3ltZW50PC9hPjwvbGk+PGxpIGNsYXNzPSJ0b3AtbGluayBtZW51LWRyb3Bkb3duLWljb24iPjxzcGFuIHRhYmluZGV4PSIwIiByb2xlPSJtZW51aXRlbSIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtZGVzY3JpYmVkYnk9ImN5Y2xlLWhlYWRlcnMiPlJlc291cmNlczwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duIiByb2xlPSJtZW51IiBhcmlhLWxhYmVsPSJSZXNvdXJjZXMiPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0xJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxzcGFuPlJlc291cmNlcyBhbmQgTGlua3M8L3NwYW4+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvcmVzb3VyY2VzX2NvbV9pbXBfZ3JhbnRzJz5Db21tdW5pdHkgSW1wcm92ZW1lbnQgR3JhbnRzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9yZXNvdXJjZXNfRmFjaWxpdHlfUmVudGFscyc+RmFjaWxpdHkgUmVudGFsczwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvcmVzb3VyY2VzX2NtdHlfcmVzb3VyY2VzJz5Db21tdW5pdHkgSW5mb3JtYXRpb24gJiBSZXNvdXJjZXM8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3B3X3Byb2plY3RzJz5TdGF5dG9uIEltcHJvdmVtZW50IFByb2plY3RzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9yZXNvdXJjZXNfaG9tZWxlc3MnPkhvbWVsZXNzbmVzcyBJbmZvcm1hdGlvbiAmIFJlc291cmNlczwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZG9jc19pbnRlcmFjdGl2ZV9jaXR5X21hcCc+SW50ZXJhY3RpdmUgQ2l0eSBNYXA8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3Jlc291cmNlc192b2x1bnRlZXJzJz5Wb2x1bnRlZXI8L2E+PC9saT48L3VsPjwvbGk+PC91bD48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMic+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5Db21tdW5pY2F0aW9uczwvc3Bhbj48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9yZXNvdXJjZXNfbGF0ZXN0X25ld3MnPkxhdGVzdCBOZXdzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPSdodHRwczovL3d3dy5jby5tYXJpb24ub3IudXMvQ1MvZG9nc2VydmljZXMvZW5mb3JjZW1lbnQnIHRhcmdldD0nX2JsYW5rJz5Eb2cgQ29udHJvbCBDb21wbGFpbnRzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9wbGFubmluZ19jb2RlX2VuZm9yY2VtZW50Jz5Db2RlIEVuZm9yY2VtZW50ICBDb21wbGFpbnQ8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL3Jlc291cmNlc19jb21tZW50cyc+Q29udGFjdCBV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" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=CP1_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3aceece802-cb39-4409-a6c9-bfa3b2c8bf10%3aea597d4b%3bTelerik.Web.UI%3aen-US%3af00be9f9-5d75-4a4b-891e-b5c0e5b2a8e2%3a16e4e7cd%3af7645509%3a22a6274a" type="text/javascript"></script>
+<script src="/runtime/scripts/modernizr-2.8.3.min.js" type="text/javascript"></script>
+<script src="Service.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+        <script type="text/javascript" src="/runtime/scripts/handlebars-v4.7.7.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/eztemplate.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/ezscroller.js"></script>
+        <div id="topnavwrapper" class="outercontainer floatleft topnavcolor clearfix">
+            <div id="topnav" class="innercontainer clearfix  no-border no-margin">
+                
+<input type="hidden" id="hdnModifiedDate" value="06/11/2024" />
+
+<script>
+    $telerik.getViewPortSize = function () {
+        var width = 0;
+        var height = 0;
+
+        var canvas = document.body;
+
+        if ((!$telerik.quirksMode && !$telerik.isSafari) ||
+            (Telerik.Web.Browser.chrome && Telerik.Web.Browser.version >= 61)) {
+            canvas = document.documentElement;
+        }
+
+        if (window.innerWidth) {
+            // Seems there's no completely reliable way to get the viewport size in Gecko, this should be the best one
+            // Check https://bugzilla.mozilla.org/show_bug.cgi?id=189112#c7
+            width = Math.max(document.documentElement.clientWidth, document.body.clientWidth);
+            height = Math.max(document.documentElement.clientHeight, document.body.clientHeight);
+
+            if (width > window.innerWidth)
+                width = document.documentElement.clientWidth;
+            if (height > window.innerHeight)
+                height = document.documentElement.clientHeight;
+        }
+        else {
+            width = canvas.clientWidth;
+            height = canvas.clientHeight;
+        }
+
+        width += canvas.scrollLeft;
+        height += canvas.scrollTop;
+
+        if ($telerik.isMobileSafari) {
+            width += window.pageXOffset;
+            height += window.pageYOffset;
+        }
+
+        return { width: width - 6, height: height - 6 };
+    }
+</script>
+<script src="/common/scripts/ezutilities.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/misc.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/megamenu.js?v=5.11.4.0" type="text/javascript"></script>
+<script src="/runtime/scripts/ezGallery.js?v=5.11.4.0" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        var Page_Validators;        //add this variable to fix the bug
+
+        function nse_onload() {
+            
+
+            var $lightActive = $(".rltbActiveImage");
+            if ($lightActive.length > 0) {
+                $lightActive.attr("alt", "LightBox Active");
+            }
+
+            var $buttonMax = $(".rltbActionButton.rltbMaximizeButton");
+            if ($buttonMax.length > 0) {
+                $buttonMax.attr("title", "Maximize");
+                $buttonTxt = $buttonMax.find(".rltbButtonText");
+                if ($buttonTxt.length > 0) {
+                    $buttonTxt.text("Maximize");
+                }
+            }
+
+            var $login = $("#login");
+            if ($login && $login.length > 0) {
+                $("#login").click(function () {
+                    document.location.href = "/tools/Page.aspx?id=57";
+                });
+            }
+        }
+        Sys.Application.add_load(nse_onload);
+    </script>
+
+
+
+<div class="widgettable">
+    
+            <div id="CP1_CR1_WB_0" class="widgetitem vertical-align-layout" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="CP1_CR1_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:72%;">
+        <div class="widgettable">
+                
+                        <div id="CP1_CR1_ctl00_0_CR1_0_WB_0" class="widgetitem topnav" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<div><a href="/page/homepage">HOME</a> &nbsp;&middot; &nbsp;<a href="/page/resources_comments">CONTACT US</a> &nbsp;&middot; &nbsp;<a href="https://translate.google.com/translate?hl=en&amp;sl=auto&amp;tl=es&amp;u=http%3A%2F%2Fwww.staytonoregon.gov/">TRANSLATE</a></div>
+</div></div>
+                    
+        </div>
+    </div>
+
+    <div id="CP1_CR1_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:28%;">
+        <div class="widgettable">
+                
+                        <div id="CP1_CR1_ctl00_0_CR2_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><!-- This is the search box markup -->
+<div id="socialmedia">
+<a class="fa fa-facebook-f circle" aria-label="facebook" title="Facebook" href="https://www.facebook.com/CityofStayton/" target="blank"></a>
+<a class="fa fa-instagram circle" aria-label="instagram," title="Instagram" href="https://www.instagram.com/cityofstayton/" target="blank"></a>
+<a class="fa fa-youtube circle" aria-label="youtube" title="YouTube" href="https://www.youtube.com/channel/UCVALQZk-x5ZMWOCGh_fKPtg" target="blank"></a>
+</div>
+<div id="searchbox">
+  <div class="input-wrapper">
+    <input id="googleSearch" aria-label="Search Site" placeholder="Search" type="text" onkeydown="do_google_key(event)" onkeyup="do_google_keyup(event, this)" onkeypress="do_google_key(event)" />
+    <button type="submit" onclick="do_google_search(document.getElementById('googleSearch').value)"><img src="/templates/t_images/search.png" alt="Search Button Icon" aria-label="Search Button Icon" /></button>
+ </div>
+</div>
+
+<script type="text/javascript">
+    function do_google_search(v) {
+        window.open("https://www.google.com/search?q=" + v + "&sitesearch=https://www.eztask.com", "google", "");
+
+    }
+    function do_google_keyup(e, t) {
+      if (e.keyCode == 13) {
+          do_google_search(t.value);
+        e.preventDefault();
+      }
+    }
+
+    function do_google_key(e) {
+      if (e.keyCode == 13) {
+        e.preventDefault();
+      }
+    }
+</script></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="headerwrapper" class="outercontainer floatleft clearfix">
+            <div id="header" class="innercontainer mobile-center clearfix no-margin">
+                
+<div class="widgettable">
+    
+            <div id="CP2_CR2_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+
+<div class="ezlayout2">
+    <div id="CP2_CR2_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:63%;">
+        <div class="widgettable">
+                
+                        <div id="CP2_CR2_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+                        <div id="CP2_CR2_ctl00_0_CR1_0_WB_1" class="widgetitem headerlogo" style="margin-top:30px;margin-bottom:0px;"><div id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_divImage_1" class="imagesizeitLeft">
+<a href="/page/homepage" id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_aImage_1"><img src="/upload/shared/widgets/image/000041/staytonlogo5.png" id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_imgImage_1" alt="logo
+" class="Noimagesizeit" /></a>
+</div>
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="CP2_CR2_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:37%;">
+        <div class="widgettable">
+                
+                        <div id="CP2_CR2_ctl00_0_CR2_0_WB_0" class="widgetitem header-slogan" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+Gateway to the Santiam Canyon
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="menuwrapper" class="outercontainer floatleft clearfix primarycolor">
+            <div id="menu" class="innercontainer clearfix no-border">
+                
+<div class="widgettable">
+    
+            <div id="CP3_CR3_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<!-- ezcrawl-ignore-start -->
+<div class="ezMegaWrapper">
+    <div id="CP3_CR3_ctl00_0_megamenu_0" class="menu" role="application"><ul class="main" role="menubar" aria-label="mega menu"><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">City Government</span><ul class="dropdown" role="menu" aria-label="City Government"><ul class='column col-1'><li class='col-header'><span>Mayor and City Council</span><ul class='container'><li class='item'><a href='/page/gov_city_council'>Council Information, Agendas, & Minutes</a></li><li class='item'><a href='/page/state_of_the_city'>State of the City</a></li><li class='item'><a href='/page/gov_election_2024'>General Election - November 2024</a></li></ul></li></ul><ul class='column col-2'><li class='col-header'><span>Boards and Commissions</span><ul class='container'><li class='item'><a href='/page/gov_boards_commissions'>Join a Board or Commission</a></li><li class='item'><a href='/page/gov_budget_committee'>Budget Committee</a></li><li class='item'><a href='/page/gov_library_board'>Library Board</a></li><li class='item'><a href='/page/gov_parks_board'>Parks and Recreation Board</a></li><li class='item'><a href='/page/gov_planning_commission'>Planning Commission</a></li><li class='item'><a href='/page/gov_arts_commission'>Public Arts Commission</a></li></ul></li></ul><ul class='column col-3'><li class='col-header'><span>Other Government Links</span><ul class='container'><li class='item'><a href='https://www.co.marion.or.us/' target='_blank'>Marion County</a></li><li class='item'><a href='https://www.linncountyor.gov/' target='_blank'>Linn County</a></li><li class='item'><a href='https://www.oregon.gov/pages/index.aspx' target='_blank'>State of Oregon</a></li></ul></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Departments</span><ul class="dropdown" role="menu" aria-label="Departments"><ul class='column col-1'><li class='col-header'><span>Administration</span><ul class='container'><li class='item'><a href='/page/admin_administration'>Administration Home</a></li><li class='item'><a href='/page/hr_human_resources'>Human Resources</a></li><li class='item'><a href='/page/admin_directory'>Staff Directory</a></li></ul></li><li class='col-header'><span>Finance</span><ul class='container'><li class='item'><a href='/page/finance_home'>Finance Home</a></li><li class='item'><a href='/page/finance_budgets'>Annual Budget</a></li><li class='item'><a href='/page/finance_surplus_property'>Surplus Property</a></li><li class='item'><a href='/page/finance_online_forms'>Online Forms and Payments</a></li></ul></li><li class='col-header'><span>Library</span><ul class='container'><li class='item'><a href='/page/library_home'>Library Home</a></li><li class='item'><a href='/page/library_calendar'>Calendar of Library Events</a></li><li class='item'><a href='/page/library_news'>Library News</a></li><li class='item'><a href='/page/library_cards'>Library Cards</a></li></ul></li></ul><ul class='column col-2'><li class='col-header'><span>Community & Economic Development Department</span><ul class='container'><li class='item'><a href='/page/planning_home'>Community & Economic Development Home</a></li><li class='item'><a href='/page/planning_pendingdecisions'>Pending Decisions</a></li><li class='item'><a href='/page/planning_code_enforcement'>Code Enforcement Complaint Form</a></li><li class='item'><a href='/page/planning_housing_rehabilitation_program'>Housing Rehabilitation</a></li><li class='item'><a href='/page/gov_solicitor_information'>Solicitor Information</a></li></ul></li><li class='col-header'><span>Police</span><ul class='container'><li class='item'><a href='/page/police_home'>Police Home</a></li><li class='item'><a href='/page/police_nno_register'>National Night Out</a></li><li class='item'><a href='/page/event_safety_town'>Kids Safety Town</a></li><li class='item'><a href='https://communitycrimemap.com/' target='_blank'>LexisNexis Community Crime Map</a></li><li class='item'><a href='/page/police_resources'>Resources and Events</a></li><li class='item'><a href='/page/admin_public_records'>Public Records Request</a></li><li class='item'><a href='/page/police_contact'>Contact Police Department</a></li></ul></li></ul><ul class='column col-3'><li class='col-header'><span>Stayton Municipal Court</span><ul class='container'><li class='item'><a href='/page/municipal_court'>Municipal Court Home</a></li></ul></li><li class='col-header'><span>Stayton Family Memorial Pool</span><ul class='container'><li class='item'><a href='/page/pool_home'>Pool Home</a></li></ul></li><li class='col-header'><span>Public Works</span><ul class='container'><li class='item'><a href='/page/pw_home'>Public Works Home</a></li><li class='item'><a href='/page/pw_permitting'>Permitting Center</a></li><li class='item'><a href='/page/pw_Engineering'>Engineering</a></li><li class='item'><a href='/page/pw_Parks'>Parks and Recreation</a></li><li class='item'><a href='/page/pw_projects'>Public Works Projects</a></li><li class='item'><a href='/page/pw_Streets'>Street Maintenance and Construction</a></li><li class='item'><a href='/page/pw_Wastewater'>Wastewater Collections & Treatment</a></li><li class='item'><a href='/page/pw_Water'>Water Systems & Treatment</a></li></ul></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Calendars</span><ul class="dropdown" role="menu" aria-label="Calendars"><ul class='column single-col'><li class='col-header'><a href='/page/admin_calendar'>Meeting & Event Calendar</a></li><li class='col-header'><a href='/page/library_calendar'>Library Calendar</a></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Document Center</span><ul class="dropdown" role="menu" aria-label="Document Center"><ul class='column col-1'><li class='col-header'><span>Public Documents</span><ul class='container'><li class='item'><a href='/upload/page/0216/docs/Fees and Charges FY25 Exhibit A.pdf' target='_blank'>Fees and Charges Schedule</a></li><li class='item'><a href='/page/docs_espanol'>Documents en Español</a></li><li class='item'><a href='/page/docs_monthly_performance_reports'>Monthly Performance Reports</a></li><li class='item'><a href='/page/admin_public_records'>Public Record Requests</a></li><li class='item'><a href='/page/docs_rfp'>Request for Proposals</a></li><li class='item'><a href='/page/docs_newsletters'>Word on the Street Newsletter</a></li></ul></li></ul><ul class='column col-2'><li class='col-header'><span>City Documents and Plans</span><ul class='container'><li class='item'><a href='/page/docs_municipal_code'>Charter and Municipal Code</a></li><li class='item'><a href='/page/docs_resolutions'>City of Stayton Resolutions </a></li><li class='item'><a href='/page/docs_ordinances'>City of Stayton Ordinances  </a></li><li class='item'><a href='/page/planning_eco_devo_strategies'>Economic Development Plan</a></li><li class='item'><a href='/page/docs_interactive_city_map'>Interactive City Map</a></li><li class='item'><a href='/page/planning_master_plans'>Master Plans</a></li></ul></li></ul><ul class='column col-3'><li class='col-header'><span>Forms and Permits</span><ul class='container'><li class='item'><a href='/page/docs_event_permits'>Event Permits</a></li><li class='item'><a href='/page/finance_online_forms'>Finance Forms and Payments</a></li><li class='item'><a href='/upload/page/0216/docs/Mobile Food Unit Application.pdf' target='_blank'>Mobile Food Unit Application</a></li><li class='item'><a href='/upload/page/0216/docs/Noise Ordinance Waiver Permit Request.pdf' target='_blank'>Noise Ordinance Waiver Permit</a></li><li class='item'><a href='/upload/page/0216/docs/Ride-Along-Application_fillable.pdf' target='_blank'>Ride-Along Program Application</a></li></ul></li></ul></ul></li><li class="top-link"><a href="/page/employment" role="menuitem" aria-haspopup="false">Employment</a></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Resources</span><ul class="dropdown" role="menu" aria-label="Resources"><ul class='column col-1'><li class='col-header'><span>Resources and Links</span><ul class='container'><li class='item'><a href='/page/resources_com_imp_grants'>Community Improvement Grants</a></li><li class='item'><a href='/page/resources_Facility_Rentals'>Facility Rentals</a></li><li class='item'><a href='/page/resources_cmty_resources'>Community Information & Resources</a></li><li class='item'><a href='/page/pw_projects'>Stayton Improvement Projects</a></li><li class='item'><a href='/page/resources_homeless'>Homelessness Information & Resources</a></li><li class='item'><a href='/page/docs_interactive_city_map'>Interactive City Map</a></li><li class='item'><a href='/page/resources_volunteers'>Volunteer</a></li></ul></li></ul><ul class='column col-2'><li class='col-header'><span>Communications</span><ul class='container'><li class='item'><a href='/page/resources_latest_news'>Latest News</a></li><li class='item'><a href='https://www.co.marion.or.us/CS/dogservices/enforcement' target='_blank'>Dog Control Complaints</a></li><li class='item'><a href='/page/planning_code_enforcement'>Code Enforcement  Complaint</a></li><li class='item'><a href='/page/resources_comments'>Contact Us</a></li><li class='item'><a href='https://us5.list-manage.com/subscribe?u=cf2d5c8f796bd0d621ca54ea7&id=e9dde90f97'>Sign Up for Our Email List</a></li></ul></li></ul></ul></li></ul></div>
+    <div id="cycle-headers" class="sr-only">Use SPACEBAR to cycle through the dropdown menu headers</div>
+</div>
+<!-- ezcrawl-ignore-end -->
+</div>
+        
+</div>
+
+            </div>
+        </div>
+        <div id="slideshowwrapper" class="outercontainer floatleft clearfix no-margin no-border">
+            
+<div class="widgettable">
+    
+            <div id="CP5_CR5_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP5_CR5_ctl00_0_divGallery_0" style="width: 100%" class="ezrotatorwrapper delay ezgallery" role="application" aria-label="Gallery">
+    <div class="loaderwrapper ezloaderwrapper">
+        <div class="ezloaderbkg">
+            <div class="ezCSSloader"></div>
+        </div>
+    </div>
+    <div class="callbacks_container">
+    <ul id="slider730" class="callbacks">
+        
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_0" data-lazy="/upload/page/0057/widgets/gallery/000730/bridge1.jpg" data-alt="bridge"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_0" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_0" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_1" data-lazy="/upload/page/0057/widgets/gallery/000730/bridge2.jpg" data-alt="bridge"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_1" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_1" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_2" data-lazy="/upload/page/0057/widgets/gallery/000730/river1.jpg" data-alt="river"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_2" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_2" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_3" data-lazy="/upload/page/0057/widgets/gallery/000730/river2.jpg" data-alt="river"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_3" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_3" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+    </ul>
+    </div>
+    <div id="sr-notification" class="sr-only" role="alert">Active slide image alt text will be announced here</div>
+    
+        <script type="text/javascript">
+            $(function () {
+                $("#slider730").ezSlideshow ({
+                    timeout: 4000,
+                    animation: "fadeOut",
+                    maxHeight: 600,
+                    imageSize: "",
+                    auto: true,
+                    random: false,
+                    navigation: false,
+                    thumbnails: false
+                });
+            });
+
+        </script>
+    
+</div>
+</div>
+        
+</div>
+
+        </div>
+        <div id="contentwrapper" role="main" aria-label="main-content" class="outercontainer floatleft clearfix">
+            <div id="section1" class="section outercontainer floatleft clearfix  gray-section">
+                <div id="section1in" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP8_CR8_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"> <div class="stretch-btn-group">
+    <div class="ezbutton">
+    <a href="/page/gov_city_council">
+      <div><img src="/upload/common/homepageicons/ioons_agendas.png" alt="Council Agendas button"></div>
+      <span>CITY COUNCIL<BR>MEETINGS</span>
+    </a>
+    </div>
+  <div class="ezbutton">
+   <a href="/page/finance_home">
+    <div><img src="/upload/common/homepageicons/ioons_fintrans.png" alt="Financial Transparency button"></div>
+    <span>FINANCIAL<BR>TRANSPARENCY</span>
+   </a>
+  </div>
+  <div class="ezbutton">
+   <a href="/page/admin_directory">
+    <div><img src="/upload/common/homepageicons/ioons_directory.png" alt="staff directory button"></div>
+    <span>CITY STAFF<BR>DIRECTORY</span>
+   </a>
+  </div>
+  <div class="ezbutton">
+   <a href="/page/finance_online_forms">
+     <div><img src="/upload/common/homepageicons/ioons_credit.png" alt="Pay Utilities button"></div>
+     <span>UTILITY & <BR>OTHER PAYMENTS</span>
+    </a>
+  </div>
+    <div class="ezbutton">
+    <a href="/page/municipal_court">
+      <div><img src="/upload/common/homepageicons/ico_court.png" alt="Pay Court button"></div>
+      <span>MUNICIPAL <BR>COURT</span>
+    </a>
+    </div>
+    <div class="ezbutton">
+    <a href="/page/pw_Parks">
+      <div><img src="/upload/common/homepageicons/ioons_parks.png" alt="Parks and Rec button"></div>
+      <span>PARKS &<BR>RECREATION</span>
+    </a>
+    </div>
+    <div class="ezbutton">
+    <a href="/page/resources_volunteers">
+      <div><img src="/upload/common/homepageicons/ioons_alert.png" alt="Register for Alerts button"></div>
+      <span>VOLUNTEER<BR>OPPORTUNITIES</span>
+    </a>
+    </div>
+  </div></div>
+        
+</div>
+
+                  </div>   
+                </div>
+            </div>
+            <div id="section2" class="outercontainer floatleft clearfix">
+                <div id="section2in" class="section-inner innercontainer clearfix" data-aos="fade-right" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP6_CR6_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout3">
+    <div id="CP6_CR6_ctl00_0_ezCol1_0" class="ezlayout3Col1" style="width:60%;">
+            <div class="widgettable">
+                
+                        <div id="CP6_CR6_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading2underline">Welcome to Stayton!</span>
+</div></div>
+                    
+                        <div id="CP6_CR6_ctl00_0_CR1_0_WB_1" class="widgetitem" style="margin-top:20px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="LargeText">Stayton, a quaint city in Marion County, Oregon, is well-known for its beautiful surroundings, kind people, and high standard of living. This charming city, which has a population of around 8,000, is located just 16 miles southeast of Salem and offers inhabitants the benefits of both small-town and urban living. The history, economy, and natural attractions make it a great place to raise your family and a great place to do business.</span>
+</div></div>
+                    
+                        <div id="CP6_CR6_ctl00_0_CR1_0_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"></div>
+                    
+            </div>
+    </div>
+    <div id="CP6_CR6_ctl00_0_ezCol2_0" class="ezlayout3Col2" style="width:6%;">
+            <div class="widgettable">
+                
+                        <div id="CP6_CR6_ctl00_0_CR2_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP6_CR6_ctl00_0_ezCol3_0" class="ezlayout3Col3" style="width:34%;">
+            <div class="widgettable">
+                
+                        <div id="CP6_CR6_ctl00_0_CR3_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP6_CR6_ctl00_0_CR3_0_ctl00_0_divImage_0" class="imagesizeit">
+<a href="https://www.staytonoregon.gov/page/pw_projects" id="CP6_CR6_ctl00_0_CR3_0_ctl00_0_aImage_0"><img src="/upload/page/0057/widgets/image/003932/Stayton Projects Banner.png" id="CP6_CR6_ctl00_0_CR3_0_ctl00_0_imgImage_0" alt="Current and Upcoming Projects" /></a>
+</div>
+</div>
+                    
+                        <div id="CP6_CR6_ctl00_0_CR3_0_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP6_CR6_ctl00_0_CR3_0_ctl00_1_divImage_1" class="imagesizeit">
+<a href="/page/library_home" id="CP6_CR6_ctl00_0_CR3_0_ctl00_1_aImage_1"><img src="/upload/page/0057/widgets/image/000798/librarybanners.png" id="CP6_CR6_ctl00_0_CR3_0_ctl00_1_imgImage_1" alt="library graphic" /></a>
+</div>
+</div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+            <div id="CP6_CR6_WB_1" class="widgetitem" style="margin-top:60px;margin-bottom:30px;">
+<div class="eztext_area">
+<span class="Heading2underline">News &amp; Announcements</span>
+</div></div>
+        
+            <div id="CP6_CR6_WB_2" class="widgetitem" style="margin-top:30px;margin-bottom:5px;"><!-- Where the RSS Feed Will Be Rendered -->
+<div id="NewsContainer6"></div>
+<div id="newsbtns">
+  <a href="javascript:void(0)" id="prev" class="ion-arrow-left-b"></a> <a href="javascript:void(0)" id="next" class="ion-arrow-right-b"></a>
+</div>
+
+<!-- The Template for Each RSS Item -->
+<script id="NewsTemplate6" type="text/template">
+  <div class="customrss6__item">
+    <div class="customrss6__item__in">
+      <div class="customrss6__item__padding">
+        <div class="customrss6__thumbnail">
+          {{#if thumbnail}}
+          <img src="{{{thumbnail}}}" alt="Thumbnail for {{title}}" /> {{else}}
+          <img src="http://www.staytonoregon.gov/upload/common/homepageicons/newsheader.png" alt="No thumbnail found for {{title}}" /> {{/if}}
+        </div>
+        <div class="customrss6__content">
+          <div class="customrss6__title" title="{{title}}">{{title}}</div>
+          <div class="customrss6__separator"></div>
+          <div class="customrss6__description">{{descriptionText}}</div>
+          <div class="customrss6__readmore"><a href="{{{link}}}" title="Visit article">Read more</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script type="text/javascript">
+  (function() {
+    var feed = new EZTemplate("https://www.staytonoregon.gov//json/communicator/3733/8", "#NewsTemplate6", "#NewsContainer6");
+    // This code below is used to enable the scrolling rss feed
+    feed.afterRender(function($element) {
+      $element.ezScroller({
+        direction: "horizontal",
+        speed: 500,
+        timeout: 15000,
+        auto: true,
+        nextButton: $("#next"),
+        prevButton: $("#prev")
+      });
+    });
+  })();
+
+</script>
+</div>
+        
+            <div id="CP6_CR6_WB_3" class="widgetitem news-button" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1news"><a href="http://www.staytonoregon.gov/page/resources_latest_news" class="no-underline">View All News</a></span>
+</div></div>
+        
+</div>
+
+                </div>
+            </div>
+            <div id="section3" class="section outercontainer floatleft clearfix gray-section">
+                <div id="section3in" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP4_CR4_WB_0" class="widgetitem section3bkg" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div class="widgettable">
+        
+                  <div id="CP4_CR4_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout3">
+    <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_ezCol1_0" class="ezlayout3Col1" style="width:50%;">
+            <div class="widgettable">
+                
+                        <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading2">Calendar of Events</span>
+</div></div>
+                    
+                        <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_CR1_0_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="LargeText">The calendar available shows all public meetings and Stayton events across all departments and categories.&nbsp; You can click on an event to see more details. Please select SEE ALL UPCOMING EVENTS to scroll the Stayton calendar by month.&nbsp;</span>
+</div></div>
+                    
+                        <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_CR1_0_WB_2" class="widgetitem" style="margin-top:20px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1small"><a href="/page/admin_calendar">SEE ALL UPCOMING EVENTS</a></span>
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_ezCol2_0" class="ezlayout3Col2" style="width:8%;">
+            <div class="widgettable">
+                
+                        <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_CR2_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_ezCol3_0" class="ezlayout3Col3" style="width:42%;">
+            <div class="widgettable">
+                
+                        <div id="CP4_CR4_ctl00_0_CR1_0_ctl00_0_CR3_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CalendarContainer1"></div>
+
+<!-- The Template for Each RSS Item -->
+<script id="CalendarTemplate1" type="text/template">
+  <div class="customcalendar__item">
+    <div class="customcalendar__left">
+      <div class="customcalendar__date">{{date}}</div>
+      <div class="customcalendar__month">{{month}}</div>
+    </div>
+    <div class="customcalendar__right">
+      <div class="customcalendar__title"><a href="{{{link}}}">{{title}}</a></div>
+      <div class="customcalendar__time"><span class="ion-android-time"></span><span>{{time}}</span></div>
+    </div>
+  </div>
+</script>
+
+<script type="text/javascript">
+  (function() {
+    var feed = new EZTemplate("https://www.staytonoregon.gov/json/calendar/2524/5?AG=1", "#CalendarTemplate1", "#CalendarContainer1");
+  })();
+
+</script></div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+            
+    </div>
+</div>
+</div>
+        
+</div>
+
+                  </div>
+                </div>
+            </div>
+
+        </div>
+        <!--End of ContentWrapper-->
+
+        <div id="footerwrapper" class="outercontainer floatleft primarycolor">
+            <div id="footer" class="innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-in" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP7_CR7_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:0px;">
+
+<div class="ezlayout3">
+    <div id="CP7_CR7_ctl00_0_ezCol1_0" class="ezlayout3Col1" style="width:32%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:0px;"><div id="CP7_CR7_ctl00_0_CR1_0_ctl00_0_divImage_0" class="imagesizeitLeft">
+<a id="CP7_CR7_ctl00_0_CR1_0_ctl00_0_aImage_0"><img src="/upload/shared/widgets/image/000052/staytonlogo5footer.png" id="CP7_CR7_ctl00_0_CR1_0_ctl00_0_imgImage_0" alt="footer logo" /></a>
+</div>
+</div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_0_ezCol2_0" class="ezlayout3Col2" style="width:33%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_0_CR2_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_0_ezCol3_0" class="ezlayout3Col3" style="width:35%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_0_CR3_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+            <div id="CP7_CR7_WB_1" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+
+<div class="ezlayout3">
+    <div id="CP7_CR7_ctl00_1_ezCol1_1" class="ezlayout3Col1" style="width:33%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR1_1_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:5px;">
+<div class="eztext_area">
+<p><span class="Heading5">City of Stayton</span>362 N. Third Avenue<br />
+Stayton, OR 97383<br />
+(503) 769-3425<br />
+<br />
+<strong>City Hall Public Hours:</strong><br />
+8:00 a.m. to 5:00 p.m.<br />
+Monday thru Friday</p>
+<p><strong>24-Hour Non-Emergency:</strong><br />
+(503) 982-2340<br />
+Emergency Information Recorded Message<br />
+(503) 769-2489</p>
+<p><em><a href="https://www.usda.gov/sites/default/files/documents/JFAgreen508.pdf" target="_blank" style="color:#6DC11B; text-decoration: underline;"><strong>This institution is an equal opportunity provider.</strong></a></em></p>
+</div></div>
+                    
+                        <div id="CP7_CR7_ctl00_1_CR1_1_WB_1" class="widgetitem" style="margin-top:0px;margin-bottom:5px;"><span class="Heading5">Connect With Us</span>
+<div id="socialmedia"><a class="fa fa-facebook-f circle" aria-label="facebook" title="Facebook" href="https://www.facebook.com/CityofStayton/"></a>
+<a class="fa fa-instagram circle" aria-label="instagram" title="Instagram" href="https://www.instagram.com/cityofstayton/"></a>
+<a class="fa fa-youtube circle" aria-label="youtube" title="YouTube" href="https://www.youtube.com/channel/UCVALQZk-x5ZMWOCGh_fKPtg"></a>
+</div>
+<a href="/page/web-accessibility" id="login" class="ezStaffLogin" >Web Accessibility</a>
+<style>
+.ezStaffLogin {
+    font-family: "segoe UI", helvetica, san-serif;
+    color: #fff;
+    font-size: 15px;
+    background-color: #1956aa;
+    border-radius: 6px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 3px 18px;
+    margin-bottom: 10px;
+    text-decoration: none !important;
+}
+.ezStaffLogin:hover {
+    background-color: #cccccc;
+    color: #333333 !important;
+}
+.ezStaffLogin:active {
+	position:relative;
+	top:1px;
+}
+</style></div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_1_ezCol2_1" class="ezlayout3Col2" style="width:33%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR2_1_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:5px;">
+<div class="eztext_area">
+<p><span class="Heading5">Stayton Police Department</span>386 N. Third Avenue<br />
+Stayton, OR 97383<br />
+For Emergencies dial 9-1-1<br />
+(503) 982-2340 (24-hour non-emergency)<br />
+(503) 769-3423</p>
+</div></div>
+                    
+                        <div id="CP7_CR7_ctl00_1_CR2_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading5">Public Works Department<br />
+</span><strong>Building address:</strong><br />
+311 N. Third Avenue<br />
+Stayton, OR 97383<br />
+<strong>Mailing address:</strong><br />
+362 N. Third Avenue<br />
+Stayton, OR 97383<br />
+(503) 769-2919<br />
+(503) 982-2340 (24-hour non-emergency)
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_1_ezCol3_1" class="ezlayout3Col3" style="width:34%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR3_1_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading5">Community and Economic Development<br />
+</span><strong>Building address:</strong><br />
+311 N. Third Avenue<br />
+Stayton, OR 97383<br />
+<strong>Mailing address:</strong><br />
+362 N. Third Avenue<br />
+Stayton, OR 97383<br />
+(503) 769-2998
+</div></div>
+                    
+                        <div id="CP7_CR7_ctl00_1_CR3_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading5">Stayton Family Memorial Pool<br />
+</span>333 W. Burnett Street<br />
+Stayton, OR 97383<br />
+(503) 767-7665
+</div></div>
+                    
+                        <div id="CP7_CR7_ctl00_1_CR3_1_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading5">Stayton Public Library<br />
+</span>515 N. First Avenue<br />
+Stayton, OR 97383<br />
+(503) 769-3313
+</div></div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+</div>
+
+                  </div>
+            </div>
+        </div>
+
+        <div id="eztagwrapper" class="outercontainer floatleft tertiarycolor">
+            <div id="eztag" class="innercontainer clearfix">
+                <div id="eztagin" class="innercontainer clearfix floatleft">
+                    <p>Copyright &copy; Stayton, Oregon &nbsp;<span id="ezcopyright">2016</span></p>
+                </div>
+                <div id="poweredby" class="innercontainer clearfix floatleft">
+                    <p>
+                        <span class="eztask">powered by</span>
+                        <a class="eztask" title="ezTask: Exceptional websites that are affordable and easy to
+update!" href="http://www.eztask.com/" target="_blank"><strong>ezTask</strong>Titanium </a><a class="eztask"><sup>TM</sup></a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+        <div id="scrolltotop">
+            <i class="ion-chevron-up" aria-hidden="true"></i>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('CP1_RadScriptManager1_TSM');//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function do_google_search(v) {
+        window.open("https://www.google.com/search?q=" + v + "&sitesearch=https://www.staytonoregon.gov", "google", "");
+        }
+        function do_google_keyup(e, t) {
+         if (e.keyCode == 13) {
+          do_google_search(t.value);
+          e.preventDefault();
+        }
+       }
+       function do_google_key(e) {
+        if (e.keyCode == 13) {
+        e.preventDefault();
+        }
+       }
+    </script>
+    <script type="text/javascript" src="/runtime/scripts/jquery.marquee.js"></script>
+    <script type="text/javascript" src="/runtime/scripts/custom.js?t=1"></script>
+    <script type="text/javascript" src="/runtime/scripts/ezalert.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/aos.js"></script>
+        <script type="text/javascript" src="/common/scripts/ezpopup.js"></script>
+        <script type="text/javascript">
+           AOS.init({
+               disable: function() {
+                   return window.location.pathname === "/design/Editor.aspx" || ezUtilities.isMobile;
+               }
+           });
+           ezPopup.init("/page/rss/471");
+        </script>
+</body>
+
+</html>
+
+    
+    
+    
+    
+    
+    
+    

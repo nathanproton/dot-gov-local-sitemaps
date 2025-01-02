@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.ramseycounty.us/sites/all/themes/ramsey_base/ramsey_public_subtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The official website for Ramsey County government. Find information for residents and business, online services, county structure and job postings." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.ramseycounty.us/home" />
+<link rel="shortlink" href="https://www.ramseycounty.us/node/13871" />
+<meta property="og:site_name" content="Ramsey County" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.ramseycounty.us/home" />
+<meta property="og:title" content="Home | Ramsey County" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.ramseycounty.us/home" />
+<meta name="twitter:title" content="Ramsey County Online Home" />
+<meta property="article:published_time" content="2016-11-07T13:07:22-06:00" />
+<meta property="article:modified_time" content="2023-05-03T07:52:47-05:00" />
+    <title>Home | Ramsey County</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="clubot" content="noindex">
+    <meta name="page_type" content="default">
+    <meta name="language" content="English">
+    <meta name="audience" content="Residents|Visitors">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="icon" href=https://www.ramseycounty.us/sites/all/themes/ramsey_base/images/appletouchicon-152x152.jpg> 
+    <link rel='apple-touch-icon' href=https://www.ramseycounty.us/sites/all/themes/ramsey_base/images/appletouchicon-152x152.jpg>
+    <link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_ujoar0XkA0bCyIree7Tx9OhqD5gVQaNAU93CkrKFglw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_9tSZ0nPz-1H4xvY-ur8aWaAgaF4oAzsrLDvWf6KvPSU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_ZSUYMHdeLC90z2v1AIaMWZn9c5r-fvjW9E6LXr-hvC4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_XIDWGJDjMsEihm1XjaWUbLFhihiDGCkRnO-Bs4oFM7U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://customer.cludo.com/assets/10001301/10002130/cludo-search.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_Ktp2Ndy3HEpkCAuvdsbcaLfh5wzTsDDHy8CQ7qMCG7Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_zLZwhiswVzxTYskCvMMb_wwzXVs4jGpm7_deUehSqBg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_EUd78JDO5h6_W3llAD6-iKSFeAc7vV3c7nwMfBMUaIA.css" media="print" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_79P1Ul6bEQjO89V-TuPdfX6rm9qEygtuhwPq41ljMS4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.ramseycounty.us/sites/default/files/css/css_8DqQGK6Lau0h-3WBgQ0ULLF3ioKUdHT-4GvZMU8tIBo.css" media="all" />
+    <script type="text/javascript" src="https://www.ramseycounty.us/sites/all/themes/ramsey_base/js/libs/modernizr.custom.js?shk28w"></script>
+  </head>
+  <body class="
+            html front not-logged-in no-sidebars page-node page-node- page-node-13871 node-type-page page-title-home" >
+      <!--[if lt IE 7 ]><div class="ie6 lteie7 lteie8 lteie9"> <![endif]-->
+      <!--[if IE 7 ]><div class="ie7 lteie7 lteie8 lteie9"><![endif]-->
+      <!--[if IE 8 ]><div class="ie8 lteie8 lteie9 ie8-fontfix"> <![endif]-->
+      <!--[if IE 9 ]><div class="ie9 lteie9"> <![endif]-->
+      <!--[if (gt IE 9)|!(IE)]><!--><div><!--<![endif]-->
+
+          <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TV6M5F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  </div>
+        
+
+
+
+
+
+<nav class="header-languages align active-lang-en" role="navigation">
+  <ul class="links"><li class="menu-726 first"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/informaci%C3%B3n-del-condado-de-ramsey-en-espa%C3%B1ol" class="lang-es">Español    </a></li>
+<li class="menu-727"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/ramsey-county-cov-ntaub-ntawv-ua-lus-hmoob" class="lang-hmn">Hmoob</a></li>
+<li class="menu-728"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/macluumaadka-degmada-ramsey-oo-af-soomaali-ku-qoran" class="lang-so">Soomaali</a></li>
+<li class="menu-40571"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/odeeffannoo-kaawuntii-raamsey-afaan-oromoo">Oromoo</a></li>
+<li class="menu-729 last"><a href="/your-government/about-ramsey-county/karen" class="lang-kar">Karen</a></li>
+</ul></nav>
+
+
+  
+<a href="#skip-to-main-content" class="sr-only sr-only-focusable">Skip to Content</a>
+<div class="page-wrapper">
+  
+
+  
+  <div id="page-header "class="page-header pr-hide clearfix" role="banner">
+          <div class="page-header-top">
+        <div class="align">
+          <a href="/" title="Home" rel="home" id="logo" class="site-logo">Ramsey County Homepage</a>
+          
+          
+          
+          
+        <!--googleoff: all-->
+        
+
+  
+        <nav class="menu-utility" role="navigation">
+          <ul class="links clearfix nav-utility nav-inline"><li class="menu-707 first active"><a href="/" title="" class="active">Home</a></li>
+<li class="menu-708"><a href="/jobs">Jobs</a></li>
+<li class="menu-11846"><a href="/calendar">Calendar</a></li>
+<li class="menu-13166"><a href="/news-updates">News &amp; Updates</a></li>
+<li class="menu-18236"><a href="/your-government/contacts-locations">Contact Us</a></li>
+<li class="menu-11676 last active"><a href="/" id="" class="search-menu-toggle active">Search</a></li>
+</ul>        </nav>
+
+          
+        <a href="#" data-id="nav-mobile-toggle" class="nav-mobile-toggle nav-toggle btn btn-secondary" aria-expanded="false" role="button" aria-haspopup="true" aria-controls="nav-mobile-menu">Menu</a>
+        <div 
+          id="nav-mobile-menu" 
+          class="nav-mobile-menu" 
+          role="navigation"
+          data-component="tray" 
+          data-trigger-selector=".nav-mobile-toggle"
+          data-deactivate-above="1100"
+          data-body-toggle-class="show-nav-overlay"
+        >
+          <div class="tray-content" aria-hidden="true">
+            <nav id="nav-mobile" role="menu" class="mobile-nav nav-mobile menu-dropdown">
+                                <div class="region region-mobile-nav">
+            <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-702"><a href="/residents">Residents</a><ul class="menu"><li class="first leaf has-children menu-mlid-1421"><a href="/residents/assistance-support">Assistance &amp; Support</a></li>
+<li class="leaf has-children menu-mlid-35946"><a href="/residents/elections-voting">Elections &amp; Voting</a></li>
+<li class="leaf has-children menu-mlid-1761"><a href="/residents/emergency-response">Emergency Response &amp; Preparedness</a></li>
+<li class="leaf has-children menu-mlid-12626"><a href="/residents/environment">Environment</a></li>
+<li class="leaf has-children menu-mlid-1766"><a href="/residents/health-medical">Health &amp; Medical</a></li>
+<li class="leaf has-children menu-mlid-1776"><a href="/residents/libraries">Libraries</a></li>
+<li class="leaf has-children menu-mlid-1781"><a href="/residents/licenses-permits-records">Licenses, Permits &amp; Records</a></li>
+<li class="leaf has-children menu-mlid-1311"><a href="/residents/parks-recreation">Parks &amp; Recreation</a></li>
+<li class="leaf has-children menu-mlid-1791"><a href="/residents/property">Property &amp; Home</a></li>
+<li class="leaf has-children menu-mlid-1771"><a href="/residents/public-safety-law">Public Safety &amp; Law</a></li>
+<li class="leaf has-children menu-mlid-1821"><a href="/residents/recycling-waste">Recycling &amp; Waste</a></li>
+<li class="leaf has-children menu-mlid-36031"><a href="/residents/roads-transportation">Roads &amp; Transportation</a></li>
+<li class="last leaf has-children menu-mlid-20171"><a href="/residents/event-spaces">Event Spaces</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3161"><a href="/businesses">Businesses</a><ul class="menu"><li class="first leaf has-children menu-mlid-1806"><a href="/businesses/doing-business-ramsey-county">Doing Business with Ramsey County</a></li>
+<li class="leaf has-children menu-mlid-25261"><a href="/businesses/workforce-business-development">Workforce &amp; Business Development</a></li>
+<li class="leaf has-children menu-mlid-1811"><a href="/business/licenses-permits-inspections">Licenses, Permits &amp; Inspections</a></li>
+<li class="leaf has-children menu-mlid-1816"><a href="/businesses/property-development">Property &amp; Development</a></li>
+<li class="leaf has-children menu-mlid-3021"><a href="/business/recycling-waste">Recycling &amp; Waste</a></li>
+<li class="last leaf menu-mlid-33791"><a href="/businesses/transit-sales-use-tax">Transit Sales &amp; Use Tax</a></li>
+</ul></li>
+<li class="expanded menu-mlid-704"><a href="/your-government">Your Government</a><ul class="menu"><li class="first leaf has-children menu-mlid-1836"><a href="/your-government/leadership">Leadership</a></li>
+<li class="leaf has-children menu-mlid-1866"><a href="/your-government/about-ramsey-county">About Ramsey County</a></li>
+<li class="leaf has-children menu-mlid-1851"><a href="/your-government/budget-finance">Budget &amp; Finance</a></li>
+<li class="leaf has-children menu-mlid-1826"><a href="/your-government/contacts-locations">Contacts &amp; Locations</a></li>
+<li class="leaf has-children menu-mlid-1831"><a href="/your-government/departments">Departments</a></li>
+<li class="leaf has-children menu-mlid-1846"><a href="/your-government/projects-initiatives">Projects &amp; Initiatives</a></li>
+<li class="leaf has-children menu-mlid-20401"><a href="/your-government/open-government">Open Government</a></li>
+<li class="leaf has-children menu-mlid-1841"><a href="/your-government/ordinances-regulations">Ordinances &amp; Regulations</a></li>
+<li class="last leaf has-children menu-mlid-14281"><a href="/your-government/volunteer">Volunteer</a></li>
+</ul></li>
+<li class="last leaf active menu-mlid-1871"><a href="/" class="quick-links toggle-quick-links active">How do I...?</a></li>
+</ul></div>
+
+  </div>
+                             <div class="menu-utility mobile-menu-utility">
+          <ul class="links clearfix nav-utility nav-inline"><li class="menu-707 first active"><a href="/" title="" class="active">Home</a></li>
+<li class="menu-708"><a href="/jobs">Jobs</a></li>
+<li class="menu-11846"><a href="/calendar">Calendar</a></li>
+<li class="menu-13166"><a href="/news-updates">News &amp; Updates</a></li>
+<li class="menu-18236"><a href="/your-government/contacts-locations">Contact Us</a></li>
+<li class="menu-11676 last active"><a href="/" id="" class="search-menu-toggle active">Search</a></li>
+</ul>        </div>
+
+            </nav>
+          </div>
+        </div>
+        <!--googleon: all-->
+        </div>
+      </div>
+
+         
+
+
+      
+        </div>
+
+
+
+              <div
+          id="header-search"
+          class="header-search"
+          role="search"
+          data-component="tray"
+          data-trigger-selector=".search-menu-toggle"
+          data-css-animated="true"
+          data-activate-below="1100"
+          data-deactivate-above="1100"
+          data-auto-focus
+        >
+          <div class="tray-content">
+            <div class="search-inline search-lg">
+                              </div>
+          </div>
+        </div>
+      
+
+  
+
+    
+      <!--googleoff: all-->
+      <nav id="nav-main" role="navigation" class="top-nav nav-main menu-dropdown">
+                          <div class="region region-top-nav">
+            <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1 nav-main">
+  <ul class="menu"><li class="first expanded menu-mlid-702"><a href="/residents">Residents</a><ul class="menu"><li class="first leaf has-children menu-mlid-1421"><a href="/residents/assistance-support">Assistance &amp; Support</a></li>
+<li class="leaf has-children menu-mlid-35946"><a href="/residents/elections-voting">Elections &amp; Voting</a></li>
+<li class="leaf has-children menu-mlid-1761"><a href="/residents/emergency-response">Emergency Response &amp; Preparedness</a></li>
+<li class="leaf has-children menu-mlid-12626"><a href="/residents/environment">Environment</a></li>
+<li class="leaf has-children menu-mlid-1766"><a href="/residents/health-medical">Health &amp; Medical</a></li>
+<li class="leaf has-children menu-mlid-1776"><a href="/residents/libraries">Libraries</a></li>
+<li class="leaf has-children menu-mlid-1781"><a href="/residents/licenses-permits-records">Licenses, Permits &amp; Records</a></li>
+<li class="leaf has-children menu-mlid-1311"><a href="/residents/parks-recreation">Parks &amp; Recreation</a></li>
+<li class="leaf has-children menu-mlid-1791"><a href="/residents/property">Property &amp; Home</a></li>
+<li class="leaf has-children menu-mlid-1771"><a href="/residents/public-safety-law">Public Safety &amp; Law</a></li>
+<li class="leaf has-children menu-mlid-1821"><a href="/residents/recycling-waste">Recycling &amp; Waste</a></li>
+<li class="leaf has-children menu-mlid-36031"><a href="/residents/roads-transportation">Roads &amp; Transportation</a></li>
+<li class="last leaf has-children menu-mlid-20171"><a href="/residents/event-spaces">Event Spaces</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3161"><a href="/businesses">Businesses</a><ul class="menu"><li class="first leaf has-children menu-mlid-1806"><a href="/businesses/doing-business-ramsey-county">Doing Business with Ramsey County</a></li>
+<li class="leaf has-children menu-mlid-25261"><a href="/businesses/workforce-business-development">Workforce &amp; Business Development</a></li>
+<li class="leaf has-children menu-mlid-1811"><a href="/business/licenses-permits-inspections">Licenses, Permits &amp; Inspections</a></li>
+<li class="leaf has-children menu-mlid-1816"><a href="/businesses/property-development">Property &amp; Development</a></li>
+<li class="leaf has-children menu-mlid-3021"><a href="/business/recycling-waste">Recycling &amp; Waste</a></li>
+<li class="last leaf menu-mlid-33791"><a href="/businesses/transit-sales-use-tax">Transit Sales &amp; Use Tax</a></li>
+</ul></li>
+<li class="expanded menu-mlid-704"><a href="/your-government">Your Government</a><ul class="menu"><li class="first leaf has-children menu-mlid-1836"><a href="/your-government/leadership">Leadership</a></li>
+<li class="leaf has-children menu-mlid-1866"><a href="/your-government/about-ramsey-county">About Ramsey County</a></li>
+<li class="leaf has-children menu-mlid-1851"><a href="/your-government/budget-finance">Budget &amp; Finance</a></li>
+<li class="leaf has-children menu-mlid-1826"><a href="/your-government/contacts-locations">Contacts &amp; Locations</a></li>
+<li class="leaf has-children menu-mlid-1831"><a href="/your-government/departments">Departments</a></li>
+<li class="leaf has-children menu-mlid-1846"><a href="/your-government/projects-initiatives">Projects &amp; Initiatives</a></li>
+<li class="leaf has-children menu-mlid-20401"><a href="/your-government/open-government">Open Government</a></li>
+<li class="leaf has-children menu-mlid-1841"><a href="/your-government/ordinances-regulations">Ordinances &amp; Regulations</a></li>
+<li class="last leaf has-children menu-mlid-14281"><a href="/your-government/volunteer">Volunteer</a></li>
+</ul></li>
+<li class="last leaf active menu-mlid-1871"><a href="/" class="quick-links toggle-quick-links active">How do I...?</a></li>
+</ul></div>
+
+  </div>
+                </nav>
+      <!--googleon: all-->
+  
+
+
+
+
+
+
+
+  
+    <div id="page-main" class="page-main">
+      
+
+  
+    <!--googleoff: all-->
+    <div class="breadcrumb-container">
+      <div class="align">
+              </div>
+    </div>
+    <!--googleon: all-->
+
+
+
+
+
+ 
+    <div id="content-main" class="content-main">
+
+ 
+    
+      
+    
+    
+    
+    
+ 
+          <main role="main" class="" lang="en">
+          <a id="skip-to-main-content" name="skip-to-main-content" class="sr-only sr-only-focusable" tabindex="-1"></a>
+          
+    <div id="block-system-main" class="block block-system block-odd first last clearfix">
+        <div class="home home" >
+	<h1 class="sr-only">Home page</h1>
+	
+	<div class="banner">
+		
+			<div class="banner-image">
+				<div class="panel-pane pane-fieldable-panels-pane pane-current-23341 pane-bundle-image"  >
+  
+      
+  
+  <div class="pane-content">
+    
+
+	
+<span class="fpp-image image-align- fieldable-panels-pane" 1 >
+	<img typeof="foaf:Image" src="https://www.ramseycounty.us/sites/default/files/Homepage/LandmarkCenter_1400x400_0.jpg" alt="Landmark Center, a building with a clock tower.">
+	<div class="fpp-image-caption">
+			</div>
+</span>
+
+  </div>
+
+  
+  </div>
+			</div>
+
+			<div class="banner-search" role="search">
+				<div class="search-inline search-lg">
+					<form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div>                <form id="search-block-form" accept-charset="UTF-8">
+                  <div>
+                    <div class="container-inline">
+                      <div class="form-item form-type-textfield form-item-search-block-form">
+                        <label for="edit-search-block-form--2">What are you looking for? </label>
+                        <input title="Enter the terms you wish to search for." class="form-text" autocomplete="off" placeholder="What are you looking for?" type="text" id="edit-search-block-form--2" name="search_block_form" value="" maxlength="128" aria-autocomplete="list" aria-haspopup="true">
+                      </div>
+                      <div class="form-actions form-wrapper" id="edit-actions">
+                        <input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit">
+                      </div>
+                    </div>
+                  </div>
+                </form>
+</div></form>				</div>
+			</div>
+	
+	</div>
+
+	<div class="section content-featured list-carrot list-stacked" role="complementary">
+		<div class="align">
+			<div class="col-4">
+				<div class="col span-2 md-span-4">
+					<div class="panel-pane pane-fieldable-panels-pane pane-fpid-23346 pane-bundle-rich-text"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-cw-widget-rich-text field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><h2>Popular Topics</h2>
+<p>What residents and visitors are searching for most.</p>
+</div>
+      </div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+				</div>
+				<div class="col md-span-2 sm-span-4">
+					<div class="panel-pane pane-fieldable-panels-pane pane-fpid-23351 pane-bundle-rich-text"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-cw-widget-rich-text field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><ul class="list-caret">
+<li><a href="/residents/assistance-support/protection-crisis-resources">Help in a crisis</a></li>
+<li><a href="/your-government/contacts-locations/ramsey-county-service-centers">Service Centers</a></li>
+<li><a href="/residents/health-medical/coronavirus-2019-information">COVID-19 information</a></li>
+<li><a href="/residents/parks-recreation">Parks and recreation</a></li>
+</ul>
+</div>
+      </div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+				</div>
+				<div class="col md-span-2 sm-span-4 lg-pull-left">
+					<div class="panel-pane pane-fieldable-panels-pane pane-fpid-23356 pane-bundle-rich-text"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-cw-widget-rich-text field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><ul class="list-caret">
+<li><a href="/your-government/leadership/board-commissioners/board-meetings-information">Board meetings and info</a></li>
+<li><a href="/your-government/open-government/public-notices">Information security notice</a></li>
+<li><a href="/your-government/leadership/sheriffs-office/sheriffs-office-divisions/detention-services/adult-detention-center-jail">Adult Detention Center (Jail)</a></li>
+<li><a href="http://www.mncourts.gov/Find-Courts/ramsey.aspx" target="_blank">District Court</a></li>
+</ul>
+</div>
+      </div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="section content-main">
+		<div class="align">
+			<div class="col-2">
+				<div class="col sm-span-2">
+					<div class="panel-pane pane-fieldable-panels-pane pane-fpid-23361 pane-bundle-news-callout"  >
+  
+      
+  
+  <div class="pane-content">
+    
+
+      
+
+<div class="news-callout  fieldable-panels-pane" 5 >
+	
+	
+	<h2>
+		News &amp; Updates	</h2>
+
+
+	
+
+
+	<div class="news-callout-content ">
+		<div id="node-43901" class="news-callout-excerpt node node-news-article-or-update node-teaser">
+
+<div class="col-12">
+
+	<div class="col span-4">
+		<div class="news-image">
+
+			<a href="/content/deer-management-hunts-start-oct-21-across-seven-ramsey-county-parks-and-open-spaces"><img typeof="foaf:Image" itemprop="image" src="https://www.ramseycounty.us/sites/default/files/styles/teaser_thumb_300x300/public/rc-news-placeholder.png?itok=W6t4mYGI" alt="" /></a>
+		</div>
+	</div>
+
+	<div class="col span-7">
+	
+		<div class="news-title">
+
+			<a href='/content/deer-management-hunts-start-oct-21-across-seven-ramsey-county-parks-and-open-spaces'>Deer management hunts start Oct. 21 across seven Ramsey County parks and open spaces</a>
+		</div>
+		<div class="news-excerpt">
+			<p>Daylong hunts will be conducted at seven park and trail locations on select dates in October, November, and December. During the hunts, entire parks or portions of parks will be closed.</p>
+		</div>
+	</div>
+</div>
+
+</div> <!-- /node-->
+
+
+<div id="node-43896" class="news-callout-excerpt node node-news-article-or-update node-teaser">
+
+<div class="col-12">
+
+	<div class="col span-4">
+		<div class="news-image">
+
+			<a href="/content/2025-supplemental-budget-and-performance-measures-submitted-county-board"><img typeof="foaf:Image" itemprop="image" src="https://www.ramseycounty.us/sites/default/files/styles/teaser_thumb_300x300/public/Budget%20and%20Finance/Updated-Calculator.jpg?itok=_9S_OzGe" alt="" /></a>
+		</div>
+	</div>
+
+	<div class="col span-7">
+	
+		<div class="news-title">
+
+			<a href='/content/2025-supplemental-budget-and-performance-measures-submitted-county-board'>2025 supplemental budget and performance measures submitted to county board</a>
+		</div>
+		<div class="news-excerpt">
+			<p>Ramsey County Manager Johanna Berg and incoming County Manager Ling Becker provided the Board of Commissioners the proposed 2025 supplemental county budget of $848.5 million.</p>
+		</div>
+	</div>
+</div>
+
+</div> <!-- /node-->
+
+
+<div id="node-43886" class="news-callout-excerpt node node-news-article-or-update node-teaser">
+
+<div class="col-12">
+
+	<div class="col span-4">
+		<div class="news-image">
+
+			<a href="/content/help-your-community-reduce-reuse-and-recycle-recycling-ambassador"><img typeof="foaf:Image" itemprop="image" src="https://www.ramseycounty.us/sites/default/files/styles/teaser_thumb_300x300/public/rc-news-placeholder.png?itok=W6t4mYGI" alt="" /></a>
+		</div>
+	</div>
+
+	<div class="col span-7">
+	
+		<div class="news-title">
+
+			<a href='/content/help-your-community-reduce-reuse-and-recycle-recycling-ambassador'>Help your community reduce, reuse and recycle as a Recycling Ambassador</a>
+		</div>
+		<div class="news-excerpt">
+			<p>Registration for the next Ramsey County Recycling Ambassador Program training is now open!</p>
+		</div>
+	</div>
+</div>
+
+</div> <!-- /node-->
+
+
+<a href='/news-updates'class='news-callout-view-all'>View All News & Updates</a>
+		<span class="btn btn-subscribe">
+					</span>	
+
+	</div>
+</div>
+
+
+  </div>
+
+  
+  </div>
+				</div>
+				<div class="col sm-span-2">
+					<div class="panel-pane pane-fieldable-panels-pane pane-fpid-23366 pane-bundle-events-callout"  >
+  
+      
+  
+  <div class="pane-content">
+    
+
+      
+
+<div class="events-callout  fieldable-panels-pane" 6 >
+	
+	
+	<h2>
+		Meetings &amp; Events	</h2>
+
+
+	
+	<div class="events-callout-content ">
+		
+<div id="node-43601" class="events-callout-excerpt node node-calendar-event node-teaser">
+
+  <div class="col-12">
+    <div class="col span-2">
+      <div class="date-card">
+        <div class="date-card-month">
+          Sep        </div>
+        <div class="date-card-day">
+          10        </div>
+      </div>
+
+    </div>
+
+    <div class="col span-9">
+
+      <div class="events-title col-4">
+        <div class="col span-3">
+          <a href="/content/local-brownfield-funding-redevelopment-minnesota-fall-2024">Local brownfield funding for redevelopment in Minnesota- Fall 2024</a>
+        </div>
+                  <div class="col span-1">
+            <span class="virtual-event">Virtual option</span>
+          </div>
+              </div>
+
+      <div class="events-excerpt">
+        <div class="field field-name-field-cal-excerpt field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><p>Opportunity to learn about local public grants and loans that help pay the cost of cleaning up contaminated sites.</p>
+</div>
+      </div>
+</div>
+      </div>
+
+      <div class="col-2 events-detials">
+        <div class="col">
+          <div class="label-sm">Time</div>
+          2:15 - 4 p.m. (North Saint Paul City Hall)        </div>
+          <div class="col">
+            <div class="label-sm">Location</div>
+            see below          </div>
+      </div>
+
+    </div>
+  </div>
+
+</div> <!-- /node-->
+
+<div id="node-41816" class="events-callout-excerpt node node-calendar-event node-teaser">
+
+  <div class="col-12">
+    <div class="col span-2">
+      <div class="date-card">
+        <div class="date-card-month">
+          Sep        </div>
+        <div class="date-card-day">
+          2        </div>
+      </div>
+
+    </div>
+
+    <div class="col span-9">
+
+      <div class="events-title col-4">
+        <div class="col span-3">
+          <a href="/content/labor-day-holiday-0">Labor Day - Holiday</a>
+        </div>
+              </div>
+
+      <div class="events-excerpt">
+        <div class="field field-name-field-cal-excerpt field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><p>Ramsey County offices and libraries are closed on Labor Day and other <a href="/your-government/contacts-locations/county-holidays">holidays</a>.</p>
+</div>
+      </div>
+</div>
+      </div>
+
+      <div class="col-2 events-detials">
+        <div class="col">
+          <div class="label-sm">Time</div>
+          All day        </div>
+          <div class="col">
+            <div class="label-sm">Location</div>
+            County offices and libraries          </div>
+      </div>
+
+    </div>
+  </div>
+
+</div> <!-- /node-->
+
+<div id="node-43806" class="events-callout-excerpt node node-calendar-event node-teaser">
+
+  <div class="col-12">
+    <div class="col span-2">
+      <div class="date-card">
+        <div class="date-card-month">
+          Sep        </div>
+        <div class="date-card-day">
+          5        </div>
+      </div>
+
+    </div>
+
+    <div class="col span-9">
+
+      <div class="events-title col-4">
+        <div class="col span-3">
+          <a href="/content/ceo-next-business-institute-information-session-ridgedale-library-0">CEO Next Business Institute - Information Session (Ridgedale Library)</a>
+        </div>
+              </div>
+
+      <div class="events-excerpt">
+        <div class="field field-name-field-cal-excerpt field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><p>Learn about CEO Next Business Institute and how you can help grow your business!</p>
+</div>
+      </div>
+</div>
+      </div>
+
+      <div class="col-2 events-detials">
+        <div class="col">
+          <div class="label-sm">Time</div>
+          9:00 a.m.        </div>
+          <div class="col">
+            <div class="label-sm">Location</div>
+            Ridgedale Library          </div>
+      </div>
+
+    </div>
+  </div>
+
+</div> <!-- /node-->
+
+		<div class="events-view-all">
+				<a href="https://www.ramseycounty.us/calendar">View All Meetings &amp; Events</a>		</div>
+
+
+	</div>
+</div>
+
+
+  </div>
+
+  
+  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+</div> <!-- /block-inner /block -->
+
+                </main>
+            </div>
+  </div>
+
+
+ 
+  <div 
+    id="quick-links-menu" 
+    class="quick-links-menu" 
+    data-component="tray" 
+    data-trigger-selector=".toggle-quick-links"
+    data-trigger-role="button"
+    data-body-toggle-class="show-nav-overlay"
+    data-css-animated="true"
+    data-toggle-trays
+    data-auto-focus
+  >
+    <div class="tray-content" aria-hidden="true">
+              
+          <div class="region region-quick-links">
+    <div id="block-block-21" class="block block-block block-odd first last clearfix">
+        <h2 class="block-title">How do I...?</h2>
+      <h3>Get help</h3>
+<ul>
+<li><a href="/residents/assistance-support/protection-crisis-resources">Resources for users in crisis</a></li>
+</ul>
+<h3>Apply</h3>
+<ul>
+<li><a href="/residents/licenses-permits-records/marriage-licenses-records">Marriage license</a></li>
+<li><a href="/your-government/leadership/sheriffs-office/sheriffs-office-divisions/administration/gun-permit-information">Gun permits</a></li>
+<li><a href="/your-government/volunteer">Volunteer</a></li>
+<li><a href="/jobs">Jobs</a></li>
+</ul>
+<h3>Find</h3>
+<ul>
+<li><a href="/your-government/contacts-locations/ramsey-county-service-centers">Service Centers</a></li>
+<li><a href="https://beacon.schneidercorp.com/application.aspx?app=RamseyCountyMN&amp;PageType=Search" target="_blank">Property values and taxes</a></li>
+<li><a href="/your-government/leadership">Elected officials</a></li>
+<li><a href="/your-government/open-government/open-data-portal">Open data</a></li>
+<li><a href="/residents/parks-recreation/parks-trails/find-park">Park locations</a></li>
+<li><a href="/residents/event-spaces">Event spaces</a></li>
+</ul>
+<h3>File</h3>
+<ul>
+<li><a href="/residents/property-home/taxes-values/homestead">Homestead</a></li>
+<li><a href="/residents/property/recorders-office">Land records</a></li>
+</ul>
+<h3>Pay</h3>
+<ul>
+<li><a href="/residents/property/taxes/pay-property-tax">Property tax</a></li>
+<li><a href="/businesses/transit-sales-use-tax">Transit sales and use tax</a></li>
+</ul>
+<h3>Report</h3>
+<ul>
+<li><a href="/residents/roads-transit/report-problem-0">Pothole, road issue</a></li>
+<li><a href="https://www.health.state.mn.us/diseases/foodborne/reporting.html" target="_blank">Foodborne illness</a></li>
+<li><a href="/residents/environment/stormwater-management/illicit-discharge/report-illicit-discharge">Water pollution</a></li>
+</ul>
+</div> <!-- /block-inner /block -->
+  </div>
+        <a href="#" class="close toggle-quick-links"> Close <span class="sr-only">quick links</span> </a>
+          </div>
+  </div>
+
+
+ 
+  <footer id="page-footer" class="page-footer pr-hide">
+      <div class="page-footer-top text-inverse">
+          <div class="align">
+
+            <div class="col-12">
+              <div class="col sm-span-12 md-span-4 span-5">
+                                    <div class="region region-footer">
+    <div id="block-block-1" class="block block-block block-odd first last clearfix">
+        <h3>
+Connect with Ramsey County</h3>
+<p><em>A county of excellence working with you to enhance our quality of life.</em></p>
+</div> <!-- /block-inner /block -->
+  </div>
+                              </div>
+                
+
+              <div class="col sm-span-12 md-span-8 span-7">
+
+
+                  <!--googleoff: all-->
+                <nav class="icons-social menu-icons" role="navigation">
+
+                  <ul id="nav-social" class="links clearfix nav-social nav-inline"><li class="menu-718 first"><a href="//www.facebook.com/RamseyCountyMinnesota" target="_blank">Facebook</a></li>
+<li class="menu-719"><a href="//twitter.com/ramseycounty" target="_blank">Twitter</a></li>
+<li class="menu-721"><a href="//www.linkedin.com/company/ramsey-county" target="_blank">LinkedIn</a></li>
+<li class="menu-722"><a href="//www.youtube.com/user/RamseyCountyMN" target="_blank">YouTube</a></li>
+<li class="menu-720"><a href="https://www.flickr.com/photos/ramseycountymn/collections" target="_blank">Flickr</a></li>
+<li class="menu-33741"><a href="http://www.instagram.com/ramseycountymn" target="_blank">Instagram</a></li>
+<li class="menu-20121 last"><a href="/your-government/open-government/email-updates" target="_self">Subscribe</a></li>
+</ul>                 
+                  
+                              
+                </nav>
+                  <!--googleon: all-->
+              </div>
+            </div>
+          </div>
+      </div>
+    <div class="align">
+
+    <!--googleoff: all-->
+    <div class="menu-footer">
+        <div class="col-2">
+            <div class="col" role="contentinfo">
+                <nav role="navigation">
+                    <ul id="nav-footer" class="links clearfix nav-footer nav-inline"><li class="menu-714 first"><a href="/privacy">Terms Of Use</a></li>
+<li class="menu-715"><a href="/your-government/contacts-locations?type=service&amp;keys=">Contact Us</a></li>
+<li class="menu-13516"><a href="/employees">For Employees</a></li>
+<li class="menu-40486 last"><a href="/website-accessibility-statement">Web Accessibility</a></li>
+</ul>                </nav>
+            </div>
+            <nav class="col footer-languages active-lang-en" role="navigation">
+                <ul id="nav-language" class="links clearfix nav-language nav-inline nav-pill"><li class="menu-726 first"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/informaci%C3%B3n-del-condado-de-ramsey-en-espa%C3%B1ol" class="lang-es">Español    </a></li>
+<li class="menu-727"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/ramsey-county-cov-ntaub-ntawv-ua-lus-hmoob" class="lang-hmn">Hmoob</a></li>
+<li class="menu-728"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/macluumaadka-degmada-ramsey-oo-af-soomaali-ku-qoran" class="lang-so">Soomaali</a></li>
+<li class="menu-40571"><a href="https://www.ramseycounty.us/your-government/about-ramsey-county/odeeffannoo-kaawuntii-raamsey-afaan-oromoo">Oromoo</a></li>
+<li class="menu-729 last"><a href="/your-government/about-ramsey-county/karen" class="lang-kar">Karen</a></li>
+</ul>            </nav>
+        </div>
+
+
+        <div class="col-2 copyright">
+            <div class="col">
+                <p>
+                    &copy; 2024 - RAMSEY COUNTY
+                </p>
+            </div>
+            <div class="col">
+                <a href="#" class="back-to-top"> Back To Top</a>
+            </div>
+        </div>
+
+    </div>
+    <!--googleon: all-->
+
+      </div> 
+  </div>
+</footer>
+
+          <div id="nav-overlay" class="nav-overlay"></div>
+
+        <script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_ZokGFps8O5_ofMasSVyAQV2RC2Ntl3EtfhefHKSMpn8.js"></script>
+<script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_mOx0WHl6cNZI0fqrVldT0Ay6Zv7VRFDm9LexZoNN_NI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute=true;jQuery.migrateTrace=false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery-migrate/1.4.1/jquery-migrate.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_GOikDsJOX04Aww72M-XK1hkq4qiL_1XgGsRdkL0XlDo.js"></script>
+<script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_Tx_bxXug_ufqFdByzQ7vHSLVpLJ21YFLknMw9XjfM9s.js"></script>
+<script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_rGU-BtQxn26qZ9AEldi4xWAE2EBQwDnGCig-MSfqyvw.js"></script>
+<script type="text/javascript" src="https://www.ramseycounty.us/sites/default/files/js/js_gqVQCbBurFmIgSFMLzKf6Wt45MFbgbkVveaFrAGjQHQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ramsey_public_subtheme","theme_token":"0gYwyc9Tii9OHbusVlEX2ooG8Rt87bJc44_tZlDO6JM","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"0":1,"\/\/code.jquery.com\/jquery-migrate-1.4.1.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.datepicker-1.13.0-backport.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/easychart\/js\/easychart.overlay.js":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/all\/modules\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/themes\/ramsey_base\/components\/exposed-filters\/jquery.deserialize.min.js":1,"sites\/all\/themes\/ramsey_base\/js\/libs\/jquery.smart_resize.min.js":1,"sites\/all\/themes\/ramsey_base\/components\/jquery-create-plugin\/jquery.create_plugin.js":1,"sites\/all\/themes\/ramsey_base\/components\/content-expanders\/content-expanders.js":1,"sites\/all\/themes\/ramsey_base\/components\/tray\/tray.js":1,"sites\/all\/themes\/ramsey_base\/components\/az-filter\/az-filter.jquery.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/themes\/ramsey_base\/components\/exposed-filters\/exposed-filters.js":1,"sites\/all\/themes\/ramsey_base\/components\/tabs\/tabs.js":1,"sites\/all\/themes\/ramsey_base\/js\/plugins.js":1,"sites\/all\/themes\/ramsey_base\/js\/scripts.js":1,"sites\/all\/themes\/ramsey_base\/js\/libs\/jquery.fancy_forms.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor_lts\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/themes\/ramsey_base\/components\/content-expanders\/content-expanders.css":1,"sites\/all\/themes\/ramsey_base\/components\/hero\/hero.css":1,"sites\/all\/themes\/ramsey_base\/components\/important-information\/important-information.css":1,"sites\/all\/themes\/ramsey_base\/components\/exposed-filters\/exposed-filters.css":1,"sites\/all\/themes\/ramsey_base\/components\/calendar\/calendar.css":1,"sites\/all\/themes\/ramsey_base\/components\/tray\/tray.css":1,"sites\/all\/themes\/ramsey_base\/components\/az-filter\/az-filter.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/ramsey_base\/components\/image\/image-component.css":1,"sites\/all\/themes\/ramsey_base\/components\/news-callout\/news-callout.css":1,"sites\/all\/themes\/ramsey_base\/components\/events-callout\/events-callout.css":1,"sites\/all\/themes\/ramsey_base\/components\/site-search\/cludo-search.css":1,"https:\/\/customer.cludo.com\/assets\/10001301\/10002130\/cludo-search.min.css":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery.ui.core.min.css":1,"sites\/all\/themes\/ramsey_base\/components\/tabs\/tabs.css":1,"sites\/all\/themes\/ramsey_base\/css\/normalize.css":1,"sites\/all\/themes\/ramsey_base\/css\/cw.css":1,"sites\/all\/themes\/ramsey_base\/css\/fonts.css":1,"sites\/all\/themes\/ramsey_base\/css\/jquery.fancy_forms.css":1,"sites\/all\/themes\/ramsey_base\/css\/styles.css":1,"sites\/all\/themes\/ramsey_base\/css\/buttons.css":1,"sites\/all\/themes\/ramsey_base\/css\/media.css":1,"sites\/all\/themes\/ramsey_base\/css\/autocomplete.css":1,"sites\/all\/themes\/ramsey_base\/css\/admin.css":1,"sites\/all\/themes\/ramsey_base\/css\/search.css":1,"sites\/all\/themes\/ramsey_base\/css\/panelizer.css":1,"sites\/all\/themes\/ramsey_base\/css\/print.css":1,"sites\/all\/themes\/ramsey_base\/css\/ie8.css":1,"sites\/all\/themes\/ramsey_base\/components\/forms\/forms.css":1}},"urlIsAjaxTrusted":{"\/":true},"responsive_dropdown_menus":{"devel":"Development","features":"Features","menu-footer-menu":"Footer Menu","menu-information-and-notices":"Information and Notices","menu-language-menu":"Language Menu","main-menu":"Main menu","management":"Management","menu-microsite-footer":"Microsite Footer","microsite-38726":"Microsite: Carrie Test page","microsite-41876":"Microsite: Climate Action","microsite-38616":"Microsite: Clone of Emergency Communications","microsite-41861":"Microsite: Countywide Strategic Priorities","microsite-37781":"Microsite: Emergency Communications","microsite-38621":"Microsite: Enhancing Environmental Health Services","microsite-39231":"Microsite: Food Security","microsite-37011":"Microsite: Investment \u0026 Support Efforts","microsite-39486":"Microsite: Ramsey Brand","microsite-39541":"Microsite: Rice Creek Commons","microsite-35131":"Microsite: Strategic Priorities for a Vibrant Community","microsite-38731":"Microsite: Symone Test Page","microsite-37091":"Microsite: Work with Us","navigation":"Navigation","menu-social-menu":"Social Menu","menu-social-menu-county-attorney":"Social Menu: County Attorney","menu-social-menu-sheriff":"Social Menu: Sheriff","user-menu":"User menu","menu-utility-menu":"Utility Menu"},"stanford_date_timepicker":{"classes":"","default_date_format":"mm\/dd\/yyyy","default_time_format":"h:mm p","default_separator":" "}});
+//--><!]]>
+</script>
+                <!-- ======================= -->
+<!-- CLUDO SETTINGS TEMPLATE -->
+<!-- vvvvvvvvvvvvvvvvvvvvvvv -->
+<script type="text/javascript" src="https://customer.cludo.com/scripts/bundles/search-script.js"></script>
+<script>
+    var cludo_engineId = 10002130; //Engine ID
+    var cludo_language = 'en'; //Language
+    var cludo_searchUrl = '/search'; //Must point to search results page URL
+</script>
+<script type="text/javascript" src="https://customer.cludo.com/assets/10001301/10002130/cludo-search.js"></script>
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^ -->
+<!-- CLUDO SETTINGS TEMPLATE -->
+<!-- ======================= -->
+
+  </body>
+</html>
+

@@ -1,0 +1,1267 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="/runtime/images/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/runtime/styles/aos.css?v=11" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/common/styles/ezpopup.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/main.css?v=5.5.2018" type="text/css" media="screen" />
+    
+    <title>City of Big Sandy, Texas</title>
+
+    <link rel="stylesheet" href="/runtime/styles/normalize.min.css" />
+    <link rel="stylesheet" href="/runtime/styles/layout.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/ionicons.min.css" />
+    <link type="text/css" rel="stylesheet" href="/runtime/styles/eztabs.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/skins/Menu/Menu.ezSilk.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/skins/PanelBar/PanelBar.ezMetro.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/skins/DropDownList/DropDownList.ezMetro.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezGallery.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezrss.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarfeed.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarControl.css?v=5.14.3.7" media="screen" />
+
+    <link rel="stylesheet" href="/runtime/styles/custom.css" />
+    
+
+
+</head>
+
+<body class="show-alert">
+    <a id="skip-navigation" href="#contentwrapper" tab-index="0" alt="Press enter to skip the Navigation" title="Press enter to skip to the Navigation">Skip Navigation</a>
+    <form method="post" action="./" id="nseForm">
+<input type="hidden" name="ContentPlaceHolder1_RadScriptManager1_TSM" id="ContentPlaceHolder1_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MjAwNDE0MjAPZBYCZg9kFgQCAw9kFhACAQ9kFhoCAQ8UKwACPCsABAEADxYCHgdWaXNpYmxlaGRkZAICDxQrAAQPFgQfAGgeDkxvYWRpbmdQYW5lbElEBTdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX0RvY3VtZW50TGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHgRTa2luBQdEZWZhdWx0ZGQCAw8UKwAEDxYEHwBoHwEFN2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfQ2FsZW5kYXJMaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAgQPFCsABA8WBB8AaB8BBTZjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX0NvbmZpcm1MaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAgUPFCsABA8WBB8AaB8BBThjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1NlbmRFbWFpbExpZ2h0Qm94X0xvYWRpbmdQYW5lbGQUKwADZGQ8KwAFABAWAWYWARQrAAFkDxYBZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRMaWdodEJveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjEuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAAWAgIBDw8WAh8CBQdEZWZhdWx0ZGQCBg8WAh8AaGQCBw8WAh8AaGQCCA8WAh8AaGQCCQ8WAh8AaGQCCg8WAh8AaGQCDA8WAh8AaBYCZg8UKwAEDxYCHwEFO2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfU3Vic2NyaXB0aW9uTGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHwIFB0RlZmF1bHRkZAINDw8WAh8AaGQWBGYPFgIfAGhkAgIPFgIfAGhkAg4PFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgQeBWNsYXNzBSB3aWRnZXRpdGVtIHZlcnRpY2FsLWFsaWduLWxheW91dB4Fc3R5bGUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWBAIBDxYCHwUFCndpZHRoOjcyJTsWAgIBDxYCHwMCARYCZg9kFgICAQ8WBB8EBRF3aWRnZXRpdGVtIHRvcG5hdh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgMPFgIfBQUKd2lkdGg6MjglOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAw9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7FgJmD2QWAmYPZBYEAgEPFgIfBQUKd2lkdGg6NjMlOxYCAgEPFgIfAwICFgRmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206MHB4O2QCAQ9kFgICAQ8WBB8EBRV3aWRnZXRpdGVtIGhlYWRlcmxvZ28fBQUibWFyZ2luLXRvcDozMHB4O21hcmdpbi1ib3R0b206MHB4OxYCZg9kFgJmD2QWAmYPFgIfBAUPaW1hZ2VzaXplaXRMZWZ0FgICAQ8WAh4EaHJlZgUOL3BhZ2UvaG9tZXBhZ2VkAgMPFgIfBQUKd2lkdGg6MzclOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYEHwQFGHdpZGdldGl0ZW0gaGVhZGVyLXNsb2dhbh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgUPZBYCAgEPFgIfAwIBFgJmD2QWAgIBDxYEHwQFE3dpZGdldGl0ZW0gZmxvYXRuYXYfBQUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7FgJmD2QWAmYPZBYGAgEPFCsAAhQrAAIPFg4eFUVuYWJsZUVtYmVkZGVkU2NyaXB0c2ceElJlc29sdmVkUmVuZGVyTW9kZQspclRlbGVyaWsuV2ViLlVJLlJlbmRlck1vZGUsIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjEuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNAIfAgUGZXpTaWxrHhxFbmFibGVFbWJlZGRlZEJhc2VTdHlsZXNoZWV0Zx4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoHhNFbmFibGVFbWJlZGRlZFNraW5zaB4ERmxvdwspcFRlbGVyaWsuV2ViLlVJLkl0ZW1GbG93LCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQBZBAWBWYCAQICAgMCBBYFFCsAAg8WBB4EVGV4dAUIT3VyIENpdHkeC05hdmlnYXRlVXJsZWQQFgpmAgECAgIDAgQCBQIGAgcCCAIJFgoUKwACDxYEHw0FFFdlbGNvbWUgdG8gQmlnIFNhbmR5Hw4FDS9wYWdlL1dlbGNvbWVkZBQrAAIPFgQfDQURRWxlY3RlZCBPZmZpY2lhbHMfDgUXL3BhZ2UvRWxlY3RlZCBPZmZpY2lhbHNkZBQrAAIPFgQfDQUMSm9iIE9wZW5pbmdzHw4FFy9wYWdlL0pvYiBPcHBvcnR1bml0aWVzZGQUKwACDxYEHw0FH1B1YmxpYyBJbmZvcm1hdGlvbiBBY3QgUmVxdWVzdHMfDgUlL3BhZ2UvUHVibGljIEluZm9ybWF0aW9uIEFjdCBSZXF1ZXN0c2RkFCsAAg8WBB8NBQ5OZXdzICYgTm90aWNlcx8OBRYvcGFnZS9OZXdzX0luZm9ybWF0aW9uZGQUKwACDxYEHw0FBlpvbmluZx8OBQwvcGFnZS9ab25pbmdkZBQrAAIPFgQfDQUTQ2hhbWJlciBvZiBDb21tZXJjZR8OBRkvcGFnZS9DaGFtYmVyLW9mLUNvbW1lcmNlZGQUKwACDxYEHw0FFEVjb25vbWljIERldmVsb3BtZW50Hw4FGi9wYWdlL0Vjb25vbWljLURldmVsb3BtZW50ZGQUKwACDxYEHw0FCkxpb25zIENsdWIfDgUVL3BhZ2UvQmlnLVNhbmR5LUxpb25zZGQUKwACDxYEHw0FC1JvdGFyeSBDbHViHw4FDC9wYWdlL1JvdGFyeWRkDxYKZmZmZmZmZmZmZhYBBXNUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8NBRBDaXR5IERlcGFydG1lbnRzHw5lZBAWCmYCAQICAgMCBAIFAgYCBwIIAgkWChQrAAIPFgQfDQUJRGlyZWN0b3J5Hw4FDy9wYWdlL0RpcmVjdG9yeWRkFCsAAg8WBB8NBQ5BZG1pbmlzdHJhdGlvbh8OBRQvcGFnZS9BZG1pbmlzdHJhdGlvbmRkFCsAAg8WBB8NBQlFbGVjdGlvbnMfDgUPL3BhZ2UvRWxlY3Rpb25zZGQUKwACDxYEHw0FFUZpbmFuY2lhbCBJbmZvcm1hdGlvbh8OBRsvcGFnZS9GaW5hbmNpYWwgSW5mb3JtYXRpb25kZBQrAAIPFgQfDQUPTXVuaWNpcGFsIENvdXJ0Hw4FCy9wYWdlL0NvdXJ0ZGQUKwACDxYEHw0FHk11bmljaXBhbCBEZXZlbG9wbWVudCBEaXN0cmljdB8OBRovcGFnZS9FY29ub21pYy1EZXZlbG9wbWVudGRkFCsAAg8WBB8NBRJQYXJrcyAmIFJlY3JlYXRpb24fDgUaL3BhZ2UvUGFya3MtYW5kLVJlY3JlYXRpb25kZBQrAAIPFgQfDQURUG9saWNlIERlcGFydG1lbnQfDgURL3BhZ2UvUG9saWNlLUhvbWVkZBQrAAIPFgQfDQUMUHVibGljIFdvcmtzHw4FFC9wYWdlL1V0aWxpdGllcy1Ib21lZGQUKwACDxYEHw0FGVZvbHVudGVlciBGaXJlIERlcGFydG1lbnQfDgUPL3BhZ2UvRmlyZS1EZXB0ZGQPFgpmZmZmZmZmZmZmFgEFc1RlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHw0FDUNpdHkgQ2FsZW5kYXIfDgUOL3BhZ2UvQ2FsZW5kYXJkZBQrAAIPFgQfDQURQWdlbmRhcyAmIE1pbnV0ZXMfDgUVL3BhZ2UvYWdlbmRhc19taW51dGVzZGQUKwACDxYEHw0FD0Zvcm1zICYgUGVybWl0cx8OBQsvcGFnZS9Gb3Jtc2RkDxYFZmZmZmYWAQVzVGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjEuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNGQWCmYPDxYEHw0FCE91ciBDaXR5Hw5lZBYUZg8PFgQfDQUUV2VsY29tZSB0byBCaWcgU2FuZHkfDgUNL3BhZ2UvV2VsY29tZWRkAgEPDxYEHw0FEUVsZWN0ZWQgT2ZmaWNpYWxzHw4FFy9wYWdlL0VsZWN0ZWQgT2ZmaWNpYWxzZGQCAg8PFgQfDQUMSm9iIE9wZW5pbmdzHw4FFy9wYWdlL0pvYiBPcHBvcnR1bml0aWVzZGQCAw8PFgQfDQUfUHVibGljIEluZm9ybWF0aW9uIEFjdCBSZXF1ZXN0cx8OBSUvcGFnZS9QdWJsaWMgSW5mb3JtYXRpb24gQWN0IFJlcXVlc3RzZGQCBA8PFgQfDQUOTmV3cyAmIE5vdGljZXMfDgUWL3BhZ2UvTmV3c19JbmZvcm1hdGlvbmRkAgUPDxYEHw0FBlpvbmluZx8OBQwvcGFnZS9ab25pbmdkZAIGDw8WBB8NBRNDaGFtYmVyIG9mIENvbW1lcmNlHw4FGS9wYWdlL0NoYW1iZXItb2YtQ29tbWVyY2VkZAIHDw8WBB8NBRRFY29ub21pYyBEZXZlbG9wbWVudB8OBRovcGFnZS9FY29ub21pYy1EZXZlbG9wbWVudGRkAggPDxYEHw0FCkxpb25zIENsdWIfDgUVL3BhZ2UvQmlnLVNhbmR5LUxpb25zZGQCCQ8PFgQfDQULUm90YXJ5IENsdWIfDgUML3BhZ2UvUm90YXJ5ZGQCAQ8PFgQfDQUQQ2l0eSBEZXBhcnRtZW50cx8OZWQWFGYPDxYEHw0FCURpcmVjdG9yeR8OBQ8vcGFnZS9EaXJlY3RvcnlkZAIBDw8WBB8NBQ5BZG1pbmlzdHJhdGlvbh8OBRQvcGFnZS9BZG1pbmlzdHJhdGlvbmRkAgIPDxYEHw0FCUVsZWN0aW9ucx8OBQ8vcGFnZS9FbGVjdGlvbnNkZAIDDw8WBB8NBRVGaW5hbmNpYWwgSW5mb3JtYXRpb24fDgUbL3BhZ2UvRmluYW5jaWFsIEluZm9ybWF0aW9uZGQCBA8PFgQfDQUPTXVuaWNpcGFsIENvdXJ0Hw4FCy9wYWdlL0NvdXJ0ZGQCBQ8PFgQfDQUeTXVuaWNpcGFsIERldmVsb3BtZW50IERpc3RyaWN0Hw4FGi9wYWdlL0Vjb25vbWljLURldmVsb3BtZW50ZGQCBg8PFgQfDQUSUGFya3MgJiBSZWNyZWF0aW9uHw4FGi9wYWdlL1BhcmtzLWFuZC1SZWNyZWF0aW9uZGQCBw8PFgQfDQURUG9saWNlIERlcGFydG1lbnQfDgURL3BhZ2UvUG9saWNlLUhvbWVkZAIIDw8WBB8NBQxQdWJsaWMgV29ya3MfDgUUL3BhZ2UvVXRpbGl0aWVzLUhvbWVkZAIJDw8WBB8NBRlWb2x1bnRlZXIgRmlyZSBEZXBhcnRtZW50Hw4FDy9wYWdlL0ZpcmUtRGVwdGRkAgIPDxYEHw0FDUNpdHkgQ2FsZW5kYXIfDgUOL3BhZ2UvQ2FsZW5kYXJkZAIDDw8WBB8NBRFBZ2VuZGFzICYgTWludXRlcx8OBRUvcGFnZS9hZ2VuZGFzX21pbnV0ZXNkZAIEDw8WBB8NBQ9Gb3JtcyAmIFBlcm1pdHMfDgULL3BhZ2UvRm9ybXNkZAIDDxQrAAIUKwACZGRkZAIFDxQrAAJkZGQCBw9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgQfBAU0d2lkZ2V0aXRlbSBzbGlkZXNob3ctY29udGFpbmVyIHZlcnRpY2FsLWFsaWduLWxheW91dB8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgQCAQ8WAh8FBQp3aWR0aDoyMSU7FgICAQ8WAh8DAgIWBGYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7FgJmD2QWAmYPZBYCZg8WAh8EBQtpbWFnZXNpemVpdGQCAQ9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgMPFgIfBQUKd2lkdGg6NzklOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWAmYPZBYEAgEPFgIfAwICFgRmD2QWAgIBDxYIHgh0YWJpbmRleAUBMB4HZGF0YS1pZAUBMR8EBR9lenRhYnNfX3RhYiBlenRhYnNfX3RhYi0tYWN0aXZlHglpbm5lcmh0bWwFNTxzcGFuIGNsYXNzPSJlenRhYnNfX3RhYl9faW5uZXIiPldlbGNvbWUgVmlkZW88L3NwYW4+ZAIBD2QWAgIBDxYIHw8FATAfEAUBMh8EBQtlenRhYnNfX3RhYh8RBTE8c3BhbiBjbGFzcz0iZXp0YWJzX190YWJfX2lubmVyIj5TbGlkZXNob3c8L3NwYW4+ZAIDDxYCHwMCAhYEZg9kFgICAQ8WAh8EBSZlenRhYnNfX3BhbmVscyBlenRhYnNfX3BhbmVscy0tdmlzaWJsZRYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAQ9kFgICAQ8WAh8EBQ5lenRhYnNfX3BhbmVscxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYEHwQFKndpZGdldGl0ZW0gc2xpZGVzaG93IHNsaWRlc2hvdy1ib3JkZXItc3Bpbh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgJmD2QWAmYPFgIfAwIWFixmD2QWAgIBDxYEHglkYXRhLWxhenkFQS91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvMjAyMCAwNCBFYXN0ZXIgU3Rvcm1zIDIuanBnHghkYXRhLWFsdAUMU3Rvcm0gZGFtYWdlFgQCAg8WAh8RZWQCBA8WAh8RZWQCAQ9kFgICAQ8WBB8SBTIvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3L0lNR18wNDUyLmpwZx8TBQpmaXJlIHRydWNrFgQCAg8WAh8RZWQCBA8WAh8RZWQCAg9kFgICAQ8WBB8SBTIvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3L0lNR18wNDcxLmpwZx8TBQZwZW9wbGUWBAICDxYCHxFlZAIEDxYCHxFlZAIDD2QWAgIBDxYEHxIFUC91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvMjAxNyAwNiAxNCBNciBQYXJzb25zIHdpdGggc3VtbWVyIGNyZXcuanBnHxMFB2NvdW5jaWwWBAICDxYCHxFlZAIEDxYCHxFlZAIED2QWAgIBDxYEHxIFRC91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvMjAxOCAxMCBOYXRpb25hbCBOaWdodCBPdXQuanBnHxMFEm5hdGlvbmFsIG5pZ2h0IG91dBYEAgIPFgIfEWVkAgQPFgIfEWVkAgUPZBYCAgEPFgQfEgU8L3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny8yMDE4IDEyIFhtYXMgUGFydHkuanBnHxMFCnhtYXMgcGFydHkWBAICDxYCHxFlZAIEDxYCHxFlZAIGD2QWAgIBDxYEHxIFRi91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvMjAxOSAwMyAxMiBGbG93ZXIgUGxhbnRpbmcgMi5qcGcfEwUHZGlnZ2luZxYEAgIPFgIfEWVkAgQPFgIfEWVkAgcPZBYCAgEPFgQfEgVTL3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny8yMDE5IDA3IEp1bHkgNHRoIFBpY3R1cmVzIGJ5IExhdXJhIFJleCAwMy5qcGcfEwUJZ3JlZXRpbmdzFgQCAg8WAh8RZWQCBA8WAh8RZWQCCA9kFgICAQ8WBB8SBVUvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3LzIwMTkgMTIgTXIgUGFyc29ucyBPbGQgRmFpdGhmdWwgd2l0aCBib3JkZXIuanBnHxMFD2NocmlzdG1hcyB0cnVjaxYEAgIPFgIfEWVkAgQPFgIfEWVkAgkPZBYCAgEPFgQfEgVBL3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny8yMDIwIDA0IEVhc3RlciBTdG9ybXMgMS5qcGcfEwUGcG9saWNlFgQCAg8WAh8RZWQCBA8WAh8RZWQCCg9kFgICAQ8WBB8SBT8vdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3LzIwMjAgMDQgRWFzdGVyIFN0b3Jtcy5qcGcfEwUJdHJlZSBkb3duFgQCAg8WAh8RZWQCBA8WAh8RZWQCCw9kFgICAQ8WBB8SBUQvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3LzIwMjAgMDUgMDQgQ2hpZWYgIFNlcmdlYW50LmpwZx8TBQZwb2xpY2UWBAICDxYCHxFlZAIEDxYCHxFlZAIMD2QWAgIBDxYEHxIFWC91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvNjA0NzEyNjJfNTkxNjc0Njc0Njc1NzkwXzU4MzQ2MzUzMTEyMzMxMDU5MjBfbi5qcGcfEwUFZ3JvdXAWBAICDxYCHxFlZAIEDxYCHxFlZAIND2QWAgIBDxYEHxIFMi91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvRFNDXzAzODEuanBnHxMFBnN1bnNldBYEAgIPFgIfEWVkAgQPFgIfEWVkAg4PZBYCAgEPFgQfEgU6L3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny9JTUdfMDQzOCBjcm9wcGVkLmpwZx8TBQt3YXRlciB0b3dlchYEAgIPFgIfEWVkAgQPFgIfEWVkAg8PZBYCAgEPFgQfEgUyL3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny9JTUdfMDQ1MC5qcGcfEwUFZ3VhcmQWBAICDxYCHxFlZAIEDxYCHxFlZAIQD2QWAgIBDxYEHxIFMi91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvSU1HXzA0ODguanBnHxMFDHBhcmFkZSBiYWxscxYEAgIPFgIfEWVkAgQPFgIfEWVkAhEPZBYCAgEPFgQfEgUyL3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny9JTUdfMzg1My5qcGcfEwUGc2Nob29sFgQCAg8WAh8RZWQCBA8WAh8RZWQCEg9kFgICAQ8WBB8SBTIvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3L0lNR18zODc0LmpwZx8TBQZzY2hvb2wWBAICDxYCHxFlZAIEDxYCHxFlZAITD2QWAgIBDxYEHxIFMi91cGxvYWQvc2hhcmVkL3dpZGdldHMvZ2FsbGVyeS8wMDAwNTcvSU1HXzU2MTcuanBnHxMFBXBhcnR5FgQCAg8WAh8RZWQCBA8WAh8RZWQCFA9kFgICAQ8WBB8SBTIvdXBsb2FkL3NoYXJlZC93aWRnZXRzL2dhbGxlcnkvMDAwMDU3L0lNR181NjIzLmpwZx8TBQVncm91cBYEAgIPFgIfEWVkAgQPFgIfEWVkAhUPZBYCAgEPFgQfEgUyL3VwbG9hZC9zaGFyZWQvd2lkZ2V0cy9nYWxsZXJ5LzAwMDA1Ny9JTUdfNTcyOC5qcGcfEwUQbW90aGVyIGFuZCBjaGlsZBYEAgIPFgIfEWVkAgQPFgIfEWVkAgkPZBYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCCw9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7FgJmD2QWAmYPZBYEAgEPFgIfBQUKd2lkdGg6NjglOxYCAgEPFgIfAwICFgRmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAQ9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgJmDxYCHxEF1RY8ZGl2IGNsYXNzPSJleml0ZW0iIGRhdGEtZmVhdHVyZWQ9InRydWUiPjxkaXYgY2xhc3M9ImV6dGl0bGUiPjxhIGNsYXNzPSJlenRpdGxlbGluayIgaHJlZj0iaHR0cHM6Ly93d3cuYmlnc2FuZHl0eC5nb3YvcGFnZS9hcnRpY2xlLzk0IiB0aXRsZT0iR2V0IGZ1bGwgYXJ0aWNsZSIgPldlIG5lZWQgeW91ciBoZWxwIHdpdGggYSBzdXJ2ZXkhPC9hPjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXpwdWJkYXRlIj5TdW4sIDAxIFNlcCAyMDI0PC9kaXY+DQo8ZGl2IGNsYXNzPSJlemRlc3dyYXBwZXIiPjxkaXYgY2xhc3M9ImV6ZGVzY3JpcHRpb24iPldlIG5lZWQgeW91ciBoZWxwIHdpdGggYSBzdXJ2ZXkhIEluIGEgbmF0aW9uYWwgZWZmb3J0IHRvIG1pbmltaXplIHRoZSBwcmVzZW5jZSBvZiBsZWFkIGFuZCBjb3BwZXIgaW4gb3VyIGRyaW5raW5nIHdhdGVyLCB0aGUgVGV4YXMgQ29tbWlzc2lvbiBvbiBFbnZpcm9ubWVudGFsIFF1YWxpdHkgaXMgcmVxdWlyaW5nIGFsbCBUZXhhcyBwdWJsaWMgd2F0ZXIgc3lzdGVtcyB0byBzdWJtaXQgaW52ZW50b3JpZXMgb2Ygb3VyIHNlcnZpY2UgbGkuLi48c3BhbiBjbGFzcz0iZXptb3JlbGluayI+UmVhZCBtb3JlLi4uPC9zcGFuPjwvZGl2PjwvZGl2PjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXppdGVtIiBkYXRhLWZlYXR1cmVkPSJmYWxzZSI+PGRpdiBjbGFzcz0iZXp0aXRsZSI+PGEgY2xhc3M9ImV6dGl0bGVsaW5rIiBocmVmPSJodHRwczovL3d3dy5iaWdzYW5keXR4Lmdvdi9wYWdlL2FydGljbGUvOTYiIHRpdGxlPSJHZXQgZnVsbCBhcnRpY2xlIiA+UHVibGljIEhlYXJpbmcgb24gUHJvcG9zZWQgUHJvcGVydHkgVGF4IFJhdGUgZm9yIENpdHkgb2YgQmlnIFNhbmR5PC9hPjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXpwdWJkYXRlIj5UdWUsIDA2IEF1ZyAyMDI0PC9kaXY+DQo8ZGl2IGNsYXNzPSJlemRlc3dyYXBwZXIiPjxkaXYgY2xhc3M9ImV6ZGVzY3JpcHRpb24iPlRoZSBDaXR5IG9mIEJpZyBTYW5keSB3aWxsIGhvbGQgYSBwdWJsaWMgaGVhcmluZy9tZWV0aW5nIGF0IDU6MzAgcG0gb24gQXVndXN0IDI5LCAyMDI0IGF0IFRoZSBIZXJpdGFnZSBDZW50ZXIsIDE2MiBFYXN0IEdpbG1lciBTdCwgQmlnIFNhbmR5LCBUWCA3NTc1NSB0byBjb25zaWRlciBhZG9wdGluZyBhIHByb3Bvc2VkIHRheCByYXRlIGZvciB0YXggeWVhciAyMDI0LiBUaGUgcHJvcG9zZWQgdGF4IHJhdGUgaXMgJDAuNDM4MDAwIHBlciAuLi48c3BhbiBjbGFzcz0iZXptb3JlbGluayI+UmVhZCBtb3JlLi4uPC9zcGFuPjwvZGl2PjwvZGl2PjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXppdGVtIiBkYXRhLWZlYXR1cmVkPSJmYWxzZSI+PGRpdiBjbGFzcz0iZXp0aXRsZSI+PGEgY2xhc3M9ImV6dGl0bGVsaW5rIiBocmVmPSJodHRwczovL3d3dy5iaWdzYW5keXR4Lmdvdi9wYWdlL2FydGljbGUvOTUiIHRpdGxlPSJHZXQgZnVsbCBhcnRpY2xlIiA+MjAyNC0yMDI1IENpdHkgb2YgQmlnIFNhbmR5IFRheCBSYXRlIENhbGN1bGF0aW9uIFdvcmtzaGVldHM8L2E+PC9kaXY+DQo8ZGl2IGNsYXNzPSJlenB1YmRhdGUiPlRodSwgMDEgQXVnIDIwMjQ8L2Rpdj4NCjxkaXYgY2xhc3M9ImV6ZGVzd3JhcHBlciI+PGRpdiBjbGFzcz0iZXpkZXNjcmlwdGlvbiI+VXBzaHVyIENvdW50eSBBc3Nlc3Nvci1Db2xsZWN0b3IgTHVhbmEgSG93ZWxsIGhhcyBwcmVwYXJlZCB0aGUgMjAyNC0yMDI1IFRheCBSYXRlIENhbGN1bGF0aW9uIHdvcmtzaGVldHMgZm9yIHRoZSBDaXR5IG9mIEJpZyBTYW5keS4gWW91IGNhbiBkb3dubG9hZCB0aGUgd29ya3NoZWV0cyBoZXJlOiAyMDI0IFRheCBSYXRlIENhbGN1bGF0aW9uIFdvcmtzaGVldC5wZGY8c3BhbiBjbGFzcz0iZXptb3JlbGluayI+UmVhZCBtb3JlLi4uPC9zcGFuPjwvZGl2PjwvZGl2PjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXppdGVtIiBkYXRhLWZlYXR1cmVkPSJmYWxzZSI+PGRpdiBjbGFzcz0iZXp0aXRsZSI+PGEgY2xhc3M9ImV6dGl0bGVsaW5rIiBocmVmPSJodHRwczovL3d3dy5iaWdzYW5keXR4Lmdvdi9wYWdlL2FydGljbGUvOTciIHRpdGxlPSJHZXQgZnVsbCBhcnRpY2xlIiA+MjAyNC0yMDI1IFByb3Bvc2VkIEJ1ZGdldDwvYT48L2Rpdj4NCjxkaXYgY2xhc3M9ImV6cHViZGF0ZSI+VGh1LCAyNSBKdWwgMjAyNDwvZGl2Pg0KPGRpdiBjbGFzcz0iZXpkZXN3cmFwcGVyIj48ZGl2IGNsYXNzPSJlemRlc2NyaXB0aW9uIj5UaGUgcHJvcG9zZWQgYnVkZ2V0IGZvciB0aGUgT2N0b2JlciAxLCAyMDI0IC0gU2VwdGVtYmVyIDMwLCAyMDI1OiBQcm9wb3NlZCBCdWRnZXQucGRmIFRoZSBDaXR5IENvdW5jaWwgd2lsbCBiZSBob2xkaW5nIGEgcHVibGljIGhlYXJpbmcgb24gdGhlIHByb3Bvc2VkIHRheCByYXRlIG9uIEF1Z3VzdCAyOSwgMjAyNCBhdCA1OjMwIHAubS4gYXQgdGhlIEJpZyBTYW5keSBIZXJpdGFnZSBDZW50ZXIsIDE2MiBFIEdpbG1lciBTdHJlZXQsIEJpLi4uPHNwYW4gY2xhc3M9ImV6bW9yZWxpbmsiPlJlYWQgbW9yZS4uLjwvc3Bhbj48L2Rpdj48L2Rpdj48L2Rpdj4NCjxkaXYgY2xhc3M9ImV6aXRlbSIgZGF0YS1mZWF0dXJlZD0iZmFsc2UiPjxkaXYgY2xhc3M9ImV6dGl0bGUiPjxhIGNsYXNzPSJlenRpdGxlbGluayIgaHJlZj0iaHR0cHM6Ly93d3cuYmlnc2FuZHl0eC5nb3YvcGFnZS9hcnRpY2xlLzkyIiB0aXRsZT0iR2V0IGZ1bGwgYXJ0aWNsZSIgPk5vdGljZSBvZiBBZG9wdGVkIDIwMjMgVGF4IFJhdGUgYW5kIDIwMjMtMjAyNCBCdWRnZXRzPC9hPjwvZGl2Pg0KPGRpdiBjbGFzcz0iZXpwdWJkYXRlIj5Nb24sIDI4IEF1ZyAyMDIzPC9kaXY+DQo8ZGl2IGNsYXNzPSJlemRlc3dyYXBwZXIiPjxkaXYgY2xhc3M9ImV6ZGVzY3JpcHRpb24iPiAgICANCiAgIDxzcGFuIGNsYXNzPSJlem1vcmVsaW5rIj5SZWFkIG1vcmUuLi48L3NwYW4+PC9kaXY+PC9kaXY+PC9kaXY+DQpkAgMPFgIfBQUKd2lkdGg6MzIlOxYCAgEPFgIfAwIEFghmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAQ9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgJmDxYCHxEF5QsNCjxkaXYgaWQ9J2NhbGVuZGFyb2JqZWN0NjY4Jz4NCiAgPGRpdiBpZD0nY29udHJvbHdyYXBwZXInPg0KICAgIDxkaXYgaWQ9J2NvbnRyb2xoZWFkJz4NCiAgICAgIDx0YWJsZSBib3JkZXI9JzAnIGNlbGxzcGFjaW5nPScxJyB3aWR0aD0nMTAwJSc+DQogICAgICAgIDx0cj4NCiAgICAgICAgICA8dGQ+Jm5ic3A7DQo8L3RkPjx0ZCBjbGFzcz0nY29udHJvbGRhdGUnPkF1Z3VzdCwgMjAyNDx0ZD4mbmJzcDs8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgPC90YWJsZT4NCiAgICA8L2Rpdj4NCg0KICAgIDxkaXYgaWQ9J2NvbnRyb2xpbic+DQogICAgICA8dGFibGUgYm9yZGVyPScwJyBjZWxsc3BhY2luZz0nMScgY2VsbHBhZGRpbmc9JzAnIHdpZHRoPScxMDAlJyBjbGFzcz0nY29udHJvbHRhYic+DQogICAgICAgIDx0cj4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5TPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5NPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5UPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5XPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5UPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5GPC90ZD4NCiAgICAgICAgICA8dGQgY2xhc3M9J2NoJz5TPC90ZD4NCiAgICAgICAgPC90cj4NCjx0cj48dGQgY2xhc3M9J2N3Jz4yODwvdGQ+PHRkIGNsYXNzPSdjcyc+Mjk8L3RkPjx0ZCBjbGFzcz0nY3MnPjMwPC90ZD48dGQgY2xhc3M9J2NzJz4zMTwvdGQ+PHRkIGNsYXNzPSdjcyc+MTwvdGQ+PHRkIGNsYXNzPSdjcyc+MjwvdGQ+PHRkIGNsYXNzPSdjdyc+MzwvdGQ+PC90cj4NCjx0cj48dGQgY2xhc3M9J2N3Jz40PC90ZD48dGQgY2xhc3M9J2NzJz41PC90ZD48dGQgY2xhc3M9J2NzJz42PC90ZD48dGQgY2xhc3M9J2NzJz43PC90ZD48dGQgY2xhc3M9J2NzJz44PC90ZD48dGQgY2xhc3M9J2NzJz45PC90ZD48dGQgY2xhc3M9J2N3Jz4xMDwvdGQ+PC90cj4NCjx0cj48dGQgY2xhc3M9J2N3Jz4xMTwvdGQ+PHRkIGNsYXNzPSdjcyc+MTI8L3RkPjx0ZCBjbGFzcz0nY3MnPjEzPC90ZD48dGQgY2xhc3M9J2NzJz4xNDwvdGQ+PHRkIGNsYXNzPSdjcyc+MTU8L3RkPjx0ZCBjbGFzcz0nY3MnPjE2PC90ZD48dGQgY2xhc3M9J2N3Jz4xNzwvdGQ+PC90cj4NCjx0cj48dGQgY2xhc3M9J2N3Jz4xODwvdGQ+PHRkIGNsYXNzPSdjcyc+MTk8L3RkPjx0ZCBjbGFzcz0nY3MnPjIwPC90ZD48dGQgY2xhc3M9J2NzJz4yMTwvdGQ+PHRkIGNsYXNzPSdjcyc+MjI8L3RkPjx0ZCBjbGFzcz0nY3MnPjIzPC90ZD48dGQgY2xhc3M9J2N3Jz4yNDwvdGQ+PC90cj4NCjx0cj48dGQgY2xhc3M9J2N3Jz4yNTwvdGQ+PHRkIGNsYXNzPSdjcyc+MjY8L3RkPjx0ZCBjbGFzcz0nY3MnPjI3PC90ZD48dGQgY2xhc3M9J2NzJz4yODwvdGQ+PHRkIGNsYXNzPSdjcyc+Mjk8L3RkPjx0ZCBjbGFzcz0nY3MnPjMwPC90ZD48dGQgY2xhc3M9J2N3Jz4zMTwvdGQ+PC90cj4NCjwvdGFibGU+PC9kaXY+PC9kaXY+DQoNCjwvZGl2Pg0KDQpkAgIPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIDD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWBAIBDxYCHwUFCndpZHRoOjUwJTsWAgIBDxYCHwMCAxYGZg9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgEPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAICD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAw8WAh8FBQp3aWR0aDo1MCU7FgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIND2QWAgIBDxYCHwMCARYCZg9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAg8PZBYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWBgIBDxYCHwUFCndpZHRoOjI0JTsWAgIBDxYCHwMCARYCZg9kFgICAQ8WAh8FBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgMPFgIfBQUKd2lkdGg6MjElOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwUFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCBQ8WAh8FBQp3aWR0aDo1NSU7FgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBQUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIFD2QWAgIBDxYCHwBoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQU/Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMyRDb250ZW50UmVwZWF0ZXIzJGN0bDAwJGN0bDAwJFJhZE1lbnUxfXqylR/cLBZpbUFKK2Z9ndxRF3h631MKsfsalx6Y4/s=" />
+
+<link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=C6LNAudhl7yCmgMrpKJpOan1hF8L-fueoln28UPrLEDfAB0XAnKkpjNvFJGEZDGcFjYKonJJEj7k98_Ii33InRQUptrvER5612OccXj9hUi0cLPuDKLjJYPdsar3HRPyZh1Oycwe2jt4VufVt_NJGjl_hnAQoNBJXllBWDBc_Lw1&amp;t=637474339409609204' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=Lt3xrC_MpN3qruB9dY61-TAEIw8-_GyGekbBbHiUYvL5hexy6jBM9or5EAP2dlC_0BaHkVfjm1lOJl_sXtuFq6zyKjlYWbdQG6lg8w_2PgRJINTEiTxQcwVRBzUcnGmRy0a0_EbIdAVgoz2u14G1bLqX2tfnSG3mnN6-btjHTQw1&amp;t=637474339409609204' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=LcwZmoNRnoFnhZ2OTDbM05m_4LBotQhwUAJGVKBuHawn6Ykd10omuygew7liymwsS4NTuvnIt2113OuIvGIWxxeDImuvikTWR3FOwIolwLPstPT_njpBHFrp-nEvmzYrVNyBVsd2rumtzBppIRdFgw2&amp;t=637474339409609204' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ContentPlaceHolder1_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3aceece802-cb39-4409-a6c9-bfa3b2c8bf10%3aea597d4b%3bTelerik.Web.UI%3aen-US%3aa3561803-43fa-48b8-8632-66948071f7a3%3a16e4e7cd%3af7645509%3a22a6274a%3a33715776%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a16d8629e" type="text/javascript"></script>
+<script src="/runtime/scripts/modernizr-2.8.3.min.js" type="text/javascript"></script>
+<script src="Service.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+        <script type="text/javascript" src="/runtime/scripts/handlebars-v4.1.2.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/eztemplate.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/ezscroller.js"></script>
+        <div id="topnavwrapper" class="outercontainer floatleft topnavcolor clearfix">
+            <div id="topnav" class="innercontainer clearfix  no-border no-margin">
+                
+<input type="hidden" id="hdnModifiedDate" value="07/24/2024" />
+
+<script>
+    $telerik.getViewPortSize = function () {
+        var width = 0;
+        var height = 0;
+
+        var canvas = document.body;
+
+        if ((!$telerik.quirksMode && !$telerik.isSafari) ||
+            (Telerik.Web.Browser.chrome && Telerik.Web.Browser.version >= 61)) {
+            canvas = document.documentElement;
+        }
+
+        if (window.innerWidth) {
+            // Seems there's no completely reliable way to get the viewport size in Gecko, this should be the best one
+            // Check https://bugzilla.mozilla.org/show_bug.cgi?id=189112#c7
+            width = Math.max(document.documentElement.clientWidth, document.body.clientWidth);
+            height = Math.max(document.documentElement.clientHeight, document.body.clientHeight);
+
+            if (width > window.innerWidth)
+                width = document.documentElement.clientWidth;
+            if (height > window.innerHeight)
+                height = document.documentElement.clientHeight;
+        }
+        else {
+            width = canvas.clientWidth;
+            height = canvas.clientHeight;
+        }
+
+        width += canvas.scrollLeft;
+        height += canvas.scrollTop;
+
+        if ($telerik.isMobileSafari) {
+            width += window.pageXOffset;
+            height += window.pageYOffset;
+        }
+
+        return { width: width - 6, height: height - 6 };
+    }
+</script>
+<script src="/common/scripts/ezutilities.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/misc.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/eztabs.js?v=5.14.3.7" type="text/javascript"></script>
+<script src="/runtime/scripts/ezGallery.js?v=5.14.3.7" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        var Page_Validators;        //add this variable to fix the bug
+
+        function nse_onload() {
+            
+
+            var $lightActive = $(".rltbActiveImage");
+            if ($lightActive.length > 0) {
+                $lightActive.attr("alt", "LightBox Active");
+            }
+
+            var $buttonMax = $(".rltbActionButton.rltbMaximizeButton");
+            if ($buttonMax.length > 0) {
+                $buttonMax.attr("title", "Maximize");
+                $buttonTxt = $buttonMax.find(".rltbButtonText");
+                if ($buttonTxt.length > 0) {
+                    $buttonTxt.text("Maximize");
+                }
+            }
+
+            var $login = $("#login");
+            if ($login && $login.length > 0) {
+                $("#login").click(function () {
+                    document.location.href = "/tools/Page.aspx?id=52";
+                });
+            }
+        }
+        Sys.Application.add_load(nse_onload);
+    </script>
+
+
+
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder1_ContentRepeater1_WidgetBox_0" class="widgetitem vertical-align-layout" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder1_ContentRepeater1_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:72%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder1_ContentRepeater1_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem topnav" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<div style="text-align: right;"><a href="/page/homepage">HOME</a> &nbsp;&middot; &nbsp;<a href="/page/sitemap">SITEMAP</a> &nbsp;&middot; &nbsp;<a href="/page/contact">CONTACT US</a> &nbsp;&middot; &nbsp;<a href="https://translate.google.com/translate?sl=auto&amp;tl=es&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fbigsandytx.gov/%2F&amp;edit-text=&amp;act=url">TRANSLATE</a></div>
+</div></div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder1_ContentRepeater1_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:28%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder1_ContentRepeater1_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><!-- This is the search box markup -->
+<div id="socialmedia">
+<a class="fa fa-facebook circle" aria-label="facebook"   href="https://www.facebook.com/BigSandyTexas/"></a>
+<a class="fa fa-rss circle" aria-label="News"   href="/page/homepage_news"></a>
+</div>
+<div id="searchboxwrapper">
+            <div id="searchbox">
+            <div class="input-wrapper">
+            <input id="googleSearch" aria-label="Search Site" placeholder="Search" type="text" onkeydown="do_google_key(event)" onkeyup="do_google_keyup(event, this)" onkeypress="do_google_key(event)" />
+            <button type="submit" onclick="do_google_search(document.getElementById('googleSearch').value)"><img src="/templates/t_images/search.png" alt="Search Button Icon" aria-label="Search Button Icon" /></button>
+            </div>
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="headerwrapper" class="outercontainer floatleft clearfix">
+            <div id="header" class="innercontainer mobile-center clearfix no-margin">
+                
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder2_ContentRepeater2_WidgetBox_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:63%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_WidgetBox_1" class="widgetitem headerlogo" style="margin-top:30px;margin-bottom:0px;"><div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_1_divImage_1" class="imagesizeitLeft">
+<a href="/page/homepage" id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_1_aImage_1"><h1><img src="/upload/shared/widgets/image/000041/LGlogo_header2.png" id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_1_imgImage_1" alt="Big Sandy header logo" class="Noimagesizeit" /></h1></a>
+</div>
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:37%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem header-slogan" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="menuwrapper" class="outercontainer floatleft clearfix primarycolor">
+            <div id="menu" class="innercontainer clearfix no-border">
+                
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder3_ContentRepeater3_WidgetBox_0" class="widgetitem floatnav" style="margin-top:0px;margin-bottom:0px;">
+<!-- ezcrawl-ignore-start -->
+<div tabindex="0" id="ctl00_ContentPlaceHolder3_ContentRepeater3_ctl00_ctl00_RadMenu1" class="RadMenu RadMenu_ezSilk rmSized TelerikRadMenu">
+	<!-- 2021.1.119.45 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><span class="rmLink rmRootLink" tabindex="0">Our City</span><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/page/Welcome">Welcome to Big Sandy</a></li><li class="rmItem "><a class="rmLink" href="/page/Elected%20Officials">Elected Officials</a></li><li class="rmItem "><a class="rmLink" href="/page/Job%20Opportunities">Job Openings</a></li><li class="rmItem "><a class="rmLink" href="/page/Public%20Information%20Act%20Requests">Public Information Act Requests</a></li><li class="rmItem "><a class="rmLink" href="/page/News_Information">News & Notices</a></li><li class="rmItem "><a class="rmLink" href="/page/Zoning">Zoning</a></li><li class="rmItem "><a class="rmLink" href="/page/Chamber-of-Commerce">Chamber of Commerce</a></li><li class="rmItem "><a class="rmLink" href="/page/Economic-Development">Economic Development</a></li><li class="rmItem "><a class="rmLink" href="/page/Big-Sandy-Lions">Lions Club</a></li><li class="rmItem rmLast"><a class="rmLink" href="/page/Rotary">Rotary Club</a></li>
+			</ul>
+		</div></li><li class="rmItem "><span class="rmLink rmRootLink" tabindex="0">City Departments</span><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/page/Directory">Directory</a></li><li class="rmItem "><a class="rmLink" href="/page/Administration">Administration</a></li><li class="rmItem "><a class="rmLink" href="/page/Elections">Elections</a></li><li class="rmItem "><a class="rmLink" href="/page/Financial%20Information">Financial Information</a></li><li class="rmItem "><a class="rmLink" href="/page/Court">Municipal Court</a></li><li class="rmItem "><a class="rmLink" href="/page/Economic-Development">Municipal Development District</a></li><li class="rmItem "><a class="rmLink" href="/page/Parks-and-Recreation">Parks & Recreation</a></li><li class="rmItem "><a class="rmLink" href="/page/Police-Home">Police Department</a></li><li class="rmItem "><a class="rmLink" href="/page/Utilities-Home">Public Works</a></li><li class="rmItem rmLast"><a class="rmLink" href="/page/Fire-Dept">Volunteer Fire Department</a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/Calendar">City Calendar</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/agendas_minutes">Agendas & Minutes</a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/page/Forms">Forms & Permits</a></li>
+	</ul><input id="ctl00_ContentPlaceHolder3_ContentRepeater3_ctl00_ctl00_RadMenu1_ClientState" name="ctl00_ContentPlaceHolder3_ContentRepeater3_ctl00_ctl00_RadMenu1_ClientState" type="hidden" />
+</div>
+
+
+
+
+    <script type="text/javascript">
+        var CurrentRadMenu;
+        var currentRadMenuObject;
+        var CurrentRadMenuItem;
+        var CurrentOpenedRadMenuItem;
+
+        function DropDownItemSelected_ContentPlaceHolder3_ContentRepeater3_ctl00_0(sender, eventArgs) {
+            var item = eventArgs.get_item();
+            item.set_selected(false);
+        }
+
+        function onRadMenuItemFocus(sender, args) {
+            //Enables tabbing through menu items including dropdowns
+            currentRadMenuObject = sender;
+            CurrentRadMenu = sender.get_element(); //store a reference to the menu element whose item is currently in focus
+            CurrentRadMenuItem = args.get_item(); //The focused menu item
+            CurrentOpenedRadMenuItem = sender.get_openedItem(); //store reference to opened dropdown - sender.get_openedItem().close()
+            CurrentRadMenuItem.open();
+        }
+
+        function onDropdownListLoad(sender, args) {
+            //Enables tabbing through dropdown lists
+            var dropdown = $(sender.get_dropDownElement());
+            var element = $(sender.get_element());
+            dropdown.find(".dropitems").attr("tabindex",0);
+        }
+
+        function removeMenuTabIndex() {
+            $telerik.$(".RadMenu[tabindex=0]").removeAttr("tabindex");
+            $telerik.$(".RadPanelBar[tabindex=0]").removeAttr("tabindex");
+            Sys.Application.remove_load(removeMenuTabIndex);
+        }
+        Sys.Application.add_load(removeMenuTabIndex);
+    </script>
+
+<!-- ezcrawl-ignore-end -->
+</div>
+        
+</div>
+
+            </div>
+        </div>
+        <div id="slideshowwrapper" class="outercontainer floatleft clearfix">
+            <div id="slideshow" class="innercontainer no-margin no-border">
+                
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_0" class="widgetitem slideshow-container vertical-align-layout" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:21%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater1_0_ctl00_0_divImage_0" class="imagesizeit">
+<a id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater1_0_ctl00_0_aImage_0"><img src="/upload/page/0052/widgets/image/000770/welcome5.png" id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater1_0_ctl00_0_imgImage_0" alt="welcome
+" class="Noimagesizeit" /></a>
+</div>
+</div>
+                    
+                        <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater1_0_WidgetBox_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:79%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_eztabs1_0" class="eztabs">
+    <div class="eztabs__tabs__wrapper clearfix">
+        <ul class="eztabs__tabs clearfix" role="tablist">
+            
+                        <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabHeader_0_liHeader_0" role="tab" tabindex="0" data-id="1" class="eztabs__tab eztabs__tab--active"><span class="eztabs__tab__inner">Welcome Video</span></li>
+                    
+                        <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabHeader_0_liHeader_1" role="tab" tabindex="0" data-id="2" class="eztabs__tab"><span class="eztabs__tab__inner">Slideshow</span></li>
+                    
+        </ul>
+    </div>
+    <div class="eztabs__panels__wrapper">
+        
+                <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_divBody_0" role="tabpanel" class="eztabs__panels eztabs__panels--visible">
+                    <div class="eztabs__panels__inner clearfix">
+                        <div class="widgettable">
+                            
+                                      <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><style>
+video { 
+   width: 100%;
+   max-width: 866px;
+   height: auto;
+}
+</style>
+<video width="866" height="522" poster="https://www.bigsandytx.gov/upload/page/0052/video/BSposter2.png" controls>
+    <source src="https://www.bigsandytx.gov/upload/page/0052/video/WelcomeToBigSandy.mp4" type="video/mp4">
+    <source src="video.ogg" type="video/ogg">
+    <source src="video.webm" type="video/webm">
+    <object data="video.mp4" width="866" height="522">
+    <embed src="video.swf" width="866" height="522">
+    </object>
+</video></div>
+                                
+                        </div>
+                    </div>
+                </div>
+            
+                <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_divBody_1" role="tabpanel" class="eztabs__panels">
+                    <div class="eztabs__panels__inner clearfix">
+                        <div class="widgettable">
+                            
+                                      <div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_WidgetBox_0" class="widgetitem slideshow slideshow-border-spin" style="margin-top:5px;margin-bottom:5px;"><div id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_divGallery_0" style="width: 100%" class="ezrotatorwrapper delay ezgallery" role="application" aria-label="Gallery">
+    <div class="loaderwrapper ezloaderwrapper">
+        <div class="ezloaderbkg">
+            <div class="ezCSSloader"></div>
+        </div>
+    </div>
+    <div class="callbacks_container">
+    <ul id="slider763" class="callbacks">
+        
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_0" data-lazy="/upload/shared/widgets/gallery/000057/2020 04 Easter Storms 2.jpg" data-alt="Storm damage"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_0" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_0" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_1" data-lazy="/upload/shared/widgets/gallery/000057/IMG_0452.jpg" data-alt="fire truck"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_1" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_1" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_2" data-lazy="/upload/shared/widgets/gallery/000057/IMG_0471.jpg" data-alt="people"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_2" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_2" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_3" data-lazy="/upload/shared/widgets/gallery/000057/2017 06 14 Mr Parsons with summer crew.jpg" data-alt="council"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_3" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_3" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_4" data-lazy="/upload/shared/widgets/gallery/000057/2018 10 National Night Out.jpg" data-alt="national night out"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_4" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_4" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_5" data-lazy="/upload/shared/widgets/gallery/000057/2018 12 Xmas Party.jpg" data-alt="xmas party"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_5" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_5" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_6" data-lazy="/upload/shared/widgets/gallery/000057/2019 03 12 Flower Planting 2.jpg" data-alt="digging"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_6" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_6" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_7" data-lazy="/upload/shared/widgets/gallery/000057/2019 07 July 4th Pictures by Laura Rex 03.jpg" data-alt="greetings"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_7" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_7" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_8" data-lazy="/upload/shared/widgets/gallery/000057/2019 12 Mr Parsons Old Faithful with border.jpg" data-alt="christmas truck"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_8" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_8" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_9" data-lazy="/upload/shared/widgets/gallery/000057/2020 04 Easter Storms 1.jpg" data-alt="police"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_9" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_9" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_10" data-lazy="/upload/shared/widgets/gallery/000057/2020 04 Easter Storms.jpg" data-alt="tree down"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_10" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_10" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_11" data-lazy="/upload/shared/widgets/gallery/000057/2020 05 04 Chief  Sergeant.jpg" data-alt="police"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_11" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_11" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_12" data-lazy="/upload/shared/widgets/gallery/000057/60471262_591674674675790_5834635311233105920_n.jpg" data-alt="group"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_12" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_12" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_13" data-lazy="/upload/shared/widgets/gallery/000057/DSC_0381.jpg" data-alt="sunset"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_13" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_13" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_14" data-lazy="/upload/shared/widgets/gallery/000057/IMG_0438 cropped.jpg" data-alt="water tower"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_14" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_14" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_15" data-lazy="/upload/shared/widgets/gallery/000057/IMG_0450.jpg" data-alt="guard"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_15" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_15" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_16" data-lazy="/upload/shared/widgets/gallery/000057/IMG_0488.jpg" data-alt="parade balls"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_16" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_16" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_17" data-lazy="/upload/shared/widgets/gallery/000057/IMG_3853.jpg" data-alt="school"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_17" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_17" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_18" data-lazy="/upload/shared/widgets/gallery/000057/IMG_3874.jpg" data-alt="school"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_18" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_18" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_19" data-lazy="/upload/shared/widgets/gallery/000057/IMG_5617.jpg" data-alt="party"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_19" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_19" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_20" data-lazy="/upload/shared/widgets/gallery/000057/IMG_5623.jpg" data-alt="group"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_20" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_20" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgData_21" data-lazy="/upload/shared/widgets/gallery/000057/IMG_5728.jpg" data-alt="mother and child"><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgTitle_21" class="ezcaptiontitle"></span>
+                        <span id="ContentPlaceHolder5_ContentRepeater5_ctl00_0_ContentRepeater2_0_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_rptGallery_0_imgCaption_21" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+    </ul>
+    </div>
+    <div id="sr-notification" class="sr-only" role="alert">Active slide image alt text will be announced here</div>
+    
+        <script type="text/javascript">
+            $(function () {
+                $("#slider763").ezSlideshow ({
+                    timeout: 4000,
+                    animation: "fadeOut",
+                    maxHeight: 500,
+                    imageSize: "",
+                    auto: true,
+                    random: false,
+                    navigation: false,
+                    thumbnails: false
+                });
+            });
+
+        </script>
+    
+</div>
+</div>
+                                
+                        </div>
+                    </div>
+                </div>
+            
+    </div>
+  <div id="tab-instructions" class="sr-only">Press ENTER key to focus on the active panel</div>
+</div>
+</div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+        <div id="contentwrapper" class="outercontainer floatleft clearfix">
+            <div id="buttonswrapper" class="section outercontainer floatleft clearfix  gray-section">
+                <div id="buttonswrapperin" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder8_ContentRepeater8_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">   <div class="stretch-ico-group">
+  <button type="button">
+   <a href="/page/court">
+   <div><img src="/upload/template/0016/images/ico_court.png" alt="Commissioners icon"></div>
+   <span>City<br>Court</span>
+   </a>
+  </button>
+  <button type="button">
+   <a href="/page/utilities-home">
+   <div><img src="/upload/template/0016/images/ico_utilities.png" alt="Utilities icon"></div>
+   <span>City<br>Utilities</span>
+   </a>
+  </button>
+  <button type="button">
+   <a href="/page/police-home">
+   <div><img src="/upload/template/0016/images/ico_police.png" alt="Police icon"></div>
+   <span>Police<br>Department</span>
+   </a>
+  </button>
+  <button type="button">
+   <a href="/page/News_Information">
+   <div><img src="/upload/template/0016/images/ico_notices.png" alt="Notices icon"></div>
+   <span>Public<br>Notices</span>
+   </a>
+  </button>
+  <button type="button">
+   <a href="/page/Fire-Dept">
+   <div><img src="/upload/template/0016/images/ico_fire.png" alt="Fire icon"></div>
+   <span>Volunteer<br>Fire Department</span>
+   </a>
+  </button>
+  </div></div>
+        
+</div>
+
+                  </div>   
+                </div>
+            </div>
+            <div id="newswrapper" class="outercontainer floatleft clearfix">
+                <div id="newswrapperin" class="section-inner innercontainer clearfix" data-aos="fade-right" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder6_ContentRepeater6_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:68%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="HeadingBlock">News &amp; Notices</span>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater1_0_WidgetBox_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+    <!-- ezcrawl-ignore-start -->
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater1_0_ctl00_1_ezrssfeed_1" class="ezrssfeed"><div class="ezitem" data-featured="true"><div class="eztitle"><a class="eztitlelink" href="https://www.bigsandytx.gov/page/article/94" title="Get full article" >We need your help with a survey!</a></div>
+<div class="ezpubdate">Sun, 01 Sep 2024</div>
+<div class="ezdeswrapper"><div class="ezdescription">We need your help with a survey! In a national effort to minimize the presence of lead and copper in our drinking water, the Texas Commission on Environmental Quality is requiring all Texas public water systems to submit inventories of our service li...<span class="ezmorelink">Read more...</span></div></div></div>
+<div class="ezitem" data-featured="false"><div class="eztitle"><a class="eztitlelink" href="https://www.bigsandytx.gov/page/article/96" title="Get full article" >Public Hearing on Proposed Property Tax Rate for City of Big Sandy</a></div>
+<div class="ezpubdate">Tue, 06 Aug 2024</div>
+<div class="ezdeswrapper"><div class="ezdescription">The City of Big Sandy will hold a public hearing/meeting at 5:30 pm on August 29, 2024 at The Heritage Center, 162 East Gilmer St, Big Sandy, TX 75755 to consider adopting a proposed tax rate for tax year 2024. The proposed tax rate is $0.438000 per ...<span class="ezmorelink">Read more...</span></div></div></div>
+<div class="ezitem" data-featured="false"><div class="eztitle"><a class="eztitlelink" href="https://www.bigsandytx.gov/page/article/95" title="Get full article" >2024-2025 City of Big Sandy Tax Rate Calculation Worksheets</a></div>
+<div class="ezpubdate">Thu, 01 Aug 2024</div>
+<div class="ezdeswrapper"><div class="ezdescription">Upshur County Assessor-Collector Luana Howell has prepared the 2024-2025 Tax Rate Calculation worksheets for the City of Big Sandy. You can download the worksheets here: 2024 Tax Rate Calculation Worksheet.pdf<span class="ezmorelink">Read more...</span></div></div></div>
+<div class="ezitem" data-featured="false"><div class="eztitle"><a class="eztitlelink" href="https://www.bigsandytx.gov/page/article/97" title="Get full article" >2024-2025 Proposed Budget</a></div>
+<div class="ezpubdate">Thu, 25 Jul 2024</div>
+<div class="ezdeswrapper"><div class="ezdescription">The proposed budget for the October 1, 2024 - September 30, 2025: Proposed Budget.pdf The City Council will be holding a public hearing on the proposed tax rate on August 29, 2024 at 5:30 p.m. at the Big Sandy Heritage Center, 162 E Gilmer Street, Bi...<span class="ezmorelink">Read more...</span></div></div></div>
+<div class="ezitem" data-featured="false"><div class="eztitle"><a class="eztitlelink" href="https://www.bigsandytx.gov/page/article/92" title="Get full article" >Notice of Adopted 2023 Tax Rate and 2023-2024 Budgets</a></div>
+<div class="ezpubdate">Mon, 28 Aug 2023</div>
+<div class="ezdeswrapper"><div class="ezdescription">    
+   <span class="ezmorelink">Read more...</span></div></div></div>
+</div>
+
+    <style media="screen">
+        .ezrssfeed {
+            position: relative;
+            z-index: 1;
+        }
+
+        .ezmorelink:hover {
+            cursor: pointer;
+        }
+
+        .ezimagelink:hover {
+            cursor: default;
+        }
+
+        .ezrssfeed .ezimage a img,
+        .ezrssfeed .ezimage a img:hover {
+            transform: none;
+        }
+
+        .ezrssfeedin--loading {
+            min-height: 200px;
+            position: relative;
+        }
+
+        .ezrssfeedloaderwrapper {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            /* background: rgba(255, 255, 255, 0.6); */
+            z-index: 9999;
+            opacity: 0;
+            transition-delay: 1s;
+        }
+
+        .ezrssfeedin--done .ezrssfeedloaderwrapper {
+            transition-delay: 0s;
+            display: none;
+        }
+
+        .ezrssfeedin--loading .ezrssfeedloaderwrapper {
+            -webkit-animation: delay-loader 1s linear forwards;
+            animation: delay-loader 1s linear forwards;
+        }
+
+        .ezrssfeedloader {
+            position: absolute;
+            top: 56%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 35px;
+            box-shadow: 2px 2px 14px -2px rgba(0, 0, 0, 0.15);
+            height: 16px;
+            border: 1px solid #bbb;
+            border-radius:5px;
+	    white-space: nowrap;
+        }
+
+        .ezrssfeedloader>div {
+            width: 12px;
+            height: 12px;
+            background-color: #666;
+            border-radius: 100%;
+            display: inline-block;
+            -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+            animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+        }
+
+        .ezrssfeedloader .bounce1 {
+            -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s;
+        }
+
+        .ezrssfeedloader .bounce2 {
+            -webkit-animation-delay: -0.16s;
+            animation-delay: -0.16s;
+        }
+
+        @-webkit-keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0)
+            }
+            40% {
+                -webkit-transform: scale(1.0)
+            }
+        }
+
+        @keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0);
+                transform: scale(0);
+            }
+            40% {
+                -webkit-transform: scale(1.0);
+                transform: scale(1.0);
+            }
+        }
+
+        @keyframes delay-loader {
+            0% {
+                opacity: 0;
+            }
+            99% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+    <script type="text/javascript">
+        (function() {
+            var calUrl = "";
+            var $calendar = $("#ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater1_0_ctl00_1_ezrssfeed_1");
+
+            function InitControls() {
+                console.log($calendar);
+                var $feed = $calendar.find(".ezrssfeedcontent");
+                var $horizontalFeed = $feed.find(".ezrss-horizontal");
+                var $rssItems = $calendar.find(".ezitem");
+                $rssItems.each(function() {
+                    //Gets the RSS URL and links it to the "Read more" span tag.
+                    var linkEl = $(this).find(".eztitlelink");
+                    var href = linkEl.attr("href");
+                    var target = linkEl.attr("target");
+                    var readmore = $(this).find(".ezmorelink");
+                    readmore.on("click", function() {
+                        if (target) window.open(href);
+                        else window.location = href;
+                    });
+                });
+                if ($horizontalFeed.length) {
+                    var $events = $horizontalFeed.find(".ezrss-item");
+                    var tallest = 0;
+                    if ($events.length) {
+                        for (var j = 0; j < $events.length; j++) {
+                            if ($events[j].clientHeight > tallest) tallest = $events[j].clientHeight; //Find the event with the tallest height
+                        }
+                        for (var k = 0; k < $events.length; k++) {
+                            $events[k].style.height = tallest + "px"; //Apply the tallest height to all of the events
+                        }
+                    }
+                }
+            }
+
+            function GetCalendar() {
+                var $isNotObject = $calendar.find(".ezrssfeedin");
+                if ($isNotObject.length) {
+                    $isNotObject.addClass("ezrssfeedin--loading");
+                } else {
+                    var $child = $calendar.children().eq(0);
+                    $child.wrap("<div class='ezrssfeedin ezrssfeedin--loading'></div>").wrap("<div class='ezrssfeedcontent'></div>");
+                    $calendar.find(".ezrssfeedin--loading").prepend('<div class="ezrssfeedloaderwrapper"> <div class="ezrssfeedloader"> <div class="bounce1"></div> <div class="bounce2"></div> <div class="bounce3"></div> </div> </div>');
+                }
+                $.ajax({
+                    type: 'GET',
+                    url: calUrl,
+                    dataType: "html",
+                    async: true,
+                    cache: false,
+                    success: function(data) {
+                        if ($isNotObject.length) {
+                            $isNotObject.addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                            $calendar.find(".ezrssfeedcontent").html(data);
+                            InitControls();
+                        } else {
+                            $("#ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater1_0_ctl00_1_ezrssfeed_1").html(data).find(".ezrssfeedin").addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                        }
+                    }
+                });
+            }
+
+            if (calUrl)
+                setTimeout(GetCalendar, 200);
+            else
+                InitControls();
+
+        })();
+    </script>
+    <!-- ezcrawl-ignore-end -->
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:32%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="HeadingBlock">Events</span>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_WidgetBox_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+    <!-- ezcrawl-ignore-start -->
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_1_ezrssfeed_1" class="ezrssfeed">
+<div id='calendarobject668'>
+  <div id='controlwrapper'>
+    <div id='controlhead'>
+      <table border='0' cellspacing='1' width='100%'>
+        <tr>
+          <td>&nbsp;
+</td><td class='controldate'>August, 2024<td>&nbsp;</td>
+        </tr>
+      </table>
+    </div>
+
+    <div id='controlin'>
+      <table border='0' cellspacing='1' cellpadding='0' width='100%' class='controltab'>
+        <tr>
+          <td class='ch'>S</td>
+          <td class='ch'>M</td>
+          <td class='ch'>T</td>
+          <td class='ch'>W</td>
+          <td class='ch'>T</td>
+          <td class='ch'>F</td>
+          <td class='ch'>S</td>
+        </tr>
+<tr><td class='cw'>28</td><td class='cs'>29</td><td class='cs'>30</td><td class='cs'>31</td><td class='cs'>1</td><td class='cs'>2</td><td class='cw'>3</td></tr>
+<tr><td class='cw'>4</td><td class='cs'>5</td><td class='cs'>6</td><td class='cs'>7</td><td class='cs'>8</td><td class='cs'>9</td><td class='cw'>10</td></tr>
+<tr><td class='cw'>11</td><td class='cs'>12</td><td class='cs'>13</td><td class='cs'>14</td><td class='cs'>15</td><td class='cs'>16</td><td class='cw'>17</td></tr>
+<tr><td class='cw'>18</td><td class='cs'>19</td><td class='cs'>20</td><td class='cs'>21</td><td class='cs'>22</td><td class='cs'>23</td><td class='cw'>24</td></tr>
+<tr><td class='cw'>25</td><td class='cs'>26</td><td class='cs'>27</td><td class='cs'>28</td><td class='cs'>29</td><td class='cs'>30</td><td class='cw'>31</td></tr>
+</table></div></div>
+
+</div>
+
+</div>
+
+    <style media="screen">
+        .ezrssfeed {
+            position: relative;
+            z-index: 1;
+        }
+
+        .ezmorelink:hover {
+            cursor: pointer;
+        }
+
+        .ezimagelink:hover {
+            cursor: default;
+        }
+
+        .ezrssfeed .ezimage a img,
+        .ezrssfeed .ezimage a img:hover {
+            transform: none;
+        }
+
+        .ezrssfeedin--loading {
+            min-height: 200px;
+            position: relative;
+        }
+
+        .ezrssfeedloaderwrapper {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            /* background: rgba(255, 255, 255, 0.6); */
+            z-index: 9999;
+            opacity: 0;
+            transition-delay: 1s;
+        }
+
+        .ezrssfeedin--done .ezrssfeedloaderwrapper {
+            transition-delay: 0s;
+            display: none;
+        }
+
+        .ezrssfeedin--loading .ezrssfeedloaderwrapper {
+            -webkit-animation: delay-loader 1s linear forwards;
+            animation: delay-loader 1s linear forwards;
+        }
+
+        .ezrssfeedloader {
+            position: absolute;
+            top: 56%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 35px;
+            box-shadow: 2px 2px 14px -2px rgba(0, 0, 0, 0.15);
+            height: 16px;
+            border: 1px solid #bbb;
+            border-radius:5px;
+	    white-space: nowrap;
+        }
+
+        .ezrssfeedloader>div {
+            width: 12px;
+            height: 12px;
+            background-color: #666;
+            border-radius: 100%;
+            display: inline-block;
+            -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+            animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+        }
+
+        .ezrssfeedloader .bounce1 {
+            -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s;
+        }
+
+        .ezrssfeedloader .bounce2 {
+            -webkit-animation-delay: -0.16s;
+            animation-delay: -0.16s;
+        }
+
+        @-webkit-keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0)
+            }
+            40% {
+                -webkit-transform: scale(1.0)
+            }
+        }
+
+        @keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0);
+                transform: scale(0);
+            }
+            40% {
+                -webkit-transform: scale(1.0);
+                transform: scale(1.0);
+            }
+        }
+
+        @keyframes delay-loader {
+            0% {
+                opacity: 0;
+            }
+            99% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+    <script type="text/javascript">
+        (function() {
+            var calUrl = "/page/calrss/922/0/calendar.rss?CT=2&CD=5&PD=668&NW=0&AG=1";
+            var $calendar = $("#ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_1_ezrssfeed_1");
+
+            function InitControls() {
+                console.log($calendar);
+                var $feed = $calendar.find(".ezrssfeedcontent");
+                var $horizontalFeed = $feed.find(".ezrss-horizontal");
+                var $rssItems = $calendar.find(".ezitem");
+                $rssItems.each(function() {
+                    //Gets the RSS URL and links it to the "Read more" span tag.
+                    var linkEl = $(this).find(".eztitlelink");
+                    var href = linkEl.attr("href");
+                    var target = linkEl.attr("target");
+                    var readmore = $(this).find(".ezmorelink");
+                    readmore.on("click", function() {
+                        if (target) window.open(href);
+                        else window.location = href;
+                    });
+                });
+                if ($horizontalFeed.length) {
+                    var $events = $horizontalFeed.find(".ezrss-item");
+                    var tallest = 0;
+                    if ($events.length) {
+                        for (var j = 0; j < $events.length; j++) {
+                            if ($events[j].clientHeight > tallest) tallest = $events[j].clientHeight; //Find the event with the tallest height
+                        }
+                        for (var k = 0; k < $events.length; k++) {
+                            $events[k].style.height = tallest + "px"; //Apply the tallest height to all of the events
+                        }
+                    }
+                }
+            }
+
+            function GetCalendar() {
+                var $isNotObject = $calendar.find(".ezrssfeedin");
+                if ($isNotObject.length) {
+                    $isNotObject.addClass("ezrssfeedin--loading");
+                } else {
+                    var $child = $calendar.children().eq(0);
+                    $child.wrap("<div class='ezrssfeedin ezrssfeedin--loading'></div>").wrap("<div class='ezrssfeedcontent'></div>");
+                    $calendar.find(".ezrssfeedin--loading").prepend('<div class="ezrssfeedloaderwrapper"> <div class="ezrssfeedloader"> <div class="bounce1"></div> <div class="bounce2"></div> <div class="bounce3"></div> </div> </div>');
+                }
+                $.ajax({
+                    type: 'GET',
+                    url: calUrl,
+                    dataType: "html",
+                    async: true,
+                    cache: false,
+                    success: function(data) {
+                        if ($isNotObject.length) {
+                            $isNotObject.addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                            $calendar.find(".ezrssfeedcontent").html(data);
+                            InitControls();
+                        } else {
+                            $("#ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_1_ezrssfeed_1").html(data).find(".ezrssfeedin").addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                        }
+                    }
+                });
+            }
+
+            if (calUrl)
+                setTimeout(GetCalendar, 200);
+            else
+                InitControls();
+
+        })();
+    </script>
+    <!-- ezcrawl-ignore-end -->
+</div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_WidgetBox_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p style="text-align: center;"><em>Click on a highlighted event for details!</em></p>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_WidgetBox_3" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ezCol1_3" class="ezlayout2Col1" style="width:50%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ContentRepeater1_3_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1">Residents</span>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ContentRepeater1_3_WidgetBox_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1">Businesses</span>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ContentRepeater1_3_WidgetBox_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1">Visitors</span>
+</div></div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ezCol2_3" class="ezlayout2Col2" style="width:50%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder6_ContentRepeater6_ctl00_0_ContentRepeater2_0_ctl00_3_ContentRepeater2_3_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn1"><a href="/page/Forms">Forms</a></span>
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+                </div>
+            </div>
+            <div id="upcomingevents" class="section outercontainer floatleft clearfix gray-section">
+                <div id="upcomingeventsin" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder4_ContentRepeater4_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><a class="weatherwidget-io" href="https://forecast7.com/en/32d58n95d11/big-sandy/?unit=us" data-label_1="BIG SANDY" data-label_2="WEATHER" data-theme="pure" data-basecolor="#F5F5F5" >BIG SANDY WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script></div>
+        
+</div>
+
+                  </div>
+                </div>
+            </div>
+
+        </div>
+        <!--End of ContentWrapper-->
+
+        <div id="footerwrapper" class="outercontainer floatleft primarycolor">
+            <div id="footer" class="innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-in" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder7_ContentRepeater7_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout3">
+    <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ezCol1_0" class="ezlayout3Col1" style="width:24%;">
+            <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p><span class="Heading3" style="font-size: 20px; color: #ffffff;">CONNECT WITH US</span></p>
+<p>Big Sandy City Hall<br />
+P.O. Box 986<br />
+Big Sandy, TX 75755<br />
+Main Phone: (903) 636-4343<br />
+Fax: (903) 636-4413<br />
+<br />
+Police: (903) 636-4200<br />
+Public Works: (903) 636-4343</p>
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ezCol2_0" class="ezlayout3Col2" style="width:21%;">
+            <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p><span class="Heading3" style="font-size: 20px; color: #ffffff;">USEFUL LINKS</span></p>
+<ul>
+    <li><a href="/page/Calendar">Calendars</a></li>
+    <li><a href="mailto:cityadministrator@bigsandytx.gov?subject=WEBSITE">Contact Webmaster</a></li>
+    <li><a href="/page/Job%20Opportunities">Job Openings</a></li>
+    <li><a href="/page/News_Information">Required Postings</a></li>
+</ul>
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ezCol3_0" class="ezlayout3Col3" style="width:55%;">
+            <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder7_ContentRepeater7_ctl00_0_ContentRepeater3_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<div id="footer-maps"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13446.90159848141!2d-95.12416222056082!3d32.58684667477429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8649de4690b3a361%3A0x38781cf06525dcca!2sBig+Sandy%2C+TX+75755!5e0!3m2!1sen!2sus!4v1468954713261" width="600" height="225" frameborder="0" style="border:0;"></iframe></div>
+</div></div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+</div>
+
+                  </div>
+            </div>
+        </div>
+
+        <div id="eztagwrapper" class="outercontainer floatleft tertiarycolor">
+            <div id="eztag" class="innercontainer clearfix">
+                <div id="eztagin" class="innercontainer clearfix floatleft">
+                    <p>Copyright &copy; Big Sandy, Texas &nbsp;<span id="ezcopyright">2020</span></p>
+                </div>
+                <div id="poweredby" class="innercontainer clearfix floatleft">
+                    <p>
+                        <span class="eztask">powered by</span>
+                        <a class="eztask" title="ezTask: Exceptional websites that are affordable and easy to
+update!" href="http://www.eztask.com/" target="_blank"><strong>ezTask</strong>Titanium </a><a class="eztask"><sup>TM</sup></a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+        <div id="scrolltotop">
+            <i class="ion-chevron-up" aria-hidden="true"></i>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ContentPlaceHolder1_RadScriptManager1_TSM');Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_renderMode":2,"_skin":"ezSilk","clientStateFieldID":"ctl00_ContentPlaceHolder3_ContentRepeater3_ctl00_ctl00_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","expandDelay":300,"itemData":[{"items":[{"navigateUrl":"/page/Welcome"},{"navigateUrl":"/page/Elected Officials"},{"navigateUrl":"/page/Job Opportunities"},{"navigateUrl":"/page/Public Information Act Requests"},{"navigateUrl":"/page/News_Information"},{"navigateUrl":"/page/Zoning"},{"navigateUrl":"/page/Chamber-of-Commerce"},{"navigateUrl":"/page/Economic-Development"},{"navigateUrl":"/page/Big-Sandy-Lions"},{"navigateUrl":"/page/Rotary"}]},{"items":[{"navigateUrl":"/page/Directory"},{"navigateUrl":"/page/Administration"},{"navigateUrl":"/page/Elections"},{"navigateUrl":"/page/Financial Information"},{"navigateUrl":"/page/Court"},{"navigateUrl":"/page/Economic-Development"},{"navigateUrl":"/page/Parks-and-Recreation"},{"navigateUrl":"/page/Police-Home"},{"navigateUrl":"/page/Utilities-Home"},{"navigateUrl":"/page/Fire-Dept"}]},{"navigateUrl":"/page/Calendar"},{"navigateUrl":"/page/agendas_minutes"},{"navigateUrl":"/page/Forms"}]}, {"itemFocus":onRadMenuItemFocus}, null, $get("ctl00_ContentPlaceHolder3_ContentRepeater3_ctl00_ctl00_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+	<script type="text/javascript">
+		function do_google_search(v) {
+			window.open("https://www.google.com/search?q=" + v + "&sitesearch=https://www.bigsandytx.gov/", "google", "");
+
+		}
+		function do_google_keyup(e, t) {
+		  if (e.keyCode == 13) {
+			  do_google_search(t.value);
+			e.preventDefault();
+		  }
+		}
+
+		function do_google_key(e) {
+		  if (e.keyCode == 13) {
+			e.preventDefault();
+		  }
+		}
+	</script>
+    <script type="text/javascript" src="/runtime/scripts/jquery.marquee.js"></script>
+    <script type="text/javascript" src="/runtime/scripts/custom.js?t=1"></script>
+    <script type="text/javascript" src="/runtime/scripts/ezalert.js"></script>
+	<script type="text/javascript" src="/runtime/scripts/aos.js"></script>
+	<script type="text/javascript" src="/common/scripts/ezpopup.js"></script>
+	<script type="text/javascript">
+	   AOS.init({
+		   disable: function() {
+			   return window.location.pathname === "/design/Editor.aspx" || ezUtilities.isMobile;
+		   }
+	   });
+	   ezPopup.init("/page/rss/471");
+	</script>
+
+</body>
+
+</html>
+
+

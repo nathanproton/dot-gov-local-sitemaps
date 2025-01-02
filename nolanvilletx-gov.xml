@@ -1,0 +1,1468 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="/runtime/images/favicon.png" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/runtime/styles/aos.css?v=11" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/common/styles/ezpopup.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/main.css?v=5.5.2018" type="text/css" media="screen" />
+    
+    <title>City of Nolanville, Texas</title>
+
+    <link rel="stylesheet" href="/runtime/styles/normalize.min.css" />
+    <link rel="stylesheet" href="/runtime/styles/layout.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/ionicons.min.css" />
+    <link type="text/css" rel="stylesheet" href="/runtime/styles/sm-core-css.css?v=8.0.0.1" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/sm-clean.css?v=8.0.0.1" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/sm-panel-bar.css?v=8.0.0.1" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/sm-mobile.css?v=8.0.0.1" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezGallery.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezrss.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarfeed.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarControl.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezformObjects.css?v=5.11.4.0" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/eztoggle.css?v=5.11.13.0" media="screen" />
+
+    <link rel="stylesheet" href="/runtime/styles/custom.css" />
+    
+
+
+</head>
+
+<body class="show-alert">
+    <a id="skip-navigation" href="#contentwrapper" tab-index="0" alt="Press enter to skip the Navigation" title="Press enter to skip to the Navigation">Skip Navigation</a>
+    <form method="post" action="./" id="nseForm">
+<input type="hidden" name="CP1_RadScriptManager1_TSM" id="CP1_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODUyNzQ2ODkxD2QWAmYPZBYMAgMPZBYUAgEPZBYYAgEPFCsAAjwrAAQBAA8WAh4HVmlzaWJsZWhkZGQCAg8UKwAEDxYEHwBoHg5Mb2FkaW5nUGFuZWxJRAUnY3RsMDBfQ1AxX0RvY3VtZW50TGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMi4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHgRTa2luBQdEZWZhdWx0ZGQCAw8UKwAEDxYEHwBoHwEFJ2N0bDAwX0NQMV9DYWxlbmRhckxpZ2h0Qm94X0xvYWRpbmdQYW5lbGQUKwADZGQ8KwAFABAWAWYWARQrAAFkDxYBZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRMaWdodEJveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjIuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAAWAgIBDw8WAh8CBQdEZWZhdWx0ZGQCBA8UKwAEDxYKHhJSZXNvbHZlZFJlbmRlck1vZGULKXJUZWxlcmlrLldlYi5VSS5SZW5kZXJNb2RlLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIyLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQBHwEFJmN0bDAwX0NQMV9Db25maXJtTGlnaHRCb3hfTG9hZGluZ1BhbmVsHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2geFUVuYWJsZUVtYmVkZGVkU2NyaXB0c2ceHEVuYWJsZUVtYmVkZGVkQmFzZVN0eWxlc2hlZXRnFgIeBXN0eWxlBUNwb3NpdGlvbjogZml4ZWQ7IGxlZnQ6IDUwJTsgdG9wOiA1MCU7IGRpc3BsYXk6bm9uZTsgei1pbmRleDogMTAwMDAxFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIyLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgRmD2QWBAIEDw8WAh4RVXNlU3VibWl0QmVoYXZpb3JnZGQCBQ8PFgIfCGdkZAIBDw8WCB8CBQdEZWZhdWx0HwRoHwVnHwZnZGQCBQ8UKwAEDxYEHwBoHwEFKGN0bDAwX0NQMV9TZW5kRW1haWxMaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIyLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAgYPFgIfAGhkAgcPFgIfAGhkAggPFgIfAGhkAgoPFgIfAGhkAgwPFgIfAGgWAmYPFCsABA8WAh8BBStjdGwwMF9DUDFfU3Vic2NyaXB0aW9uTGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMi4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHwIFB0RlZmF1bHRkZAINDw8WAh8AaGQWBGYPFgIfAGhkAgIPFgIfAGhkAg4PFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgQeBWNsYXNzBSB3aWRnZXRpdGVtIHZlcnRpY2FsLWFsaWduLWxheW91dB8HBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgQCAQ8WAh8HBQp3aWR0aDo3MiU7FgICAQ8WAh8JAgEWAmYPZBYCAgEPFgQfCgURd2lkZ2V0aXRlbSB0b3BuYXYfBwUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIDDxYCHwcFCndpZHRoOjI4JTsWAgIBDxYCHwkCARYCZg9kFgICAQ8WAh8HBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDtkAgMPZBYCAgEPFgIfCQIBFgJmD2QWAgIBDxYCHwcFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206MHB4OxYCZg9kFgJmD2QWBAIBDxYCHwcFCndpZHRoOjQ4JTsWAgIBDxYCHwkCAhYEZg9kFgICAQ8WAh8HBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDtkAgEPZBYCAgEPFgQfCgUVd2lkZ2V0aXRlbSBoZWFkZXJsb2dvHwcFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206MHB4OxYCZg9kFgJmD2QWAmYPFgIfCgUPaW1hZ2VzaXplaXRMZWZ0FgICAQ8WAh4EaHJlZgUOL3BhZ2UvaG9tZXBhZ2VkAgMPFgIfBwUKd2lkdGg6NTIlOxYCAgEPFgIfCQIBFgJmD2QWAgIBDxYEHwoFGHdpZGdldGl0ZW0gaGVhZGVyLXNsb2dhbh8HBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDtkAgUPZBYCAgEPFgIfCQIBFgJmD2QWAgIBDxYEHwoFE3dpZGdldGl0ZW0gbWFpbm1lbnUfBwUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7ZAIHD2QWAgIBDxYCHwkCARYCZg9kFgICAQ8WAh8HBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgJmD2QWAmYPFgIfCQILFhZmD2QWAgIBDxYEHglkYXRhLWxhenkFQS91cGxvYWQvcGFnZS8wMDU2L3dpZGdldHMvZ2FsbGVyeS8wMDA3MTgvQmFubmVycyAyMDI0IGNvdW5jaWwucG5nHghkYXRhLWFsdGUWBAICDxYCHglpbm5lcmh0bWxlZAIEDxYCHw5lZAIBD2QWAgIBDxYEHwwFNS91cGxvYWQvcGFnZS8wMDU2L3dpZGdldHMvZ2FsbGVyeS8wMDA3MTgvdGhpcyBvbmUucG5nHw0FFnRoZSBDaXR5IG9mIE5vbGFudmlsbGUWBAICDxYCHw4FI0V4dHJhIEV4dHJhIDxiciAvPlJlYWQgQWxsIEFib3V0IEl0ZAIEDxYCHw4FH05vbGFudmlsbGUgQ29tbXVuaXR5IE5ld3NsZXR0ZXJkAgIPZBYCAgEPFgQfDAU5L3VwbG9hZC9wYWdlLzAwNTYvd2lkZ2V0cy9nYWxsZXJ5LzAwMDcxOC9CYW5uZXIgUGhvdG8ucG5nHw0FFlRoZSBDaXR5IG9mIE5vbGFudmlsbGUWBAICDxYCHw4FCkNJVFkgR1VJREVkAgQPFgIfDgUwVVBEQVRFRCBOT0xBTlZJTExFIENJVFkgR1VJREVTIEFSRSBBVkFJTEFCTEUgTk9XZAIDD2QWAgIBDxYEHwwFMy91cGxvYWQvcGFnZS8wMDU2L3dpZGdldHMvZ2FsbGVyeS8wMDA3MTgvc2xpZGUxLmpwZx8NBRZUaGUgQ2l0eSBvZiBOb2xhbnZpbGxlFgQCAg8WAh8OBRFTdGF0ZSBvZiB0aGUgQ2l0eWQCBA8WAh8OBSVCVURHRVQgU1VNTUFSWSwgRklTQ0FMIFlFQVIgMjAyNC0yMDI1ZAIED2QWAgIBDxYEHwwFMy91cGxvYWQvcGFnZS8wMDU2L3dpZGdldHMvZ2FsbGVyeS8wMDA3MTgvc2xpZGUzLmpwZx8NBRZUaGUgQ2l0eSBvZiBOb2xhbnZpbGxlFgQCAg8WAh8OBRBXZWF0aGVyIFJlc3BvbnNlZAIEDxYCHw4FG0NpdHkgVXBkYXRlcyBhbmQgQXNzaXN0YW5jZWQCBQ9kFgICAQ8WBB8MBUcvdXBsb2FkL3BhZ2UvMDA1Ni93aWRnZXRzL2dhbGxlcnkvMDAwNzE4L015IE5vbGFudmlsbGUgQXBwIEJhbm5lci0yLnBuZx8NBRZUaGUgQ2l0eSBvZiBOb2xhbnZpbGxlFgQCAg8WAh8OZWQCBA8WAh8OBQxEb3dubG9hZCBOb3dkAgYPZBYCAgEPFgQfDAVCL3VwbG9hZC9wYWdlLzAwNTYvd2lkZ2V0cy9nYWxsZXJ5LzAwMDcxOC9mb3ggdHJvdCBiYW5uZXIgbmV3LTIucG5nHw0FDHNtYXJ0IGF3YXJkcxYE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MDBfMV9DUjFfMV9jdGwwMF8wX0NvbnRlbnRSZXBlYXRlcjFfMF9jdGwwMF8xKDEpZAIJDxYCHw4FvwUNCjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4NCiAgICBjYXB0Y2hhcy5wdXNoKCdDUDlfQ1I5X2N0bDAwXzFfQ1IxXzFfY3RsMDBfMF9Db250ZW50UmVwZWF0ZXIxXzBfY3RsMDBfMV9jdGwwMV8xX0NSMV8xX2N0bDAwXzFfcmVjYXB0Y2hhX2VsZW1lbnRfMScpOw0KICAgIGZ1bmN0aW9uIGNoZWNrUmVjYXBfNzcyKCkgew0KICAgICAgICB2YXIgaGRuUmVjYXBWYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnQ1A5X0NSOV9jdGwwMF8xX0NSMV8xX2N0bDAwXzBfQ29udGVudFJlcGVhdGVyMV8wX2N0bDAwXzFfY3RsMDFfMV9DUjFfMV9jdGwwMF8xX2hkblJlY2FwXzEnKTsNCiAgICAgICAgaGRuUmVjYXBWYWwudmFsdWUgPSAnJzsNCiAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IGNhcHRjaGFzLmxlbmd0aDsgaSsrKSB7DQogICAgICAgICAgICBpZiAoY2FwdGNoYXNbaV0gPT0gJ0NQOV9DUjlfY3RsMDBfMV9DUjFfMV9jdGwwMF8wX0NvbnRlbnRSZXBlYXRlcjFfMF9jdGwwMF8xX2N0bDAxXzFfQ1IxXzFfY3RsMDBfMV9yZWNhcHRjaGFfZWxlbWVudF8xJykgew0KICAgICAgICAgICAgICAgICAgICBoZG5SZWNhcFZhbC52YWx1ZSA9IGdyZWNhcHRjaGEuZ2V0UmVzcG9uc2UoaSk7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgcmV0dXJuIGhkblJlY2FwVmFsLnZhbHVlOw0KICAgIH0NCjwvc2NyaXB0Pg0KZAIBD2QWAgIBDxYCHwcFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCAg9kFgICAQ8WAh8HBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgICAQ8WAh8JAgEWAmYPZBYCAgEPFgIfBwUhbWFy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" />
+
+<link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=fU6ZSeINlZxiyUTyX_vOfNeh_uH7ioZmMq7LhyYYgyRDG1RJdbRcsM2Uwo_2-hWdJ5PN7g5azBjfSIto1sErYRhMfyANTGHlm4uPOiSB5NO4ytp9hTPvEFeEfmHaFcHsZMkNw48Qcs1lyxMoJrZeWw2&amp;t=637799966054650478' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=XKyd40ehjkDbzuXoVqqpgSFiXMb1lukqFGH8dCrEjgUFvzOAilWqJ4UvncWiYKhU3xCuwMSwAcaOLE5f7WHqGs_9SqDcDzHhSgQSGEM4Czm2BlrNYRPAASxT8rhfPlBFSGHvV647Eqob7Ur3KyEM69ofoFTt8ga3yJnGtWhvldE1&amp;t=637799966054650478' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=yutppD50GPEKxe7QGnJr_rtC3Ndjv4jOfguYQREGe0901Kvr4Qb9IuYWkmJjBnN_CXfZ3HwAbTF3kOSLv_RtiMtopbeZKBqbS8lsKM0uAsxDL3whDuUsKnWpzHyLeEHIyOnv3tTBWl3GblOv9hkllw2&amp;t=637799966054650478' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=AORR-MxdEomeGeeYPfyj6CfzmFEP5QrrMtega0v84IIucMpJkj0lzxcNhRDJPhn_b9P2fT5YOHcva0QYrUa-H-IDmiZLbCco5RXl_JyAgDKnDvGlcub-dubFiiHA9VrK6saycY8q3RfbF5QNeOsh50OMWOxhBL8Ds8wujFmUfpk1&amp;t=637799966054650478' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=RPvK0pu_BhTvUpXRA791lOG71zU_9Q4NOMqq7OSLs9w8SshGPMq-n7eDahvGAkt430x0plzv5q93_yVoslqpZq9Hr0_yp4wP63GuOnwU-mg__oH4Jggo5mvaKTjsR5PWXhciiBPbztF8qWk2PlJhaw2&amp;t=637799966054650478' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=eGhY9Oqu9ZlSU0QmL5dQtJbxeQKgsbPj_XKQrxouD-_4rx6Sb03MVct-s9VUBd8FMl2FZ1kPpG_irGEkp8OgSKGFX8Ltjbjm3QJwxdeN8hd5GF__dyWaqdy87QPK2OVzTJ8HtRZMYbn8G0r8BWPWHBrouYEXCnS9esjqwLI-tGO52OyaDWChv5QrzlWvCgEz0&amp;t=637799966056369172' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=ShVR55CFpZIaF1AnAx_tl_Q_vGiVkd9BmXGMuPs93NpM3e9w_6T6cF9E1wYuAnDCzfMGTeciAE2ZPTSEi46x4HiUcCDIMdWCPoKyNsRGenIs92JjKVCYHqlJrDCTFGSPnE63rH0RUvywvgJJUWL1_Q2&amp;t=637799966054650478' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=CP1_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3aceece802-cb39-4409-a6c9-bfa3b2c8bf10%3aea597d4b%3bTelerik.Web.UI%3aen-US%3af00be9f9-5d75-4a4b-891e-b5c0e5b2a8e2%3a16e4e7cd%3af7645509%3a22a6274a%3a33715776%3a24ee1bba%3ac128760b%3aa47717cc%3a411253b0%3a88144a7a%3aed16cbdc%3ae330518b%3a1e771326%3a8e6f0d33%3a1f3a7489%3a6a6d718d" type="text/javascript"></script>
+<script src="/runtime/scripts/modernizr-2.8.3.min.js" type="text/javascript"></script>
+<script src="Service.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAdriK4AlEuZIhu7tibbdjPLKPoViDC1dhGY/qFEdBPNjvUUQadOBAXEmpLIo2CBjyjA9U1i4sz4g2F6qLbE77AlfibrMljNDcg3rQProvQFc5JNHXnWWWbt0eUey3556/u30kfEQy+G889m63mz+QE03+NX2GOYJRUQ9kCSfKZ+64EjeSr4r9DrCwJdGpDZeIM=" />
+        <script type="text/javascript" src="/runtime/scripts/handlebars-v4.1.2.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/eztemplate.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/ezscroller.js"></script>
+        <div id="topnavwrapper" class="outercontainer floatleft topnavcolor clearfix">
+            <div id="topnav" class="innercontainer clearfix  no-border no-margin">
+                
+<input type="hidden" id="hdnModifiedDate" value="08/23/2024" />
+
+<script>
+    $telerik.getViewPortSize = function () {
+        var width = 0;
+        var height = 0;
+
+        var canvas = document.body;
+
+        if ((!$telerik.quirksMode && !$telerik.isSafari) ||
+            (Telerik.Web.Browser.chrome && Telerik.Web.Browser.version >= 61)) {
+            canvas = document.documentElement;
+        }
+
+        if (window.innerWidth) {
+            // Seems there's no completely reliable way to get the viewport size in Gecko, this should be the best one
+            // Check https://bugzilla.mozilla.org/show_bug.cgi?id=189112#c7
+            width = Math.max(document.documentElement.clientWidth, document.body.clientWidth);
+            height = Math.max(document.documentElement.clientHeight, document.body.clientHeight);
+
+            if (width > window.innerWidth)
+                width = document.documentElement.clientWidth;
+            if (height > window.innerHeight)
+                height = document.documentElement.clientHeight;
+        }
+        else {
+            width = canvas.clientWidth;
+            height = canvas.clientHeight;
+        }
+
+        width += canvas.scrollLeft;
+        height += canvas.scrollTop;
+
+        if ($telerik.isMobileSafari) {
+            width += window.pageXOffset;
+            height += window.pageYOffset;
+        }
+
+        return { width: width - 6, height: height - 6 };
+    }
+</script>
+<script src="/common/scripts/ezutilities.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/misc.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/jquery.smartmenus.js?v=8.0.0.1" type="text/javascript"></script>
+<script src="/runtime/scripts/jquery.smartmenus.keyboard.js?v=8.0.0.1" type="text/javascript"></script>
+<script src="/runtime/scripts/ezGallery.js?v=5.11.4.0" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit?v=5.11.4.0" type="text/javascript" async defer></script>
+<script src="/runtime/scripts/ezform.js?v=5.11.4.0" type="text/javascript"></script>
+<script src="/runtime/scripts/ezToggle.js?v=5.11.13.0" type="text/javascript"></script>
+
+
+
+
+
+
+<div class="rltbOverlay" style="display:none;">
+
+</div><div id="ctl00_CP1_ConfirmLightBox" class="RadLightBox RadLightBox_Default lb_feedback" style="position: fixed; left: 50%; top: 50%; display:none; z-index: 100001">
+	<!-- 2022.1.119.45 --><div class="rltbGlowEffect">
+
+	</div><div class="rltbClose">
+		<button type="button" title="Close" class="rltbActionButton rltbCloseButton"><span class="rltbIcon rltbCloseIcon"></span><span class="rltbButtonText">Close</span></button>
+	</div><div class="rltbWrapper">
+		<div class="rltbItemBox">
+			<input type="submit" name="ctl00$CP1$ConfirmLightBox$PrevButton" value="Prev" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CP1$ConfirmLightBox$PrevButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_CP1_ConfirmLightBox_PrevButton" title="Prev" class="rltbActionButton rltbPrevButton" style="display:none;" /><div class="rltbItemTemplate">
+				
+    <div class="ezCONFIRM">
+        <div class="ezCONFIRMin">
+	    <div id="formThankyou" class="thankyou">Thank You!</div><div id="divConfirmOriginal" style="display: none">Your information has been submitted!</div>
+            <div id="divConfirmMessage" class="message">Your information has been submitted!</div>
+        </div>
+        <div class="ezCONFIRMbuttons">
+            <div><input type="button" value="Close" class="button" title="Close" onclick="CloseConfirm()" /></div>
+        </div>
+    </div>
+            
+			</div><img class="rltbActiveImage" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D" alt="LightBox Active Image" /><input type="submit" name="ctl00$CP1$ConfirmLightBox$NextButton" value="Next" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CP1$ConfirmLightBox$NextButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_CP1_ConfirmLightBox_NextButton" class="rltbActionButton rltbNextButton" style="display:none;" />
+		</div><div class="rltbDescriptionBox rltbDescBottom">
+			<h4 class="rltbTitle"></h4><div class="rltbDescription"></div><span class="rltbPager">Image 1 of 1</span><div class="rltbToolbar">
+				<button class="rltbActionButton rltbMaximizeButton" title="Maximize image" type="button"><span class="rltbIcon rltbMaximizeIcon"></span><span class="rltbButtonText">Maximize image</span></button><button class="rltbActionButton rltbRestoreButton" title="Restore" type="button"><span class="rltbIcon rltbRestoreIcon"></span><span class="rltbButtonText">Restore image</span></button>
+			</div>
+		</div>
+	</div><div id="ctl00_CP1_ConfirmLightBox_LoadingPanel" class="RadAjax RadAjax_Default" style="display:none;">
+		<div class="raDiv">
+
+		</div><div class="raColor raTransp">
+
+		</div>
+	</div><input id="ctl00_CP1_ConfirmLightBox_ClientState" name="ctl00_CP1_ConfirmLightBox_ClientState" type="hidden" />
+</div>
+
+
+
+
+
+    <script type="text/javascript">
+        function nseFormData(c, c2, i, t) {
+            this.ClientID = c;
+            this.ClientID2 = c2;
+            this.Identity = i;
+            this.Type = t;
+            this.Value = "";
+        }
+        function OpenConfirm() {
+            var LightBox = $find("ctl00_CP1_ConfirmLightBox");
+            document.getElementById("formThankyou").innerHTML = "Thank You!";
+            LightBox.show();
+            //5.14.3.3
+            setTimeout(function () {
+                $("button[title='Close'").focus();
+            }, 800);
+        }
+        function OpenConfirmMessage(message) {
+            document.getElementById("formThankyou").innerHTML = "Thank You!";
+            document.getElementById("divConfirmMessage").innerHTML = message;
+            var LightBox = $find("ctl00_CP1_ConfirmLightBox");
+            LightBox.show();
+            //5.14.3.3
+            setTimeout(function () {
+                $("button[title='Close'").focus();
+            }, 800);
+        }
+        function OpenInvalidMessage(message) {
+            document.getElementById("formThankyou").innerHTML = "Sorry!";
+            document.getElementById("divConfirmMessage").innerHTML = message;
+            var LightBox = $find("ctl00_CP1_ConfirmLightBox");
+            LightBox.show();
+            //5.14.3.3
+            setTimeout(function () {
+                $("button[title='Close'").focus();
+            }, 800);
+        }
+        function CloseConfirm() {
+            var LightBox = $find("ctl00_CP1_ConfirmLightBox");
+            LightBox.hide();
+        }
+    </script>
+
+
+
+
+    <script type="text/javascript">
+        var Page_Validators;        //add this variable to fix the bug
+
+        function nse_onload() {
+            
+
+            var $lightActive = $(".rltbActiveImage");
+            if ($lightActive.length > 0) {
+                $lightActive.attr("alt", "LightBox Active");
+            }
+
+            var $buttonMax = $(".rltbActionButton.rltbMaximizeButton");
+            if ($buttonMax.length > 0) {
+                $buttonMax.attr("title", "Maximize");
+                $buttonTxt = $buttonMax.find(".rltbButtonText");
+                if ($buttonTxt.length > 0) {
+                    $buttonTxt.text("Maximize");
+                }
+            }
+
+            var $login = $("#login");
+            if ($login && $login.length > 0) {
+                $("#login").click(function () {
+                    document.location.href = "/tools/Page.aspx?id=56";
+                });
+            }
+        }
+        Sys.Application.add_load(nse_onload);
+    </script>
+
+
+
+<div class="widgettable">
+    
+            <div id="CP1_CR1_WB_0" class="widgetitem vertical-align-layout" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="CP1_CR1_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:72%;">
+        <div class="widgettable">
+                
+                        <div id="CP1_CR1_ctl00_0_CR1_0_WB_0" class="widgetitem topnav" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<div><a href="/page/homepage">HOME</a> &nbsp;&middot; &nbsp;<a href="/page/city.sitemaplist">SITEMAP</a> &nbsp;&middot; &nbsp;<a href="/page/contact_us">CONTACT US</a> &nbsp;&middot; &nbsp;<a href="https://translate.google.com/translate?hl=en&amp;sl=auto&amp;tl=es&amp;u=https%3A%2F%2Fwww.nolanvilletx.gov%2F">TRANSLATE</a></div>
+</div></div>
+                    
+        </div>
+    </div>
+
+    <div id="CP1_CR1_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:28%;">
+        <div class="widgettable">
+                
+                        <div id="CP1_CR1_ctl00_0_CR2_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="socialmedia">
+<a class="fa fa-facebook circle" aria-label="facebook"   href="https://www.facebook.com/KeepNolanvilleBeautiful/"></a>
+<a class="fa fa-twitter circle" aria-label="twitter"   href="https://twitter.com/citynolanville?lang=en"></a>
+</div>
+<div id="searchboxwrapper">
+            <div id="searchbox">
+            <div class="input-wrapper">
+            <input id="googleSearch" aria-label="Search Site" placeholder="SEARCH..." type="text" onkeydown="do_google_key(event)" onkeyup="do_google_keyup(event, this)" onkeypress="do_google_key(event)" />
+            <button type="submit" onclick="do_google_search(document.getElementById('googleSearch').value)"><img src="/templates/t_images/search.png" alt="Search Button Icon" aria-label="Search Button Icon" /></button>
+            </div>
+			</div>
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="headerwrapper" class="outercontainer floatleft clearfix">
+            <div id="header" class="innercontainer mobile-center clearfix no-margin">
+                
+<div class="widgettable">
+    
+            <div id="CP2_CR2_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+
+<div class="ezlayout2">
+    <div id="CP2_CR2_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:48%;">
+        <div class="widgettable">
+                
+                        <div id="CP2_CR2_ctl00_0_CR1_0_WB_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+                        <div id="CP2_CR2_ctl00_0_CR1_0_WB_1" class="widgetitem headerlogo" style="margin-top:0px;margin-bottom:0px;"><div id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_divImage_1" class="imagesizeitLeft">
+<a href="/page/homepage" id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_aImage_1"><h1><img src="/upload/shared/widgets/image/000041/HeaderLogo.png" id="CP2_CR2_ctl00_0_CR1_0_ctl00_1_imgImage_1" alt="Nolanville logo" class="Noimagesizeit" /></h1></a>
+</div>
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="CP2_CR2_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:52%;">
+        <div class="widgettable">
+                
+                        <div id="CP2_CR2_ctl00_0_CR2_0_WB_0" class="widgetitem header-slogan" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<p style="text-align: right;"><span class="header-slogan">Located in the heart of Central Texas, The City of Nolanville is a growing,<br />
+vibrant community that maintains a small town atmosphere.<br />
+</span>We strive to live up to our motto of&nbsp; "A Great Place to Live".</p>
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+            </div>
+        </div>
+
+        <div id="menuwrapper" class="outercontainer floatleft clearfix primarycolor">
+            <div id="menu" class="innercontainer clearfix no-border">
+                
+<div class="widgettable">
+    
+            <div id="CP3_CR3_WB_0" class="widgetitem mainmenu" style="margin-top:0px;margin-bottom:0px;">
+<!-- ezcrawl-ignore-start -->
+<div id="main-container-00424" class="main-menu-container" role="application"><nav class="main-nav" role="navigation">
+<input id="main-menu-state-00424" type="checkbox" class="main-menu-check" />
+<label id="main-menu-button-00424" class="main-menu-btn" for="main-menu-state-00424" tabindex="0"><span class="main-menu-btn-icon"></span>Toggle main menu visibility</label>
+<div class="nav-brand"><a class="nav-brand-text" href="#">Menu</a></div>
+<ul id="main-menu-00424" class="sm sm-clean">
+<li><a href="#">
+Government</a>
+<ul>
+<li><a href="/page/Council">
+Mayor & City Council Members</a>
+</li>
+<li><a href="/page/Boards_Commissions">
+Boards & Commissions</a>
+</li>
+<li><a href="http://www.nolanvilleedc.org" target="_blank">Economic Development Corporation</a>
+</li>
+<li><a href="/upload/page/0107/HOME RULE CHARTER  11-2020.pdf">
+City Charter (pdf)</a>
+</li>
+<li><a href="/page/Elections">
+Elections</a>
+</li>
+<li><a href="/page/Mayors Corner">
+Mayor's Corner</a>
+</li>
+</ul>
+</li>
+<li><a href="#">
+Departments</a>
+<ul>
+<li><a href="/page/Department_Police">
+Police Department</a>
+</li>
+<li><a href="/page/Public Safety">
+Public Safety (Fire & EMS)</a>
+</li>
+<li><a href="/page/Department_Public_Works">
+Public Works</a>
+</li>
+<li><a href="/page/Department_Animal_Control">
+Animal Control</a>
+</li>
+<li><a href="/page/Department_Administration">
+Administration</a>
+</li>
+<li><a href="/page/Department_Municipal_Court">
+Municipal Court</a>
+</li>
+<li><a href="/page/Utilities">
+Utilities</a>
+</li>
+<li><a href="/page/JW Sims Community Center">
+SMART Museum</a>
+</li>
+</ul>
+</li>
+<li><a href="#">
+Community</a>
+<ul>
+<li><a href="/page/Special Events">
+Special Events</a>
+</li>
+<li><a href="/page/The Item City Of Nolanville Newsletter">
+The Item: City Of Nolanville Newsletter</a>
+</li>
+<li><a href="/page/Food Truck Program">
+Food Truck Program</a>
+</li>
+<li><a href="/page/Virtual Public Hearing - Neighborhood Empowerment Zone">
+Neighborhood Reinvestment Zone</a>
+</li>
+<li><a href="/page/Nolanville Art Program">
+Public Art Program</a>
+</li>
+<li><a href="http://online.fliphtml5.com/sdxva/zoxa/#p=1" target="_blank">City Guide</a>
+</li>
+<li><a href="/page/Boys and Girls Club">
+Boys & Girls Club of Central Texas</a>
+</li>
+<li><a href="/page/city.park">
+Parks and Recreation</a>
+</li>
+<li><a href="/page/Tree Tribute Program">
+Tree Tribute Program</a>
+</li>
+<li><a href="/page/Volunteers">
+Volunteers</a>
+</li>
+<li><a href="/page/History of Nolanville">
+Nolanville History</a>
+</li>
+</ul>
+</li>
+<li><a href="/page/Stay_Current">
+Service Requests</a>
+<ul>
+<li><a href="/page/ City Reservations microsoft bookings option">
+City Reservations</a>
+</li>
+<li><a href="/page/Bulk Pick Up">
+Bulk Trash Pick-Up Request</a>
+</li>
+<li><a href="/page/Community Resources">
+Community Resources</a>
+</li>
+<li><a href="/page/EndeavRide">
+Senior & Disabled Resident Information</a>
+</li>
+</ul>
+</li>
+<li><a href="#">
+Quicklinks</a>
+<ul>
+<li><a href="/page/city.agendas_minutes">
+Agendas & Minutes</a>
+</li>
+<li><a href="/page/Capital Improvement Plan">
+Capital Improvement Plan</a>
+</li>
+<li><a href="/page/Financial Transparency">
+City Budget</a>
+</li>
+<li><a href="/page/Calendar">
+City Calendar</a>
+</li>
+<li><a href="/page/Contact_us">
+City Contacts</a>
+</li>
+<li><a href="/page/Maps">
+City Maps</a>
+</li>
+<li><a href="/page/Ordinance Codification">
+Code of Ordinances</a>
+</li>
+<li><a href="/page/Virtual Public Hearing -Comprehensive Plan">
+Comprehensive Plan</a>
+</li>
+<li><a href="https://www.nolanvilleedc.org">
+Economic Development</a>
+</li>
+<li><a href="/page/Employment">
+Employment</a>
+</li>
+<li><a href="/page/Financial Transparency">
+Financial Transparency</a>
+</li>
+<li><a href="/page/Forms_Permits">
+Planning & Development</a>
+</li>
+<li><a href="/page/My Nolanville App">
+My Nolanville App</a>
+</li>
+<li><a href="/page/Nolan Creek Matters">
+Nolan Creek Matters</a>
+</li>
+<li><a href="/page/Public_Notices">
+Public Notices</a>
+</li>
+<li><a href="/page/Recycling">
+Recycle Information</a>
+</li>
+<li><a href="/page/city.useful_links">
+Useful Links</a>
+</li>
+</ul>
+</li>
+<li><a href="#">
+How Do I...</a>
+<ul>
+<li><a href="/page/Report_Concerns">
+Provide Feedback - Engage</a>
+</li>
+<li><a href="/page/Public Information Act" target="_blank">Request Public Information</a>
+</li>
+<li><a href="/page/Engage">
+Volunteer</a>
+</li>
+<li><a href="/page/city.about_nolanville">
+About Us</a>
+</li>
+<li><a href="/page/Contact_Us">
+Contact Us</a>
+</li>
+</ul>
+</li>
+</ul></nav></div>
+
+
+
+    <script type="text/javascript">
+        $(function () {
+            $('#main-menu-00424').smartmenus({
+                mainMenuSubOffsetX: 0,
+                mainMenuSubOffsetY: 0,
+                subMenusSubOffsetX: 6,
+                subMenusSubOffsetY: -6           
+            });
+            var $mainMenuState = $('#main-menu-state-00424');
+            if ($mainMenuState.length) {
+                var $hanmbg = $('#main-container-00424').find(".main-nav");
+                // animate mobile menu
+                $mainMenuState.change(function (e) {
+                    var $menu = $('#main-menu-00424');
+                    if (this.checked) {
+                        $menu.hide().slideDown(250, function () { $menu.css('display', ''); });
+                        if ($hanmbg.length) {
+                            $hanmbg.addClass("main-nav-expanded");
+                            $("body").addClass("overflow-hidden");
+                        }
+                    } else {
+                        $menu.show().slideUp(250, function () { $menu.css('display', ''); });
+                        if ($hanmbg.length) {
+                            $hanmbg.removeClass("main-nav-expanded");
+                            $("body").removeClass("overflow-hidden");
+                        }
+                    }
+                });
+                // hide mobile menu beforeunload
+                $(window).bind('beforeunload unload', function () {
+                    if ($mainMenuState[0].checked) {
+                        $mainMenuState[0].click();
+                    }
+                });
+                $('#main-menu-button-00424').keyup(function (e) {
+                    if (e.keyCode == 13 || e.keyCode == 49) {
+                        $mainMenuState[0].click();
+                    }
+                });
+                $('#main-container-00424').keyup(function (e) {
+                    if (e.keyCode == 27) {
+                        if ($mainMenuState[0].checked) {
+                            $mainMenuState[0].click();
+                        }
+                    }
+                });
+                var maa = $("#main-menu-00424 a");
+                if (maa.length > 1) {
+                    $(maa[maa.length - 1]).focusout(function () {
+                        if ($mainMenuState[0].checked) {
+                            $mainMenuState[0].click();
+                        }
+                    });
+                }
+                var mtt = $("#main-menu-00424 > li > a");
+                if (mtt.length > 1) {
+                    $(mtt[mtt.length - 1]).focusout(function () {
+                        if ($(mtt[mtt.length - 1]).attr("aria-expanded") == "false") {
+                            if ($mainMenuState[0].checked) {
+                                $mainMenuState[0].click();
+                            }
+                        }
+                    });
+                }
+            }
+        });
+    </script>
+
+<!-- ezcrawl-ignore-end -->
+</div>
+        
+</div>
+
+            </div>
+        </div>
+        <div id="slideshowwrapper" class="outercontainer floatleft clearfix no-margin no-border">
+            
+<div class="widgettable">
+    
+            <div id="CP5_CR5_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP5_CR5_ctl00_0_divGallery_0" style="width: 100%" class="ezrotatorwrapper delay ezgallery" role="application" aria-label="Gallery">
+    <div class="loaderwrapper ezloaderwrapper">
+        <div class="ezloaderbkg">
+            <div class="ezCSSloader"></div>
+        </div>
+    </div>
+    <div class="callbacks_container">
+    <ul id="slider718" class="callbacks">
+        
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_0" data-lazy="/upload/page/0056/widgets/gallery/000718/Banners 2024 council.png" data-alt=""><span class="imageWrapper" data-href="javascript:void(0)" data-target=""></span>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_0" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_0" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_1" data-lazy="/upload/page/0056/widgets/gallery/000718/this one.png" data-alt="the City of Nolanville"><a href="https://www.nolanvilletx.gov/page/The%20Item%20City%20Of%20Nolanville%20Newsletter" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/this one.png" alt="Nolanville Community Newsletter" title="Nolanville Community Newsletter" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_1" class="ezcaptiontitle">Extra Extra <br />Read All About It</span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_1" class="ezcaption">Nolanville Community Newsletter</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_2" data-lazy="/upload/page/0056/widgets/gallery/000718/Banner Photo.png" data-alt="The City of Nolanville"><a href="/upload/page/0056/18040 CITY GUIDE high resolution.pdf" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/Banner Photo.png" alt="UPDATED NOLANVILLE CITY GUIDES ARE AVAILABLE NOW" title="UPDATED NOLANVILLE CITY GUIDES ARE AVAILABLE NOW" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_2" class="ezcaptiontitle">CITY GUIDE</span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_2" class="ezcaption">UPDATED NOLANVILLE CITY GUIDES ARE AVAILABLE NOW</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_3" data-lazy="/upload/page/0056/widgets/gallery/000718/slide1.jpg" data-alt="The City of Nolanville"><a href="/upload/page/0056/Budget and State of the City 8.15.2024.pdf" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/slide1.jpg" alt="BUDGET SUMMARY, FISCAL YEAR 2024-2025" title="BUDGET SUMMARY, FISCAL YEAR 2024-2025" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_3" class="ezcaptiontitle">State of the City</span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_3" class="ezcaption">BUDGET SUMMARY, FISCAL YEAR 2024-2025</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_4" data-lazy="/upload/page/0056/widgets/gallery/000718/slide3.jpg" data-alt="The City of Nolanville"><a href="https://www.nolanvilletx.gov/page/Sign_Up_Alerts" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/slide3.jpg" alt="City Updates and Assistance" title="City Updates and Assistance" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_4" class="ezcaptiontitle">Weather Response</span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_4" class="ezcaption">City Updates and Assistance</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_5" data-lazy="/upload/page/0056/widgets/gallery/000718/My Nolanville App Banner-2.png" data-alt="The City of Nolanville"><a href="https://www.nolanvilletx.gov/page/My%20Nolanville%20App" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/My Nolanville App Banner-2.png" alt="Download Now" title="Download Now" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_5" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_5" class="ezcaption">Download Now</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_6" data-lazy="/upload/page/0056/widgets/gallery/000718/fox trot banner new-2.png" data-alt="smart awards"><a href="/page/smart50" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/fox trot banner new-2.png" title="" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_6" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_6" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_7" data-lazy="/upload/page/0056/widgets/gallery/000718/Banners new2024 events.png" data-alt="Special Events"><a href="https://www.nolanvilletx.gov/page/Special%20Events" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/Banners new2024 events.png" alt="See here" title="See here" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_7" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_7" class="ezcaption">See here</span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_8" data-lazy="/upload/page/0056/widgets/gallery/000718/ESPORTS LEAGUE.png" data-alt=""><a href="runtime/widgets/www.nolanvillesmartmuseum.com" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/ESPORTS LEAGUE.png" title="" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_8" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_8" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_9" data-lazy="/upload/page/0056/widgets/gallery/000718/Red Blue Voter Registration Flyer.png" data-alt=""><a href="https://www.nolanvilletx.gov/page/Elections" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/Red Blue Voter Registration Flyer.png" title="" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_9" class="ezcaptiontitle"></span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_9" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+                <li id="CP5_CR5_ctl00_0_rptGallery_0_imgData_10" data-lazy="/upload/page/0056/widgets/gallery/000718/Banners new.png" data-alt=""><a href="https://www.nolanvilletx.gov/page/article/290" target="_blank" class="imageWrapper"><img src="/upload/page/0056/widgets/gallery/000718/Banners new.png" title="" /></a>
+                    <p class="ezcaptionwrapper">
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgTitle_10" class="ezcaptiontitle">More Info</span>
+                        <span id="CP5_CR5_ctl00_0_rptGallery_0_imgCaption_10" class="ezcaption"></span>
+                    </p>
+                </li>
+            
+    </ul>
+    </div>
+    <div id="sr-notification" class="sr-only" role="alert">Active slide image alt text will be announced here</div>
+    
+        <script type="text/javascript">
+            $(function () {
+                $("#slider718").ezSlideshow ({
+                    timeout: 4000,
+                    animation: "fadeOut",
+                    maxHeight: 0,
+                    imageSize: "actual",
+                    auto: true,
+                    random: false,
+                    navigation: false,
+                    thumbnails: false
+                });
+            });
+
+        </script>
+    
+</div>
+</div>
+        
+</div>
+
+        </div>
+        <div id="contentwrapper" class="outercontainer floatleft clearfix">
+            <div id="buttonswrapper" class="sectionA outercontainer floatleft clearfix">
+                <div id="buttonswrapperin" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP8_CR8_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"> <div class="stretch-btn-group">
+  <div class="ezbutton">
+   <a href="/page/city.agendas_minutes" target="_blank">
+    <div><img src="/upload/page/0056/images/btn_agendas.png" alt="Agenda and Minutes button"></div>
+    <span>AGENDAS &<br>MINUTES</span>
+   </a>
+  </div>
+  <div class="ezbutton">
+   <a href="/page/Online Services" target="_blank">
+    <div><img src="/upload/page/0056/images/btn_ordinances.png" alt="Online Applications button"></div>
+    <span>ONLINE<BR>APPLICATIONS</span>
+   </a>
+  </div>
+  <div class="ezbutton">
+   <a href="/page/Report_Concerns" target="_blank">
+    <div><img src="/upload/page/0056/images/btn_report.png" alt="Report a Concern button"></div>
+    <span>REPORT A<BR>CONCERN</span>
+   </a>
+  </div>
+  <div class="ezbutton">
+   <a href="https://www.municipalonlinepayments.com/nolanvilletx/court/search" target="_blank">
+     <div><img src="/upload/page/0056/images/btn_payonline.png" alt="Pay Ticket Online button"></div>
+     <span>PAY TICKET<BR>ONLINE</span>
+     </a>
+  </div>
+    <div class="ezbutton">
+    <a href="/page/Stay_Current" target="_blank">
+      <div><img src="/upload/page/0056/images/btn_news.png" alt="Stay Current button"></div>
+      <span>STAY<BR>CURRENT</span>
+     </a>
+  </div>
+  </div></div>
+        
+</div>
+
+                  </div>   
+                </div>
+            </div>
+            <div id="newswrapper" class="section outercontainer floatleft clearfix">
+                <div id="newswrapperin" class="section-inner innercontainer clearfix" data-aos="fade-right" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP6_CR6_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading1">News &amp; Announcements<br />
+</span>
+</div></div>
+        
+            <div id="CP6_CR6_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><!-- Where the RSS Feed Will Be Rendered -->
+<div id="NewsContainer5"></div>
+<div id="newsbtns">
+  <a href="javascript:void(0)" id="prev" class="ion-arrow-left-b"></a> <a href="javascript:void(0)" id="next" class="ion-arrow-right-b"></a>
+</div>
+<!-- The Template for Each RSS Item -->
+<script id="NewsTemplate5" type="text/template">
+  <div class="customrss5__item">
+    <div class="customrss5__item__padding">
+      <div class="customrss5__header">
+        <div class="customrss5__thumbnail">
+          {{#if thumbnail}}
+          <img src="{{{thumbnail}}}" alt="Thumbnail for {{title}}" /> {{else}}
+          <img src="https://cdn2.iconfinder.com/data/icons/emoji-outline-1/32/emoji-icon-08-512.png" alt="No thumbnail found for {{title}}" /> {{/if}}
+        </div>
+      </div>
+      <div class="customrss5__content">
+
+        <div class="customrss5__title" title="{{title}}">{{title}}</div>
+        <div class="customrss5__date"><span class="ion-calendar"></span><span>{{date}} {{monthLong}}</span></div>
+        <div class="customrss5__description">{{descriptionText}}</div>
+        <div class="customrss5__readmore"><a href="{{{link}}}" title="Visit article">Read more</a></div>
+      </div>
+    </div>
+  </div>
+</script>
+<script type="text/javascript">
+  (function() {
+    var feed = new EZTemplate("https://www.nolanvilletx.gov/json/communicator/1103/6", "#NewsTemplate5", "#NewsContainer5");
+    // This code below is used to enable the scrolling rss feed
+    feed.afterRender(function($element) {
+      $element.ezScroller({
+        direction: "horizontal",
+        speed: 500,
+        timeout: 15000,
+        auto: true,
+        nextButton: $("#next"),
+        prevButton: $("#prev")
+      });
+    });
+  })();
+
+</script></div>
+        
+            <div id="CP6_CR6_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p style="text-align: center;"><span class="btn1b"><a href="/page/home.news">View All the News</a></span></p>
+</div></div>
+        
+</div>
+
+                </div>
+            </div>
+            <div id="midsection" class="section outercontainer floatleft clearfix gray-section">
+                <div id="midsectionin" class="section-inner innercontainer clearfix" data-aos="fade-right" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP9_CR9_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading1">Good Things to Know...</span>
+</div></div>
+        
+            <div id="CP9_CR9_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout3">
+    <div id="CP9_CR9_ctl00_1_ezCol1_1" class="ezlayout3Col1" style="width:29%;">
+            <div class="widgettable">
+                
+                        <div id="CP9_CR9_ctl00_1_CR1_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="eztoggleWrapper">
+<ul class="accordion css-accordion">
+<li class="accordion-item">
+<input name="ctl00$CP9$CR9$ctl01$ctl00$CR1$ctl00$ctl00$chkToggle" type="checkbox" id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_chkToggle_0" aria-describedby="instructions" class="accordion-item-input" aria-expanded="false" />
+<label for="CP9_CR9_ctl00_1_CR1_1_ctl00_0_chkToggle_0" class="accordion-item-hd">
+<span id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_lblTitle_0">Subscribe to Our Newsletter</span>
+<span class="accordion-item-hd-cta">&#9650;</span>
+</label>
+<div class="accordion-item-bd">
+    <div class="widgettable">
+        
+                  <div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+Receive periodic Nolanville Updates to your email.&nbsp; Sign Up Below
+</div></div>
+            
+                  <div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_WB_1" class="widgetitem" style="margin-top:0px;margin-bottom:5px;"><div id="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1" class="RadTabStrip RadTabStrip_MetroTouch RadTabStripTop_MetroTouch RadTabStripTop" style="display:none;">
+	<div class="rtsLevel rtsLevel1">
+		<ul class="rtsUL"><li class="rtsLI rtsFirst rtsLast"><a class="rtsLink rtsSelected" href="#"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">tab1</span></span></span></a></li></ul>
+	</div><input id="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1_ClientState" name="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1_ClientState" type="hidden" />
+</div>
+<div id="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1" class="RadMultiPage RadMultiPage_Metro">
+	<div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_page1_1" class="rmpView">
+		
+
+    <div class="widgettable">
+        
+                        <div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+                                <div><span id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_lblLabel_0" class="ezFRMhead">Email:</span>
+
+<div><input name="ctl00$CP9$CR9$ctl01$ctl00$CR1$ctl00$ctl00$ContentRepeater1$ctl01$ctl00$ctl01$CR1$ctl00$ctl00$txtText" type="text" id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_txtText_0" class="ezFRMtextbox" aria-label="Email:" /></div>
+
+<div></div>
+</div>
+                        </div>
+            
+                        <div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+                                <div><div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_recaptcha_element_1"></div>
+<div><input name="ctl00$CP9$CR9$ctl01$ctl00$CR1$ctl00$ctl00$ContentRepeater1$ctl01$ctl00$ctl01$CR1$ctl01$ctl00$hdnRecap" type="text" id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_hdnRecap_1" style="display:none" /></div>
+<input name="ctl00$CP9$CR9$ctl01$ctl00$CR1$ctl00$ctl00$ContentRepeater1$ctl01$ctl00$ctl01$CR1$ctl01$ctl00$cmdSubmit" type="button" id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_cmdSubmit_1" value="Submit" Class="ezFRMbutton" title="Submit" onclick="SubmitForm_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1(1)" />
+
+<div id="CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_captchaScript_1">
+<script type='text/javascript'>
+    captchas.push('CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_recaptcha_element_1');
+    function checkRecap_772() {
+        var hdnRecapVal = document.getElementById('CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_hdnRecap_1');
+        hdnRecapVal.value = '';
+        for(var i = 0; i < captchas.length; i++) {
+            if (captchas[i] == 'CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_1_recaptcha_element_1') {
+                    hdnRecapVal.value = grecaptcha.getResponse(i);
+            }
+        }
+        return hdnRecapVal.value;
+    }
+</script>
+</div>
+</div>
+                        </div>
+            
+    </div>
+
+	</div><input id="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1_ClientState" name="ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1_ClientState" type="hidden" />
+</div>
+
+    <script type="text/javascript">
+        function SelectTab_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1(i, group) {
+            if (Page_ClientValidate("group772" + i)) {
+                var tabStrip = $find("ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1");
+                var tabs = tabStrip.get_tabs();
+                tabs.getTab(i).select();
+            }
+        }
+        function SubmitForm_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1(i) {
+            var capData = '';
+            if (grecaptcha) {
+                capData = checkRecap_772();
+            }
+            if (Page_ClientValidate("group772" + i)) {
+                var formdata = [];
+                 formdata.push(new nseFormData('CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_txtText_0', 'CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_txtText2_0', 773, 3)); 
+                if (formdata.length > 0) {
+                    for (var i = 0; i < formdata.length; i++) {
+                        var f = formdata[i];
+                        if (f.Type == 1 || f.Type == 2 || f.Type == 3 || f.Type == 4) {
+                            f.Value = document.getElementById(f.ClientID).value;
+                        }
+                        else if (f.Type == 5 || f.Type == 6) {
+                            var v = "";
+                            var o = document.getElementById(f.ClientID);
+                            var oo = o.getElementsByTagName("input");;
+                            for (var j = 0; j < oo.length; j++) {
+                                if (oo[j].checked)
+                                    v = v + oo[j].value + ",";
+                            }
+                            f.Value = v;
+                        }
+                    }
+                }
+                nse7._0.Service.SubmitForm(56, 772, 0, formdata, capData, FormSuccess_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1)
+            }
+        }
+        function FormSuccess_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1(result) {
+            if (result) {
+                ResetForm_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1(); OpenConfirm();
+            }
+            else if (grecaptcha) {
+                OpenInvalidMessage("Invalid request.");
+            }
+
+            if (grecaptcha)
+                grecaptcha.reset();
+        }
+        function ResetForm_CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1() {
+            var tabStrip = $find("ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1");
+            var tabs = tabStrip.get_tabs();
+            tabs.getTab(0).select();
+            var formdata = [];
+             formdata.push(new nseFormData('CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_txtText_0', 'CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_ctl01_1_CR1_1_ctl00_0_txtText2_0', 773, 3)); 
+            if (formdata.length > 0) {
+                for (var i = 0; i < formdata.length; i++) {
+                    var f = formdata[i];
+                    if (f.Type == 1 || f.Type == 2 || f.Type == 4) {
+                        document.getElementById(f.ClientID).value = "";
+                    }
+                    else if (f.Type == 3) {
+                        document.getElementById(f.ClientID).value = "";
+                        var c2 = document.getElementById(f.ClientID2);
+                        if (c2)
+                            c2.value = "";
+                    }
+                    else if (f.Type == 5 || f.Type == 6) {
+                        var o = document.getElementById(f.ClientID);
+                        var oo = o.getElementsByTagName("input");;
+                        for (var j = 0; j < oo.length; j++) {
+                            oo[j].checked = false;
+                        }
+                    }
+                }
+            }
+            document.getElementById("divConfirmMessage").innerHTML = document.getElementById("divConfirmOriginal").innerHTML;
+        }
+    </script>
+
+</div>
+            
+    </div>
+</div>
+</li>
+</ul>
+       <p id="announce" aria-live="polite" class="sr-only"></p>
+       <p id="instructions" class="sr-only">Press the enter key or spacebar to expand or collapse the accordion</p>
+</div>
+</div>
+                    
+                        <div id="CP9_CR9_ctl00_1_CR1_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="btn4"><strong><a href="https://public.coderedweb.com/CNE/en-US/BF492953C6A4" target="_blank">Sign-UP</a></strong><a href="https://public.coderedweb.com/CNE/en-US/BF492953C6A4" target="_blank"> for Alerts</a></span>
+</div></div>
+                    
+                        <div id="CP9_CR9_ctl00_1_CR1_1_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div class="widgettable">
+        
+                  <div id="CP9_CR9_ctl00_1_CR1_1_ctl00_2_CR1_2_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP9_CR9_ctl00_1_CR1_1_ctl00_2_CR1_2_ctl00_0_divImage_0" class="imagesizeit">
+<a id="CP9_CR9_ctl00_1_CR1_1_ctl00_2_CR1_2_ctl00_0_aImage_0"><img src="/upload/page/0056/widgets/image/000777/Silver proud logo no background.png" id="CP9_CR9_ctl00_1_CR1_1_ctl00_2_CR1_2_ctl00_0_imgImage_0" alt="Scenic City" /></a>
+</div>
+</div>
+            
+    </div>
+</div>
+</div>
+                    
+            </div>
+    </div>
+    <div id="CP9_CR9_ctl00_1_ezCol2_1" class="ezlayout3Col2" style="width:28%;">
+            <div class="widgettable">
+                
+                        <div id="CP9_CR9_ctl00_1_CR2_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="CP9_CR9_ctl00_1_CR2_1_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:61%;">
+        <div class="widgettable">
+                
+        </div>
+    </div>
+
+    <div id="CP9_CR9_ctl00_1_CR2_1_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:39%;">
+        <div class="widgettable">
+                
+        </div>
+    </div>
+</div>
+
+</div>
+                    
+            </div>
+    </div>
+    <div id="CP9_CR9_ctl00_1_ezCol3_1" class="ezlayout3Col3" style="width:43%;">
+            <div class="widgettable">
+                
+                        <div id="CP9_CR9_ctl00_1_CR3_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="HeadingBlock">Facebook</span>
+</div></div>
+                    
+                        <div id="CP9_CR9_ctl00_1_CR3_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="yrI4FBJS"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/KeepNolanvilleBeautiful/" data-tabs="timeline" data-width="" data-height="400px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/KeepNolanvilleBeautiful/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/KeepNolanvilleBeautiful/">Keep Nolanville Beautiful</a></blockquote></div></div>
+                    
+                        <div id="CP9_CR9_ctl00_1_CR3_1_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="CP9_CR9_ctl00_1_CR3_1_ctl00_2_divImage_2" class="imagesizeitLeft">
+<a id="CP9_CR9_ctl00_1_CR3_1_ctl00_2_aImage_2"><img src="/upload/page/0056/widgets/image/000776/Gold Star 2023.jpg" id="CP9_CR9_ctl00_1_CR3_1_ctl00_2_imgImage_2" alt="Gold Star" class="Noimagesizeit" /></a>
+</div>
+</div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+</div>
+
+                </div>
+            </div>
+            <div id="upcomingevents" class="section outercontainer floatleft clearfix">
+                <div id="upcomingeventsin" class="section-inner innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-up" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+                    
+<div class="widgettable">
+    
+            <div id="CP4_CR4_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><script src="https://marketingsuite.verticalresponse.com/c/IouAyMKgnjyz0pbfIyGZSw.js"></script></div>
+        
+            <div id="CP4_CR4_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading1">Upcoming Events<br />
+</span>
+</div></div>
+        
+            <div id="CP4_CR4_WB_2" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+    <!-- ezcrawl-ignore-start -->
+    <div id="CP4_CR4_ctl00_2_ezrssfeed_2" class="ezrssfeed">
+        <div id="ezrssfeedin" class="ezrssfeedin ezrssfeedin--loading">
+            <div class="ezrssfeedloaderwrapper">
+                <div class="ezrssfeedloader">
+                    <div class="bounce1"></div>
+                    <div class="bounce2"></div>
+                    <div class="bounce3"></div>
+                </div>
+            </div>
+            <div class="ezrssfeedcontent"></div>
+        </div>
+    </div>
+
+    <style media="screen">
+        .ezrssfeed {
+            position: relative;
+            z-index: 1;
+        }
+
+        .ezmorelink:hover {
+            cursor: pointer;
+        }
+
+        .ezimagelink:hover {
+            cursor: default;
+        }
+
+        .ezrssfeed .ezimage a img,
+        .ezrssfeed .ezimage a img:hover {
+            transform: none;
+        }
+
+        .ezrssfeedin--loading {
+            min-height: 200px;
+            position: relative;
+        }
+
+        .ezrssfeedloaderwrapper {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            /* background: rgba(255, 255, 255, 0.6); */
+            z-index: 9999;
+            opacity: 0;
+            transition-delay: 1s;
+        }
+
+        .ezrssfeedin--done .ezrssfeedloaderwrapper {
+            transition-delay: 0s;
+            display: none;
+        }
+
+        .ezrssfeedin--loading .ezrssfeedloaderwrapper {
+            -webkit-animation: delay-loader 1s linear forwards;
+            animation: delay-loader 1s linear forwards;
+        }
+
+        .ezrssfeedloader {
+            position: absolute;
+            top: 56%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 35px;
+            box-shadow: 2px 2px 14px -2px rgba(0, 0, 0, 0.15);
+            height: 16px;
+            border: 1px solid #bbb;
+            border-radius:5px;
+	    white-space: nowrap;
+        }
+
+        .ezrssfeedloader>div {
+            width: 12px;
+            height: 12px;
+            background-color: #666;
+            border-radius: 100%;
+            display: inline-block;
+            -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+            animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+        }
+
+        .ezrssfeedloader .bounce1 {
+            -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s;
+        }
+
+        .ezrssfeedloader .bounce2 {
+            -webkit-animation-delay: -0.16s;
+            animation-delay: -0.16s;
+        }
+
+        @-webkit-keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0)
+            }
+            40% {
+                -webkit-transform: scale(1.0)
+            }
+        }
+
+        @keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0);
+                transform: scale(0);
+            }
+            40% {
+                -webkit-transform: scale(1.0);
+                transform: scale(1.0);
+            }
+        }
+
+        @keyframes delay-loader {
+            0% {
+                opacity: 0;
+            }
+            99% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+    <script type="text/javascript">
+        (function() {
+            var calUrl = "/page/calrss/1068/52/calendar.rss?CT=3&CD=5&PD=1539&NW=0&AG=1";
+            var $calendar = $("#CP4_CR4_ctl00_2_ezrssfeed_2");
+
+            function InitControls() {
+                console.log($calendar);
+                var $feed = $calendar.find(".ezrssfeedcontent");
+                var $horizontalFeed = $feed.find(".ezrss-horizontal");
+                var $rssItems = $calendar.find(".ezitem");
+                $rssItems.each(function() {
+                    //Gets the RSS URL and links it to the "Read more" span tag.
+                    var linkEl = $(this).find(".eztitlelink");
+                    var href = linkEl.attr("href");
+                    var target = linkEl.attr("target");
+                    var readmore = $(this).find(".ezmorelink");
+                    readmore.on("click", function() {
+                        if (target) window.open(href);
+                        else window.location = href;
+                    });
+                });
+                if ($horizontalFeed.length) {
+                    var $events = $horizontalFeed.find(".ezrss-item");
+                    var tallest = 0;
+                    if ($events.length) {
+                        for (var j = 0; j < $events.length; j++) {
+                            if ($events[j].clientHeight > tallest) tallest = $events[j].clientHeight; //Find the event with the tallest height
+                        }
+                        for (var k = 0; k < $events.length; k++) {
+                            $events[k].style.height = tallest + "px"; //Apply the tallest height to all of the events
+                        }
+                    }
+                }
+            }
+
+            function GetCalendar() {
+                var $isNotObject = $calendar.find(".ezrssfeedin");
+                if ($isNotObject.length) {
+                    $isNotObject.addClass("ezrssfeedin--loading");
+                } else {
+                    var $child = $calendar.children().eq(0);
+                    $child.wrap("<div class='ezrssfeedin ezrssfeedin--loading'></div>").wrap("<div class='ezrssfeedcontent'></div>");
+                    $calendar.find(".ezrssfeedin--loading").prepend('<div class="ezrssfeedloaderwrapper"> <div class="ezrssfeedloader"> <div class="bounce1"></div> <div class="bounce2"></div> <div class="bounce3"></div> </div> </div>');
+                }
+                $.ajax({
+                    type: 'GET',
+                    url: calUrl,
+                    dataType: "html",
+                    async: true,
+                    cache: false,
+                    success: function(data) {
+                        if ($isNotObject.length) {
+                            $isNotObject.addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                            $calendar.find(".ezrssfeedcontent").html(data);
+                            InitControls();
+                        } else {
+                            $("#CP4_CR4_ctl00_2_ezrssfeed_2").html(data).find(".ezrssfeedin").addClass("ezrssfeedin--done").removeClass("ezrssfeedin--loading");
+                        }
+                    }
+                });
+            }
+
+            if (calUrl)
+                setTimeout(GetCalendar, 200);
+            else
+                InitControls();
+
+        })();
+    </script>
+    <!-- ezcrawl-ignore-end -->
+</div>
+        
+            <div id="CP4_CR4_WB_3" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p style="text-align: center;"><span class="btn1b"><a href="/page/calendar">See All Events</a></span></p>
+</div></div>
+        
+</div>
+
+                  </div>
+                </div>
+            </div>
+        </div>
+        <!--End of ContentWrapper-->
+
+        <div id="footerwrapper" class="outercontainer floatleft primarycolor">
+            <div id="footer" class="innercontainer clearfix">
+                  <div class="clearfix" data-aos="fade-in" data-aos-once="true" data-aos-duration="600" data-aos-easing="linear">
+					
+<div class="widgettable">
+    
+            <div id="CP10_CR10_WB_0" class="widgetitem weatherwidget" style="margin-top:5px;margin-bottom:5px;"><a class="weatherwidget-io" href="https://forecast7.com/en/31d08n97d61/nolanville/?unit=us" data-label_1="NOLANVILLE" data-label_2="WEATHER" data-theme="original" data-basecolor="#003462" >NOLANVILLE WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script></div>
+        
+</div>
+
+                    
+<div class="widgettable">
+    
+            <div id="CP7_CR7_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<hr />
+</div></div>
+        
+            <div id="CP7_CR7_WB_1" class="widgetitem" style="margin-top:20px;margin-bottom:5px;">
+
+<div class="ezlayout3">
+    <div id="CP7_CR7_ctl00_1_ezCol1_1" class="ezlayout3Col1" style="width:34%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR1_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p><span class="Heading3" style="font-size: 20px; color: #5aa6db;">CONNECT WITH US</span></p>
+City Hall<br />
+101 North 5th Street<br />
+Nolanville, TX 76559<br />
+Phone: (254) 698-6335<br />
+Fax (254) 698-2540
+<p>&nbsp;</p>
+</div></div>
+                    
+                        <div id="CP7_CR7_ctl00_1_CR1_1_WB_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="CP7_CR7_ctl00_1_CR1_1_ctl00_1_ezCol1_1" class="ezlayout2Col1" style="width:50%;">
+        <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR1_1_ctl00_1_CR1_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><a href="javascript:void(0)" id="login" class="ezStaffLogin" >Staff Login</a><br>
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="CP7_CR7_ctl00_1_CR1_1_ctl00_1_ezCol2_1" class="ezlayout2Col2" style="width:50%;">
+        <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR1_1_ctl00_1_CR2_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="ezStaffLogin"><a href="/page/web-accessibility">Accessibility</a></span>
+<p>&nbsp;</p>
+</div></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_1_ezCol2_1" class="ezlayout3Col2" style="width:1%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR2_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+
+</div></div>
+                    
+            </div>
+    </div>
+    <div id="CP7_CR7_ctl00_1_ezCol3_1" class="ezlayout3Col3" style="width:65%;">
+            <div class="widgettable">
+                
+                        <div id="CP7_CR7_ctl00_1_CR3_1_WB_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<span class="Heading3" style="font-size: 20px; color: #5aa6db;">OUR VISION</span>
+We strive to preserve our small town atmosphere while preparing for growth and future generations, to enhance the beautification of the city, embrace the diversity of its people, and improve the quality of life for our citizens. We aspire to be "A Great Place to Live".<br />
+<br />
+<span class="Heading3" style="font-size: 20px; color: #5aa6db;">OUR MISSION</span>
+Promote the health, safety, and welfare of our citizens; add value to our community by planning for the future, and encourage community involvement. Being responsive to those we serve, while always striving to improve the quality of life for our citizens, and enhance our dedication towards making the City of Nolanville "A Great Place to Live".
+</div></div>
+                    
+            </div>
+    </div>
+</div>
+</div>
+        
+</div>
+
+                  </div>
+            </div>
+        </div>
+
+        <div id="eztagwrapper" class="outercontainer floatleft tertiarycolor">
+            <div id="eztag" class="innercontainer clearfix">
+                <div id="eztagin" class="innercontainer clearfix floatleft">
+                    <p>Copyright &copy; Nolanville, Texas &nbsp;<span id="ezcopyright">2016</span></p>
+                </div>
+                <div id="poweredby" class="innercontainer clearfix floatleft">
+                    <p>
+                        <span class="eztask">powered by</span>
+                        <a class="eztask" title="ezTask: Exceptional websites that are affordable and easy to update!" href="http://www.eztask.com/" target="_blank"><strong>ezTask</strong>Titanium </a><a class="eztask"><sup>TM</sup></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div id="scrolltotop">
+            <i class="ion-chevron-up" aria-hidden="true"></i>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('CP1_RadScriptManager1_TSM');Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Default","uniqueID":"ctl00$CP1$ConfirmLightBox$LoadingPanel","zIndex":100002}, null, null, $get("ctl00_CP1_ConfirmLightBox_LoadingPanel"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadLightBox, {"_clientSettings":{"_showAnimation":2,"_hideAnimation":2,"_prevAnimation":1,"_nextAnimation":1},"_data":{"_itemsData":[{"Description":"","ImageUrl":"","NavigateUrl":"","TargetControlID":"","Title":"","Width":"","Height":"","HasItemTemplate":true,"HasDescriptionTemplate":false,"IsRendered":true}]},"_height":"200px","_loadingPanelID":"ctl00_CP1_ConfirmLightBox_LoadingPanel","_modal":true,"_preserveTemplates":true,"_uniqueID":"ctl00$CP1$ConfirmLightBox","_width":"300px","_zIndex":100000,"clientStateFieldID":"ctl00_CP1_ConfirmLightBox_ClientState"}, null, null, $get("ctl00_CP1_ConfirmLightBox"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTabStrip, {"_selectedIndex":0,"_skin":"MetroTouch","attributes":{},"clientStateFieldID":"ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1_ClientState","multiPageID":"ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1","selectedIndexes":["0"],"tabData":[{"_implPageViewID":"CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_page1_1"}]}, null, null, $get("ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadTabStrip1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMultiPage, {"clientStateFieldID":"ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1_ClientState","pageViewData":[{"id":"CP9_CR9_ctl00_1_CR1_1_ctl00_0_ContentRepeater1_0_ctl00_1_page1_1"}],"selectedIndex":0}, null, null, $get("ctl00_CP9_CR9_ctl01_ctl00_CR1_ctl00_ctl00_ContentRepeater1_ctl01_ctl00_RadMultiPage1"));
+});
+//]]>
+</script>
+</form>
+	<script type="text/javascript">
+		function do_google_search(v) {
+			window.open("https://www.google.com/search?q=" + v + "&sitesearch=https://www.nolanvilletx.gov", "google", "");
+
+		}
+		function do_google_keyup(e, t) {
+		  if (e.keyCode == 13) {
+			  do_google_search(t.value);
+			e.preventDefault();
+		  }
+		}
+
+		function do_google_key(e) {
+		  if (e.keyCode == 13) {
+			e.preventDefault();
+		  }
+		}
+	</script>
+    <script type="text/javascript" src="/runtime/scripts/jquery.marquee.js"></script>
+    <script type="text/javascript" src="/runtime/scripts/custom.js?t=1"></script>
+    <script type="text/javascript" src="/runtime/scripts/ezalert.js"></script>
+    <script type="text/javascript">
+         var $testimonials = $("#section3 table tbody");
+
+         if (window.location.pathname !== "/design/Editor.aspx") {
+             $testimonials.ezPager({
+                 auto: true,
+                 timeout: 10000,
+                 placePagerAfter: $testimonials.parent()
+             });
+         }
+     </script>
+        <script type="text/javascript" src="/runtime/scripts/aos.js"></script>
+        <script type="text/javascript" src="/common/scripts/ezpopup.js"></script>
+        <script type="text/javascript">
+           AOS.init({
+               disable: function() {
+                   return window.location.pathname === "/design/Editor.aspx" || ezUtilities.isMobile;
+               }
+           });
+           ezPopup.init("/page/rss/471");
+        </script>
+
+</body>
+
+</html>
+
+    
+    
+    
+    
+    

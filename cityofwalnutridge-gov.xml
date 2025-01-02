@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/vendor/sitemap/styles/sitemapindex.xsl" type="text/xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://cityofwalnutridge.gov/sitemap/anomaly.module.posts/categories.xml</loc>
+			<lastmod>2023-11-30T05:40:05-06:00</lastmod>
+		</sitemap>
+	<sitemap>
+		<loc>https://cityofwalnutridge.gov/sitemap/anomaly.module.posts/posts.xml</loc>
+			<lastmod>2024-03-06T16:10:19-06:00</lastmod>
+		</sitemap>
+	<sitemap>
+		<loc>https://cityofwalnutridge.gov/sitemap/anomaly.module.pages/pages.xml</loc>
+			<lastmod>2024-07-25T10:17:51-05:00</lastmod>
+		</sitemap>
+</sitemapindex>

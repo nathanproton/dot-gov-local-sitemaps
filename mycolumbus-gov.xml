@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.33.2.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Home - City of Columbus, Ohio</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="description" content="Welcome to the new Columbus.gov! We are thrilled to present a revamped digital experience that caters to the needs of all users. Discover a website that offers improved access to valuable information and services. Whether you are a resident, business owner, or visitor, we are committed to providing a better online platform to meet your needs. Explore the updated Columbus.gov and embrace a more user-friendly and efficient online experience." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.columbus.gov/Home" />
+    <meta property="og:title" content="City of Columbus, Ohio" />
+    <meta property="og:description" content="Welcome to the new Columbus.gov! We are thrilled to present a revamped digital experience that caters to the needs of all users. Discover a website that offers improved access to valuable information and services. Whether you are a resident, business owner, or visitor, we are committed to providing a better online platform to meet your needs. Explore the updated Columbus.gov and embrace a more user-friendly and efficient online experience." />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="City of Columbus, Ohio" />
+    <meta property="twitter:description" content="Welcome to the new Columbus.gov! We are thrilled to present a revamped digital experience that caters to the needs of all users. Discover a website that offers improved access to valuable information and services. Whether you are a resident, business owner, or visitor, we are committed to providing a better online platform to meet your needs. Explore the updated Columbus.gov and embrace a more user-friendly and efficient online experience." />
+    <link rel="canonical" href="https://www.columbus.gov/Home" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/City/apple-touch-icon.png?V=638245850234448667">
+<link rel="icon" type="image/png" sizes="32x32" href="/files/ocfavicon/City/favicon-32x32.png?V=638245850234448667">
+<link rel="icon" type="image/png" sizes="16x16" href="/files/ocfavicon/City/favicon-16x16.png?V=638245850234448667">
+<link rel="manifest" href="/files/ocfavicon/City/site.webmanifest?V=638245850234448667">
+<link rel="shortcut icon" href="/files/ocfavicon/City/favicon.ico?V=638245850234448667">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="/files/ocfavicon/City/browserconfig.xml?V=638245850234448667">
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/jquery-1.12.4.min.js?seamlessts=638604013995687931" ><\/script>')</script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/modernizr.custom.710f3bf.js?seamlessts=638604013995687931" defer></script>
+    
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/'
+        };
+    </script>
+    <script src='/ocapi/86744a6e-1d2c-4be5-9d65-05b93cd386b8/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/oc_head.js?applied=20240501125108"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/oc_grid.css~oc_grid_s1.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~OcScriptCombine_Minify0?uniqueid=20240501125108" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20240501125108" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":false};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20240501125108" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/186/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20240501125108" defer="true"></script>
+    
+    
+</head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-profile content-template-oc-default group-template-oc-empty-with-default-header page-name-home page-sequence-1 page-depth-1 page-section-1 website-type-primary device-desktop " id="body-top">
+    <form name="mainForm" method="post" action="/Home" id="mainForm">
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=lPlGZV9rCvAil9iiNXBiK5ZUVI6kYIZUf3W5RAhqstf55UVq8zZyXg2rB8J2uhmBMm64irS8tz9BgyYk_KgRqnOTJFn9whumf4nlvIbAbqmpb4oWX-jj7PHIggpZbPjg-s2uOvUH0ySTCNXz_JrEy9RJJw3RFfKeXOVP59JKmQE1&t=7a0cc936"><\/script>');//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=kZ5VK4-at1xLXZUQS9cGzYYs6tGlpPOOoX8mEN0agqktmMcjrFbsErO3rDa1F7k82z_9jd-2AWixfhF1nFDOmiXDKohluZqXpCieYl3obTTPvzRwcsw3rGLPhOIFBvTrFkowOAt4OwhLLs-ytYPJIaNHtyCpoCY6eqWQYEEWsM6MpQ0K2rhl3rAH8w0z_UFq8vlPFtNoX599tEOw8uDG30j--gtjBRWM16HlwGr-U9sIpTKIGxAwHZyd0wgwnOAiIEnqdOnWLLYZevwRHfgn5rT-WczvZsuq-J-_3HsS1KJQ0EYi5i9BlyP16bV-e_EFp2T_FNOFw0Zf-J5pqxn_gllThCzb-3mItlJ9AJGCYxYzgiF_7KxdiuK1dOnkfTEiN8QJiIFLzEf5sB-yUWcjfxvlL-9Miqztxy8hGJ4z8BMs32OwUBVnZH6cri5Rwh_n0" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=K8vT7QRRKW3JU8TKxPafxsUBGELNXFyk5nSAv4mrLPP9wsn-e_zKRn4nU_oQMtaDg2yzQ7pkiUrOWbajUvr_YJU0RUpusceu9eOpX-vwjfYpEtdrgIHdbKExXIidy8PeK6CEgNufWqfsIdwqWwS6IBG-ZbxYekem-HB2_CezpiRKuUmzXUVTgcKYHSlHgqJW0&amp;t=719e6738" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div role="region" aria-label="Site announcements" class="emergency-container emergency-container-position-1"><div id="PublicEmergencyAnnouncementList" data-cookiekeydismisseditems="OC_EA_EmergencyAnnouncementList_Dismissed" data-querykeydismisseditem="OC_EA_EmergencyAnnouncementList_Dismiss">
+   <div class="oc-emergency-announcement-container">
+  <div class="oc-emergency-undismissed max-severity-10 results-1">
+    <div class="side-box message-box emergency-message-box oc-emergency-severity-10 " >
+   <h3 class="side-box-title">Columbus Provides Notification and Extends Credit Monitoring</h3>
+   <div class="side-box-content">
+      <p >Working with federal authorities and cybersecurity experts, the City of Columbus continues its investigation and response to a July cybersecurity incident.</p>
+      <a href="https://www.columbus.gov/Services/Cybersecurity"  target="_self" >Learn More</a>
+      
+   </div>
+   <a href="/Home?OC_EA_EmergencyAnnouncementList_Dismiss=fd3b8831-9ae9-479d-84b7-b66534583b22" class="emergency-announcement-item-dismiss" data-cvid="fd3b8831-9ae9-479d-84b7-b66534583b22">Close this announcement</a>
+</div>
+        
+  </div><div class="oc-emergency-dismissed results-0"></div></div></div></div>
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><div id="skip-to-content-container">
+        <a href='#main-content' class="visuallyhidden focusable" id='skip-to-content-link'>Skip to main content</a>
+    </div>
+            <header>
+            <div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/ea9fc424-5a5f-49b8-87bf-6008b2e39a08/v/185/logo-sprite-col-MN1-072123.svg" alt="City of Columbus, Ohio - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-quicklinks toolbar-display-dropdown">
+	<button type="button" aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element"><span>Quick Links</span><i></i></button>	
+	<div id="toolbar-quicklinks-drop-down" class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix">
+		<ul>
+		  <li><a href="https://www.columbus.gov/Government/Jobs" class="oc-icon-b oc-i--none link-type-internal"><span>Careers</span></a></li><li><a href="https://www.columbus.gov/311-Customer-Service-Center" class="oc-icon-b oc-i-phone link-type-internal"><span>311</span></a></li><li><a href="https://www.facebook.com/ColumbusGov/" class="oc-icon-b oc-i-facebook link-type-external" target="_blank"><span>Facebook</span></a></li><li><a href="https://www.youtube.com/cityofcolumbus" class="oc-icon-b oc-i--none link-type-external" target="_blank"><span>Youtube</span></a></li><li><a href="https://twitter.com/ColumbusGov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="oc-icon-b oc-i-x-020723-mn link-type-external" target="_blank"><span>X</span></a></li><li><a href="https://www.instagram.com/columbusgov/" class="oc-icon-b oc-i-instagram-020723-mn link-type-external" target="_blank"><span>Instagram</span></a></li>
+		</ul>
+	</div>
+</div><div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+			<a href="https://www.columbus.gov/Home?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.columbus.gov/Home?oc_lang=fr" class="lang-item lang-fr" data-translate-to="fr" lang="fr">French<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.columbus.gov/Home?oc_lang=ne" class="lang-item lang-ne" data-translate-to="ne" lang="ne">Nepali<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.columbus.gov/Home?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.columbus.gov/Home?oc_lang=so" class="lang-item lang-so" data-translate-to="so" lang="so">Somali<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.columbus.gov/Home?oc_lang=ar" class="lang-item lang-ar" data-translate-to="ar" lang="ar">Arabic<span class="visuallyhidden"> Select this as your preferred language</span></a>
+		</div>
+	<button type="button" aria-controls="toolbar-language-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-language js-element">  
+        <span class="current-language">
+            Select a language to translate to
+		</span>
+		<i></i>
+	</button>
+	<div id="toolbar-language-drop-down" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul>
+		    <li><a href="https://www.columbus.gov/Home?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.columbus.gov/Home?oc_lang=fr" class="lang-item lang-fr" data-translate-to="fr" lang="fr">French<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.columbus.gov/Home?oc_lang=ne" class="lang-item lang-ne" data-translate-to="ne" lang="ne">Nepali<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.columbus.gov/Home?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.columbus.gov/Home?oc_lang=so" class="lang-item lang-so" data-translate-to="so" lang="so">Somali<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.columbus.gov/Home?oc_lang=ar" class="lang-item lang-ar" data-translate-to="ar" lang="ar">Arabic<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.columbus.gov/Home"  lang="en-US">
+					<span class="visuallyhidden">
+					City of Columbus, Ohio - Home - Logo
+					</span>
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav">
+                    <i></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu mega-menu" id="sc-main-menu"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.columbus.gov/Services" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon"></i><span class="item-text">Services</span>
+</a>
+<button class="mobnav-subarrow" ><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-9" aria-label="Sub-menu">
+
+          
+            <li class="second-level-item  "><a href="https://www.columbus.gov/Services/Food-Protection-Program" class=""  target="">Food Protection Program</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Submit-a-Request-or-Report-311" class=""  target="">Submit a Request or Report (311)</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Make-a-Payment" class="nav-has-children"  target="">Make a Payment</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Make-a-Payment/Pay-a-Healthcare-Bill"  target="_blank">Pay a Healthcare Bill</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Make-a-Payment/Parking-Kiosks-and-Mobile-Payment"  target="">Pay for Parking</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Make-a-Payment/Pay-for-a-Permit-or-License"  target="_blank">Pay for a Permit or License</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Make-a-Payment/Pay-Taxes"  target="_self">Pay Taxes</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection" class="nav-has-children"  target="">Trash, Recycling & Bulk Collection</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Find-My-Collection-Day"  target="">Find My Collection Day</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Household-Trash-Collection"  target="">Household Trash Collection</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Bulk-Collection"  target="">Bulk Collection</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Yard-Waste-Collection"  target="">Yard Waste Collection</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Plan-Your-Own-Litter-Cleanup"  target="">Plan Your Own Litter Cleanup</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Recycling"  target="">Recycling</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/How-to-Dispose-or-Recycle"  target="">How to Dispose or Recycle</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Housing-Assistance-Programs" class="nav-has-children"  target="">Housing & Assistance Programs</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Housing-Assistance-Programs/Housing-Programs"  target="">Housing Programs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Housing-Assistance-Programs/Apply-for-Residential-Tax-Incentives"  target="">Apply for Residential Tax Incentives</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Housing-Assistance-Programs/Apply-for-a-Short-Term-Rental-Permit"  target="_self">Apply for a Short Term Rental Permit</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Public-Utilities" class="nav-has-children"  target="">Public Utilities</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Utilities/Power-Outage-Map"  target="">Power Outage Map</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Utilities/Report-a-Water-Main-Break"  target="">Report a Water Main Break</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Utilities/About-Public-Utilities"  target="">About Public Utilities</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Parking-Street-Services" class="nav-has-children"  target="">Parking & Street Services</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Parking-Street-Services/Download-the-Mobile-Parking-App"  target="">Download the Mobile Parking App</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Parking-Street-Services/Parking-Services"  target="">Parking Services</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Parking-Street-Services/Report-a-Pothole"  target="">Report a Pothole</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Parking-Street-Services/Find-Street-Road-Projects"  target="_self">Find Street & Road Projects</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Public-Health" class="nav-has-children"  target="">Public Health</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Get-a-Birth-or-Death-Certificate"  target="">Get a Birth or Death Certificate</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Patient-Portal-and-Records"  target="">Patient Portal and Records</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Make-a-Payment"  target="_blank">Make a Payment</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Report-an-Illness-or-Problem"  target="">Report an Illness or Problem</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Find-Health-Care-Resources"  target="">Find Health Care Resources</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Environmental-Health"  target="">Environmental Health</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Health-Inspection-Results"  target="">Health Inspection Results</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Public-Health-Careers"  target="_self">Public Health Careers</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/About-Public-Health"  target="">About Public Health</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Health/Healthy-Moms-and-Babies"  target="">Healthy Moms and Babies</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety" class="nav-has-children"  target="">Public Safety</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/File-a-Police-Report"  target="">File a Police Report</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Find-a-Police-Report"  target="">Find a Police Report</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Police"  target="">Division of Police</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Fire"  target="">Division of Fire</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Police-Fire-Careers"  target="">Police & Fire Careers</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Alternative-Crisis-Response"  target="">Alternative Crisis Response</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Emergency-Communications-Center"  target="">Emergency Communications Center</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Services/Public-Safety/Department-of-Public-Safety-Resources"  target="">Department of Public Safety Resources</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.columbus.gov/Community" class="nav-level-1 nav-has-children"  target="">Community</a>
+<button class="mobnav-subarrow" ><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-8" aria-label="Sub-menu">
+
+          
+            <li class="second-level-item  "><a href="https://www.columbus.gov/Community/Recreation-and-Parks" class="nav-has-children"  target="">Recreation and Parks</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Recreation-and-Parks/City-of-Columbus-Recreation-Parks"  target="_blank">City of Columbus Recreation & Parks</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Recreation-and-Parks/Parks-Trails"  target="">Parks & Trails</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Activities-Events" class="nav-has-children"  target="">Activities & Events</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Activities-Events/Activities-Events"  target="_blank">Activities & Events</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Activities-Events/Upcoming-Events"  target="">Upcoming Events</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Activities-Events/Find-a-Program"  target="_self">Find a Program</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Facilities-Venues" class="nav-has-children"  target="">Facilities & Venues</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Facilities-Venues/Facilities-Venues"  target="_blank">Facilities & Venues</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Facilities-Venues/Reserve-a-Shelter"  target="_blank">Reserve a Shelter</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets" class="nav-has-children"  target="">Animals & Pets</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets/Get-an-Animal-Permit"  target="">Get an Animal Permit</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets/Dog-Tag-Search"  target="">Dog Tag Search</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets/One-Health-Intern-Program"  target="">One Health Intern Program</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets/Rat-Control-Program"  target="">Rat Control Program</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Animals-Pets/Ticks"  target="">Ticks</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods" class="nav-has-children"  target="">Neighborhoods</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Search-the-Knowledge-Base"  target="">Search the Knowledge Base</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Healthy-Places"  target="">Healthy Places</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Keep-Columbus-Beautiful"  target="">Keep Columbus Beautiful</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Whats-in-My-Neighborhood"  target="_blank">What's in My Neighborhood?</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Area-Commission-Map"  target="">Area Commission Map</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Libraries"  target="_blank">Libraries</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/Education-Resources"  target="">Education</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Department-of-Neighborhoods/New-Resident-Information"  target="">New Resident Information</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Mobility-Getting-Around" class="nav-has-children"  target="">Mobility & Getting Around</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Community/Mobility-Getting-Around/Public-Transportation"  target="_blank">Public Transportation</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Mobility-Getting-Around/Biking"  target="">Biking</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Community/Mobility-Getting-Around/Bicycle-Registration"  target="">Bicycle Registration</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Tourism" class=""  target="_blank">Tourism</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Community/Interactive-Maps" class=""  target="">Data and Interactive Maps (GIS)</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.columbus.gov/Business-Development" class="nav-level-1 nav-has-children"  target="">Business & Development</a>
+<button class="mobnav-subarrow" ><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-10" aria-label="Sub-menu">
+
+          
+            <li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Get-a-Permit" class="nav-has-children"  target="">Get a Permit</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Get-a-Permit/Get-or-Track-a-Building-Permit"  target="">Get or Track a Building Permit</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Get-a-Permit/Get-a-Right-of-Way-Permit"  target="">Get a Right of Way Permit</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Get-a-Permit/Get-a-Short-Term-Rental-Permit"  target="">Get a Short Term Rental Permit</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services" class="nav-has-children"  target="">Building & Zoning Services</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Online-Services"  target="">Online Services</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Documents-Forms"  target="">Documents & Forms</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Code-Enforcement"  target="">Code Enforcement</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Frequently-Asked-Questions"  target="">BZS Frequently Asked Questions</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Zoning"  target="">Zoning</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Boards-and-Commissions"  target="">Boards and Commissions</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Building-Zoning-Services/Division-of-Weights-Measures"  target="">Division of Weights & Measures</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Business-Licenses-Resources" class="nav-has-children"  target="">License Section</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Business-Licenses-Resources/Contractor-Licenses"  target="">Contractor Licenses</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Business-Licenses-Resources/Business-Resources"  target="">Business Resources</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Bids-Solicitations" class="nav-has-children"  target="">Bids & Solicitations</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Bids-Solicitations/Notices-to-Bid"  target="_blank">Notices to Bid</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Bids-Solicitations/RFPs"  target="_blank">RFPs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Bids-Solicitations/Vendor-Resources"  target="">Vendor Resources</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development" class="nav-has-children"  target="">Economic Development</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/SmartColumbus"  target="_blank">SmartColumbus</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Planning"  target="">Planning</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Business-Attraction-Expansion"  target="">Business Attraction & Expansion</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Infrastructure-Improvement"  target="">Infrastructure Improvement</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Small-Business"  target="">Small Business</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Site-Selection-Webpage"  target="">Site Selection Webpage</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Economic-Development/Accelerate-Columbus"  target="">Accelerate Columbus</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Citizen-Access-Portal" class=""  target="_blank">Citizen Access Portal</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects" class="nav-has-children"  target="">Capital Improvement Projects</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Enhanced-Meter-Project"  target="">Enhanced Meter Project</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Power-Circuit-Project"  target="">Power Circuit Project</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Sewer-CIPS"  target="">Sewer CIPS</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Stormwater-CIPS"  target="">Stormwater CIPS</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Water-CIPs"  target="">Water CIPs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Capital-Improvement-Projects/Blueprint-CIPs"  target="">Blueprint CIPs</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/City-Codes-Regulations" class=""  target="_blank">City Codes & Regulations</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Design-Construction" class="nav-has-children"  target="">Design & Construction</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Design-Construction/Street-Road-Projects"  target="">Street & Road Projects</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Design-Construction/Upcoming-Contracts"  target="">Upcoming Contracts</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Business-Development/Design-Construction/Public-Service-Project-Fact-Sheets"  target="">Public Service Project Fact Sheets</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Business-Development/Infrastructure-Management" class=""  target="">Infrastructure Management</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.columbus.gov/Government" class="nav-level-1 nav-has-children"  target="">Government</a>
+<button class="mobnav-subarrow" ><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-11" aria-label="Sub-menu">
+
+          
+            <li class="second-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office" class="nav-has-children"  target="">Mayor's Office</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/About-Mayor-Andrew-J.-Ginther"  target="">About Mayor Andrew J. Ginther</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Press-Releases"  target="">Press Releases</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/City-Boards-Commissions-Committees"  target="">City Boards, Commissions & Committees</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Initiatives"  target="">Initiatives</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Cabinet"  target="">Cabinet</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Sustainable-Columbus"  target="">Sustainable Columbus</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Office-of-Diversity-and-Inclusion"  target="">Office of Diversity and Inclusion</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/Executive-Orders"  target="">Executive Orders</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Mayors-Office/State-of-the-City"  target="">State of the City</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/City-Council" class="nav-has-children"  target="">Columbus City Council</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Watch-Meetings-CTV"  target="_self">Watch Meetings (CTV)</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Meeting-Schedules-Agendas"  target="">Meeting Schedules & Agendas</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/News-Releases-Information"  target="">News Releases & Information</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Councilmembers"  target="_self">Councilmembers</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Standing-Committees-Commissions"  target="">Standing Committees & Commissions</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Council-Residential-Districts"  target="">Council Residential Districts</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Directory"  target="">Directory</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Council/Treasurer"  target="_self">City Treasurer</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor" class="nav-has-children"  target="">City Auditor</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/About-the-City-Auditor"  target="">About the City Auditor</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/About-This-Office"  target="">About This Office</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/AAA-Bond-Rating"  target="">AAA Bond Rating</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/Bond-and-Note-Reports"  target="">Bond and Note Reports</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/Office-News"  target="">Office News</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/PAFR-Reports"  target="">PAFR Reports</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/Tax-Budget"  target="">Tax Budget</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/Financial-Reports"  target="">Financial Reports</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/City-Auditor/Income-Tax-Division"  target="">Income Tax Division</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Inspector-General" class="nav-has-children"  target="">Inspector General</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Government/Inspector-General/Civilian-Police-Review-Board"  target="">Civilian Police Review Board</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/City-Attorney" class=""  target="_self">City Attorney</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Municipal-Court" class=""  target="_self">Municipal Court</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Jobs" class="nav-has-children"  target="">Jobs: Find Your Career With The City of Columbus</a><button class="mobnav-subarrow-child"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.columbus.gov/Government/Jobs/Exam-Information"  target="">Civil Service Exam Information</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Jobs/Police-Jobs"  target="">Police Jobs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Jobs/Firefighter-Jobs"  target="">Firefighter Jobs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Jobs/All-Public-Service-Jobs"  target="">All Public Service Jobs</a></li><li class="third-level-item  "><a href="https://www.columbus.gov/Government/Jobs/Public-Health-Jobs"  target="">Public Health Jobs</a></li></ul></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Municipal-Court-Clerk" class=""  target="_self">Municipal Court Clerk</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Departments" class=""  target="">Departments</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Watch-CTV-Live-Stream" class=""  target="">Watch CTV Live Stream</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/Government/Office-of-Ethics-Campaign-Finance" class=""  target="">Ethics & Campaign Finance</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.columbus.gov/311-Customer-Service-Center" class="nav-level-1 nav-has-children"  target="">311</a>
+<button class="mobnav-subarrow" ><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-3" aria-label="Sub-menu">
+
+          
+            <li class="second-level-item  "><a href="https://www.columbus.gov/311-Customer-Service-Center/Download-the-Mobile-App" class=""  target="">Download the Mobile App</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/311-Customer-Service-Center/Account-Services" class=""  target="">Account Services</a></li><li class="second-level-item  "><a href="https://www.columbus.gov/311-Customer-Service-Center/Updates" class=""  target="">Updates</a></li></ul></li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container no-background clearfix">
+                        <div class="content-main-container">
+                                                    
+                            <!-- OC Layout Element Conent Template -->
+                            <!--normalTemplateStart--><div class="visuallyhidden"><h1 class='oc-page-title '>Home</h1></div><div id="main-content"><section class="row-index-1"><div class="row-container full-width clearfix"><div class="row-content-container fixed-width clearfix"><div class="embed-code-homepage-message">
+
+
+<div class='message-item'>
+
+		<h2 class='message-title'><a href="https://new.columbus.gov/Services"  target="_self" >Introducing a New Columbus.gov</a></h2>
+		<p class='message-description'>The new and improved Columbus.gov features streamlined, user-friendly navigation to help you find what you need more quickly and easily. Still can't find what you’re looking for? Use the enhanced search function at the top of every page.</p>
+		
+</div>
+
+
+
+
+
+
+</div></div></div></section><section class="row-index-2"><div class="row-container full-width clearfix"><div class="row-content-container fixed-width clearfix"><div class="row-container-title fixed-width" ><h1>MOST REQUESTED</h1></div>
+<div class="do-it-online do-it-online-format-10 top-task-homepage top-task-homepage-format-10 clearfix" data-total-results="6"><div class="grid"><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://www.columbus.gov/311-Customer-Service-Center" title="311" class="profile-list item-0" target="_self" >
+				<i class="item-icon facilities-for-hire"></i>
+				<h2>311</h2>
+			</a>
+		</div><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection" title="Trash and Recycling" class="profile-list item-1" target="_self" >
+				<i class="item-icon recycling-and-waste"></i>
+				<h2>Trash and Recycling</h2>
+			</a>
+		</div><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://www.columbus.gov/Services/Make-a-Payment" title="Make a Payment" class="profile-list item-2" target="_self" >
+				<i class="item-icon pay-a-parking-ticket"></i>
+				<h2>Make a Payment</h2>
+			</a>
+		</div><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://www.columbus.gov/Government/Jobs" title="Apply for a Job" class="profile-list item-3" target="_self" >
+				<i class="item-icon jobs-at-the-council"></i>
+				<h2>Apply for a Job</h2>
+			</a>
+		</div><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://www.columbus.gov/Business-Development/Get-a-Permit" title="Get a Permit" class="profile-list item-4" target="_self" >
+				<i class="item-icon building-and-planning"></i>
+				<h2>Get a Permit</h2>
+			</a>
+		</div><div class="col-xs-12 col-m-4 col-lg-2">
+			<a href="https://crisp.columbus.gov/" title="File City Taxes" class="profile-list item-5" target="_self" >
+				<i class="item-icon calculator"></i>
+				<h2>File City Taxes</h2>
+			</a>
+		</div></div></div>
+
+</div></div></section><section class="row-index-3"><div class="row-container full-width clearfix"><div class="row-content-container fixed-width clearfix"><div class="row-container-title fixed-width" ><h1>LATEST NEWS</h1></div><div class="profile-listing-container  profile-news-listing-container profile-news-listing-option-8 clearfix"><div class=" profile-news-listing clearfix" data-total-results="4">
+<div class="grid">
+        <div class="col-xs-12 col-m-6 col-lg-6">
+	<a href="https://www.columbus.gov/News-articles/Columbus-Provides-Notification-Extends-Credit-Monitoring-to-All-Impacted-Individuals" title="Columbus Provides Notification, Extends Credit Monitoring" class="profile-list item-0 homepage-show" >		
+		<picture>
+  <source media="(min-width: 992px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelistingwide&w=760&h=350">
+  <source media="(min-width: 768px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelistingwide&w=496&h=328">
+  <source srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelistingwide&w=480&h=316">
+  <img class="large-thumbnail-image wide-thumbnail-image" src="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelistingwide&w=760&h=350"  alt=""/>
+  </picture>
+      
+		<h2>Columbus Provides Notification, Extends Credit Monitoring</h2>
+		<p class="published-on small-text">Published on August 16, 2024</p>
+		<p>Taking action to protect the community from the recent cyber attack on the city’s IT infrastructure, the City of Columbus today announced it will offer free Experian credit monitoring to all residents and impacted individuals.</p>
+	</a>
+</div>
+        <div class="col-xs-12 col-m-6 col-lg-6">
+	<a href="https://www.columbus.gov/News-articles/Mayor-Ginther-Selects-Kym-Douglas-to-Lead-Department-of-Neighborhoods" title="Mayor Ginther Selects Kym Douglas to Lead Department of Neighborhoods" class="profile-list item-1 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/sharedassets/city/v/1/mayor/news/city-hall-birdseye-view-news.png?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/sharedassets/city/v/1/mayor/news/city-hall-birdseye-view-news.png?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/sharedassets/city/v/1/mayor/news/city-hall-birdseye-view-news.png?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/sharedassets/city/v/1/mayor/news/city-hall-birdseye-view-news.png?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>Mayor Ginther Selects Kym Douglas to Lead Department of Neighborhoods</h2>
+		<p class="published-on small-text">Published on August 13, 2024</p>
+		<p>Mayor Andrew J. Ginther announced that Kym Douglas will serve as the next director of the city’s Department of Neighborhoods.</p>
+	</a>
+</div><div class="col-xs-12 col-m-6 col-lg-6">
+	<a href="https://www.columbus.gov/News-articles/City-of-Columbus-Offers-Credit-Monitoring-for-All-Employees" title="City of Columbus Offers Credit Monitoring for All Employees" class="profile-list item-2 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>City of Columbus Offers Credit Monitoring for All Employees</h2>
+		<p class="published-on small-text">Published on August 01, 2024</p>
+		<p>Working with federal authorities and cybersecurity experts, the City of Columbus continues its investigation and response to a July cybersecurity incident.</p>
+	</a>
+</div><div class="col-xs-12 col-m-6 col-lg-6">
+	<a href="https://www.columbus.gov/News-articles/City-of-Columbus-Thwarted-Ransomware-Encryption-of-its-IT-Infrastructure" title="Columbus Thwarted Ransomware Encryption of its IT Infrastructure" class="profile-list item-3 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/sharedassets/city/v/2/mayor/news/important-message-graphic.png?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>Columbus Thwarted Ransomware Encryption of its IT Infrastructure</h2>
+		<p class="published-on small-text">Published on July 29, 2024</p>
+		<p>The City of Columbus’ continuing investigation of a July 18 cybersecurity incident has found that a foreign cyber threat actor attempted to disrupt the city’s IT infrastructure, in a possible effort to deploy ransomware and solicit a ransom payment from the city.</p>
+	</a>
+</div></div>
+</div>
+<a href="https://www.columbus.gov/News-articles" class="panel-button">View More News</a></div>
+        </div></div></section><section class="row-index-4"><div class="row-container full-width clearfix"><div class="row-content-container fixed-width clearfix"><div class="embed-code-homepage-spotlight"><div class="grid">
+
+
+<div class="col-xs-12 col-m-6 col-lg-6 panel-image"><img src="/files/sharedassets/city/v/1/mayor/homepage/councilredistricting-spotlight-511x558px.png" alt="OC Page Image - default" /></div>
+	<div class='col-xs-12 col-m-6 col-lg-6 text-item'>
+		<h2 class='spotlight-title'>Council Residential Districts</h2>
+		<p class='spotlight-description'>The City of Columbus now has nine districts, nine councilmembers and a hybrid at-large system. Click below to view the map and find your district.</p>
+	<div class='spotlight-link'><a href="https://columbus.maps.arcgis.com/apps/webappviewer/index.html?id=7db35f3529294a6d8eaff9dac0958189"  target="_self" >Learn More</a></div>
+		</div>
+		
+		<script>
+		
+		$(function(){
+			
+			var linksrc = $('.spotlight-link a').attr('href');
+			
+			$('.panel-image').find('img').wrap("<a class='image-link' href='#' target='_self'></a>");
+			
+			$('.image-link').attr('href',linksrc);
+			})
+		
+		</script>
+
+
+
+
+
+
+</div></div></div></div></section></div><!--normalTemplateEnd-->
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-3 col-lg-3 footer_contact" >
+	<h3 class="footer-title">Contact Us</h3>
+	<p><strong><span style="font-size: 125%;">City Hall</span></strong><br />
+90 West Broad Street<br />
+Columbus, Ohio 43215<br />
+<a href="https://maps.google.com">View on Map</a><br />
+Phone: <a href="tel:614-645-3111">(614) 645-3111</a></p>
+
+
+	<ul class="footer-links with-icons ">   </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	<h3 class="footer-title">Get Involved</h3>
+	
+	<ul class="footer-links with-icons ">  <li class="footer-link-">
+	<a href="https://www.columbus.gov/Services" target="_self"  >
+<i></i>Services
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.columbus.gov/Community" target="_self"  >
+<i></i>Community
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.columbus.gov/Business-Development" target="_self"  >
+<i></i>Business & Development
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.columbus.gov/Government" target="_self"  >
+<i></i>Government
+</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	<h3 class="footer-title">Quick Links</h3>
+	
+	<ul class="footer-links with-icons ">  <li class="footer-link-">
+	<a href="https://www.columbus.gov/311-Customer-Service-Center" target="_self"  >
+<i></i>311
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.columbus.gov/Government/Jobs" target="_self"  >
+<i></i>Jobs
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.columbus.gov/Services/Make-a-Payment" target="_self"  >
+<i></i>Pay Bills
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?" target="_blank"  >
+<i></i>Sign Up For Email Updates
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://library.municode.com/oh/columbus/codes/code_of_ordinances" target="_blank"  >
+<i></i>City Ordinances
+</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3 social-media-links" >
+	<h3 class="footer-title">Get Social</h3>
+	
+	<ul class="footer-links with-icons ">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/ColumbusGov" target="_blank"  >
+<i></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/columbusgov" target="_blank"  >
+<i></i>Twitter
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/cityofcolumbus" target="_blank"  >
+<i></i>Youtube
+</a>
+</li>
+          <li class="footer-link-ctv">
+	<a href="https://www.columbus.gov/Government/Watch-CTV-Live-Stream" target="_self"  >
+<i></i>CTV
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div><a href="https://new.columbus.gov/Privacy-Policy" target="_blank"  >Disclaimer & Copyright</a>&nbsp;| <a href="https://new.columbus.gov/Privacy-Policy" target="_blank"  >Privacy Statement</a>&nbsp;| <a href="https://www.columbus.gov/Visual-Sitemap" target="_self"  >Sitemap</a></div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2024 City of Columbus, Ohio&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FRQ0T1X059"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FRQ0T1X059');
+</script>
+    
+    </form>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1043615180" async></script></body>
+</html>

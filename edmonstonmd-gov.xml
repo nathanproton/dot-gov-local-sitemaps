@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://edmonstonmd.gov/sitemaps_xsl.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://edmonstonmd.gov/post-sitemap1.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://edmonstonmd.gov/page-sitemap1.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://edmonstonmd.gov/category-sitemap1.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://edmonstonmd.gov/post_tag-sitemap1.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://edmonstonmd.gov/author.xml</loc>
+</sitemap>
+</sitemapindex>

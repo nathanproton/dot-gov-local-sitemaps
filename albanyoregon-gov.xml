@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4FMSV');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="utf-8">
+	<meta name="author" content="City of Albany">
+	<meta name="robots" content="noindex, follow">
+	<meta name="x-ua-compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="Official Government Site of Albany, Oregon">
+	<title>Page Not Found: Error 404</title>
+	<link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/media/com_jce/site/css/content.min.css?badb4208be409b1335b815dde676300e" rel="stylesheet" />
+	<link href="/templates/masterbootstrap/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/templates/masterbootstrap/css/icons.css" rel="stylesheet" />
+	<link href="/templates/masterbootstrap/css/template.min.css" rel="stylesheet" />
+	<link href="/templates/masterbootstrap/css/custom.css" rel="stylesheet" />
+	<link href="/modules/mod_maximenuck/themes/coa/css/maximenuck.php?monid=maximenuck430" rel="stylesheet" />
+	<style>/* Mobile Menu CK - https://www.joomlack.fr */
+/* Automatic styles */
+
+.mobilemenuck-bar {display:none;position:relative;left:0;top:0;right:0;z-index:100;}
+.mobilemenuck-bar-title {display: block;}
+.mobilemenuck-bar-button {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Verdana;text-align: center;}
+.mobilemenuck {box-sizing: border-box;width: 100%;}
+.mobilemenuck-topbar {position:relative;}
+.mobilemenuck-title {display: block;}
+.mobilemenuck-button {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Verdana;text-align: center;}
+.mobilemenuck a {display:block;text-decoration: none;}
+.mobilemenuck a:hover {text-decoration: none;}
+.mobilemenuck .mobilemenuck-item > div {position:relative;}
+/* for accordion */
+.mobilemenuck-togglericon:after {cursor:pointer;text-align:center;display:block;position: absolute;right: 0;top: 0;content:"+";}
+.mobilemenuck .open .mobilemenuck-togglericon:after {content:"-";}
+.mobilemenuck-lock-button.mobilemenuck-button {right:45px}
+.mobilemenuck-lock-button.mobilemenuck-button svg {max-height:50%;}
+.mobilemenuck-lock-button.mobilemenuck-button::after {display: block;content: "";height: 100%;width: 100%;z-index: 1;position: absolute;top: 0;left: 0;}
+.mobilemenuck[data-display="flyout"] {overflow: initial !important;}
+.mobilemenuck[data-display="flyout"] .level1 + .mobilemenuck-submenu {position:absolute;top:0;left:auto;display:none;height:100vh;left:100%;}
+.mobilemenuck[data-display="flyout"] .level2 + .mobilemenuck-submenu {position:absolute;top:0;left:auto;display:none;height:100vh;left:100%;}
+.mobilemenuck[data-display="flyout"][data-effect*="slideright"] .level1 + .mobilemenuck-submenu {right:100%;left:auto;}
+.mobilemenuck[data-display="flyout"][data-effect*="slideright"] .level2 + .mobilemenuck-submenu {right:100%;left:auto;}
+
+/* RTL support */
+.rtl .mobilemenuck-bar-button {left: 0;right: auto;}
+.rtl .mobilemenuck-button {left: 0;right: auto;}
+.rtl .mobilemenuck-togglericon::after {left: 0;right: auto;}
+
+@media screen and (max-width: 640px) {
+.mobilemenuck[data-display="flyout"] .level1 + .mobilemenuck-submenu {position:static;width: initial !important;height: initial;}
+}
+@media screen and (max-width: 1000px) {
+.mobilemenuck[data-display="flyout"] .level2 + .mobilemenuck-submenu {position:static;width: initial !important;height: initial;}
+}
+.mobilemenuck-backbutton {
+	cursor: pointer;
+}
+
+.mobilemenuck-backbutton:hover {
+	opacity: 0.7;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-bar-title {
+	background: #464646;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-bar-title a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-bar-button {
+	background: #333333;
+	height: 43px;
+	width: 43px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	font-size: 1.8em;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-bar-button a {
+	color: #FFFFFF;
+	font-size: 1.8em;
+}
+
+[data-id="maximenuck430"].mobilemenuck {
+	background: #464646;
+	color: #FFFFFF;
+	padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+[data-id="maximenuck430"].mobilemenuck a {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-title {
+	background: #464646;
+	height: 43px;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-title a {
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-button {
+	min-height: 35px;
+	height: 100%;
+	width: 45px;
+	line-height: 35px;
+	font-size: 1.8em;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-button a {
+	line-height: 35px;
+	font-size: 1.8em;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level1 {
+	background: #027EA6;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 15px;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level1 a {
+	color: #FFFFFF;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level1:not(.headingck):hover, [data-id="maximenuck430"] .mobilemenuck-item > .level1.open {
+	background: #008bb8;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level2 {
+	background: #FFFFFF;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #000000;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 25px;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level2 a {
+	color: #000000;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item > .level2:not(.headingck):hover, [data-id="maximenuck430"] .mobilemenuck-item > .level2.open {
+	background: #f0f0f0;
+}
+
+[data-id="maximenuck430"] .level2 + .mobilemenuck-submenu .mobilemenuck-item > div {
+	background: #689332;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 35px;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .level2 + .mobilemenuck-submenu .mobilemenuck-item > div a {
+	color: #FFFFFF;
+	line-height: 35px;
+}
+
+[data-id="maximenuck430"] .level2 + .mobilemenuck-submenu .mobilemenuck-item > div:not(.headingck):hover, [data-id="maximenuck430"] .mobilemenuck-item > .level2 + .mobilemenuck-submenu .mobilemenuck-item > div.open {
+	background: #72a137;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-togglericon:after {
+	background: #000000;
+	background: rgba(0,0,0,0.25);
+	-pie-background: rgba(0,0,0,0.25);
+	-moz-border-radius: 0px 5px 5px 0px;
+	-o-border-radius: 0px 5px 5px 0px;
+	-webkit-border-radius: 0px 5px 5px 0px;
+	border-radius: 0px 5px 5px 0px;
+	min-height: 35px;
+	height: 100%;
+	width: 35px;
+	padding-right: 5px;
+	padding-left: 5px;
+	line-height: 35px;
+	font-size: 1.7em;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-togglericon:after a {
+	line-height: 35px;
+	font-size: 1.7em;
+}
+.mobilemaximenuck div span.descck {
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-item-counter {
+	display: inline-block;
+	margin: 0 5px;
+	padding: 10px;
+	font-size: 12px;
+	line-height: 0;
+	background: rgba(0,0,0,0.3);
+	color: #eee;
+	border-radius: 10px;
+	height: 20px;
+	transform: translate(10px,-3px);
+	box-sizing: border-box;
+}
+
+[data-id="maximenuck430"] + .mobilemenuck-overlay {
+	position: fixed;
+	top: 0;
+	background: #000;
+	opacity: 0.3;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9;
+}
+
+[data-id="maximenuck430"] .mobilemenuck-backbutton svg {
+	width: 14px;
+	fill: #fff;
+	position: relative;
+	left: -5px;
+	top: -2px;
+}
+[data-id="maximenuck430"] img.mobilemenuck-icon {
+width: 32px;
+height: 32px;
+margin: 5px;
+}[data-id="maximenuck430"] i.mobilemenuck-icon {
+font-size: 32px;
+margin: 5px;
+}[data-id="maximenuck430"] .mobilemenuck-item .maximenuiconck {
+font-size: 32px;
+margin: 5px;
+}[data-id="maximenuck430"] + .mobilemenuck-overlay {
+	position: fixed;
+	top: 0;
+	background: #000000;
+	opacity: 0.3;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9;
+}.mobilemenuck-logo { text-align: center; }.mobilemenuck-logo-left { text-align: left; }.mobilemenuck-logo-right { text-align: right; }.mobilemenuck-logo a { display: inline-block; }</style>
+	<style>div#maximenuck430 .titreck-text {
+	flex: 1;
+}
+
+div#maximenuck430 .maximenuck.rolloveritem  img {
+	display: none !important;
+}
+@media screen and (max-width: 768px) {div#maximenuck430 ul.maximenuck li.maximenuck.nomobileck, div#maximenuck430 .maxipushdownck ul.maximenuck2 li.maximenuck.nomobileck { display: none !important; }
+	div#maximenuck430.maximenuckh {
+        height: auto !important;
+    }
+	
+	div#maximenuck430.maximenuckh li.maxiFancybackground {
+		display: none !important;
+	}
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) {
+        height: auto !important;
+        padding-left: 0 !important;
+        /*padding-right: 0 !important;*/
+    }
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) li {
+        float :none !important;
+        width: 100% !important;
+		box-sizing: border-box;
+        /*padding-right: 0 !important;*/
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) li > div.floatck {
+        width: 100% !important;
+		box-sizing: border-box;
+		right: 0 !important;
+		left: 0 !important;
+		margin-left: 0 !important;
+		position: relative !important;
+		/*display: none;
+		height: auto !important;*/
+    }
+	
+	div#maximenuck430.maximenuckh ul:not(.noresponsive) li:hover > div.floatck {
+		position: relative !important;
+		margin-left: 0 !important;
+    }
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) div.floatck div.maximenuck2 {
+        width: 100% !important;
+    }
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) div.floatck div.floatck {
+        width: 100% !important;
+        margin: 20px 0 0 0 !important;
+    }
+	
+	div#maximenuck430.maximenuckh ul:not(.noresponsive) div.floatck div.maxidrop-main {
+        width: 100% !important;
+    }
+
+    div#maximenuck430.maximenuckh ul:not(.noresponsive) li.maximenucklogo img {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+    }
+	
+	
+	/* for vertical menu  */
+	div#maximenuck430.maximenuckv {
+        height: auto !important;
+    }
+	
+	div#maximenuck430.maximenuckh li.maxiFancybackground {
+		display: none !important;
+	}
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) {
+        height: auto !important;
+        padding-left: 0 !important;
+        /*padding-right: 0 !important;*/
+    }
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) li {
+        float :none !important;
+        width: 100% !important;
+        /*padding-right: 0 !important;*/
+		padding-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) li > div.floatck {
+        width: 100% !important;
+		right: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: relative !important;
+		left: 0 !important;
+		/*display: none;
+		height: auto !important;*/
+    }
+	
+	div#maximenuck430.maximenuckv ul:not(.noresponsive) li:hover > div.floatck {
+		position: relative !important;
+		margin-left: 0 !important;
+    }
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) div.floatck div.maximenuck2 {
+        width: 100% !important;
+    }
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) div.floatck div.floatck {
+        width: 100% !important;
+        margin: 20px 0 0 0 !important;
+    }
+	
+	div#maximenuck430.maximenuckv ul:not(.noresponsive) div.floatck div.maxidrop-main {
+        width: 100% !important;
+    }
+
+    div#maximenuck430.maximenuckv ul:not(.noresponsive) li.maximenucklogo img {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+    }
+}
+	
+@media screen and (min-width: 769px) {
+	div#maximenuck430 ul.maximenuck li.maximenuck.nodesktopck, div#maximenuck430 .maxipushdownck ul.maximenuck2 li.maximenuck.nodesktopck { display: none !important; }
+}/*---------------------------------------------
+---	 WCAG				                ---
+----------------------------------------------*/
+#maximenuck430.maximenuck-wcag-active .maximenuck-toggler-anchor ~ ul {
+    display: block !important;
+}
+
+#maximenuck430 .maximenuck-toggler-anchor {
+	height: 0;
+	opacity: 0;
+	overflow: hidden;
+	display: none;
+}/* for images position */
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > a,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > span.separator {
+	display: flex;
+	align-items: center;
+}
+
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > a,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > span.separator {
+	display: flex;
+}
+
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > a[data-align="bottom"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > span.separator[data-align="bottom"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > a[data-align="bottom"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > span.separator[data-align="bottom"],
+	div#maximenuck430 ul.maximenuck li.maximenuck.level1 > a[data-align="top"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > span.separator[data-align="top"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > a[data-align="top"],
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > span.separator[data-align="top"]{
+	flex-direction: column;
+	align-items: inherit;
+}
+
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > a[data-align=*"bottom"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > span.separator[data-align=*"bottom"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > a[data-align=*"bottom"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > span.separator[data-align=*"bottom"] img {
+	align-self: end;
+}
+
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > a[data-align=*"top"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 > span.separator[data-align=*"top"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > a[data-align=*"top"] img,
+div#maximenuck430 ul.maximenuck li.maximenuck.level1 li.maximenuck > span.separator[data-align=*"top"] img {
+	align-self: start;
+}
+
+
+</style>
+	<style>#maximenuck430-mobile-bar, #maximenuck430-mobile-bar-wrap-topfixed { display: none; }
+	@media only screen and (max-width:768px){
+	#maximenuck430 { display: none !important; }
+	#maximenuck430-mobile-bar, #maximenuck430-mobile-bar-wrap-topfixed { display: block; flex: 1;}
+	.mobilemenuck-hide {display: none !important;}
+     }</style>
+	<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"RLTA_BUTTON_SCROLL_LEFT":"Scroll buttons to the left","RLTA_BUTTON_SCROLL_RIGHT":"Scroll buttons to the right","ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"system.paths":{"root":"","rootFull":"https:\/\/www.albanyoregon.gov\/","base":"","baseFull":"https:\/\/www.albanyoregon.gov\/"},"csrf.token":"156d3b4ccd52109b5508d84c04ffee74"}</script>
+	<script src="/media/system/js/core.min.js?9c761ae035a6bd778a710e6c0f5ff7de049b67a3"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?44e3f60beada646706be6569e75b36f7cf293bf9" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?04499b98c0305b16b373dff09fe79d1290976288"></script>
+	<script src="/media/system/js/messages.min.js?7425e8d1cb9e4f061d5e30271d6d99b085344117" type="module"></script>
+	<script src="/templates/masterbootstrap/js/holder.js"></script>
+	<script src="/templates/masterbootstrap/js/headroom.min.js"></script>
+	<script src="/templates/masterbootstrap/js/modernizr-2.8.3.js"></script>
+	<script src="/media/plg_system_mobilemenuck/assets/mobilemenuck.js?ver=1.5.21"></script>
+	<script src="https://cdn.gtranslate.net/widgets/latest/lc.js" data-gt-orig-url="/404" data-gt-orig-domain="www.albanyoregon.gov" data-gt-widget-id="337" defer></script>
+	<script>jQuery(document).ready(function(){ new MobileMenuCK(jQuery('#maximenuck430'), {menubarbuttoncontent : '&#x2261;',topbarbuttoncontent : '×',showmobilemenutext : 'none',mobilemenutext : '',container : 'menucontainer',detectiontype : 'resolution',resolution : '768',usemodules : '1',useimages : '0',showlogo : '0',showdesc : '0',displaytype : 'push',displayeffect : 'sliderightover',menuwidth : '310',openedonactiveitem : '0',mobilebackbuttontext : 'Back',menuselector : 'ul.maximenuck',uriroot : '',tooglebarevent : 'click',tooglebaron : 'all',logo_source : 'maximenuck',logo_image : '',logo_link : '',logo_alt : '',logo_position : 'left',logo_width : '',logo_height : '',logo_margintop : '',logo_marginright : '',logo_marginbottom : '',logo_marginleft : '',topfixedeffect : 'always',lock_button : '0',lock_forced : '0',accordion_use_effects : '0',accordion_toggle : '0',show_icons : '1',counter : '0',hide_desktop : '1',overlay : '1',menuid : 'maximenuck430',langdirection : 'ltr',merge : '',beforetext : '',aftertext : '',mergeorder : '',logo_where : '1',uriroot : ''}); });</script>
+	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['337'] = {"default_language":"en","languages":["en","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-337","globe_size":60,"flag_size":16,"flag_style":"2d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Translate","detect_browser_language":1,"custom_css":"","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
+
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDARY_iVxXnEJCFH0QExIIDOfsbM9Ol0PI">
+    </script>
+	
+	<!--[if lte IE 8]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]-->
+	
+<link href="/templates/masterbootstrap/css/coa.css" rel="stylesheet" type="text/css" />
+
+<script src="https://kit.fontawesome.com/69a7399fd6.js" crossorigin="anonymous"></script>
+
+ <link rel="stylesheet" href="https://use.typekit.net/yit0ttv.css">
+ <link rel="stylesheet" href="/templates/masterbootstrap/css/showcase.php">
+ 
+ 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.6.2/css/buttons.dataTables.min.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.6.2/js/dataTables.buttons.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.colVis.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.flash.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.html5.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.print.min.js"></script>
+
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/rowgroup/1.1.1/css/rowGroup.bootstrap.min.css">
+<script type="text/javascript" src="https://cdn.datatables.net/rowgroup/1.1.1/js/dataTables.rowGroup.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.min.css">
+<script type="text/javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/plug-ins/2.0.6/sorting/natural.js"></script>
+
+
+
+
+
+
+
+<script src="//scripts.sirv.com/sirv.js"></script>
+<script src="/templates/masterbootstrap/js/jquery.rwdImageMaps.min.js"></script>
+<!-- <script src="/_coa/orgchart.js"></script> -->
+  
+<script type="text/javascript">
+jQuery( document ).ready(function( $ ) {
+	$('[data-toggle="tooltip"]').tooltip();
+	
+	 $("img[usemap]").rwdImageMaps();
+	 $('area').on('click', function() {
+		/*alert($(this).attr('title') + ' clicked');*/
+	});
+	 $('area').hover(function() {
+		$('#axome-tooltip').html('<span>'+$(this).attr('title')+'</span>');
+		$('#axome-tooltip').show();
+	}, function() {
+		$('#axome-tooltip').hide();
+	});
+	
+	$('area').mousemove(function(e) {
+		var offsetX = -210,
+		    offsetY = -15;
+		$('#axome-tooltip').offset({left: e.pageX + offsetX, top: e.pageY + offsetY});
+	});
+	
+	
+    $('#datatable_sort').DataTable( {
+	    responsive: true,
+        "paging": false,
+        "language": {
+        	"search": "Filter: "
+        }
+    } );
+    
+    
+    $('#pdforms_datatable_sort').DataTable( {
+        responsive: true,
+        "paging": false,
+        "language": {
+        	"search": "Filter by form name or category: "
+        },
+        order: [[0, 'asc']] 
+    } );
+
+   
+    $('#cd_forms_datatable_sort').DataTable( {
+        responsive: true,
+        "paging": false,
+        orderFixed: {
+        "pre": [[ 1, 'asc' ], [ 2, 'asc' ]]
+    },
+        "language": {
+        	"search": "Filter by form name: "
+        },
+        order: [[1, 'asc'], [2, 'asc'], [0, 'asc']],
+        rowGroup: {
+            dataSrc: [ 1, 2 ]
+        },
+        
+        columnDefs: [ { 
+	        targets: 0
+	    },{
+	        targets: [1],
+	        width: 90,
+	        "sorting":false,
+	        "ordering":false,
+	        "searchable":false
+	    },{
+            targets: [1,2],
+            visible: false,
+            width: 0
+        } ] 
+    } );
+
+    
+    
+    
+    var emp_table = $('#directory_datatable_sort').DataTable( {
+	    responsive: true,
+    "searching": false,
+         "paging": false,
+        "columnDefs": [
+            {
+        	"targets": [ 0 ],
+        	"visible": false,
+                "searchable": false
+            },
+            {
+        	"targets": [ 3 ],
+        	"visible": false,
+                "searchable": false
+            },
+            {
+            	"targets": [ 1,2 ],
+            	"ordering": false,
+            	"sorting": false,
+                "searchable": false
+            }
+        ],
+        "order": [[ 0, 'asc' ], [ 3, 'asc' ]],
+        "drawCallback": function ( settings ) {
+            var api = this.api();
+            var rows = api.rows( {page:'current'} ).nodes();
+            var last=null;
+ 
+            api.column(3, {page:'current'} ).data().each( function ( group, i ) {
+                if ( last !== group ) {
+                    $(rows).eq( i ).before(
+                        '<tr class="lead" style="font-weight: bold; color:#00539F; background-color:#f0eeea;"><td colspan="6" style="padding-left:10px; border-top:1px solid #000;">'+group+'</td></tr>'
+                    );
+ 
+                    last = group;
+                }
+            } );
+        }
+        } );
+        
+         $('#directory_datatable_sort tbody').on( 'click', 'tr.group', function () {
+        var currentOrder = emp_table.order()[0];
+        if ( currentOrder[0] === 0 && currentOrder[1] === 'asc' ) {
+            emp_table.order( [ 0, 'desc' ] ).draw();
+        }
+        else {
+            emp_table.order( [ 0, 'asc' ] ).draw();
+        }
+    } );
+        
+        //, "order": [[ 3, "asc" ], [0,"asc"], [1,"asc"]]
+    
+    $('#planning_datatable_sort').DataTable( {
+	    responsive: false,
+        "order": [[ 0, "desc" ]],
+        "columns": [
+    { "type": "date", "width": "15%" },
+    { "orderable": true, "searchable": true, "width": "35%" },
+    { "orderable": false, "searchable": false, "width": "10%" },
+    { "orderable": false, "searchable": false, "width": "10%" },
+    { "orderable": false, "searchable": false, "width": "10%" },
+    { "orderable": false, "searchable": false, "width": "10%" }
+  ],
+        "paging": false,
+        "language": {
+        	"search": "Filter: "
+        }
+    } );
+
+	$('#salary_datatable_sort').DataTable( {
+		responsive: true,
+        "order": [[ 1, "asc" ]],
+        "columns": [
+    null,
+    null,
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false }
+  ],
+        "paging": false,
+        "language": {
+        	"search": "Filter: "
+        }
+    } );
+
+	$('#salarynb_datatable_sort').DataTable( {
+		responsive: true,
+        "order": [[ 1, "asc" ]],
+        "columns": [
+    null,
+    null,
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false },
+    { "orderable": false, "searchable": false }
+  ],
+        "paging": false,
+        "language": {
+        	"search": "Filter: "
+        }
+    } );
+
+
+    
+} );
+
+/* document.domain='cityofalbany.net'; */
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '680064302722673');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=680064302722673&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+</head><body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4FMSV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- <style>
+	 .menusearch {
+		 display:none;
+	 }
+	</style> -->
+<a href="#skipnav" class="screenreader">Skip to main content</a>
+		<script>
+  		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  			ga('create', 'UA-1877406-1', 'auto');
+  			ga('send', 'pageview');
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
+</script>	
+
+<!-- 
+	<div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2><i class="fas fa-search-location"></i>&nbsp;MyAlbany</h2>
+            </div>
+            <div class="modal-body">
+	           
+	            <div id="info"></div>
+				<p class="disclaimer"><b>Data retention notice:</b> Only the address you choose to save and its corresponding latitude/longitude are stored as a cookie on your device for a period of one year. Because your saved location is stored on your device and not our servers, you will have to save your location seperately on each device you want to use MyAlbany on.</p>
+			</div>
+        </div>
+    </div>
+	-->
+<div class="layout-boxed">
+  <div id="wrap">
+<!--Navigation-->
+<header id="header" class="header header--fixed hide-from-print" >
+<!--top-->
+<div id="top" class="navbar-inverse">
+<div class="container-fluid">
+<div class="row">
+<div class="custom"  >
+	<div class="row">
+<div class="col-xs-8">
+<p class="toplinkbanner"><a href="/calendar"><i class="fa fa-calendar"><!-- icon --></i>Calendar</a><a href="/hr"><i class="fa fa-briefcase"><!-- icon --></i>Jobs</a><a href="/pay"><i class="fa fa-money-check-alt"><!-- icon --></i>Bill pay</a></p>
+</div>
+<div class="col-xs-4"><div class="gtranslate_wrapper" id="gt-wrapper-337"></div></div>
+</div></div>
+
+</div>
+</div>
+</div>
+<!--top-->
+
+
+
+
+<!-- <div id="navigation" class="container"> -->
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <!-- <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+       -->
+      <div class="col-xs-4 col-sm-2"><a class="navbar-brand-old" href="/index.php">
+	<img src="/images/stories/coa-logo.png" alt="City of Albany, Oregon" width="100%" />
+	<!--  style="z-index: 999999999999999;" -->
+      </a> 
+      </div>
+    <!-- </div> -->
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> -->
+    	 <div class="col-xs-8 col-sm-10">
+    	                        	
+                                <!-- debut Maximenu CK -->
+	<div class="maximenuckh ltr" id="maximenuck430" style="z-index:2147483646;">
+			            <ul class=" maximenuck" style="position:relative;" >
+				<li data-level="1" class="maximenuck item1401 first parent level1  fullwidth" style="z-index : 12000;position:static;" ><span  data-hover="Business &amp; Development" class="separator " data-align="top"><span class="titreck"  data-hover="Business &amp; Development"><span class="titreck-text"><span class="titreck-title">Business &amp; Development</span></span></span></span>
+	<div class="floatck" style="position:absolute;left:0;right:0;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first "  style="width:300px;float:left;">
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item2608 first  level2  fullwidth" style="z-index : 11999;position:static;" ><span  data-hover="Business Resources" class="separator " data-align="top"><span class="titreck"  data-hover="Business Resources"><span class="titreck-text"><span class="titreck-title">Business Resources</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2610 first level3  fullwidth" style="z-index : 11998;position:static;" ><a  data-hover="Code Enforcement" class="maximenuck " href="/enforcement" data-align="top"><span class="titreck"  data-hover="Code Enforcement"><span class="titreck-text"><span class="titreck-title">Code Enforcement</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2609 last level3  fullwidth" style="z-index : 11997;position:static;" ><a  data-hover="Protecting your business" class="maximenuck " href="/police/safety/protecting-your-business" data-align="top"><span class="titreck"  data-hover="Protecting your business"><span class="titreck-text"><span class="titreck-title">Protecting your business</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1405  level2  fullwidth" style="z-index : 11996;position:static;" ><span  data-hover="Codes &amp; Standards" class="separator " data-align="top"><span class="titreck"  data-hover="Codes &amp; Standards"><span class="titreck-text"><span class="titreck-title">Codes &amp; Standards</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1421 first level3  fullwidth" style="z-index : 11995;position:static;" ><a  data-hover="Business licenses in Albany" class="maximenuck " href="/business-licenses" data-align="top"><span class="titreck"  data-hover="Business licenses in Albany"><span class="titreck-text"><span class="titreck-title">Business licenses in Albany</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1422 level3  fullwidth" style="z-index : 11994;position:static;" ><a  data-hover="Comprehensive Plan" class="maximenuck " href="/cd/compplan" data-align="top"><span class="titreck"  data-hover="Comprehensive Plan"><span class="titreck-text"><span class="titreck-title">Comprehensive Plan</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1423 level3  fullwidth" style="z-index : 11993;position:static;" ><a  data-hover="Development Code" class="maximenuck " href="/cd/development-code" data-align="top"><span class="titreck"  data-hover="Development Code"><span class="titreck-text"><span class="titreck-title">Development Code</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1424 level3  fullwidth" style="z-index : 11992;position:static;" ><a  data-hover="Engineering standards" class="maximenuck " href="/pw/engineering/engineering-standards" data-align="top"><span class="titreck"  data-hover="Engineering standards"><span class="titreck-text"><span class="titreck-title">Engineering standards</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2487 level3  fullwidth" style="z-index : 11991;position:static;" ><a  data-hover="Oregon Building Code" class="maximenuck " href="https://www.oregon.gov/bcd/codes-stand/Pages/adopted-codes.aspx" target="_blank"  data-align="top"><span class="titreck"  data-hover="Oregon Building Code"><span class="titreck-text"><span class="titreck-title">Oregon Building Code</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1425 level3  fullwidth" style="z-index : 11990;position:static;" ><a  data-hover="Standard construction specifications" class="maximenuck " href="/pw/engineering/standard-construction-specifications" data-align="top"><span class="titreck"  data-hover="Standard construction specifications"><span class="titreck-text"><span class="titreck-title">Standard construction specifications</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1426 level3  fullwidth" style="z-index : 11989;position:static;" ><a  data-hover="Stormwater utility" class="maximenuck " href="/stormwater/stormwater-utility" data-align="top"><span class="titreck"  data-hover="Stormwater utility"><span class="titreck-text"><span class="titreck-title">Stormwater utility</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1427 level3  fullwidth" style="z-index : 11988;position:static;" ><a  data-hover="System Development Charges (SDCs)" class="maximenuck " href="/pw/engineering/system-development-charges" data-align="top"><span class="titreck"  data-hover="System Development Charges (SDCs)"><span class="titreck-text"><span class="titreck-title">System Development Charges (SDCs)</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1428 last level3  fullwidth" style="z-index : 11987;position:static;" ><a  data-hover="Zoning map (pdf)" class="maximenuck " href="http://infohub.cityofalbany.net/publicdata/PrintableMaps/Zoning_Designations.pdf" target="_blank"  data-align="top"><span class="titreck"  data-hover="Zoning map (pdf)"><span class="titreck-text"><span class="titreck-title">Zoning map (pdf)</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1406  level2  fullwidth" style="z-index : 11986;position:static;" ><span  data-hover="Development Resources" class="separator " data-align="top"><span class="titreck"  data-hover="Development Resources"><span class="titreck-text"><span class="titreck-title">Development Resources</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1429 first level3  fullwidth" style="z-index : 11985;position:static;" ><a  data-hover="Albany e-Permitting" class="maximenuck " href="https://www.cityofalbany.net/_coa/aca-link.php" target="_blank"  data-align="top"><span class="titreck"  data-hover="Albany e-Permitting"><span class="titreck-text"><span class="titreck-title">Albany e-Permitting</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1430 level3  fullwidth" style="z-index : 11984;position:static;" ><a  data-hover="Agency Counter (formerly BuildingEye)" class="maximenuck " href="https://albanyor.buildingeye.com/" target="_blank"  data-align="top"><span class="titreck"  data-hover="Agency Counter (formerly BuildingEye)"><span class="titreck-text"><span class="titreck-title">Agency Counter (formerly BuildingEye)</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1433 level3  fullwidth" style="z-index : 11983;position:static;" ><a  data-hover="Fee schedule (pdf)" class="maximenuck " href="https://cd.cityofalbany.net/fees" data-align="top"><span class="titreck"  data-hover="Fee schedule (pdf)"><span class="titreck-text"><span class="titreck-title">Fee schedule (pdf)</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1434 level3  fullwidth" style="z-index : 11982;position:static;" ><a  data-hover="Forms &amp; checklists" class="maximenuck " href="/cd/forms" data-align="top"><span class="titreck"  data-hover="Forms &amp; checklists"><span class="titreck-text"><span class="titreck-title">Forms &amp; checklists</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1435 last level3  fullwidth" style="z-index : 11981;position:static;" ><a  data-hover="InfoHub maps" class="maximenuck " href="http://infohub.cityofalbany.net/infohub" target="_blank"  data-align="top"><span class="titreck"  data-hover="InfoHub maps"><span class="titreck-text"><span class="titreck-title">InfoHub maps</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item2328  level2  fullwidth" style="z-index : 11980;position:static;" ><span  data-hover="Demographics and Statistics" class="separator " data-align="top"><span class="titreck"  data-hover="Demographics and Statistics"><span class="titreck-text"><span class="titreck-title">Demographics and Statistics</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2332 first level3  fullwidth" style="z-index : 11979;position:static;" ><a  data-hover="Demographic Data homepage" class="maximenuck " href="/demographics" data-align="top"><span class="titreck"  data-hover="Demographic Data homepage"><span class="titreck-text"><span class="titreck-title">Demographic Data homepage</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2334 level3  fullwidth" style="z-index : 11978;position:static;" ><a  data-hover="Community Profile" class="maximenuck " href="/demographics/community" data-align="top"><span class="titreck"  data-hover="Community Profile"><span class="titreck-text"><span class="titreck-title">Community Profile</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2330 level3  fullwidth" style="z-index : 11977;position:static;" ><a  data-hover="Housing Data" class="maximenuck " href="/demographics/housing" data-align="top"><span class="titreck"  data-hover="Housing Data"><span class="titreck-text"><span class="titreck-title">Housing Data</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2331 level3  fullwidth" style="z-index : 11976;position:static;" ><a  data-hover="Income Data" class="maximenuck " href="/demographics/income" data-align="top"><span class="titreck"  data-hover="Income Data"><span class="titreck-text"><span class="titreck-title">Income Data</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2329 last level3  fullwidth" style="z-index : 11975;position:static;" ><a  data-hover="Population Data" class="maximenuck " href="/demographics/population" data-align="top"><span class="titreck"  data-hover="Population Data"><span class="titreck-text"><span class="titreck-title">Population Data</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1407  last level2  fullwidth" style="z-index : 11974;position:static;" ><span  data-hover="Projects" class="separator " data-align="top"><span class="titreck"  data-hover="Projects"><span class="titreck-text"><span class="titreck-title">Projects</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1436 first level3  fullwidth" style="z-index : 11973;position:static;" ><a  data-hover="Bids, RFPs, RFQs" class="maximenuck " href="/finance/purchasing/bids" data-align="top"><span class="titreck"  data-hover="Bids, RFPs, RFQs"><span class="titreck-text"><span class="titreck-title">Bids, RFPs, RFQs</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1437 level3  fullwidth" style="z-index : 11972;position:static;" ><a  data-hover="Capital Improvement Program" class="maximenuck " href="/pw/engineering/capital-improvement-program" data-align="top"><span class="titreck"  data-hover="Capital Improvement Program"><span class="titreck-text"><span class="titreck-title">Capital Improvement Program</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1438 level3  fullwidth" style="z-index : 11971;position:static;" ><a  data-hover="Central Albany Revitalization Area" class="maximenuck " href="/cara" data-align="top"><span class="titreck"  data-hover="Central Albany Revitalization Area"><span class="titreck-text"><span class="titreck-title">Central Albany Revitalization Area</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2354 level3  fullwidth" style="z-index : 11970;position:static;" ><a  data-hover="East Albany Plan" class="maximenuck " href="/cd/east-albany-plan" data-align="top"><span class="titreck"  data-hover="East Albany Plan"><span class="titreck-text"><span class="titreck-title">East Albany Plan</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2037 level3  fullwidth" style="z-index : 11969;position:static;" ><a  data-hover="Housing" class="maximenuck " href="/cd/housing" data-align="top"><span class="titreck"  data-hover="Housing"><span class="titreck-text"><span class="titreck-title">Housing</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1439 level3  fullwidth" style="z-index : 11968;position:static;" ><a  data-hover="Planning projects under review" class="maximenuck " href="/cd/projectreview" data-align="top"><span class="titreck"  data-hover="Planning projects under review"><span class="titreck-text"><span class="titreck-title">Planning projects under review</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1440 level3  fullwidth" style="z-index : 11967;position:static;" ><a  data-hover="Sustainability &amp; living green" class="maximenuck " href="/sustainability" data-align="top"><span class="titreck"  data-hover="Sustainability &amp; living green"><span class="titreck-text"><span class="titreck-title">Sustainability &amp; living green</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2355 last level3  fullwidth" style="z-index : 11966;position:static;" ><a  data-hover="Waterfront Project" class="maximenuck " href="/cara/albany-waterfront-project" data-align="top"><span class="titreck"  data-hover="Waterfront Project"><span class="titreck-text"><span class="titreck-title">Waterfront Project</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="1" class="maximenuck item1402 parent level1  fullwidth" style="z-index : 11965;position:static;" ><span  data-hover="Community &amp; Recreation" class="separator " data-align="top"><span class="titreck"  data-hover="Community &amp; Recreation"><span class="titreck-text"><span class="titreck-title">Community &amp; Recreation</span></span></span></span>
+	<div class="floatck" style="position:absolute;left:0;right:0;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first "  style="width:300px;float:left;">
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1408 first  level2  fullwidth" style="z-index : 11964;position:static;" ><span  data-hover="Events" class="separator " data-align="top"><span class="titreck"  data-hover="Events"><span class="titreck-text"><span class="titreck-title">Events</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1461 first level3  fullwidth" style="z-index : 11963;position:static;" ><a  data-hover="The Big Pickup" class="maximenuck " href="/bigpickup" data-align="top"><span class="titreck"  data-hover="The Big Pickup"><span class="titreck-text"><span class="titreck-title">The Big Pickup</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1994 level3  fullwidth" style="z-index : 11962;position:static;" ><a  data-hover="Farmers Market" class="maximenuck " href="https://www.facebook.com/Albany.OR.Farmers.Market/" target="_blank"  data-align="top"><span class="titreck"  data-hover="Farmers Market"><span class="titreck-text"><span class="titreck-title">Farmers Market</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1995 level3  fullwidth" style="z-index : 11961;position:static;" ><a  data-hover="Fire Department Treasure Hunt" class="maximenuck " href="#" data-align="top"><span class="titreck"  data-hover="Fire Department Treasure Hunt"><span class="titreck-text"><span class="titreck-title">Fire Department Treasure Hunt</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1996 level3  fullwidth" style="z-index : 11960;position:static;" ><a  data-hover="National Night Out" class="maximenuck " href="/police/programs/national-night-out" data-align="top"><span class="titreck"  data-hover="National Night Out"><span class="titreck-text"><span class="titreck-title">National Night Out</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1441 level3  fullwidth" style="z-index : 11959;position:static;" ><a  data-hover="Northwest Art &amp; Air Festival" class="maximenuck " href="/nwaaf" data-align="top"><span class="titreck"  data-hover="Northwest Art &amp; Air Festival"><span class="titreck-text"><span class="titreck-title">Northwest Art &amp; Air Festival</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1442 level3  fullwidth" style="z-index : 11958;position:static;" ><a  data-hover="River Rhythms concert series" class="maximenuck " href="/parks/events/river-rhythms" data-align="top"><span class="titreck"  data-hover="River Rhythms concert series"><span class="titreck-text"><span class="titreck-title">River Rhythms concert series</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1443 last level3  fullwidth" style="z-index : 11957;position:static;" ><a  data-hover="Summer Sounds concert series" class="maximenuck " href="/parks/events/summer-sounds" data-align="top"><span class="titreck"  data-hover="Summer Sounds concert series"><span class="titreck-text"><span class="titreck-title">Summer Sounds concert series</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1409  level2  fullwidth" style="z-index : 11956;position:static;" ><span  data-hover="Library" class="separator " data-align="top"><span class="titreck"  data-hover="Library"><span class="titreck-text"><span class="titreck-title">Library</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2040 first level3  fullwidth" style="z-index : 11955;position:static;" ><a  data-hover="Account login" class="maximenuck " href="http://libweb.cityofalbany.net/eg/opac/myopac/main" target="_blank"  data-align="top"><span class="titreck"  data-hover="Account login"><span class="titreck-text"><span class="titreck-title">Account login</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2039 level3  fullwidth" style="z-index : 11954;position:static;" ><a  data-hover="Browse catalog" class="maximenuck " href="http://libweb.cityofalbany.net/eg/opac/home?locg=2" target="_blank"  data-align="top"><span class="titreck"  data-hover="Browse catalog"><span class="titreck-text"><span class="titreck-title">Browse catalog</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1445 level3  fullwidth" style="z-index : 11953;position:static;" ><a  data-hover="How to get a library card" class="maximenuck " href="https://libweb.cityofalbany.net/eg/opac/register?qtype=keyword;locg=2" data-align="top"><span class="titreck"  data-hover="How to get a library card"><span class="titreck-text"><span class="titreck-title">How to get a library card</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1446 level3  fullwidth" style="z-index : 11952;position:static;" ><a  data-hover="Reference databases" class="maximenuck " href="http://library.cityofalbany.net/category/databases/" data-align="top"><span class="titreck"  data-hover="Reference databases"><span class="titreck-text"><span class="titreck-title">Reference databases</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1447 last level3  fullwidth" style="z-index : 11951;position:static;" ><a  data-hover="Story times" class="maximenuck " href="http://library.cityofalbany.net/children/story-times/" data-align="top"><span class="titreck"  data-hover="Story times"><span class="titreck-text"><span class="titreck-title">Story times</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1410  level2  fullwidth" style="z-index : 11950;position:static;" ><span  data-hover="Parks &amp; natural spaces" class="separator " data-align="top"><span class="titreck"  data-hover="Parks &amp; natural spaces"><span class="titreck-text"><span class="titreck-title">Parks &amp; natural spaces</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1449 first level3  fullwidth" style="z-index : 11949;position:static;" ><a  data-hover="Community Garden program" class="maximenuck " href="/parks/facilities/community-garden" data-align="top"><span class="titreck"  data-hover="Community Garden program"><span class="titreck-text"><span class="titreck-title">Community Garden program</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1452 level3  fullwidth" style="z-index : 11948;position:static;" ><a  data-hover="Park shelter rentals" class="maximenuck " href="/parks/rentals" data-align="top"><span class="titreck"  data-hover="Park shelter rentals"><span class="titreck-text"><span class="titreck-title">Park shelter rentals</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1488 level3  fullwidth" style="z-index : 11947;position:static;" ><a  data-hover="Talking Water Gardens" class="maximenuck " href="/pw/wastewater/twg" data-align="top"><span class="titreck"  data-hover="Talking Water Gardens"><span class="titreck-text"><span class="titreck-title">Talking Water Gardens</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1454 level3  fullwidth" style="z-index : 11946;position:static;" ><a  data-hover="Urban forestry program" class="maximenuck " href="/parks/maintenance/urban-forestry" data-align="top"><span class="titreck"  data-hover="Urban forestry program"><span class="titreck-text"><span class="titreck-title">Urban forestry program</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1455 last level3  fullwidth" style="z-index : 11945;position:static;" ><a  data-hover="Walking paths &amp; trails" class="maximenuck " href="/parks/facilities/trails" data-align="top"><span class="titreck"  data-hover="Walking paths &amp; trails"><span class="titreck-text"><span class="titreck-title">Walking paths &amp; trails</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1875  level2  fullwidth" style="z-index : 11944;position:static;" ><span  data-hover="Recreation" class="separator " data-align="top"><span class="titreck"  data-hover="Recreation"><span class="titreck-text"><span class="titreck-title">Recreation</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1448 first level3  fullwidth" style="z-index : 11943;position:static;" ><a  data-hover="Class registration / Activate!" class="maximenuck " href="/parks/activate" data-align="top"><span class="titreck"  data-hover="Class registration / Activate!"><span class="titreck-text"><span class="titreck-title">Class registration / Activate!</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1450 level3  fullwidth" style="z-index : 11942;position:static;" ><a  data-hover="Albany Community Pool" class="maximenuck " href="/parks/facilities/albany-community-pool" data-align="top"><span class="titreck"  data-hover="Albany Community Pool"><span class="titreck-text"><span class="titreck-title">Albany Community Pool</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1451 level3  fullwidth" style="z-index : 11941;position:static;" ><a  data-hover="COOL! Pool at Swanson Park" class="maximenuck " href="/parks/facilities/cool-pool" data-align="top"><span class="titreck"  data-hover="COOL! Pool at Swanson Park"><span class="titreck-text"><span class="titreck-title">COOL! Pool at Swanson Park</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1453 level3  fullwidth" style="z-index : 11940;position:static;" ><a  data-hover="Riverfront Community Center" class="maximenuck " href="/parks/facilities/community-center" data-align="top"><span class="titreck"  data-hover="Riverfront Community Center"><span class="titreck-text"><span class="titreck-title">Riverfront Community Center</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1456 last level3  fullwidth" style="z-index : 11939;position:static;" ><a  data-hover="Waverly Lake paddle boats" class="maximenuck " href="/parks/activities/waverly-lake-paddle-boat-rental" data-align="top"><span class="titreck"  data-hover="Waverly Lake paddle boats"><span class="titreck-text"><span class="titreck-title">Waverly Lake paddle boats</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1411  level2  fullwidth" style="z-index : 11938;position:static;" ><span  data-hover="Transportation" class="separator " data-align="top"><span class="titreck"  data-hover="Transportation"><span class="titreck-text"><span class="titreck-title">Transportation</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1457 first level3  fullwidth" style="z-index : 11937;position:static;" ><a  data-hover="Albany Transit System" class="maximenuck " href="/?Itemid=1814" data-align="top"><span class="titreck"  data-hover="Albany Transit System"><span class="titreck-text"><span class="titreck-title">Albany Transit System</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1458 level3  fullwidth" style="z-index : 11936;position:static;" ><a  data-hover="Call-a-Ride" class="maximenuck " href="/?Itemid=1815" data-align="top"><span class="titreck"  data-hover="Call-a-Ride"><span class="titreck-text"><span class="titreck-title">Call-a-Ride</span><span class="descck">for seniors &amp; disabled</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1459 level3  fullwidth" style="z-index : 11935;position:static;" ><a  data-hover="Linn-Benton Loop" class="maximenuck " href="/transportation/loop" data-align="top"><span class="titreck"  data-hover="Linn-Benton Loop"><span class="titreck-text"><span class="titreck-title">Linn-Benton Loop</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1460 level3  fullwidth" style="z-index : 11934;position:static;" ><a  data-hover="Municipal Airport" class="maximenuck " href="/?Itemid=1813" data-align="top"><span class="titreck"  data-hover="Municipal Airport"><span class="titreck-text"><span class="titreck-title">Municipal Airport</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2353 last level3  fullwidth" style="z-index : 11933;position:static;" ><a  data-hover="Who to contact about Bird scooters" class="maximenuck " href="/?Itemid=2347" data-align="top"><span class="titreck"  data-hover="Who to contact about Bird scooters"><span class="titreck-text"><span class="titreck-title">Who to contact about Bird scooters</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1412  level2  fullwidth" style="z-index : 11932;position:static;" ><span  data-hover="Volunteering" class="separator " data-align="top"><span class="titreck"  data-hover="Volunteering"><span class="titreck-text"><span class="titreck-title">Volunteering</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1464 first level3  fullwidth" style="z-index : 11931;position:static;" ><a  data-hover="All volunteer opportunities" class="maximenuck " href="/volunteer" data-align="top"><span class="titreck"  data-hover="All volunteer opportunities"><span class="titreck-text"><span class="titreck-title">All volunteer opportunities</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1462 last level3  fullwidth" style="z-index : 11930;position:static;" ><a  data-hover="Serve on a citizen advisory group" class="maximenuck " href="/council/groups/apply" data-align="top"><span class="titreck"  data-hover="Serve on a citizen advisory group"><span class="titreck-text"><span class="titreck-title">Serve on a citizen advisory group</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item2237  last level2  fullwidth" style="z-index : 11929;position:static;" ><span  data-hover="Waste Collection" class="separator " data-align="top"><span class="titreck"  data-hover="Waste Collection"><span class="titreck-text"><span class="titreck-title">Waste Collection</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2238 first last level3  fullwidth" style="z-index : 11928;position:static;" ><a  data-hover="Republic Services" class="maximenuck " href="https://www.republicservices.com/municipality/albany-or" target="_blank"  data-align="top"><span class="titreck"  data-hover="Republic Services"><span class="titreck-text"><span class="titreck-title">Republic Services</span><span class="descck">City franchisee</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="1" class="maximenuck item1403 parent level1  fullwidth" style="z-index : 11927;position:static;" ><span  data-hover="A Safe City" class="separator " data-align="top"><span class="titreck"  data-hover="A Safe City"><span class="titreck-text"><span class="titreck-title">A Safe City</span></span></span></span>
+	<div class="floatck" style="position:absolute;left:0;right:0;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first "  style="width:300px;float:left;">
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item2000 first  level2  fullwidth" style="z-index : 11926;position:static;" ><span  data-hover="Emergency Management" class="separator " data-align="top"><span class="titreck"  data-hover="Emergency Management"><span class="titreck-text"><span class="titreck-title">Emergency Management</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1468 first level3  fullwidth" style="z-index : 11925;position:static;" ><a  data-hover="Current alerts &amp; hazards" class="maximenuck " href="/em/current-hazard-map" data-align="top"><span class="titreck"  data-hover="Current alerts &amp; hazards"><span class="titreck-text"><span class="titreck-title">Current alerts &amp; hazards</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1469 level3  fullwidth" style="z-index : 11924;position:static;" ><a  data-hover="Emergency Management" class="maximenuck " href="/em" data-align="top"><span class="titreck"  data-hover="Emergency Management"><span class="titreck-text"><span class="titreck-title">Emergency Management</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1472 last level3  fullwidth" style="z-index : 11923;position:static;" ><a  data-hover="Flood &amp; floodplain information" class="maximenuck " href="/floodplain" data-align="top"><span class="titreck"  data-hover="Flood &amp; floodplain information"><span class="titreck-text"><span class="titreck-title">Flood &amp; floodplain information</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1414  level2  fullwidth" style="z-index : 11922;position:static;" ><span  data-hover="Public Safety" class="separator " data-align="top"><span class="titreck"  data-hover="Public Safety"><span class="titreck-text"><span class="titreck-title">Public Safety</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2047 first level3  fullwidth" style="z-index : 11921;position:static;" ><a  data-hover="Car seat inspections" class="maximenuck " href="/fire/events-programs/free-car-seat-inspections" data-align="top"><span class="titreck"  data-hover="Car seat inspections"><span class="titreck-text"><span class="titreck-title">Car seat inspections</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1470 level3  fullwidth" style="z-index : 11920;position:static;" ><a  data-hover="Fire Department" class="maximenuck " href="/fire" data-align="top"><span class="titreck"  data-hover="Fire Department"><span class="titreck-text"><span class="titreck-title">Fire Department</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1471 level3  fullwidth" style="z-index : 11919;position:static;" ><a  data-hover="FireMed ambulance service" class="maximenuck " href="/fire/ambulance-service/firemed-program" data-align="top"><span class="titreck"  data-hover="FireMed ambulance service"><span class="titreck-text"><span class="titreck-title">FireMed ambulance service</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2065 level3  fullwidth" style="z-index : 11918;position:static;" ><a  data-hover="Municipal Court" class="maximenuck " href="/court" data-align="top"><span class="titreck"  data-hover="Municipal Court"><span class="titreck-text"><span class="titreck-title">Municipal Court</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1473 last level3  fullwidth" style="z-index : 11917;position:static;" ><a  data-hover="Police Department" class="maximenuck " href="/police" data-align="top"><span class="titreck"  data-hover="Police Department"><span class="titreck-text"><span class="titreck-title">Police Department</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1415  level2  fullwidth" style="z-index : 11916;position:static;" ><span  data-hover="Report" class="separator " data-align="top"><span class="titreck"  data-hover="Report"><span class="titreck-text"><span class="titreck-title">Report</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1474 first level3  fullwidth" style="z-index : 11915;position:static;" ><a  data-hover="Abandoned vehicles" class="maximenuck " href="/enforcement" data-align="top"><span class="titreck"  data-hover="Abandoned vehicles"><span class="titreck-text"><span class="titreck-title">Abandoned vehicles</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1475 level3  fullwidth" style="z-index : 11914;position:static;" ><a  data-hover="Animal complaints" class="maximenuck " href="/enforcement" data-align="top"><span class="titreck"  data-hover="Animal complaints"><span class="titreck-text"><span class="titreck-title">Animal complaints</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1476 level3  fullwidth" style="z-index : 11913;position:static;" ><a  data-hover="Fraud, waste, and abuse of City resources" class="maximenuck " href="/finance/fraud" data-align="top"><span class="titreck"  data-hover="Fraud, waste, and abuse of City resources"><span class="titreck-text"><span class="titreck-title">Fraud, waste, and abuse of City resources</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1478 level3  fullwidth" style="z-index : 11912;position:static;" ><a  data-hover="Junk &amp; trash" class="maximenuck " href="/police/contact-apd" data-align="top"><span class="titreck"  data-hover="Junk &amp; trash"><span class="titreck-text"><span class="titreck-title">Junk &amp; trash</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1479 level3  fullwidth" style="z-index : 11911;position:static;" ><a  data-hover="Neighborhood speeding" class="maximenuck " href="/police/programs/neighborhood-speed-watch" data-align="top"><span class="titreck"  data-hover="Neighborhood speeding"><span class="titreck-text"><span class="titreck-title">Neighborhood speeding</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1480 level3  fullwidth" style="z-index : 11910;position:static;" ><a  data-hover="Overgrown grass &amp; vegetation" class="maximenuck " href="/report-overgrown-vegetation" data-align="top"><span class="titreck"  data-hover="Overgrown grass &amp; vegetation"><span class="titreck-text"><span class="titreck-title">Overgrown grass &amp; vegetation</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1481 level3  fullwidth" style="z-index : 11909;position:static;" ><a  data-hover="Park maintenance issue" class="maximenuck " href="/parks/maintenance/report" data-align="top"><span class="titreck"  data-hover="Park maintenance issue"><span class="titreck-text"><span class="titreck-title">Park maintenance issue</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1482 level3  fullwidth" style="z-index : 11908;position:static;" ><a  data-hover="Street hazards" class="maximenuck " href="/pw/streets/street-hazard-report" data-align="top"><span class="titreck"  data-hover="Street hazards"><span class="titreck-text"><span class="titreck-title">Street hazards</span><span class="descck">potholes, sidewalk, etc.</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1483 level3  fullwidth" style="z-index : 11907;position:static;" ><a  data-hover="Street light out" class="maximenuck " href="/pw/streets/streetlight-out" data-align="top"><span class="titreck"  data-hover="Street light out"><span class="titreck-text"><span class="titreck-title">Street light out</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1484 last level3  fullwidth" style="z-index : 11906;position:static;" ><a  data-hover="Other issues..." class="maximenuck " href="/contact-the-city" data-align="top"><span class="titreck"  data-hover="Other issues..."><span class="titreck-text"><span class="titreck-title">Other issues...</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1416  level2  fullwidth" style="z-index : 11905;position:static;" ><span  data-hover="Streets" class="separator " data-align="top"><span class="titreck"  data-hover="Streets"><span class="titreck-text"><span class="titreck-title">Streets</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2046 first level3  fullwidth" style="z-index : 11904;position:static;" ><a  data-hover="Leaf removal" class="maximenuck " href="/pw/streets/leaf-pickup" data-align="top"><span class="titreck"  data-hover="Leaf removal"><span class="titreck-text"><span class="titreck-title">Leaf removal</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1485 level3  fullwidth" style="z-index : 11903;position:static;" ><a  data-hover="Street maintenance" class="maximenuck " href="/streets" data-align="top"><span class="titreck"  data-hover="Street maintenance"><span class="titreck-text"><span class="titreck-title">Street maintenance</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1486 last level3  fullwidth" style="z-index : 11902;position:static;" ><a  data-hover="Street sweeping" class="maximenuck " href="/pw/streets/street-sweeping-schedule" data-align="top"><span class="titreck"  data-hover="Street sweeping"><span class="titreck-text"><span class="titreck-title">Street sweeping</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1999  level2  fullwidth" style="z-index : 11901;position:static;" ><span  data-hover="Trees" class="separator " data-align="top"><span class="titreck"  data-hover="Trees"><span class="titreck-text"><span class="titreck-title">Trees</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1998 first last level3  fullwidth" style="z-index : 11900;position:static;" ><a  data-hover="Removing trees on your property" class="maximenuck " href="/parks/maintenance/urban-forestry" data-align="top"><span class="titreck"  data-hover="Removing trees on your property"><span class="titreck-text"><span class="titreck-title">Removing trees on your property</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1417  last level2  fullwidth" style="z-index : 11899;position:static;" ><span  data-hover="Water System" class="separator " data-align="top"><span class="titreck"  data-hover="Water System"><span class="titreck-text"><span class="titreck-title">Water System</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1487 first level3  fullwidth" style="z-index : 11898;position:static;" ><a  data-hover="Stormwater utility" class="maximenuck " href="/stormwater/stormwater-utility" data-align="top"><span class="titreck"  data-hover="Stormwater utility"><span class="titreck-text"><span class="titreck-title">Stormwater utility</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1489 level3  fullwidth" style="z-index : 11897;position:static;" ><a  data-hover="Utility Billing" class="maximenuck " href="/utility-billing" data-align="top"><span class="titreck"  data-hover="Utility Billing"><span class="titreck-text"><span class="titreck-title">Utility Billing</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1490 last level3  fullwidth" style="z-index : 11896;position:static;" ><a  data-hover="Water quality &amp; safety" class="maximenuck " href="/water-quality-report" data-align="top"><span class="titreck"  data-hover="Water quality &amp; safety"><span class="titreck-text"><span class="titreck-title">Water quality &amp; safety</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="1" class="maximenuck item1404 parent level1  fullwidth" style="z-index : 11895;position:static;" ><span  data-hover="Your Government" class="separator " data-align="top"><span class="titreck"  data-hover="Your Government"><span class="titreck-text"><span class="titreck-title">Your Government</span></span></span></span>
+	<div class="floatck" style="position:absolute;left:0;right:0;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first "  style="width:300px;float:left;">
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1520 first  level2  fullwidth" style="z-index : 11894;position:static;" ><span  data-hover="City Clerk" class="separator " data-align="top"><span class="titreck"  data-hover="City Clerk"><span class="titreck-text"><span class="titreck-title">City Clerk</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1495 first level3  fullwidth" style="z-index : 11893;position:static;" ><a  data-hover="Elections" class="maximenuck " href="/cm/clerk/elections" data-align="top"><span class="titreck"  data-hover="Elections"><span class="titreck-text"><span class="titreck-title">Elections</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1521 last level3  fullwidth" style="z-index : 11892;position:static;" ><a  data-hover="Public records requests" class="maximenuck " href="/cm/clerk/public-records" data-align="top"><span class="titreck"  data-hover="Public records requests"><span class="titreck-text"><span class="titreck-title">Public records requests</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item1418  level2  fullwidth" style="z-index : 11891;position:static;" ><span  data-hover="City Council" class="separator " data-align="top"><span class="titreck"  data-hover="City Council"><span class="titreck-text"><span class="titreck-title">City Council</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1494 first level3  fullwidth" style="z-index : 11890;position:static;" ><a  data-hover="Albany City Council" class="maximenuck " href="/council" data-align="top"><span class="titreck"  data-hover="Albany City Council"><span class="titreck-text"><span class="titreck-title">Albany City Council</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1493 level3  fullwidth" style="z-index : 11889;position:static;" ><a  data-hover="Citizen Advisory Groups" class="maximenuck " href="/council/groups" data-align="top"><span class="titreck"  data-hover="Citizen Advisory Groups"><span class="titreck-text"><span class="titreck-title">Citizen Advisory Groups</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1496 level3  fullwidth" style="z-index : 11888;position:static;" ><a  data-hover="Policies" class="maximenuck " href="/council/policies" data-align="top"><span class="titreck"  data-hover="Policies"><span class="titreck-text"><span class="titreck-title">Policies</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1499 level3  fullwidth" style="z-index : 11887;position:static;" ><a  data-hover="Meeting materials and videos" class="maximenuck " href="/council/materials" data-align="top"><span class="titreck"  data-hover="Meeting materials and videos"><span class="titreck-text"><span class="titreck-title">Meeting materials and videos</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1498 level3  fullwidth" style="z-index : 11886;position:static;" ><a  data-hover="Meetings calendar" class="maximenuck " href="/calendar" data-align="top"><span class="titreck"  data-hover="Meetings calendar"><span class="titreck-text"><span class="titreck-title">Meetings calendar</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2209 level3  fullwidth" style="z-index : 11885;position:static;" ><a  data-hover="Representatives to outside agencies" class="maximenuck " href="/council/outside-agency-reps" data-align="top"><span class="titreck"  data-hover="Representatives to outside agencies"><span class="titreck-text"><span class="titreck-title">Representatives to outside agencies</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1491 level3  fullwidth" style="z-index : 11884;position:static;" ><a  data-hover="Municipal Code &amp; Charter" class="maximenuck " href="/council/municipal-code" data-align="top"><span class="titreck"  data-hover="Municipal Code &amp; Charter"><span class="titreck-text"><span class="titreck-title">Municipal Code &amp; Charter</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1500 last level3  fullwidth" style="z-index : 11883;position:static;" ><a  data-hover="Strategic Plan" class="maximenuck " href="/strategic-plan" data-align="top"><span class="titreck"  data-hover="Strategic Plan"><span class="titreck-text"><span class="titreck-title">Strategic Plan</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item2137  level2  fullwidth" style="z-index : 11882;position:static;" ><span  data-hover="Communications" class="separator " data-align="top"><span class="titreck"  data-hover="Communications"><span class="titreck-text"><span class="titreck-title">Communications</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2138 first level3  fullwidth" style="z-index : 11881;position:static;" ><a  data-hover="Media Contacts / PIO" class="maximenuck " href="/cm/comms/media-information" data-align="top"><span class="titreck"  data-hover="Media Contacts / PIO"><span class="titreck-text"><span class="titreck-title">Media Contacts / PIO</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2139 last level3  fullwidth" style="z-index : 11880;position:static;" ><a  data-hover="News Distribution / Social Media" class="maximenuck " href="/cm/comms/social-profiles" data-align="top"><span class="titreck"  data-hover="News Distribution / Social Media"><span class="titreck-text"><span class="titreck-title">News Distribution / Social Media</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1419  level2  fullwidth" style="z-index : 11879;position:static;" ><span  data-hover="Departments" class="separator " data-align="top"><span class="titreck"  data-hover="Departments"><span class="titreck-text"><span class="titreck-title">Departments</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1501 first level3  fullwidth" style="z-index : 11878;position:static;" ><a  data-hover="City Manager" class="maximenuck " href="/cm" data-align="top"><span class="titreck"  data-hover="City Manager"><span class="titreck-text"><span class="titreck-title">City Manager</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1502 level3  fullwidth" style="z-index : 11877;position:static;" ><a  data-hover="Community Development" class="maximenuck " href="/cd" data-align="top"><span class="titreck"  data-hover="Community Development"><span class="titreck-text"><span class="titreck-title">Community Development</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1503 level3  fullwidth" style="z-index : 11876;position:static;" ><a  data-hover="Economic Development" class="maximenuck " href="/ecodev" data-align="top"><span class="titreck"  data-hover="Economic Development"><span class="titreck-text"><span class="titreck-title">Economic Development</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1504 level3  fullwidth" style="z-index : 11875;position:static;" ><a  data-hover="Finance" class="maximenuck " href="/finance" data-align="top"><span class="titreck"  data-hover="Finance"><span class="titreck-text"><span class="titreck-title">Finance</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1505 level3  fullwidth" style="z-index : 11874;position:static;" ><a  data-hover="Fire" class="maximenuck " href="/fire" data-align="top"><span class="titreck"  data-hover="Fire"><span class="titreck-text"><span class="titreck-title">Fire</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1506 level3  fullwidth" style="z-index : 11873;position:static;" ><a  data-hover="Human Resources" class="maximenuck " href="/hr" data-align="top"><span class="titreck"  data-hover="Human Resources"><span class="titreck-text"><span class="titreck-title">Human Resources</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1507 level3  fullwidth" style="z-index : 11872;position:static;" ><a  data-hover="IT GIS Services" class="maximenuck " href="/gis" data-align="top"><span class="titreck"  data-hover="IT GIS Services"><span class="titreck-text"><span class="titreck-title">IT GIS Services</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1508 level3  fullwidth" style="z-index : 11871;position:static;" ><a  data-hover="Library" class="maximenuck " href="https://library.albanyoregon.gov" data-align="top"><span class="titreck"  data-hover="Library"><span class="titreck-text"><span class="titreck-title">Library</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1509 level3  fullwidth" style="z-index : 11870;position:static;" ><a  data-hover="Municipal Court" class="maximenuck " href="/court" data-align="top"><span class="titreck"  data-hover="Municipal Court"><span class="titreck-text"><span class="titreck-title">Municipal Court</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1510 level3  fullwidth" style="z-index : 11869;position:static;" ><a  data-hover="Parks &amp; Recreation" class="maximenuck " href="/parks" data-align="top"><span class="titreck"  data-hover="Parks &amp; Recreation"><span class="titreck-text"><span class="titreck-title">Parks &amp; Recreation</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1511 level3  fullwidth" style="z-index : 11868;position:static;" ><a  data-hover="Police" class="maximenuck " href="/police" data-align="top"><span class="titreck"  data-hover="Police"><span class="titreck-text"><span class="titreck-title">Police</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1512 last level3  fullwidth" style="z-index : 11867;position:static;" ><a  data-hover="Public Works" class="maximenuck " href="/pw" data-align="top"><span class="titreck"  data-hover="Public Works"><span class="titreck-text"><span class="titreck-title">Public Works</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item2627  level2  fullwidth" style="z-index : 11866;position:static;" ><span  data-hover="Strategic Plan" class="separator " data-align="top"><span class="titreck"  data-hover="Strategic Plan"><span class="titreck-text"><span class="titreck-title">Strategic Plan</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2629 first level3  fullwidth" style="z-index : 11865;position:static;" ><a  data-hover="Annual Report" class="maximenuck " href="/?Itemid=2565" data-align="top"><span class="titreck"  data-hover="Annual Report"><span class="titreck-text"><span class="titreck-title">Annual Report</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2628 level3  fullwidth" style="z-index : 11864;position:static;" ><a  data-hover="Strategic Plan" class="maximenuck " href="/strategic-plan" data-align="top"><span class="titreck"  data-hover="Strategic Plan"><span class="titreck-text"><span class="titreck-title">Strategic Plan</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2630 last level3  fullwidth" style="z-index : 11863;position:static;" ><a  data-hover="Our Mission Vision, and Values" class="maximenuck " href="/cm/strategic-plan/mission-vision" data-align="top"><span class="titreck"  data-hover="Our Mission Vision, and Values"><span class="titreck-text"><span class="titreck-title">Our Mission Vision, and Values</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li></ul><div class="ckclr"></div></div><div class="maximenuck2"  style="width:300px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck nodropdown item1420  level2  fullwidth" style="z-index : 11862;position:static;" ><span  data-hover="Transparency" class="separator " data-align="top"><span class="titreck"  data-hover="Transparency"><span class="titreck-text"><span class="titreck-title">Transparency</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item1513 first level3  fullwidth" style="z-index : 11861;position:static;" ><a  data-hover="Data &amp; Transparency homepage" class="maximenuck " href="/data" data-align="top"><span class="titreck"  data-hover="Data &amp; Transparency homepage"><span class="titreck-text"><span class="titreck-title">Data &amp; Transparency homepage</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2327 level3  fullwidth" style="z-index : 11860;position:static;" ><a  data-hover="Demographics" class="maximenuck " href="/demographics" data-align="top"><span class="titreck"  data-hover="Demographics"><span class="titreck-text"><span class="titreck-title">Demographics</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1514 level3  fullwidth" style="z-index : 11859;position:static;" ><a  data-hover="Drone (UAS) usage" class="maximenuck " href="/drones" data-align="top"><span class="titreck"  data-hover="Drone (UAS) usage"><span class="titreck-text"><span class="titreck-title">Drone (UAS) usage</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1477 level3  fullwidth" style="z-index : 11858;position:static;" ><a  data-hover="Recognize great service from the City" class="maximenuck " href="/?Itemid=2028" data-align="top"><span class="titreck"  data-hover="Recognize great service from the City"><span class="titreck-text"><span class="titreck-title">Recognize great service from the City</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1515 level3  fullwidth" style="z-index : 11857;position:static;" ><a  data-hover="Lobbying information" class="maximenuck " href="/data/other-data/lobbying-memberships" data-align="top"><span class="titreck"  data-hover="Lobbying information"><span class="titreck-text"><span class="titreck-title">Lobbying information</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1516 level3  fullwidth" style="z-index : 11856;position:static;" ><a  data-hover="Open finance" class="maximenuck " href="https://cityofalbany.finance.socrata.com/#!/dashboard" target="_blank"  data-align="top"><span class="titreck"  data-hover="Open finance"><span class="titreck-text"><span class="titreck-title">Open finance</span><span class="descck">by Socrata</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1519 level3  fullwidth" style="z-index : 11855;position:static;" ><a  data-hover="Crime statistics" class="maximenuck " href="/?Itemid=1683" data-align="top"><span class="titreck"  data-hover="Crime statistics"><span class="titreck-text"><span class="titreck-title">Crime statistics</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1522 level3  fullwidth" style="z-index : 11854;position:static;" ><a  data-hover="Strategic Energy Program" class="maximenuck " href="/data/other-data/energy-management" data-align="top"><span class="titreck"  data-hover="Strategic Energy Program"><span class="titreck-text"><span class="titreck-title">Strategic Energy Program</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item1524 last level3  fullwidth" style="z-index : 11853;position:static;" ><a  data-hover="Where Do My Property Taxes Go?" class="maximenuck " href="/data/propertytax" data-align="top"><span class="titreck"  data-hover="Where Do My Property Taxes Go?"><span class="titreck-text"><span class="titreck-title">Where Do My Property Taxes Go?</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="2" class="maximenuck nodropdown item2303  last level2  fullwidth" style="z-index : 11852;position:static;" ><span  data-hover="Urban Renewal" class="separator " data-align="top"><span class="titreck"  data-hover="Urban Renewal"><span class="titreck-text"><span class="titreck-title">Urban Renewal</span></span></span></span>
+	<div class="floatck" style="position:static;display:block;height:auto;"><div class="maxidrop-main" style="width:auto;"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck nodropdown item2305 first level3  fullwidth" style="z-index : 11851;position:static;" ><a  data-hover="Albany Revitalization Agency" class="maximenuck " href="/cara/ara" data-align="top"><span class="titreck"  data-hover="Albany Revitalization Agency"><span class="titreck-text"><span class="titreck-title">Albany Revitalization Agency</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2304 level3  fullwidth" style="z-index : 11850;position:static;" ><a  data-hover="Central Albany Revitalization Area" class="maximenuck " href="/cara" data-align="top"><span class="titreck"  data-hover="Central Albany Revitalization Area"><span class="titreck-text"><span class="titreck-title">Central Albany Revitalization Area</span></span></span></a>
+		</li><li data-level="3" class="maximenuck nodropdown item2306 last level3  fullwidth" style="z-index : 11849;position:static;" ><a  data-hover="Central Albany Revitalization Area Advisory Board" class="maximenuck " href="/cara/cab" data-align="top"><span class="titreck"  data-hover="Central Albany Revitalization Area Advisory Board"><span class="titreck-text"><span class="titreck-title">Central Albany Revitalization Area Advisory Board</span></span></span></a>
+	</li>
+	</ul>
+	</div></div></div>
+	</li>
+	</ul>
+	</div></div></div>
+	</li><li data-level="1" class="maximenuck maximenuckmodule item1525 last level1 " ><div class="maximenuck_mod"><div class="moduletable ">
+        <div class="custom"  >
+	<div class="ss360"></div></div>
+</div>
+<div class="clr"></div></div></li>			</ul>
+	</div>
+	<!-- fin maximenuCK -->
+
+                        	    	 </div>
+     <!-- </div> --><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</header>
+<div class="clearfix"></div>
+<!--Navigation-->
+<section>
+<!--fullwidth-->
+<!--fullwidth-->
+<!--Showcase-->
+<!--Showcase-->
+<!--Feature-->
+<!--Feature-->
+<!--Breadcrum-->
+<div id="breadcrumbs">
+<div class="container">
+<div class="row">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="mod-breadcrumbs breadcrumb breadcrumbs" >
+        
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="mod-breadcrumbs__item breadcrumb-item">
+                <a itemprop="item" href="/" class="pathway"><span itemprop="name">Home</span></a>                <meta itemprop="position" content="1">
+            </li>
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="mod-breadcrumbs__item active breadcrumb-item">
+                <span itemprop="name">Page Not Found: Error 404</span>                <meta itemprop="position" content="2">
+            </li>
+        </ol>
+</div>
+</div>
+</div>
+<!--Breadcrum-->
+
+
+
+
+<a name="skipnav" id="skipnav"></a>	
+
+<!-- Content -->
+<div class="container">
+<div id="main" class="row show-grid">
+	
+	
+
+	
+	
+<!-- Left -->
+<!-- Component -->
+<div id="container" class="col-sm-12">
+<!-- Content-top Module Position -->
+<!-- Front page show or hide -->
+<div id="main-box">
+
+<div id="system-message-container" aria-live="polite"></div>
+
+<div class="com-content-article item-page" itemscope itemtype="https://schema.org/Article">
+    <meta itemprop="inLanguage" content="en-GB">
+    
+    
+        
+        
+
+    
+    
+        
+                                    <div itemprop="articleBody" class="com-content-article__body">
+        <div><div class="row">
+	<div class="col-lg-12">
+<!-- <div class="well well-large" style="text-align: center; margin-top: 20px;"> -->
+	<h1 style="font-size:8em;text-align: center; margin-top:8%"><!-- <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/stories/general/404.png" alt="404" width="448" height="184" /><br /> -->Whoops!</h1><h1 style="text-align: center;  margin-bottom:4%">It could be you, or it could be us, but there's no page at<br />https://www.albanyoregon.gov/index.php?option=com_xmap&view=xml&tmpl=component&id=1</h1>
+
+
+
+
+	</div>
+	
+	
+	
+</div>
+			</div>
+<div class="alert alert-info" style="text-align: center;"><span style="font-size:18px"><strong>We recently moved to albanyoregon.gov. Some of our old links are no longer active.</strong></span><br>For example, <a href="https://www.cityofalbany.net/departments/police">www.cityofalbany.net/departments/police</a>&nbsp;is now just <a href="/police">albanyoregon.gov/police</a>.&nbsp;<br><em>(Please update your bookmarks. Thank you.)</em></div>
+<!-- <p style="text-align: center;"><strong>Could it be a mistyped address or an out-of-date bookmark?</strong> <br>Give it another shot and edit that bookmark.</p>
+<p style="text-align: center;"><strong>The search engine or another site that brought you here might be out of date.</strong> <br>Please let the site know that they need to update their links to albanyoregon.gov.</p>
+<p style="text-align: center;"><strong>You clicked on a broken link on our site that we need to fix.</strong> <br>Please use the contact form link at the bottom of this or any page on albanyoregon.gov.</p> -->
+<div class="row" style="padding-bottom:4%">
+<div class="col-md-4">
+<h3><i class="fas fa-search"></i> Try searching this site:</h3>
+<div></div>
+</div>
+<div class="col-md-4">
+<h3><i class="fas fa-list"></i> Try browsing this site:</h3>
+<ul>
+<li><a href="/cm" data-align="top">City Manager</a></li>
+<li><a data-hover="Community Development" href="/cd">Community Development</a></li>
+<li><a data-hover="Economic Development" href="/ecodev">Economic Development</a></li>
+<li><a data-hover="Finance" href="/finance">Finance</a></li>
+<li><a data-hover="Fire" href="/fire">Fire</a></li>
+<li><a data-hover="Human Resources" href="/hr">Human Resources</a></li>
+<li><a data-hover="IT GIS Services" href="/gis">IT GIS Services</a></li>
+<li><a data-hover="Library" href="https://library.cityofalbany.net">Library</a></li>
+<li><a data-hover="Municipal Court" href="/court">Municipal Court</a></li>
+<li><a data-hover="Parks &amp; Recreation" href="/parks">Parks &amp; Recreation</a></li>
+<li><a data-hover="Police" href="/police">Police</a></li>
+<li><a data-hover="Public Works" href="/pw">Public Works</a></li>
+</ul>
+<ul class="maximenuck2"></ul>
+</div>
+<div class="col-md-4">
+<h3><i class="fas fa-laptop"></i> Check out some other sites:</h3>
+<ul>
+<li><a href="http://www.co.benton.or.us/">Benton County</a></li>
+<li><a href="http://www.co.linn.or.us/">Linn County</a></li>
+<li><a href="http://www.oregon.gov/">State of Oregon</a></li>
+<li><a href="http://www.usa.gov/">US Government</a></li>
+</ul>
+</div>
+</div>     </div>
+
+                                        
+                                                            </div>
+</div>
+
+<!-- Front page show or hide -->
+
+
+</div>
+
+<!-- Right -->
+  
+
+</div>
+</div>
+<!-- Content -->
+
+<a name="skipsidebar" id="skipsidebar"></a>	
+
+<!-- Below Content Module Position -->
+
+
+
+
+
+<!-- bottom -->
+<!-- bottom -->
+<!-- footer -->
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="custom"  >
+	<h4 style="color: #fff;">Contact:</h4>
+<h5 style="color: #fff;">Main: <a class="btn btn-link" href="tel:5419177500"><i class="fas fa-mobile-alt"></i>&nbsp;541-917-7500</a>&nbsp;
+<div class="clearfix visible-xs-block">&nbsp;</div>
+Police non-emergency: <a class="btn btn-link" href="tel:5419177680"><i class="fas fa-mobile-alt"></i>&nbsp;541-917-7680</a>&nbsp;
+<div class="clearfix visible-xs-block">&nbsp;</div>
+Public Works Operations: <a class="btn btn-link" href="tel:5419177600"><i class="fas fa-mobile-alt"></i>&nbsp;541-917-7600</a><br>Other: <a class="btn btn-link" href="/directory"><i class="fas fa-book"></i>&nbsp;Directory</a>&nbsp;
+<div class="clearfix visible-xs-block">&nbsp;</div>
+TTY: <a class="btn btn-link" href="tel:711"><i class="fas fa-tty"></i>&nbsp;711</a>&nbsp;
+<div class="clearfix visible-xs-block">&nbsp;</div>
+Email: <a class="btn btn-link" href="/contact-the-city"><i class="fas fa-envelope"></i>&nbsp;Contact form</a>&nbsp;
+<div class="clearfix visible-xs-block">&nbsp;</div>
+Social: <a class="btn btn-link" href="http://facebook.com/cityofalbany" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><span style="color: #fff;"><i class="fab fa-facebook"></i></span></a> <a class="btn btn-link" href="https://www.instagram.com/cityofalbany" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><span style="color: #fff;"><i class="fab fa-instagram"></i></span></a> <a class="btn btn-link" href="https://www.youtube.com/user/cityofalbany" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><span style="color: #fff;"><i class="fab fa-youtube"></i></span></a> <a class="btn btn-link" href="https://nextdoor.com/city/feed/662497/?i=rhxuhytxptbaqmpurmcb" target="_blank" rel="noopener noreferrer" aria-label="Nextdoor"><span style="color: #FFF;"><i class="fas fa-home"></i></span></a> <a class="btn btn-link" href="/cm/comms/social-profiles">Other...</a></h5>
+<h6 style="color: #fff; font-weight:normal;">Most City offices and facilities are open Monday-Friday, 8am–5pm, individual service counter hours vary.</h6>
+<h6 style="color: #fff; font-weight:normal !important;"><a style="color: #fff" href="/accessibility">Accessibility</a> | <a style="color: #fff" href="/council/codeofconduct">Code of Conduct</a> | <a style="color: #fff" href="/accessibility/notice-of-non-discrimination">Non‑Discrimination</a></h6>
+<hr style="border-color: #999">
+<div class="row">
+<div class="col-md-2 col-xs-12">
+<div class="hidden-xs">
+<p><a class="btn btn-default" style="color: #000;" href="/stafflinks"><i class="fas fa-lock"></i>&nbsp;City&nbsp;staff&nbsp;links</a></p>
+</div>
+<div class="visible-xs-block" aria-hidden="true">
+<p style="text-align: center; "><a class="btn btn-lg btn-default" style="color: #000;" href="/stafflinks"><i class="fas fa-lock"></i>&nbsp;City&nbsp;staff&nbsp;links</a></p>
+</div>
+</div>
+<div class="col-md-7 col-xs-12">
+<h6 style="color: #999999; text-align: center;">Official website of the City of Albany,&nbsp;Oregon; all rights reserved. <a style="color: #999" href="/terms">Terms&nbsp;&amp;&nbsp;Conditions</a></h6>
+</div>
+<div class="col-md-1 col-xs-4" style="text-align: center;">
+<p><a href="https://www.albanychamber.com/" target="_blank" rel="noopener"><img title="Albany Area Chamber of Commerce" src="/images/stories/homepage/footer-chamber.gif" alt="Albany Area Chamber of Commerce logo" width="100%"></a></p>
+</div>
+<div class="col-md-1 col-xs-4" style="text-align: center;">
+<p><a href="https://albanydowntown.com/" target="_blank" rel="noopener"><img title="Albany Downtown Association" src="/images/stories/homepage/footer-ada.gif" alt="Albany Downtown Association logo" width="100%"></a></p>
+</div>
+<div class="col-md-1 col-xs-4" style="text-align: center;">
+<p><a href="https://www.albanyvisitors.com/" target="_blank" rel="noopener"><img title="Albany Visitors Association" src="/images/stories/homepage/footer-ava.gif" alt="Albany Visitors Association logo" width="100%"></a></p>
+</div>
+</div>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"a5a123a6d8e1b17a14ea2f58a5f82345"})});</script></div>
+
+</div>
+</div>
+</div>
+<!-- footer -->
+<!--<div id="push"></div>-->
+<!-- copy -->
+<!-- copy -->
+<!-- menu slide -->
+<!-- menu slide -->
+<a href="#" class="back-to-top">Back to Top</a>
+
+</section></div>
+</div>
+  <!-- page -->
+
+   
+   <!-- from old template -->
+   
+   
+   	<script type="text/javascript">
+
+var dw_Util; 
+if (!dw_Util) dw_Util = {};
+
+// obj: link or window.location
+dw_Util.getValueFromQueryString = function (name, obj) {
+    obj = obj? obj: window.location; 
+    if (obj.search && obj.search.indexOf(name != -1) ) {
+        var pairs = obj.search.slice(1).split("&"); // name/value pairs
+        var set;
+        for (var i=0; pairs[i]; i++) {
+            set = pairs[i].split("="); // Check each pair for match on name 
+            if ( set[0] == name && set[1] ) {
+                return set[1];
+            }
+        }
+    }
+    return '';
+}
+
+// example query string for 2 iframes: ?ifrm=dw&ifm2=cd
+function checkQuery4Iframe(obj) {
+    var id = obj.id, urls = obj.urls, pg, url;
+    // value for id in query string?
+    pg = dw_Util.getValueFromQueryString(id);
+    // value found for id? in list of urls? if not, use default 
+    var pgLength = pg.length;
+    if (pgLength==4) {
+	 var pgCh = pg.substr(0,2);   
+	    url = '/images/stories/municipal_code/Albany'+pgCh+'/Albany'+pg+'.html'
+	    
+	} else if (pgLength==3) {
+	 var pgCh = pg.substr(0,1);   
+	    url = '/images/stories/municipal_code/Albany0'+pgCh+'/Albany0'+pg+'.html'
+
+	} else if (pg!='NT' && pg!='CH' && pg!='OT' && pgLength==2) {
+
+	    url = '/images/stories/municipal_code/Albany'+pg+'/Albany'+pg+'.html'
+	    
+    } else if (pg!='NT' && pg!='CH' && pg!='OT' && pgLength==1) {
+
+	    url = '/images/stories/municipal_code/Albany0'+pg+'/Albany0'+pg+'.html'
+	    
+    } else {
+	    url = ( pg && urls[pg] )? urls[pg]: urls['NT']
+	    //url = '/images/stories/municipal_code/Albany'+pg+'.html'
+	    
+    }
+    
+    if (document.getElementById(id)) {
+    document.getElementById(id).src = url;
+	}
+}
+
+var iframe_props = {
+    id: 'municode', // id of iframe
+    urls: {
+        // lookup values and urls to load in iframe 
+        'NT': '/images/stories/municipal_code/AlbanyNT.html', // a default page
+        'CH': '/images/stories/municipal_code/AlbanyCH.html',
+        'OT': '/images/stories/municipal_code/AlbanyOT.html'
+    }
+}
+
+// Call function below iframe or onload (or document.ready)
+checkQuery4Iframe(iframe_props);
+
+// example query string for 2 iframes: ?ifrm=dw&ifm2=cd
+//function checkQuery24Iframe(obj) {
+  //  var id = obj.id, urls = obj.urls, pg, url;
+    // value for id in query string?
+   // pg = dw_Util.getValueFromQueryString(id);
+    // value found for id? in list of urls? if not, use default 
+    
+	 //   url = ( pg && urls[pg] )? urls[pg]: urls['catalog']
+	
+//    if (document.getElementById(id)) {
+  //  document.getElementById(id).src = url;
+//	}
+// }
+
+//var iframe2_props = {
+  //  id: 'rec1', // id of iframe
+   // urls: {
+        // default 
+   /*     'catalog': 'https://secure.rec1.com/OR/city-of-albany/catalog',
+        'sc': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=Y2F0ZWdvcnklNUI2NDIyJTVEPTEmc2VhcmNoPQ==',
+        'sc-rent': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=bG9jYXRpb24lNUI1OTU3JTVEPTEmdGFiJTVCMjIwMCU1RD0xJnNlYXJjaD0=',
+'acp-classes': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=bG9jYXRpb24lNUI1OTY4JTVEPTEmdGFiJTVCMjQ5OCU1RD0xJnNlYXJjaD1DbGFzc2Vz',
+'acp-passes': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=dGFiJTVCMjQ5OCU1RD0xJnNlYXJjaD1BQ1ArUGFzc2VzJmNhdGVnb3J5JTVCNjE2MSU1RD0x',
+'acp-rental': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=bG9jYXRpb24lNUI1OTY4JTVEPTEmdGFiJTVCMjIwMCU1RD0xJnNlYXJjaD0=',
+'shelter-rental': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=dGFiJTVCMjIwMCU1RD0xJnNlYXJjaD0mdGFncyU1QjU0NCU1RD0x',
+'maple-lawn': 'https://secure.rec1.com/OR/city-of-albany/catalog/index?filter=bG9jYXRpb24lNUI1OTYxJTVEPTEmdGFiJTVCMjU0MiU1RD0xJnNlYXJjaD0='
+    }
+} */
+
+// Call function below iframe or onload (or document.ready)
+//checkQuery24Iframe(iframe2_props);
+
+
+  //function iframeLoaded() {
+  //    var iFrameID = document.getElementById('rec1');
+  //    if(iFrameID) {
+            // here you can make the height, I delete it first, then I make it again
+  //          iFrameID.height = "";
+  //          iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+  //    }   
+  //}
+
+
+
+
+// example query string for 2 iframes: ?ifrm=dw&ifm2=cd
+function checkQueryJobIframe(obj) {
+    var id = obj.id, urls = obj.urls, pg, url;
+    // value for id in query string?
+    pg = dw_Util.getValueFromQueryString(id);
+    // value found for id? in list of urls? if not, use default 
+    var pgLength = pg.length;
+
+    if (pgLength!=0) {
+
+	    url = 'https://agency.governmentjobs.com/albanyor/default.cfm?action=viewjob&JobID='+pg+'&headerfooter=1&promo=0&transfer=0'
+	    
+    } else {
+	    url = ( pg && urls[pg] )? urls[pg]: urls['default']
+	}
+    if (document.getElementById(id)) {
+    document.getElementById(id).src = url;
+	}
+}
+
+var jobiframe_props = {
+    id: 'view-job', // id of iframe
+    urls: {
+        'default': '/_coa/neogov-test.php'
+    }
+}
+
+// Call function below iframe or onload (or document.ready)
+checkQueryJobIframe(jobiframe_props);
+
+</script>
+ <script type="text/javascript">
+_linkedin_partner_id = "1103228";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=1103228&fmt=gif" />
+</noscript>
+
+     <!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<link rel="stylesheet" href="https://snapwidget.com/stylesheets/snapwidget-lightbox.css" />
+<script src="https://snapwidget.com/js/snapwidget-lightbox.js"></script>
+   
+<script async src="https://js.sitesearch360.com/plugin/bundle/50143.js"></script>   
+</body>
+</html>

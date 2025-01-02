@@ -1,0 +1,1373 @@
+ <!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <title>
+	Page No Longer Exists
+</title> <link href="/ResourcePackages/Bootstrap4/assets/dist/css/main.min.css?package=Bootstrap4" rel="stylesheet" type="text/css" /> <meta property="og:title" content="Page No Longer Exists" /><meta property="og:url" content="https://baldwincountyal.gov/page_no_longer_exists" /><meta property="og:type" content="website" /><meta property="og:site_name" content="BCC" /><style type="text/css" media="all">@media screen and (max-width: 767px) {
+    .bccSubmenuHeader {
+        display: none;
+    }
+    .dropdown-menu-sub {
+        color: #FFFFFF!important;
+        list-style-type: none;
+        border-style: solid;
+    }
+    .dropdown-menu-sub li {
+        border-bottom: 1px solid #ccc;
+        margin-left: -42px;
+    }
+    .dropdown-menu-sub .dropdown-item {
+        color: #FFFFFF!important;
+    }
+    a.dropdown-item:hover, a.dropdown-item:focus {
+        color: #fff !important;
+        text-decoration: none;
+        background-color: #1E376C !important;
+    }
+    a.dropdown-item.active:hover {
+        text-decoration: underline;
+    }
+    a.dropdown-item:active {
+        background-color: #1E376C !important;
+    }
+    a.dropdown-item.active, a.dropdown-item.active:active {
+        color: #1E376C !important;
+        text-decoration: none !important;
+        background-color: #fff !important;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .dropdown-menu-sub {
+        border-top: 1px solid #E7503D;
+        padding-top: 5px;
+    }
+    .dropdown-item:hover, .dropdown-item:focus {
+        text-decoration: underline;
+    }
+    .navbar {
+        background-color: #fff !important;
+    }
+    .dropdown-menu-sub {
+        color: #FFFFFF !important;
+        list-style-type: none;
+    }
+    .dropdown-menu-sub .dropdown-item {
+        color: #1E376C !important;
+        font-weight: bold;
+    }
+    a.dropdown-item.active:hover {
+        text-decoration: underline;
+    }
+    a.dropdown-item:active {
+        background-color: initial !important;
+    }
+    a.dropdown-item.active, a.dropdown-item.active:active {
+        color: #fff !important;
+        background-color: #1E376C !important;
+    }
+    .navbar-nav ul {
+        columns: 200px 2;
+    }
+    .navbar-nav .dropdown-menu {
+        width: 400px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .navbar .has-megamenu {
+        position: static!important;
+    }
+    .navbar .megamenu {
+        left: 0;
+        right: 0;
+        width: 100%;
+        padding: 20px;
+        margin-top: -58px;
+    }
+    .navbar .nav-link {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .navbar-nav ul {
+        columns: 200px 3;
+    }
+    .navbar .nav-link {
+        font-size: 1.1rem;
+        padding: 4px 8px;
+    }
+    .bccnavContainer {
+        height: 150px;
+        background: #1E376C;
+    }
+}
+
+.bccSubmenuHeader {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1E376C!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF!important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ccc!important;
+}
+
+.dropdown.show .nav-link, .dropdown.show .nav-link:hover {
+    color: #ccc !important;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar {
+    background: #1E376C!important;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*LOGO navbar */
+
+.navbar-brand {
+    background-image: url("/../images/default-source/webmaster/ItsAllHere2_250x150.png") !important;
+    background-repeat: no-repeat, repeat;
+    background-size: auto;
+    width: 250px;
+    height: 150px;
+    content-visibility: hidden;
+    background-position: 50% 50%;
+}</style><style type="text/css" media="all">
+.VideoContainer{   
+  /*max-width: calc(274.286vh);*/
+  height: calc(36.4583vw);
+
+  overflow: hidden;
+}
+
+.VideoWrapper video{
+  position: relative;
+  width:100% !important;
+  height: auto !important;  
+}
+
+@media screen and (max-width: 767px) {
+  .VideoContainer{   
+  height: calc(56.4583vw) !important;
+  }
+}</style><style type="text/css" media="all">.IMGHEIGHT  
+{
+  height: calc(25.4583vw);
+   overflow: hidden;
+
+}
+ /* 
+.center-img-container{
+  margin-top:-100px;
+}
+*/
+@media IMGHEIGHT and (max-width: 767px) {
+  .VideoContainer{   
+  height: calc(15.4583vw) !important;
+  }
+}
+
+
+</style><style type="text/css" media="all">    .DeptLN {
+        border-right: thin solid #f2f2f2;
+        order: 1;
+    }
+
+    .DeptBody {
+        order: 1;
+    }
+
+    .LNBodyContainer {
+       margin: 50px;
+       padding: 1rem;
+       box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+     }
+
+     .LNBodyContainer_inner {
+       padding: 1rem;
+       border: 1px solid rgb(0 0 0 / 14%);
+     }
+
+    @media screen and (max-width: 992px) {
+
+        .LNBodyContainer {
+            width: 100%;
+            margin: 20px 0;
+        }
+
+        .AdminLeftNavdiv {
+            margin-left: 0px !important;
+        }
+
+        .DeptLN {
+            order: 2 !important;
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            width: 100%;
+            background-color: #1E376C !important;
+        }
+
+        .DeptBody {
+            order: 1 !important;
+            width: 99%;
+        }
+
+        .DeptLN h4 {
+            font-size: 12px;
+            background: #084D9C;
+            padding: 10px 20px 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            margin: 0 auto;
+            width: 90%;
+            margin-top: 0 ! important;
+            font-weight: 700;
+        }
+
+        .DeptLN hr {
+            display: block;
+            width: 99%;
+        }
+
+        .DeptLN a {
+            margin: 0 auto;
+            background: #53afed;
+            background-image: -webkit-linear-gradient(top, #27478b, #1E376C);
+            background-image: -moz-linear-gradient(top, #27478b, #1E376C);
+            background-image: -ms-linear-gradient(top, #27478b, #1E376C);
+            background-image: -o-linear-gradient(top, #27478b, #1E376C);
+            background-image: linear-gradient(to bottom, #27478b, #1E376C);
+            -webkit-border-radius: 0;
+            -moz-border-radius: 0;
+            border-radius: 0px;
+            color: white;
+            font-weight: 100;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+            display: block;
+            width: 99%;
+        }
+
+        .DeptLN a.tapped {
+            background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+            font-weight: 700;
+        }
+
+        .DeptLN a:hover,
+        a:visited,
+        a:active,
+        a:focus {
+            font-weight: 700;
+            border-bottom: solid #64727a 1px;
+        }
+    }
+
+    .LNBODYHEADER {
+        color: #000;
+        max-width: 1200px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .HeaderContainer {
+        background: #E7503D !important;
+    }
+
+    @media (min-width: 992px) {
+        .row {
+            margin-right: 0px !important;
+            margin-left: 0px !important;
+        }
+    }
+</style><style type="text/css" media="all">div.bccBtnWrapper {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  width: 100%;
+  margin: 40px 0;
+}
+
+.bccBtn {
+  text-align: center;
+  padding: 5px;
+  flex: 1 1 auto;
+  background-color: #1E376C;
+  color: #fff;
+  cursor: pointer;
+  margin: 1rem 5px 1rem 5px;
+  max-width: 160px; 
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  border: 0 solid;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #777;
+  outline: 1px solid;
+  outline-color: #E7503D;
+  outline-offset: 0px;
+  text-shadow: none;
+  transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+	.bccBtn:hover {
+	    color: #fff;
+  	    border: 1px solid;
+            box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+            outline-color: rgba(255, 255, 255, 0);
+            outline-offset: 15px;
+            text-shadow: 1px 1px 2px #1E376C; 
+         }</style><style type="text/css" media="all">
+
+.bccbreadcrumb{
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+   background-color: none!important;
+    border-radius: .25rem;
+}
+.breadcrumb-item.active {
+    color: #fff !important;
+}
+.breadcrumb-item a{ color: #fff !important;}</style><link href="/ResourcePackages/font-awesome/css/all.min.css" media="all" rel="stylesheet" type="text/css" /><style type="text/css" media="all">body {
+    background-color: #fafafa !important;
+}
+
+.BodyContainer {
+    position: relative;
+}
+
+.BodyContainerHomeButtons {
+    border-top: 1px solid #E7503D;
+    border-bottom: 1px solid #E7503D;
+}
+
+div.d-flex.flex-row.divbtncontainer {
+    min-height: 100px;
+    align-items: center;
+}
+
+.BTNLINKS a {
+    color: #1E376C !important;
+}
+
+.divbtn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: .90rem;
+ /*   border-style: solid;
+    border-width: .01em;
+    border-radius: 5px;
+    border-color: #808080; */
+    margin: 5px;
+ /*   background-color: #1E376C; */
+    min-width: 5%;
+    padding: 10px;
+    height: 100px;
+    font-weight: 550;
+ /*   box-shadow: 0 10px 6px -6px #777; */
+}
+
+.divbtn:hover {
+  /*  box-shadow: -2px -2px 4px #aeb7ca inset; */
+}
+
+.divbtn a:hover {
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.divbtn a:hover>em {
+    font-size: 1rem;
+}
+
+em.far,
+em.fas {
+    margin-bottom: .5rem !important;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 992px) {
+    .divbtn {
+    	width: 132px;
+        margin: 5px;
+        padding: 5px;
+        font-weight: normal;
+    }
+}
+
+
+@media screen and (min-width: 992px){
+.divbtn {
+  min-width: 3.6%;
+    font-size: .64rem;
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin: 20px 20px;
+    max-height: 100px;
+    font-weight: 770;
+    }
+}
+
+@media screen and (min-width: 1440px){
+.divbtn {
+    min-width: 4%;
+    font-size: .95rem;
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin: 40px 20px;
+     min-height: 100px;
+    }
+  em.far,
+  em.fas {
+    font-weight: 800;
+    font-size: 2.3rem;
+      }
+}
+
+@media screen and (min-width: 1980px){
+.divbtn {
+    min-width: 5%;
+    font-size: 1.2rem;
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin: 40px 20px;
+     min-height: 100px;
+    }
+  em.far,
+  em.fas {
+    font-weight: 800;
+    font-size: 2.3rem;
+      }
+}</style><style type="text/css" media="all">.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 33%;
+    margin-right: auto;
+    backface-visibility: hidden;
+
+}
+ 
+
+.wrapper1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    text-align: left;
+  margin-top:15px;
+}
+
+.carousel-control-next {
+     right: -35px
+}
+ .carousel-control-prev {
+     left: -35px
+}
+ .carousel-control-next, .carousel-control-prev {
+    width: 7%
+}
+ .carousel-control-next, .carousel-control-prev {
+     opacity: 1;
+     color: #ffffff;
+}
+ .carousel-control-next:hover, .carousel-control-prev:hover {
+     background-color: transparent !important;
+}
+ .carousel {
+     padding-bottom: 10px;
+}
+ @media (min-width: 768px) and (max-width: 991px) {
+    /* show 3 items */
+     .carousel-inner .active, .carousel-inner .active + .carousel-item, .carousel-inner .active + .carousel-item + .carousel-item {
+         display: block;
+    }
+     .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left), .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item, .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+         transition: none;
+    }
+     .carousel-inner .carousel-item-next {
+         position: relative;
+         transform: translate3d(0, 0, 0);
+         -ms-transform: translate3d(0, 0, 0);
+    }
+     .carousel-inner .active.carousel-item + .carousel-item + .carousel-item {
+         position: absolute;
+         top: 0;
+         right: -33.3333%;
+         z-index: -1;
+         display: block;
+         visibility: visible;
+    }
+    /* left or forward direction */
+     .active.carousel-item-left + .carousel-item-next.carousel-item-left, .carousel-item-next.carousel-item-left + .carousel-item, .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item, .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+         position: relative;
+         transform: translate3d(-100%, 0, 0);
+         -ms-transform: translate3d(-100%, 0, 0);
+         visibility: visible;
+    }
+    /* farthest right hidden item must be abso position for animations */
+     .carousel-inner .carousel-item-prev.carousel-item-right {
+         position: absolute;
+         top: 0;
+         left: 0;
+         z-index: -1;
+         display: block;
+         visibility: visible;
+    }
+    /* right or prev direction */
+     .active.carousel-item-right + .carousel-item-prev.carousel-item-right, .carousel-item-prev.carousel-item-right + .carousel-item, .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item, .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+         position: relative;
+         transform: translate3d(100%, 0, 0);
+         -ms-transform: translate3d(100%, 0, 0);
+         visibility: visible;
+         display: block;
+    }
+}
+ @media (min-width: 991px) {
+    /* show 4 items */
+     .carousel-inner .active, .carousel-inner .active + .carousel-item, .carousel-inner .active + .carousel-item + .carousel-item, .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+         display: block;
+    }
+     .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left), .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item, .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item, .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+         transition: none;
+         margin-right: initial;
+    }
+     .carousel-inner .carousel-item-next {
+         position: relative;
+         transform: translate3d(0, 0, 0);
+         -ms-transform: translate3d(0, 0, 0);
+    }
+     .carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+         position: absolute;
+         top: 0;
+         right: -27%;
+         z-index: -1;
+         display: block;
+         visibility: visible;
+    }
+    /* left or forward direction */
+     .active.carousel-item-left + .carousel-item-next.carousel-item-left, .carousel-item-next.carousel-item-left + .carousel-item, .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item, .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item, .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+         position: relative;
+         transform: translate3d(-100%, 0, 0);
+         -ms-transform: translate3d(-100%, 0, 0);
+         visibility: visible;
+    }
+    /* farthest right hidden item must be abso position for animations */
+     .carousel-inner .carousel-item-prev.carousel-item-right {
+         position: absolute;
+         top: 0;
+         left: 0;
+         z-index: -1;
+         display: block;
+         visibility: visible;
+    }
+    /* right or prev direction */
+     .active.carousel-item-right + .carousel-item-prev.carousel-item-right, .carousel-item-prev.carousel-item-right + .carousel-item, .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item, .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item, .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+         position: relative;
+         transform: translate3d(100%, 0, 0);
+         -ms-transform: translate3d(100%, 0, 0);
+         visibility: visible;
+         display: block;
+    }
+}
+</style><style type="text/css" media="all">
+.TabletList h3 {
+    background-color: #E7503D!important;
+    font-size: 22px;
+    color: #fff;   
+    margin: 0;
+    padding: 14px 18px;
+}
+.TabletList2 h3 {
+    background-color: #1E376C!important;
+    font-size: 22px;
+    color: #fff;   
+    margin: 0;
+    padding: 14px 18px;
+}
+.TabletList3 h3 {
+    background-color: #B20000!important;
+    font-size: 22px;
+    color: #fff;   
+    margin: 0;
+    padding: 14px 18px;
+}
+
+.TabletList .media {
+    border: 1px solid #f0f0f0 !important;
+   padding: 10px !important;
+    display: flex !important;
+    align-items: center!important;
+  font-size: 14px!important;
+  text-transform:uppercase;
+
+}
+.TabletList2 .media {
+    border: 1px solid #f0f0f0 !important;
+   padding: 10px !important;
+    display: flex !important;
+    align-items: center!important;
+  font-size: 14px!important;
+  text-transform:uppercase;
+
+}
+.TabletList ul li {
+    border: 1px solid #f0f0f0  !important;
+   padding: 10px !important;
+    display: flex !important;
+    align-items: center !important; 
+  font-size: 14px!important;
+  margin-left:-39px;
+  text-transform:uppercase;
+}
+
+.TabletList2 ul li {
+    border: 1px solid #f0f0f0;
+   padding: 10px;
+    display: flex;
+    align-items: center;  
+  font-size: 14px!important;
+    margin-left:-39px;
+  text-transform:uppercase;
+}
+.TabletList3 ul li {
+    border: 1px solid #f0f0f0;
+   padding: 10px;
+    display: flex;
+    align-items: center;  
+  font-size: 14px!important;
+    margin-left:-39px;
+  text-transform:uppercase;
+}
+
+</style><style type="text/css" media="all">.TabletList3 a {
+   text-transform:uppercase;
+  
+  width:100%;
+	box-shadow:inset 0px 0px 15px 3px #23395e;
+	background:linear-gradient(to bottom, #4568A4 5%, #26273a 100%);
+	background-color:#4568A4;
+	
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff !important;	
+	font-size:15px;
+	padding:10px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.TabletList3 a:hover {
+	background:linear-gradient(to bottom, #26273a 5%, #2e466e 100%);
+	background-color:#26273a;
+}
+.TabletList3 a:active {
+	position:relative;
+	top:1px;
+}
+
+.TabletList3 a
+{  
+  color: #FFFFFF !mportant;  
+}
+.TabletList3 a:hover{
+    color: !mportant;  
+}</style><style type="text/css" media="all">.BCCFooter {
+    background: #1E376C !important;
+    color: #fff;
+    width: 100%;
+    height: auto;
+}
+
+.BCCFooter div:nth-child(1) {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-flow: row nowrap;
+    width: 100%;
+    height: auto;
+}
+
+.BCCFooter div:nth-child(1) p,
+.BCCFooter div:nth-child(1) div.socialIcons {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 50px;
+}
+
+.BCCFooter div:nth-child(1) p:first-child img {
+    margin-right: auto;
+}
+
+div.socialIcons {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: auto;
+    margin-left: auto;
+}
+
+div.socialIcons ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: inherit;
+}
+
+div.socialIcons ul li {
+    list-style: none;
+}
+
+div.socialIcons ul li a {
+    display: block;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+    transition: .5s;
+}
+
+div.socialIcons ul li a i {
+    padding-top: calc((var(--aheight) - var(--iheight)) / 2);
+}
+
+div.socialIcons ul li a span {
+    position: absolute;
+    transition: transform .5s;
+}
+
+div.socialIcons ul li a span:nth-child(1),
+div.socialIcons ul li a span:nth-child(3) {
+    width: 100%;
+    height: 3px;
+    background: #fff;
+}
+
+div.socialIcons ul li a span:nth-child(1) {
+    top: 0;
+    left: 0;
+    transform-origin: right;
+}
+
+div.socialIcons ul li a:hover span:nth-child(1) {
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform .5s;
+}
+
+div.socialIcons ul li a span:nth-child(3) {
+    bottom: 0;
+    left: 0;
+    transform-origin: left;
+}
+
+div.socialIcons ul li a:hover span:nth-child(3) {
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform .5s;
+}
+
+div.socialIcons ul li a span:nth-child(2),
+div.socialIcons ul li a span:nth-child(4) {
+    width: 3px;
+    height: 100%;
+}
+
+div.socialIcons ul li a span:nth-child(2) {
+    top: 0;
+    left: 0;
+    transform: scale(0);
+    transform-origin: bottom;
+}
+
+div.socialIcons ul li a:hover span:nth-child(2) {
+    transform: scale(1);
+    transform-origin: top;
+    transition: transform .5s;
+}
+
+div.socialIcons ul li a span:nth-child(4) {
+    top: 0;
+    right: 0;
+    transform: scale(0);
+    transform-origin: top;
+}
+
+div.socialIcons ul li a:hover span:nth-child(4) {
+    transform: scale(1);
+    transform-origin: bottom;
+    transition: transform .5s;
+}
+
+.facebook:hover, .facebook:hover>em {
+    color: #2d96f3;
+}
+
+.facebook:hover span {
+    background: #2d96f3;
+}
+
+.twitter:hover, .twitter:hover>em {
+    color: #72ff72;
+}
+
+.twitter:hover span {
+    background: #72ff72;
+}
+
+.youtube:hover, .youtube:hover>em {
+    color: #ff0000;
+}
+
+.youtube:hover span {
+    background: #ff0000;
+}
+
+.instagram:hover, .youtube:hover>em {
+    color: #C13584;
+}
+
+.instagram:hover span {
+    background: #C13584;
+}
+
+div.socialIcons ul li a .twitter {
+    color: #1da1f2;
+}
+
+div.socialIcons ul li a:hover:nth-child(3) {
+    color: #ff0000;
+}
+
+.BCCFooter a {
+    color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+
+    .BCCFooter div:nth-child(1) p,
+    .BCCFooter div:nth-child(1) div.socialIcons {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .BCCFooter div:nth-child(1) {
+        flex-flow: column nowrap;
+        justify-content: center;
+    }
+
+    div.socialIcons,
+    div.socialIcons ul {
+        width: 100%;
+    }
+
+    div.socialIcons ul li a {
+        margin: 10px;
+        width: 60px;
+        height: 60px;
+        line-height: 50px;
+    }
+
+    em.fab {
+        line-height: 1.5;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .BCCFooter div:nth-child(1)>p:nth-child(2) {
+        display: none;
+    }
+}
+</style><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script><script type="text/javascript">
+
+  $(document).ready(function() {
+$("a").on("click", function() {
+    if(($(this).attr("href").indexOf("baldwincountyal" ) == -1)&& ($(this).attr("href").indexOf("/" ) != 0) && ($(this).attr("href").indexOf("#" ) != 0) && ($(this).attr("href").indexOf("javascript" ) != 0)){
+        return confirm("You are being redirected to an external website which is not controlled or regulated by the Baldwin County Commission.  The Commission makes no endorsement of any links to or from its site and is not responsible for the content or activities of any linked sites.  All critical information should be independently verified. \n\n Click ''OK'' to continue or ''Cancel'' to stay on our website.");
+    }
+ 
+})
+  });
+</script><style type="text/css" media="all">body, p {
+    font-family: 'Open Sans', sans-serif !important; 
+    font-size: 16px !important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.IMGHEIGHT > img {
+  width: 100%;
+}
+
+.container-fluid:not(.video-container) {
+  padding: 0;
+}</style><script type="text/javascript">
+window.onload = function inIframe () {
+    try {
+      if(window.self !==window.top){
+    
+       document.getElementById("Contentplaceholder1_TCBF788F5009_Col00").style.display = "none";
+               document.getElementById("Contentplaceholder1_TC92AD367088_Col00").style.display = "none";
+                       document.getElementById("Contentplaceholder1_T74D98303081_Col00").style.display = "none";
+                               document.getElementById("Contentplaceholder1_TCBF788F5002_Col00").style.display = "none";
+        
+        Contentplaceholder1_TCBF788F5002_Col00
+        
+        }
+      
+         return true;    
+      
+      
+    } catch (e) {
+     
+        return true;
+    }
+}
+</script><script type="text/javascript">
+/**(function(d){var s = d.createElement("script");s.setAttribute("data-account", "IDSYbAMzkb");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document) **/
+</script><meta name="Generator" content="Sitefinity 14.4.8135.0 DX" /><link rel="canonical" href="https://baldwincountyal.gov/page_no_longer_exists" /></head> <body> <script src="/ScriptResource.axd?d=ktXPS54N4JY6vbaCTPlT9U5N1GJCK_rq0bI6V59l6N1pAkQxMjuxkj0ZD6g00cDElWQ7jfP35243ozMg-_p_Pz1G6Px3uGc4lmnxcA-oKfx2L6z0gtFCOj9LjaM5hLp4U8sIpsjxGD42gveDt0IyBuX2rahGtpDc2PRsgYval4ZQJi9VGEH9i6NMjJ5Ji4-y0&amp;t=622c0734" type="text/javascript"></script><script src="/ScriptResource.axd?d=ePnjFy9PuY6CB3GWMX-b_wpLGvphg9b-LYet0OALN28GvySM0DcNEqilmG0NYoYhli_QmmzuBf7My7Wy13J5s6fv_Uue_WN6YLaPaFBdS4rVqjRHdDOkHS5GUs-TzNr9n5mnakaiU5qb3mTyA9f-JenUYGSUHPA6cYkzDV0VxKAZwJJzQkiGqYCjqFo4nxYk0&amp;t=622c0734" type="text/javascript"></script><script src="/ResourcePackages/Bootstrap4/assets/dist/js/popper.min.js" type="text/javascript"></script><script src="/ResourcePackages/Bootstrap4/assets/dist/js/bootstrap.min.js" type="text/javascript"></script> <div class="container-fluid"> 
+<div id="Contentplaceholder1_TCBF788F5009_Col00" class="sf_colsIn bccnavContainer" data-sf-element="Container" data-placeholder-label="bccnavContainer">
+
+
+
+
+
+<div>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        
+
+        <a class="navbar-brand" href="/../Home">
+            <img id="bccNavLogo" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target='#navbar-1' aria-controls='navbar-1' aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id='navbar-1'>
+            <ul class="navbar-nav flex-wrap">
+<li class="nav-item dropdown has-megamenu ">
+    <a class="nav-link dropdown-toggle" href="#" id='navbarDropdownMenuLink-1' data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">GOVERNMENT</a>
+   <div class="dropdown-menu megamenu">
+    <span class="bccSubmenuHeader"> GOVERNMENT</span>
+    <ul class="dropdown-menu-sub" aria-labelledby='navbarDropdownMenuLink-1'>
+                    <li>
+                <a class="dropdown-item " href="/government/baldwin-county-commission" target="_self">Baldwin County Commission</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/board-of-registrars" target="_self">Board of Registrars</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/coroner&#39;s-office" target="_self">Coroner&#39;s Office</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/district-attorney" target="_self">District Attorney</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/legislative-delegation" target="_self">Legislative Delegation</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/municipalities" target="_self">Municipalities</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/probate-office" target="_self">Probate Office</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/revenue-commission" target="_self">Revenue Commission</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/sheriff&#39;s-office" target="_blank">Sheriff&#39;s Office</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/government/28th-judicial-circuit-court" target="_self">28th Judicial Circuit Court</a>
+            </li>
+
+    </ul>
+       </div>
+</li>
+<li class="nav-item dropdown has-megamenu ">
+    <a class="nav-link dropdown-toggle" href="#" id='navbarDropdownMenuLink-1' data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DEPARTMENTS</a>
+   <div class="dropdown-menu megamenu">
+    <span class="bccSubmenuHeader"> DEPARTMENTS</span>
+    <ul class="dropdown-menu-sub" aria-labelledby='navbarDropdownMenuLink-1'>
+                    <li>
+                <a class="dropdown-item " href="/departments/county-administration" target="_self">County Administration</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/animal-shelter" target="_self">Animal Shelter</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/archives-history" target="_self">Archives &amp; History</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/brats-public-bus-transportation" target="_self">BRATS Public Bus Transportation</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/budget" target="_self">Budget</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/building-inspection" target="_self">Building Department</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/citizen-service-center" target="_self">Citizen Service Center</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/cis" target="_self">Communications &amp; Information Systems-CIS</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/council-on-aging" target="_self">Council on Aging</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/emergency-management-agency" target="_self">Emergency Management Agency</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/finance-accounting" target="_self">Finance &amp; Accounting</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/grants" target="_self">Grants</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/highway" target="_self">Highway Department</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/juvenile-detention" target="_self">Juvenile Detention</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/parks" target="_self">Parks - Info &amp; Reservations</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/personnel-department" target="_self">Personnel Department</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/planning-zoning" target="_self">Planning &amp; Zoning</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/county-administration/Public-and-Government-Affairs" target="_self">Media Information &amp; Requests</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/purchasing" target="_self">Purchasing</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/sales-use-tax-license-inspection" target="_self">Sales &amp; Use Tax / License Inspection</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/departments/solid-waste" target="_blank">Solid Waste</a>
+            </li>
+
+    </ul>
+       </div>
+</li>
+<li class="nav-item dropdown has-megamenu ">
+    <a class="nav-link dropdown-toggle" href="#" id='navbarDropdownMenuLink-1' data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">COMMUNITY</a>
+   <div class="dropdown-menu megamenu">
+    <span class="bccSubmenuHeader"> COMMUNITY</span>
+    <ul class="dropdown-menu-sub" aria-labelledby='navbarDropdownMenuLink-1'>
+                    <li>
+                <a class="dropdown-item " href="/community/boat-launches" target="_self">Boat Launches</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/about-baldwin-county" target="_self">About Baldwin County</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/growing-baldwin-county" target="_self">Growing Baldwin County</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/living-in-baldwin-county" target="_self">Living in Baldwin County</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/visitors" target="_self">Visitors</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/community-gallery" target="_self">Community Gallery</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/Communications" target="_self">Communications</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/historic-bicentennial-park" target="_self">Historic Bicentennial Park</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/animal-shelter" target="_self">Animal Shelter</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/view-media-channel" target="_blank">View Media Channel</a>
+            </li>
+            <li>
+                <a class="dropdown-item " href="/community/new-residents" target="_self">New Residents</a>
+            </li>
+
+    </ul>
+       </div>
+</li>
+        <li class="nav-item ">
+            <a class="nav-link" href="/how-do-i" target="_blank">HOW DO I ?</a>
+        </li>
+            </ul>
+		 <a href=https://baldwincountyal.gov/search style="color:white!important;   padding-left: 10px;text-decoration: none !important;">  <em class="fa fa-search fa-lg fa-flip-horizontal"></em> SEARCH </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+
+
+
+</div>
+<div id="Contentplaceholder1_TC92AD367088_Col00" class="sf_colsIn IMGHEIGHT" data-sf-element="Container" data-placeholder-label="Container">
+        <img loading="lazy" src="/images/default-source/webmaster/background1920_500.png?sfvrsn=d7c17fee_0" alt=""
+         
+          />
+ 
+</div>
+
+
+
+<div id="middle">
+  </div><div id="Contentplaceholder1_T74D98303074_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Container"><div id="Contentplaceholder1_T74D98303083_Col00" class="sf_colsIn HeaderContainer" data-sf-element="Container" data-placeholder-label="Container"><div id="Contentplaceholder1_T74D98303081_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Container">
+<div>
+    <nav aria-label="Full path to the current page">
+        <ol class="sf-breadscrumb bccbreadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Home </a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Page No Longer Exists</li>
+        </ol>
+    </nav>
+</div>
+</div>
+
+</div>
+<div id="Contentplaceholder1_T74D98303084_Col00" class="sf_colsIn LNBodyContainer" data-sf-element="Container" data-placeholder-label="Container">
+<div >
+    <div ><h2 style="text-align: center">&nbsp;</h2><h2 style="text-align: center">&nbsp;</h2><h2 style="text-align: center">&nbsp;</h2><h2 style="text-align: center">The page or document no longer exists.&nbsp;&nbsp;</h2><p style="text-align: center"><a href="/home">Click this link to redirect to the Baldwin County Home Page....</a></p><p style="text-align: center">&nbsp;</p><p style="text-align: center">&nbsp;</p><p style="text-align: center">&nbsp;</p><p style="text-align: center">&nbsp;</p><p style="text-align: center">&nbsp;</p></div>    
+</div><div id="Contentplaceholder1_T941F9C90097_Col00" class="sf_colsIn LNBodyContainer_inner" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+</div>
+
+</div>
+<div id="Contentplaceholder1_TCBF788F5002_Col00" class="sf_colsIn BodyContainer" data-sf-element="Container" data-placeholder-label="BodyContainer">
+<div class="BodyContainerHomeButtons" >
+    <div ><div class="BTNLINKS" style="text-align: center"><div class="d-flex flex-row justify-content-center flex-wrap divbtncontainer"><div class="divbtn" style="text-align: center"><a href="/services"><em class="far fa-hand-paper"></em><br data-sf-ec-immutable="">SERVICES</a>
+ </div><div class="divbtn" style="text-align: center"><a href="/permits-and-licenses"><em class="fas fa-clipboard-check"></em><br data-sf-ec-immutable="">PERMITS &amp; LICENSES</a></div><div class="divbtn" style="text-align: center"><a href="https://www3.citizenserve.com/Portal/PortalController?Action=showHomePage&amp;ctzPagePrefix=Portal_&amp;installationID=363&amp;original_iid=0&amp;original_contactID=0"><em class="fas fa-file-invoice"></em><br data-sf-ec-immutable="">CITIZENSERVE PORTAL</a></div><div class="divbtn" style="text-align: center"><a href="/doingbusinessinbaldwin"><em class="fas fa-industry"></em><br data-sf-ec-immutable="">DOING BUSINESS </a></div><div class="divbtn" style="text-align: center"><a href="https://open.baldwincountyal.gov/" target="blank" data-sf-ec-immutable=""><em class="far fa-folder"></em><br>PUBLIC RECORDS</a></div><div class="divbtn" style="text-align: center"><a href="/home/public-notices"><em class="fas fa-bullhorn"></em><br data-sf-ec-immutable="">PUBLIC NOTICES</a></div><div class="divbtn" style="text-align: center"><a href="/payments"><em class="fas fa-hand-holding-usd"></em><br data-sf-ec-immutable="">MAKE A PAYMENT</a>
+ </div><div class="divbtn" style="text-align: center"><a href="/government/probate-office/motor-vehicle-tags"><em class="fas fa-car"></em><br data-sf-ec-immutable="">MOTOR VEHICLES</a></div><div class="divbtn" style="text-align: center"><a href="/government/28th-judicial-circuit-court"><em class="fas fa-balance-scale"></em><br data-sf-ec-immutable="">COURTS</a></div><div class="divbtn" style="text-align: center"><a href="https://baldwincountyal.legistar.com/Calendar.aspx" target="blank" data-sf-ec-immutable=""><em class="far fa-folder-open"></em><br>MEETING AGENDAS</a></div><div class="divbtn" style="text-align: center"><a href="http://www.alertbaldwin.com" target="_blank" data-sf-ec-immutable=""><em class="fas fa-exclamation-triangle"></em><br>ALERTS</a></div><div class="divbtn" style="text-align: center"><a href="/maps"><em class="fas fa-map-marker-alt"></em><br data-sf-ec-immutable="">MAPS </a></div><div class="divbtn" style="text-align: center"><a href="/government/baldwin-county-commission"><em class="far fa-handshake"></em><br data-sf-ec-immutable="">MEET YOUR COMMISSION</a></div><div class="divbtn" style="text-align: center"><a href="https://www.governmentjobs.com/careers/baldwincountyal" target="_blank" data-sf-ec-immutable=""><em class="fas fa-users"></em><br>JOB OPPORTUNITIES</a></div></div></div><div id="highlighter--hover-tools" style="display: none"><div id="highlighter--hover-tools--container"><div class="highlighter--icon highlighter--icon-copy" title="Copy"></div><div class="highlighter--icon highlighter--icon-change-color" title="Change Color"></div><div class="highlighter--icon highlighter--icon-delete" title="Delete"></div></div></div><div id="highlighter--hover-tools" style="display: none"><div id="highlighter--hover-tools--container"><div class="highlighter--icon highlighter--icon-copy" title="Copy"></div><div class="highlighter--icon highlighter--icon-change-color" title="Change Color"></div><div class="highlighter--icon highlighter--icon-delete" title="Delete"></div></div></div></div>    
+</div><div id="Contentplaceholder1_TCBF788F5036_Col00" class="sf_colsIn BCCFooter" data-sf-element="Container" data-placeholder-label="Container">
+
+
+<div class="BCCFooter" >
+    <div ><p style="text-align: center"><img src="/images/default-source/default-album/newseals/bcc_logo_seal_white_full.tmb-small.png?Culture=en&amp;sfvrsn=47de15ea_4" style="display: block; vertical-align: middle" title="BCC_Logo_Seal_White_Full" data-displaymode="Thumbnail" alt="Baldwin County Seal White"></p><p style="text-align: center">&nbsp; Contact Baldwin County Citizen Service Center<br>251.937.9561 • 251.928.3002 • 251.943.5061
+    <br><a href="mailto:citizenservicecenter@containedemail.com" class="validEmail">Email Citizen Services</a><br><a href="/facility-closures">Baldwin County Commission Facility Closures</a><br><a href="mailto:bccwebmaster@containedemail.com" class="validEmail">Email Webmaster for Web Inquiry<br data-sf-ec-immutable=""></a>
+<br>2020 Baldwin County Commission, Alabama. All rights reserved. <br><a href="/departments/cis" target="_blank">Powered by BCC CIS</a> 
+</p><div class="socialIcons" style="text-align: center"><ul><li><a class="facebook" href="https://www.facebook.com/BaldwinCountyCommission" target="_blank" data-sf-ec-immutable=""><span></span><span></span><span></span><span></span><em class="fab fa-facebook"></em></a>
+ </li><li><a class="twitter" href="https://twitter.com/BCCommission" target="_blank" data-sf-ec-immutable=""><span></span><span></span><span></span><span></span><em class="fab fa-twitter"></em></a>
+ </li><li><a class="youtube" href="https://www.youtube.com/user/BCCommission" target="_blank" data-sf-ec-immutable=""><span></span><span></span><span></span><span></span><em class="fab fa-youtube"></em></a>
+ </li><li><a class="instagram" href="https://www.instagram.com/baldwincountycommission/" target="_blank" data-sf-ec-immutable=""><span></span><span></span><span></span><span></span><em class="fab fa-instagram"></em></a>
+ </li></ul></div></div>    
+</div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EH4GDJNBTD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EH4GDJNBTD');
+</script>
+
+
+  <script>
+        // Location of your button image:
+        var buttonSrc = '/images/default-source/default-album/reciteme_button-(1).webp?sfvrsn=89c0a891_1/reciteme_button-(1).webp';
+    </script>
+    <style>
+        #reciteme-button {
+            /* Button Styling and Placement */
+            background: #00344c;
+            width: 75px;
+            height: 75px;
+            top: 150px;
+            right: 14px;
+
+            position: fixed;
+            border-radius: 50%;
+            z-index: 100;
+            cursor: pointer;
+        }
+        #reciteme-button:hover {
+            /* Hover Color */
+            background: #e9322e;
+        }
+        #reciteme-button img {
+            /** Button Image Size */
+            width: 70px;
+            height: 70px;
+
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <script>
+        var serviceUrl = "//api.reciteme.com/asset/js?key=";
+        var serviceKey = "9342c9d27dbd46ddecc5d84de6fd9b04d5511c95";
+        var options = {};  // Options can be added as needed
+        var autoLoad = false;
+        var enableFragment = "#reciteEnable";
+        var loaded = [], frag = !1; window.location.hash === enableFragment && (frag = !0); function loadScript(c, b) { var a = document.createElement("script"); a.type = "text/javascript"; a.readyState ? a.onreadystatechange = function () { if ("loaded" == a.readyState || "complete" == a.readyState) a.onreadystatechange = null, void 0 != b && b() } : void 0 != b && (a.onload = function () { b() }); a.src = c; document.getElementsByTagName("head")[0].appendChild(a) } function _rc(c) { c += "="; for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) { for (var d = b[a]; " " == d.charAt(0);)d = d.substring(1, d.length); if (0 == d.indexOf(c)) return d.substring(c.length, d.length) } return null } function loadService(c) { for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++)if (loaded[a] == b) return; loaded.push(b); loadScript(serviceUrl + serviceKey, function () { "function" === typeof _reciteLoaded && _reciteLoaded(); "function" == typeof c && c(); Recite.load(options); Recite.Event.subscribe("Recite:load", function () { Recite.enable() }) }) } "true" == _rc("Recite.Persist") && loadService(); if (autoLoad && "false" != _rc("Recite.Persist") || frag) document.addEventListener ? document.addEventListener("DOMContentLoaded", function (c) { loadService() }) : loadService();
+
+        // Floating Button:
+        function _reciteLoaded() {
+            if (reciteMeButton && reciteMeButton.parentNode) {
+                reciteMeButton.parentNode.removeChild(reciteMeButton); 
+            }
+        }
+
+        var reciteMeButton;
+        function _createReciteButton() {
+            var buttonParentSelector = 'body';
+            var buttonContainer = document.createElement("div");
+            var buttonImage = document.createElement("img");
+            var buttonAlt = "Recite Me accessibility and Language Support";
+            var buttonTitle = "Launch Recite Me";
+
+            buttonContainer.setAttribute('id', 'reciteme-button');
+            buttonContainer.setAttribute('alt', buttonAlt);
+            buttonContainer.setAttribute('title', buttonTitle);
+            buttonImage.setAttribute('alt', buttonAlt);
+            buttonImage.setAttribute('title', buttonTitle);
+            buttonImage.setAttribute('src', buttonSrc);
+            buttonContainer.appendChild(buttonImage);
+            var buttonParent = document.querySelector(buttonParentSelector);
+            buttonParent.appendChild(buttonContainer);
+            buttonContainer.addEventListener("click", function () {
+                loadService();
+                return false;
+            });
+            reciteMeButton = buttonContainer;
+        }
+        _createReciteButton();
+    </script>
+      
+ 
+
+
+
+
+
+ </div>  <script type="text/javascript">
+$( "div.middle" ).scrollTop( 300 );
+</script><script type="text/javascript">
+$( document ).ready(function() {
+    $('.validEmail').on('mouseover click',function(){
+    var href = $(this).attr('href');
+    $(this).attr('href', href.replace('containedemail.com', 'baldwincountyal.gov'));
+});
+});
+</script><script type="text/javascript">
+(function() {
+	function deleteCookie(cookieName) {
+        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/';
+	}
+
+	function loadAndTrack(canTrack) {
+		if (!canTrack) {
+			deleteCookie('_ga');
+			deleteCookie('_gat');
+			deleteCookie('_gid');
+			return;
+		}
+		
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-66090376-1', 'auto');
+		ga('send', 'pageview');
+	}
+
+	if (window.TrackingConsentManager) {
+		TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+		loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+	}
+	else {
+		loadAndTrack(true);
+	}
+})();
+</script><script type="text/javascript">
+// make quick buttons one line on larger screens
+(function($) {
+    var $window = $(window)
+    var $btnContainer = $('.flex-wrap.divbtncontainer, .flex-nowrap.divbtncontainer');
+
+    function resize() {
+        if ($window.width() > 992) {
+          $btnContainer.removeClass('flex-wrap')
+          $btnContainer.addClass('flex-nowrap');
+          return;
+        }
+
+        $btnContainer.removeClass('flex-nowrap')
+        $btnContainer.addClass('flex-wrap');
+    }
+
+    $window
+        .resize(resize)
+        .trigger('resize');
+})(jQuery);
+
+var $container = $("html,body");
+var $scrollTo = $('.bccbreadcrumb');
+
+$container.animate({scrollTop: $scrollTo.offset().top - $container.offset().top + $container.scrollTop(), scrollLeft: 0},300); 
+</script> </body> </html>

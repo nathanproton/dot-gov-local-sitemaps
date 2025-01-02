@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Elections - ">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.2 (Yoast SEO v23.2) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ada County Elections - Elections</title>
+	<meta name="description" content="Ada County has the largest elections office in the state of Idaho. Engage with the public to educate citizens about the voting process..." />
+	<link rel="canonical" href="https://adacounty.id.gov/elections/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ada County Elections" />
+	<meta property="og:description" content="Ada County has the largest elections office in the state of Idaho. Engage with the public to educate citizens about the voting process..." />
+	<meta property="og:url" content="https://adacounty.id.gov/elections/" />
+	<meta property="og:site_name" content="Elections" />
+	<meta property="article:modified_time" content="2024-07-09T17:48:33+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://adacounty.id.gov/elections/","url":"https://adacounty.id.gov/elections/","name":"Ada County Elections - Elections","isPartOf":{"@id":"https://adacounty.id.gov/elections/#website"},"about":{"@id":"https://adacounty.id.gov/elections/#organization"},"datePublished":"2018-08-21T20:46:27+00:00","dateModified":"2024-07-09T17:48:33+00:00","description":"Ada County has the largest elections office in the state of Idaho. Engage with the public to educate citizens about the voting process...","breadcrumb":{"@id":"https://adacounty.id.gov/elections/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://adacounty.id.gov/elections/"]}]},{"@type":"BreadcrumbList","@id":"https://adacounty.id.gov/elections/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://adacounty.id.gov/elections/#website","url":"https://adacounty.id.gov/elections/","name":"Elections","description":"","publisher":{"@id":"https://adacounty.id.gov/elections/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://adacounty.id.gov/elections/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://adacounty.id.gov/elections/#organization","name":"Elections","url":"https://adacounty.id.gov/elections/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://adacounty.id.gov/elections/#/schema/logo/image/","url":"https://adacounty.id.gov/elections/wp-content/uploads/sites/38/logo-light-elections.png","contentUrl":"https://adacounty.id.gov/elections/wp-content/uploads/sites/38/logo-light-elections.png","width":160,"height":132,"caption":"Elections"},"image":{"@id":"https://adacounty.id.gov/elections/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//assets.juicer.io' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Elections &raquo; Feed" href="https://adacounty.id.gov/elections/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Elections &raquo; Comments Feed" href="https://adacounty.id.gov/elections/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/adacounty.id.gov\/elections\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://adacounty.id.gov/elections/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #007bff;--wp--preset--color--indigo: #6610f2;--wp--preset--color--purple: #5533ff;--wp--preset--color--pink: #e83e8c;--wp--preset--color--red: #dc3545;--wp--preset--color--orange: #fd7e14;--wp--preset--color--yellow: #ffc107;--wp--preset--color--green: #28a745;--wp--preset--color--teal: #20c997;--wp--preset--color--cyan: #17a2b8;--wp--preset--color--gray: #6c757d;--wp--preset--color--gray-dark: #343a40;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='olark-wp-css' href='https://adacounty.id.gov/elections/wp-content/plugins/olark-live-chat/public/css/olark-wp-public.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='child-understrap-styles-css' href='https://adacounty.id.gov/elections/wp-content/themes/ada-clerk/css/child-theme.min.css?ver=0.8.5' media='all' />
+<link rel='stylesheet' id='custom-styles-css' href='https://adacounty.id.gov/elections/wp-content/themes/ada-clerk/css/custom.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='juicer-styles-css' href='https://assets.juicer.io/embed.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://adacounty.id.gov/elections/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.8' media='all' />
+<link rel="stylesheet" type="text/css" href="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=6f970dc2" media="all">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?display=swap&amp;family=Lato%3A300%2C400%7CMontserrat%3A300%2C400%2C300%2C400%7CRoboto%3A300%2C400%7COswald%3A300%2C400%7CNoto+Sans%3A300%2C400" media="all">
+<style data-related="n2-ss-2">div#n2-ss-2 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-2 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-2 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-2 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-2.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-2 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slide{perspective:1500px;}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-2 .nextend-arrow img{position:relative;display:block;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-2 .n2-font-97f63b658c95fab822eefa44910a6493-hover{font-family: 'Lato';color: #ffffff;font-size:293.75%;text-shadow: none;line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 8px;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-f88ce11ce001ce7ceac8daea6d2286b1-paragraph{font-family: 'Montserrat';color: #ffffff;font-size:206.25%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-f88ce11ce001ce7ceac8daea6d2286b1-paragraph a, div#n2-ss-2 .n2-font-f88ce11ce001ce7ceac8daea6d2286b1-paragraph a:FOCUS{font-family: 'Montserrat';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-f88ce11ce001ce7ceac8daea6d2286b1-paragraph a:HOVER, div#n2-ss-2 .n2-font-f88ce11ce001ce7ceac8daea6d2286b1-paragraph a:ACTIVE{font-family: 'Montserrat';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-88cb4e7f434be95f4bc6e6cfe678c35f-hover{font-family: 'Montserrat';color: #ffffff;font-size:350%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 12px;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-5317519f2ef93995e9994f149d290335-hover{font-family: 'Roboto';color: RGBA(255,255,255,0.69);font-size:150%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 2px;word-spacing: normal;text-transform: none;font-weight: 300;}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner:HOVER{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-2 .n-uc-sIJjnYeMYdS0-inner{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-2 .n-uc-sIJjnYeMYdS0-inner:HOVER{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-2 .n2-font-be06fbc4d4300350a41ce9f1dbdca4b8-hover{font-family: 'Lato';color: #ffffff;font-size:375%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 12px;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-a7ec50e07ca9ea6287c4ed7aac8a7194-hover{font-family: 'Lato';color: #ffffff;font-size:375%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 12px;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-28ff965c3524f4786c3aa6a20cfd2cfb-hover{font-family: 'Lato';color: #ffffff;font-size:375%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 12px;word-spacing: normal;text-transform: none;font-weight: bold;}div#n2-ss-2 .n2-font-12e3c09ef74c1f19fe1918d600f566bf-hover{font-family: 'Roboto';color: RGBA(255,255,255,0.69);font-size:150%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 2px;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-894dcb538029409370ec1511adc931ab-hover{font-family: 'Lato';color: #ffffff;font-size:375%;text-shadow: none;line-height: 1.3;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: 12px;word-spacing: normal;text-transform: none;font-weight: 600;}div#n2-ss-2 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-2 .n-uc-QSUPnkCSO6GV{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-1f4117b865ac1-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-1f4117b865ac1{max-width: 800px}div#n2-ss-2 .n-uc-1266f55873366-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-1266f55873366-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:wrap;}div#n2-ss-2 .n-uc-1266f55873366-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-1266f55873366{--margin-top:15px;max-width:300px}div#n2-ss-2 .n-uc-1c6d71a030e01-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-1c6d71a030e01{width:auto}div#n2-ss-2 .n-uc-123218e23cfed-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-123218e23cfed{width:auto}div#n2-ss-2 .n-uc-ZTtNN3iej5Ob{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-cv7WmJdDgrlH{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-KBcwmM7tsOYw-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-KBcwmM7tsOYw{max-width: 800px}div#n2-ss-2 .n-uc-BYqkdjsqbZdF-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-BYqkdjsqbZdF-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:wrap;}div#n2-ss-2 .n-uc-BYqkdjsqbZdF-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-BYqkdjsqbZdF{--margin-top:15px;max-width:300px}div#n2-ss-2 .n-uc-BGOIRY7lkr4U-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-BGOIRY7lkr4U{width:auto}div#n2-ss-2 .n-uc-JJlDcg70IbAr-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-JJlDcg70IbAr{width:auto}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-sIJjnYeMYdS0-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-2 .n-uc-sIJjnYeMYdS0{width:100%}div#n2-ss-2 .n-uc-fvpZUmNBNY8n{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-1bab103fa0e9a-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-1bab103fa0e9a{max-width: 800px}div#n2-ss-2 .n-uc-1645218c5c973-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-1645218c5c973-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:wrap;}div#n2-ss-2 .n-uc-1645218c5c973-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-1645218c5c973{--margin-top:15px;max-width:300px}div#n2-ss-2 .n-uc-10207733e15f2-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-10207733e15f2{width:auto}div#n2-ss-2 .n-uc-104b1d1780ffb-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-104b1d1780ffb{width:auto}div#n2-ss-2 .n-uc-p4maflGUI41n{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-16424f71916ed-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-16424f71916ed{max-width: 800px}div#n2-ss-2 .n-uc-16b5b10103aa6-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-16b5b10103aa6-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:wrap;}div#n2-ss-2 .n-uc-16b5b10103aa6-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-16b5b10103aa6{--margin-top:15px;max-width:300px}div#n2-ss-2 .n-uc-1082100c4aba4-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-1082100c4aba4{width:auto}div#n2-ss-2 .n-uc-16b67720ec567-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-16b67720ec567{width:auto}div#n2-ss-2 .n-uc-AXNaQchdQBbY{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-1361b9b57659d-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-1361b9b57659d{max-width: 800px}div#n2-ss-2 .n-uc-P8BYthzgOC2X{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-tc8qw1GiGrNq-inner{padding:25px 10px 25px 10px;text-align:center;--ssselfalign:center;;justify-content:center}div#n2-ss-2 .n-uc-tc8qw1GiGrNq{max-width: 800px}div#n2-ss-2 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-2 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-2 .n-uc-1266f55873366-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-1c6d71a030e01{width:auto}div#n2-ss-2 .n-uc-123218e23cfed{width:auto}div#n2-ss-2 .n-uc-BYqkdjsqbZdF-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-BGOIRY7lkr4U{width:auto}div#n2-ss-2 .n-uc-JJlDcg70IbAr{width:auto}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-sIJjnYeMYdS0{width:100%}div#n2-ss-2 .n-uc-1645218c5c973-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-10207733e15f2{width:auto}div#n2-ss-2 .n-uc-104b1d1780ffb{width:auto}div#n2-ss-2 .n-uc-16b5b10103aa6-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-1082100c4aba4{width:auto}div#n2-ss-2 .n-uc-16b67720ec567{width:auto}div#n2-ss-2 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-2 .n-uc-1266f55873366-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-1c6d71a030e01{width:auto}div#n2-ss-2 .n-uc-123218e23cfed{width:auto}div#n2-ss-2 .n-uc-BYqkdjsqbZdF-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-BGOIRY7lkr4U{width:auto}div#n2-ss-2 .n-uc-JJlDcg70IbAr{width:auto}div#n2-ss-2 .n-uc-1IcvPXdzPArN{--ssfont-scale:0.4}div#n2-ss-2 .n-uc-hs2p439lyKBx{--ssfont-scale:0.8}div#n2-ss-2 .n-uc-AyGbhhljJMWz-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-sIJjnYeMYdS0{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-1645218c5c973-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-10207733e15f2{width:auto}div#n2-ss-2 .n-uc-104b1d1780ffb{width:auto}div#n2-ss-2 .n-uc-ZPOsUKmPresx{--ssfont-scale:0.8}div#n2-ss-2 .n-uc-16b5b10103aa6-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-1082100c4aba4{width:auto}div#n2-ss-2 .n-uc-16b67720ec567{width:auto}div#n2-ss-2 .n-uc-EYsufIOY50tT{--ssfont-scale:0.8}div#n2-ss-2 .n-uc-NvtoDhaoIpWV{--ssfont-scale:0.8}div#n2-ss-2 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-2 .nextend-arrow img{width: 16px}}</style>
+<style data-related="n2-ss-4">div#n2-ss-4 .n2-ss-slider-1{display:grid;box-sizing:border-box;position:relative;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;border:0px solid RGBA(62,62,62,1);border-radius:0px;overflow:hidden;}div#n2-ss-4:not(.n2-ss-loaded) .n2-ss-slider-1{background-image:none !important;}div#n2-ss-4 .n2-ss-slider-2{display:grid;place-items:center;position:relative;overflow:hidden;z-index:10;}div#n2-ss-4 .n2-ss-slider-3{position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-4 .n2-ss-slider-3 > *{grid-area:slide;}div#n2-ss-4.n2-ss-full-page--constrain-ratio .n2-ss-slider-3{height:auto;}div#n2-ss-4 .n2-ss-slide-backgrounds{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-4 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-4 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;width:100%;height:100%;-webkit-backface-visibility:hidden;z-index:20;}div#n2-ss-4 .n2-ss-slide{perspective:1500px;}div#n2-ss-4 .n2-ss-button-container,div#n2-ss-4 .n2-ss-button-container a{display:block;}div#n2-ss-4 .n2-ss-button-container--non-full-width,div#n2-ss-4 .n2-ss-button-container--non-full-width a{display:inline-block;}div#n2-ss-4 .n2-ss-button-container.n2-ss-nowrap{white-space:nowrap;}div#n2-ss-4 .n2-ss-button-container a div{display:inline;font-size:inherit;text-decoration:inherit;color:inherit;line-height:inherit;font-family:inherit;font-weight:inherit;}div#n2-ss-4 .n2-ss-button-container a > div{display:inline-flex;align-items:center;vertical-align:top;}div#n2-ss-4 .n2-ss-button-container span{font-size:100%;vertical-align:baseline;}div#n2-ss-4 .n2-ss-button-container a[data-iconplacement="left"] span{margin-right:0.3em;}div#n2-ss-4 .n2-ss-button-container a[data-iconplacement="right"] span{margin-left:0.3em;}div#n2-ss-4 .n-uc-19b000265ba67-inner{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n-uc-19b000265ba67-inner:HOVER{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n-uc-1dc66901c7568-inner{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n-uc-1dc66901c7568-inner:HOVER{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n2-font-d229c3ae61af5b5a50ca13959c58fa7c-hover{font-family: 'Oswald';color: #9f3728;font-size:493.75%;text-shadow: none;line-height: 1.1;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: 2px;word-spacing: normal;text-transform: none;font-weight: 800;}div#n2-ss-4 .n2-font-0275064f82672973c1c216fba6b60456-paragraph{font-family: 'Noto Sans';color: #4f4f67;font-size:106.25%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-4 .n2-font-0275064f82672973c1c216fba6b60456-paragraph a, div#n2-ss-4 .n2-font-0275064f82672973c1c216fba6b60456-paragraph a:FOCUS{font-family: 'Noto Sans';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-4 .n2-font-0275064f82672973c1c216fba6b60456-paragraph a:HOVER, div#n2-ss-4 .n2-font-0275064f82672973c1c216fba6b60456-paragraph a:ACTIVE{font-family: 'Noto Sans';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-4 .n2-font-a3529ffb73f11323f6fa94862e7de363-link a{font-family: 'Montserrat';color: #ffffff;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: bold;}div#n2-ss-4 .n2-font-a3529ffb73f11323f6fa94862e7de363-link a:HOVER, div#n2-ss-4 .n2-font-a3529ffb73f11323f6fa94862e7de363-link a:ACTIVE, div#n2-ss-4 .n2-font-a3529ffb73f11323f6fa94862e7de363-link a:FOCUS{color: #1f40b2;}div#n2-ss-4 .n2-style-3e5e006e42844e9939730cc5ff240517-heading{background: #3a4751;opacity:1;padding:1em 2.2em 1em 2.2em ;box-shadow: none;border: 0px solid RGBA(0,0,0,1);border-radius:99px;}div#n2-ss-4 .n2-style-3e5e006e42844e9939730cc5ff240517-heading:Hover, div#n2-ss-4 .n2-style-3e5e006e42844e9939730cc5ff240517-heading:ACTIVE, div#n2-ss-4 .n2-style-3e5e006e42844e9939730cc5ff240517-heading:FOCUS{background: #ffffff;box-shadow: 0px 2px 10px 0px RGBA(0,0,0,0.13);}div#n2-ss-4 .n-uc-175bbf541cda5-inner{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n-uc-175bbf541cda5-inner:HOVER{border-width:0px 0px 0px 0px ;border-style:solid;border-color:RGBA(255,255,255,1);}div#n2-ss-4 .n2-ss-slide-limiter{max-width:1200px;}div#n2-ss-4 .n-uc-awGnc6mnNjgs{padding:5px 5px 5px 5px}div#n2-ss-4 .n-uc-115ebbdb3da08-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-4 .n-uc-115ebbdb3da08{align-self:center;}div#n2-ss-4 .n-uc-19b000265ba67-inner{padding:0px 0px 0px 0px}div#n2-ss-4 .n-uc-19b000265ba67-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-4 .n-uc-19b000265ba67-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-4 .n-uc-1dc66901c7568-inner{padding:0px 0px 0px 0px;text-align:left;--ssselfalign:var(--ss-fs);;justify-content:center}div#n2-ss-4 .n-uc-1dc66901c7568{width:40%}div#n2-ss-4 .n-uc-tq8FkBYTS9Ex{--margin-bottom:10px;max-width:360px}div#n2-ss-4 .n-uc-PlRsgN4eABYJ{--margin-bottom:20px}div#n2-ss-4 .n-uc-175bbf541cda5-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-4 .n-uc-175bbf541cda5{width:60%}@media (min-width: 1200px){div#n2-ss-4 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-4 .n-uc-19b000265ba67-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-4 .n-uc-1dc66901c7568{width:40%}div#n2-ss-4 .n-uc-tq8FkBYTS9Ex{--ssfont-scale:0.6}div#n2-ss-4 .n-uc-PlRsgN4eABYJ{--ssfont-scale:0.8}div#n2-ss-4 .n-uc-nOb869O7FqUs{--ssfont-scale:0.8}div#n2-ss-4 .n-uc-175bbf541cda5{width:60%}div#n2-ss-4 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-4 .n-uc-awGnc6mnNjgs{padding:20px 10px 20px 10px}div#n2-ss-4 .n-uc-19b000265ba67-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-4 .n-uc-1dc66901c7568-inner{text-align:center;--ssselfalign:center;}div#n2-ss-4 .n-uc-1dc66901c7568{order: 2;width:calc(100% - 20px)}div#n2-ss-4 .n-uc-tq8FkBYTS9Ex{--ssfont-scale:0.5}div#n2-ss-4 .n-uc-PlRsgN4eABYJ{--margin-bottom:10px;--ssfont-scale:0.8}div#n2-ss-4 .n-uc-nOb869O7FqUs{--ssfont-scale:0.8}div#n2-ss-4 .n-uc-175bbf541cda5{order: 1;width:calc(100% - 20px)}div#n2-ss-4 [data-hide-mobileportrait="1"]{display: none !important;}}</style>
+<script src="https://adacounty.id.gov/elections/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://adacounty.id.gov/elections/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://adacounty.id.gov/elections/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://adacounty.id.gov/elections/wp-json/wp/v2/pages/4" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://adacounty.id.gov/elections/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel='shortlink' href='https://adacounty.id.gov/elections/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://adacounty.id.gov/elections/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadacounty.id.gov%2Felections%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://adacounty.id.gov/elections/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadacounty.id.gov%2Felections%2F&#038;format=xml" />
+  <link  href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Quattrocento:400,700"  rel = "stylesheet"/>
+  <meta name="google-site-verification" content="h5BUkDVS4USgkIYNYyeR6PvYgS414cjk71g0E492STM" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-21779422-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-21779422-5');
+
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WX4NN2S');</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+jQuery(document).ready( function() {
+  var gggtm = '<noscr'+'ipt><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WX4NN2S" height="0" width="0" style="display:none;visibility:hidden"></iframe></nosc'+'ript>';
+  jQuery('body').prepend(gggtm);
+  
+
+});
+
+jQuery(window).on('load', function() {
+ //   console.log( "ready!" );
+ if (jQuery('#youtube_video').length > 0){
+   var get_src = jQuery('#youtube_video').attr('data-src');
+// console.log( get_src );
+	jQuery('#youtube_video').attr('src',get_src);
+}
+ if (jQuery('.gmap_canvas1').length > 0){
+   var get_src = jQuery('.gmap_canvas1').attr('data-src');
+ //console.log( get_src );
+	jQuery('.gmap_canvas1').attr('src',get_src);
+}
+   
+});
+
+</script>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//adacounty.id.gov/elections/?wordfence_lh=1&hid=8E6597BD02FCDDE577DEDA2ABB4B1F8C');
+</script><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Elections - ">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style data-type="vc_custom-css">#home-jumbotron {
+    height: 16vw !important;
+    width: 100%;
+    padding: 0;
+    background: no-repeat center center;
+    background-size: cover;
+}
+#home-jumbotron {
+    background-image: url(https://adacounty.id.gov/elections/wp-content/uploads/sites/38/ElectionsHero-e1555532894992-1024x358.jpg);
+}
+.juicer-feed .j-loading-wrapper, .juicer-feed .j-paginate {
+    margin: 6px !important;
+}</style><style>
+    
+        #home-jumbotron
+        {
+           background-image: url('');
+        }
+    
+        @media (min-width: 992px)
+        {
+            #home-jumbotron
+            {
+                background-image: url('');
+            }
+        }
+
+        </style><style type="text/css" data-type="vc_shortcodes-custom-css"></style>		<style id="wp-custom-css">
+			.juicer-feed.modern li.feed-item.j-twitter .j-image{
+	width:98% !important;
+	margin-left:0px !important;
+	margin-bottom:2% !important;
+}		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1709768283933{padding-top: 2px !important;padding-right: 2px !important;padding-bottom: 2px !important;padding-left: 2px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>            <link rel="icon" href="/wp-content/themes/ada-main/images/logo-ada-county-32x32.png" sizes="32x32" />
+        <link rel="icon" href="/wp-content/themes/ada-main/images/logo-ada-county-192x192.png" sizes="192x192" />
+    <script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);</script><script src="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=6f970dc2" defer async></script>
+<script src="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=6f970dc2" defer async></script>
+<script src="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=6f970dc2" defer async></script>
+<script src="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=6f970dc2" defer async></script>
+<script src="https://adacounty.id.gov/elections/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Block/Assets/dist/ss-block.min.js?ver=6f970dc2" defer async></script>
+<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-2',{"admin":false,"background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1000,"slideOuterHeight":400,"sliderWidth":1000,"sliderHeight":400,"slideWidth":1000,"slideHeight":400},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"auto","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1000,"height":400,"max":3000,"min":1000},"tabletPortrait":{"width":701,"height":280,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":128,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})});_N2.r(["documentReady","smartslider-frontend","ss-block"],function(){new _N2.SmartSliderBlock('n2-ss-4',{"admin":false,"background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":700,"sliderWidth":1200,"sliderHeight":700,"slideWidth":1200,"slideHeight":700},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":700,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":408,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":186,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":0,"keyboard":0,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":0,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"enter","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"initCallbacks":function(){}})})});</script></head>
+<body class="home page-template-default page page-id-4 wp-custom-logo wp-embed-responsive has-primary-nav understrap-has-sidebar wpb-js-composer js-comp-ver-7.8 vc_responsive">
+         <script type="text/javascript">
+    window._monsido = window._monsido || {
+        token: "CiMV8KWnNxJ6lZts-Yca3Q",
+        statistics: {
+            enabled: true,
+            documentTracking: {
+                enabled: false,
+                documentCls: "monsido_download",
+                documentIgnoreCls: "monsido_ignore_download",
+                documentExt: [],
+            },
+        },
+    };
+</script>
+<script type="text/javascript" async src="https://app-script.monsido.com/v2/monsido-script.js"></script>
+    <div class="hfeed site" id="page">
+        <header id="wrapper-navbar" itemscope itemtype="http://schema.org/WebSite">
+            <a class="skip-link sr-only sr-only-focusable d-print-none" href="#content">Skip to content</a>
+                        <div class="top-actions-bar">
+                <div class="mw-xl mx-auto position-relative d-print-none">
+                    <a href="https://adacounty.id.gov/elections/" class="navbar-brand custom-logo-link" rel="home" aria-current="page"><img width="160" height="132" src="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/logo-light-elections.png" class="img-fluid" alt="white Ada County elections logo" decoding="async" /></a>                        <div class="logo-title d-none d-lg-block"></div>
+                </div>          
+                <div class="container-fluid d-print-none mw-xl px-0">
+                    <div class="top-actions-wrap">
+                        <ul id="utility-menu" class="pull-left m-0 no-bull"><li id="menu-item-749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-749"><a href="/" class="nav-link">Ada County</a></li>
+<li id="menu-item-18160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18160"><a href="https://adacounty.id.gov/elections/about-us/#contact" class="nav-link">Contact Us</a></li>
+</ul>                        <div class="top-search-wrap">
+                            <form role="search" action="https://adacounty.id.gov/elections/search/" method="get" aria-label="Top Search Form">
+                                <label for="inputTopSearch" class="sr-only">Search</label>
+                                <input class="form-control" id="inputTopSearch" name="q" value="" placeholder="Search...">
+                                <button type="submit" class="submit"><span class="fa fa-search" aria-hidden="true"></span><span class="sr-only">Search</span></button>
+                            </form>
+                        </div>
+                        <span class="sizer mr-2">
+                            <a href="#" class="select-size largest">A</a>
+                            <a href="#" class="select-size large">A</a>
+                            <a href="#" class="select-size normal active">A</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div id="mainNavigation" class="top-navigation-bar d-print-none">
+                <div class="container-fluid px-0 mobile-menu-toggle-wrap" aria-hidden="false">
+                    <a href="#" class="toggle collapsed" id="toggleMobileMenu" data-toggle="collapse" data-target="#mobileMenu" aria-controls="mobileMenu" aria-expanded="false">Menu</a>
+                </div>
+                                <nav aria-label="Top Navigation Menu">
+                    <div class="top-mobile-menu-wrap d-print-none d-lg-none collapse" id="mobileMenu" aria-hidden="true">
+                        <div class="container-fluid">
+                            <div class="mobile-menus-wrap clearfix">
+                                                                <ul class="mobile-navigation left">
+                                    <li><a href='/elections/about-us/' class='nav-link '>Elections</a></li>
+<li><a href='https://adacounty.id.gov/elections/registering-to-vote/' class='nav-link '>Voter Information</a></li>
+<li><a href='https://adacounty.id.gov/elections/election-results/' class='nav-link '>Election Data &amp; Results</a></li>
+                                </ul>
+                                <ul class="mobile-navigation right">
+                                    <li><a href='/elections/information-for-candidates/' class='nav-link '>Candidates</a></li>
+<li><a href='/elections/about-us/' class='nav-link '>Work with Elections</a></li>
+<li><a href='https://adacounty.id.gov/elections/ballot-verifier-info/' class='nav-link '>Ballot Verifier</a></li>
+                                </ul>
+                                                            </div>
+                            <div class="top-mobile-search-wrap" id="mobileSearch" aria-hidden="true">
+                                <form role="search" action="https://adacounty.id.gov/elections/search/" method="get" aria-label="Mobile Search Form">
+                                    <label for="inputMobileSearch" class="focusable sr-only">Search</label>
+                                    <input class="form-control" id="inputMobileSearch" name="q" value="" placeholder="How can Ada County help you today? Begin typing.">
+                                    <button type="submit" class="submit"><span class="fa fa-search" aria-hidden="true"></span><span class="sr-only">Search</span></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <nav id="main-nav-container" class="navbar navbar-expand-lg mw-xl mx-auto w-100 d-print-none" aria-label="Primary Navigation">
+                <ul id="menu-main-menu" class="mw-xl d-none d-lg-flex"><li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-has-children menu-item-258"><a href="https://adacounty.id.gov/elections/" aria-current="page" class="nav-link">Ada County Elections</a>
+<ul class="sub-menu">
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://adacounty.id.gov/elections/about-us/" class="nav-link">About Elections</a></li>
+	<li id="menu-item-4596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4596"><a href="https://adacounty.id.gov/elections/ballot-security/" class="nav-link">Ballot Security</a></li>
+	<li id="menu-item-1729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1729"><a href="https://adacounty.id.gov/elections/ballot-cameras/" class="nav-link">Cameras</a></li>
+	<li id="menu-item-1610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1610"><a href="https://adacounty.id.gov/elections/elections-media/" class="nav-link">Media</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://adacounty.id.gov/elections/public-records-request/" class="nav-link">Public Records Request</a></li>
+</ul>
+</li>
+<li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-245"><a href="https://adacounty.id.gov/elections/election-day-information/" class="nav-link">Voter Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://adacounty.id.gov/elections/election-day-information/" class="nav-link">Election Day Information</a></li>
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://adacounty.id.gov/elections/view-my-ballot/" class="nav-link">View My Ballot</a></li>
+	<li id="menu-item-1196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196"><a target="_blank" rel="noopener" href="https://gisprod.adacounty.id.gov/apps/electionday/" class="nav-link">Where to Vote</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://adacounty.id.gov/elections/registering-to-vote/" class="nav-link">Registering To Vote</a></li>
+	<li id="menu-item-2149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="https://adacounty.id.gov/elections/early-voting/" class="nav-link">Early Voting</a></li>
+	<li id="menu-item-17113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17113"><a href="https://adacounty.id.gov/elections/absentee-voting/" class="nav-link">Absentee Voting</a></li>
+	<li id="menu-item-1600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1600"><a href="https://adacounty.id.gov/elections/uniformed-overseas-citizen-voters/" class="nav-link">Uniformed &amp; Overseas Citizen Voters</a></li>
+	<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="https://adacounty.id.gov/elections/voters-with-disabilities/" class="nav-link">Voters with Disabilities</a></li>
+	<li id="menu-item-1598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1598"><a href="https://adacounty.id.gov/elections/elections-faq/" class="nav-link">Voting FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93"><a href="https://adacounty.id.gov/elections/election-results/" class="nav-link">Election Data &amp; Results</a>
+<ul class="sub-menu">
+	<li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2011"><a href="https://adacounty.id.gov/elections/live-results/" class="nav-link">Live Results</a></li>
+	<li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="https://adacounty.id.gov/elections/election-results/" class="nav-link">Election Data &amp; Results</a></li>
+	<li id="menu-item-11654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11654"><a target="_blank" rel="noopener" href="https://apps.adacounty.id.gov/adafilebrowse/default.aspx?name=ElectionBatchLevelResults&#038;dept=Elections" class="nav-link">Elections Batch Level Results</a></li>
+	<li id="menu-item-912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912"><a href="https://adacounty.id.gov/elections/absentee-ballot-tracking/" class="nav-link">Early Voting Data</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://adacounty.id.gov/elections/maps/" class="nav-link">Maps</a></li>
+	<li id="menu-item-18383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18383"><a href="https://adacounty.id.gov/elections/ballot-verifier-info/" class="nav-link">Ballot Verifier</a></li>
+</ul>
+</li>
+<li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-247"><a href="/elections/information-for-candidates/" class="nav-link">Candidates</a>
+<ul class="sub-menu">
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://adacounty.id.gov/elections/information-for-candidates/" class="nav-link">Information for Candidates</a></li>
+	<li id="menu-item-17497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17497"><a href="https://adacounty.id.gov/elections/candidate-filings/" class="nav-link">Candidate Filings</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://adacounty.id.gov/elections/campaign-finance-reports/" class="nav-link">Campaign Finance Reports</a></li>
+</ul>
+</li>
+<li id="menu-item-248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-248"><a href="https://adacounty.id.gov/elections/work-with-elections/" class="nav-link">Work With Elections</a>
+<ul class="sub-menu">
+	<li id="menu-item-18154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18154"><a href="https://adacounty.id.gov/elections/work-with-elections/" class="nav-link">Work on Election Day</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://adacounty.id.gov/elections/pollworker/" class="nav-link">Be a Poll Worker</a></li>
+	<li id="menu-item-11059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11059"><a href="https://adacounty.id.gov/elections/poll-watchers/" class="nav-link">Poll Watchers</a></li>
+	<li id="menu-item-1608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1608"><a href="https://adacounty.id.gov/elections/community-outreach/" class="nav-link">Community Outreach</a></li>
+</ul>
+</li>
+<li id="menu-item-18384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18384"><a href="https://adacounty.id.gov/elections/ballot-verifier-info/" class="nav-link">Ballot Verifier</a></li>
+</ul>            </nav>
+                    </header><div id="home-jumbotron" class="jumbotron jumbotron-fluid d-print-none">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 mw-md mx-auto">
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="colors-bar">
+    <div class="container">
+        <div class="colors-wrap clearfix">
+            <div class="color brown"></div>
+            <div class="color cyan"></div>
+            <div class="color yellow"></div>
+            <div class="color green"></div>
+            <div class="color blue"></div>
+        </div>
+    </div>
+</div>
+<div id="full-width-page-wrapper">
+            <div class="container-fluid d-print-none">
+            <div class="row bg-gray-400">
+                <div class="col-12 mw-xl mx-auto">
+                                    </div>
+            </div>
+        </div>
+        <main class="container site-main" id="content" role="main">
+        <div class="row mt-4">
+            <div class="col-12">
+                <h1>Ada County Elections</h1>
+                <div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div>
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<div><div class="n2-section-smartslider fitvidsignore " data-ssid="2" tabindex="0" role="region" aria-label="Slider"><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" data-responsive="auto" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="2" data-opacity="62" data-x="50" data-y="50" data-alt="Work as a Poll Worker" data-title="Work as a Poll Worker" style="opacity:0.62"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/IMG_0182.jpg" alt="Work as a Poll Worker" title="Work as a Poll Worker" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="Ballot Verifier" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/ballot-verifier2.jpg" alt="Ballot Verifier" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="1" data-opacity="61" data-x="50" data-y="50" data-alt="American Flag" data-title="American Flag" style="opacity:0.61"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/AdobeStock_210409285.jpeg" alt="American Flag" title="American Flag" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="4" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="6" data-opacity="52" data-x="50" data-y="50" data-alt="Vote Here Sign" data-title="Vote Here Sign" style="opacity:0.52"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/AdobeStock_75957192.jpeg" alt="Vote Here Sign" title="Vote Here Sign" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="5" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="2" data-opacity="60" data-x="50" data-y="50" data-alt="Register to Vote" data-title="Register to Vote" style="opacity:0.6"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/AdobeStock_235537592.jpeg" alt="Register to Vote" title="Register to Vote" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="6" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="2" data-opacity="43" data-x="50" data-y="50" data-alt="Early Voting" data-title="Early Voting" style="opacity:0.43"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/IMG_6675.jpg" alt="Early Voting" title="Early Voting" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="7" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="5" data-opacity="70" data-x="50" data-y="50" data-alt="Vote by Mail" data-title="Vote by Mail" style="opacity:0.7"><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/408A2423.jpg" alt="Vote by Mail" title="Vote by Mail" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(1,17,38,1)" style="background-color: RGBA(1,17,38,1);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="26" data-slide-public-id="1" data-title="POLL WORKER" data-haslink="1" data-href="https://adacounty.id.gov/elections/pollworker/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-26"><div role="note" class="n2-ss-slide--focus">POLL WORKER</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-QSUPnkCSO6GV" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-1f4117b865ac1" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-1f4117b865ac1-inner"><div class="n2-ss-layer n2-ow n-uc-j4iE7CGziPlq" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item1" class="n2-font-97f63b658c95fab822eefa44910a6493-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">BECOME A POLL WORKER!<br></div></div><div class="n2-ss-layer n2-ow n-uc-W7nNinAK0LCs" data-pm="normal" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div class=""></div></div></div><div class="n2-ss-layer n2-ow n2-ss-layer--auto n2-ss-has-self-align n-uc-1266f55873366" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-1266f55873366-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-1c6d71a030e01" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-1c6d71a030e01-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-123218e23cfed" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-123218e23cfed-inner"></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="54" data-slide-public-id="2" data-haslink="1" data-href="https://ballotverifier.adacounty.id.gov/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-54"><div role="note" class="n2-ss-slide--focus"></div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-ZTtNN3iej5Ob" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="44" data-slide-public-id="3" data-title="VOTER INFORMATION" data-haslink="1" data-href="https://adacounty.id.gov/elections/election-day-information/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-44"><div role="note" class="n2-ss-slide--focus">VOTER INFORMATION</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-cv7WmJdDgrlH" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-KBcwmM7tsOYw" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-KBcwmM7tsOYw-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--auto n2-ss-has-self-align n-uc-BYqkdjsqbZdF" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-BYqkdjsqbZdF-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-BGOIRY7lkr4U" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-BGOIRY7lkr4U-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-JJlDcg70IbAr" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-JJlDcg70IbAr-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow n-uc-1IcvPXdzPArN" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item3" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-88cb4e7f434be95f4bc6e6cfe678c35f-hover " style="display:block;" href="https://adacounty.id.gov/elections/election-day-information/">VOTER INFORMATION</a></div></div><div class="n2-ss-layer n2-ow n-uc-hs2p439lyKBx" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item4" class="n2-font-5317519f2ef93995e9994f149d290335-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;"></div></div><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-AyGbhhljJMWz" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-AyGbhhljJMWz-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-sIJjnYeMYdS0" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-sIJjnYeMYdS0-inner"></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="25" data-slide-public-id="4" data-title="WHERE TO VOTE" data-haslink="1" data-href="https://gis.adacounty.id.gov/apps/electionday/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-25"><div role="note" class="n2-ss-slide--focus">WHERE TO VOTE</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-fvpZUmNBNY8n" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-1bab103fa0e9a" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-1bab103fa0e9a-inner"><div class="n2-ss-layer n2-ow n-uc-otgSgFUMFQiV" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item5" class="n2-font-be06fbc4d4300350a41ce9f1dbdca4b8-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">WHERE DO I VOTE?</div></div><div class="n2-ss-layer n2-ow n2-ss-layer--auto n2-ss-has-self-align n-uc-1645218c5c973" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-1645218c5c973-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-10207733e15f2" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-10207733e15f2-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-104b1d1780ffb" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-104b1d1780ffb-inner"></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="24" data-slide-public-id="5" data-title="REGISTER TO VOTE" data-haslink="1" data-href="https://idahovotes.gov/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-24"><div role="note" class="n2-ss-slide--focus">REGISTER TO VOTE</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-p4maflGUI41n" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-16424f71916ed" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-16424f71916ed-inner"><div class="n2-ss-layer n2-ow n-uc-2AVwhpzeGAnW" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item6" class="n2-font-a7ec50e07ca9ea6287c4ed7aac8a7194-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">REGISTER TO VOTE</div></div><div class="n2-ss-layer n2-ow n-uc-ZPOsUKmPresx" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item7" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-5317519f2ef93995e9994f149d290335-hover " style="display:block;" target="_blank" href="https://idahovotes.gov/">VOTEIDAHO.GOV</a></div></div><div class="n2-ss-layer n2-ow n2-ss-layer--auto n2-ss-has-self-align n-uc-16b5b10103aa6" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-16b5b10103aa6-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-1082100c4aba4" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-1082100c4aba4-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-16b67720ec567" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-16b67720ec567-inner"></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="28" data-slide-public-id="6" data-title="EARLY VOTING" data-haslink="1" data-href="https://adacounty.id.gov/elections/early-voting/#earlyvoting" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-28"><div role="note" class="n2-ss-slide--focus">EARLY VOTING</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-AXNaQchdQBbY" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-1361b9b57659d" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-1361b9b57659d-inner"><div class="n2-ss-layer n2-ow n-uc-L1qA2hzz4IiV" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item8" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-28ff965c3524f4786c3aa6a20cfd2cfb-hover " style="display:block;" href="https://adacounty.id.gov/elections/early-voting/">EARLY VOTING</a></div></div><div class="n2-ss-layer n2-ow n-uc-EYsufIOY50tT" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item9" class="n2-font-12e3c09ef74c1f19fe1918d600f566bf-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;"></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="33" data-slide-public-id="7" data-title="VOTE BY MAIL" data-haslink="1" data-href="https://adacounty.id.gov/elections/early-voting/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" class="n2-ss-slide n2-ow  n2-ss-slide-33"><div role="note" class="n2-ss-slide--focus">VOTE BY MAIL</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-P8BYthzgOC2X" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-tc8qw1GiGrNq" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-tc8qw1GiGrNq-inner"><div class="n2-ss-layer n2-ow n-uc-5IrRfL966fZC" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item10" class="n2-font-894dcb538029409370ec1511adc931ab-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">ABSENTEE VOTING</div></div><div class="n2-ss-layer n2-ow n-uc-NvtoDhaoIpWV" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item11" class="n2-font-5317519f2ef93995e9994f149d290335-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">Request a Ballot</div></div></div></div></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></div>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2><span style="font-size: 18pt; color: #000000;">Welcome to Ada County Elections! Voting is the foundation of our democracy, and our job is to help Idahoans vote. On this website, you will find information to register to vote, current elections, how to cast your ballot and other important election information.</span></h2>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js" >
+		<div class="wpb_wrapper">
+			<!-- Display the countdown timer in an element -->
+<div id="countdown-wrapper">
+  <h3>Election Countdown</h3>
+  <!-- h3>Next election date to be determined</h3 -->
+  <div id="countdown-timer">
+    <ol>
+      <li><div id="countdown-days"></div> DAYS</li>
+      <li><div id="countdown-hours"></div> HOURS</li>
+      <li class="countdown-no-border"><div id="countdown-minutes"></div> MINUTES</li>
+    </ol>
+  </div>
+</div>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("November 5, 2024 08:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("countdown-days").innerHTML = days;
+  document.getElementById("countdown-hours").innerHTML = hours;
+  document.getElementById("countdown-minutes").innerHTML = minutes;
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown-timer").innerHTML = "<p>Remember to Vote!</p>";
+  }
+}, 1000);
+</script>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left wpb_content_element vc_custom_1709768283933">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://adacounty.id.gov/elections/registering-to-vote/" target="_blank" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1024" height="307" src="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-1.png" class="vc_single_image-img attachment-full" alt="register to vote" title="" srcset="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-1.png 1024w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-1-300x90.png 300w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-1-768x230.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://adacounty.id.gov/elections/view-my-ballot/" target="_blank" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img decoding="async" width="1024" height="307" src="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-2.png" class="vc_single_image-img attachment-full" alt="view my ballot" title="" srcset="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-2.png 1024w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-2-300x90.png 300w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-2-768x230.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://adacounty.id.gov/elections/election-results/" target="_self" class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img decoding="async" width="1024" height="307" src="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-3.png" class="vc_single_image-img attachment-full" alt="election results" title="" srcset="https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-3.png 1024w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-3-300x90.png 300w, https://adacounty.id.gov/elections/wp-content/uploads/sites/38/Election-Buttons-3-768x230.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div>
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<div class="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="4" tabindex="0" role="region" aria-label="Slider"><div id="n2-ss-4-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-4" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  ">
+        <div class="n2-ss-slider-1 n2-ow">
+            <div class="n2-ss-slider-2 n2-ow">
+                <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                <div class="n2-ss-slider-3 n2-ow">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="41" data-slide-public-id="1" data-title="Slide" class="n2-ss-slide n2-ow  n2-ss-slide-41"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Slide</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-awGnc6mnNjgs" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-115ebbdb3da08" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-115ebbdb3da08-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-19b000265ba67" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-19b000265ba67-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-1dc66901c7568" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-1dc66901c7568-inner"><div class="n2-ss-layer n2-ow n-uc-tq8FkBYTS9Ex" data-pm="normal" data-sstype="layer"><div id="n2-ss-4item1" class="n2-font-d229c3ae61af5b5a50ca13959c58fa7c-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">GET OUT &amp; VOTE!</div></div><div class="n2-ss-layer n2-ow n-uc-PlRsgN4eABYJ" data-pm="normal" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div class=""><p class="n2-font-0275064f82672973c1c216fba6b60456-paragraph   ">The next election in Ada County is<b> November 5, 2024!</b><br />
+ Are you registered to vote? Click the button below for all of the information you need before heading to the polls! </p>
+</div></div></div><div class="n2-ss-layer n2-ow n-uc-nOb869O7FqUs n2-ss-layer--auto" data-pm="normal" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-a3529ffb73f11323f6fa94862e7de363-link  n2-ss-nowrap n2-ss-button-container--non-full-width"><a class="n2-style-3e5e006e42844e9939730cc5ff240517-heading  n2-ow " target="_blank" href="https://adacounty.id.gov/elections/election-day-information/"><div><div>Voter Information</div></div></a></div></div></div></div><div class="n2-ss-layer n2-ow n-uc-175bbf541cda5" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-175bbf541cda5-inner"><div class="n2-ss-layer n2-ow n-uc-WrLwuq79sUNZ" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image-content n2-ss-item-content n2-ow-all"><img decoding="async" id="n2-ss-4item4" alt="" class="skip-lazy" width="682" height="566" data-skip-lazy="1" src="//adacounty.id.gov/elections/wp-content/uploads/sites/38/Homepage-slider.png" /></div></div></div></div></div></div></div></div></div></div></div></div>                </div>
+                            </div>
+        </div>
+        </div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_black wpb_content_element  wpb_content_element" ><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div>
+	<div class="wpb_raw_code wpb_raw_js" >
+		<div class="wpb_wrapper">
+			<center>
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css"/>
+<ul class="juicer-feed" data-feed-id="adaelections"  data-gutter="10" data-per="3" ></ul>
+</center>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_raw_html wpb_content_element" >
+		<div class="wpb_wrapper">
+			<style>
+#home-jumbotron {
+  display: none;
+}
+#countdown-wrapper {
+  text-align: center;
+  font-weight: bold;
+  background-color: #444444;
+  color: #fff;
+  margin-bottom: 20px;
+}
+#countdown-wrapper h3 {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+}
+#countdown-timer {
+  padding-bottom: 10px;
+}
+#countdown-timer p {
+  font-size: 20px;
+}
+#countdown-timer::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#countdown-wrapper ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#countdown-wrapper li {
+  float: left;
+  width: 33%;
+  border-right: 1px solid #fff;
+}
+#countdown-wrapper li.countdown-no-border {
+  border-right: none;
+}
+#countdown-days, #countdown-hours, #countdown-minutes {
+  font-size: 32px;
+}
+</style>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><span style="font-size: 14pt;">Need more information on voting? Please contact our office.</span><br />
+<span style="font-size: 14pt;">(208) 287-6860</span><br />
+<span style="font-size: 14pt;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="23464f4640574a4c4d5063424742404c564d575a0d4a470d444c55">[email&#160;protected]</a></span><br />
+<span style="font-size: 14pt;">To place a relay call, dial 711 or TTY:1-800-377-3529</span></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+</div>            </div>
+        </div>
+    </main>
+    <div class="container-fluid">
+                    </div>
+</div>
+</div>
+<div id="wrapper-footer" class="d-print-none">
+    <div class="colors-bar">
+        <div class="container">
+            <div class="colors-wrap clearfix">
+                <div class="color brown"></div>
+                <div class="color cyan"></div>
+                <div class="color yellow"></div>
+                <div class="color green"></div>
+                <div class="color blue"></div>
+            </div>
+        </div>
+    </div>
+    <footer class="site-footer" id="colophon">
+                <div class="container-fluid bottom-navigation-bar">
+            <div class="row">
+                <nav class="col-12 text-center" aria-label="Footer Quick Links">
+                    <div class="menu-footer-directory-container"><ul id="menu-footer-directory" class="menu"><li id="menu-item-924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-924"><a href="https://adacounty.id.gov/elections/" aria-current="page" class="nav-link">Ada County Elections</a></li>
+<li id="menu-item-687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-687"><a href="/human-resources/americans-with-disabilities-act/" class="nav-link">Accessibility</a></li>
+<li id="menu-item-690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-690"><a target="_blank" rel="noopener" href="https://adacounty.id.gov/about-ada-county/privacy-policy/" class="nav-link">Privacy Statement</a></li>
+<li id="menu-item-689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-689"><a target="_blank" rel="noopener" href="/about-ada-county/contact/" class="nav-link">Contact Us</a></li>
+</ul></div>                </nav>
+            </div>
+        </div>
+        <div class="text-center">	<div class="py-2" id="wrapper-footer-full">
+		<div class="container" id="footer-full-content" tabindex="-1">
+			<div class="row">
+				<div id="text-2" class="footer-widget widget_text widget-count-1 col-md-12">			<div class="textwidget"><ul>
+<li><a href="/">Ada County</a></li>
+<li><a href="/about-ada-county/courthouse-parking/">Courthouse Parking</a></li>
+<li><a href="https://www.google.com/maps/place/200+W+Front+St,+Boise,+ID+83702/">200 W Front Street</a></li>
+<li>Boise, ID 83702</li>
+<li>Phone <a href="tel:+12082877080">208 287-7080</a></li>
+</ul>
+</div>
+		</div><!-- .footer-widget -->			</div>
+		</div>
+	</div>
+</div>
+        <p class="text-center small text-white bg-blue-dark m-0 pb-4">&copy; 2024 Ada County. All Rights Reserved.</p>
+                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            (
+                function()
+                {
+                    window.addEventListener(
+                        'load',
+                        function()
+                        {
+                            // Loop page links
+                            for(var i = 0, _link = document.querySelectorAll('.frame'); i < _link.length; i ++)
+                            {
+                                // Skip empty links and Twitter
+                                if(_link[i].href === '' || _link[i].href === '#' || _link[i].href.indexOf('twitter.com') > -1) continue;
+
+                                _link[i].href = '/external/?external_link=' + encodeURIComponent(_link[i].href);
+                            }
+                        }
+                    );
+                }
+            )();
+        </script>
+        <script src="https://assets.juicer.io/embed.js" id="juicer-scripts-js"></script>
+<script src="https://adacounty.id.gov/elections/wp-content/themes/ada-clerk/js/child-theme.min.js?ver=0.8.5" id="child-understrap-scripts-js"></script>
+<script src="https://adacounty.id.gov/elections/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.8" id="wpb_composer_front_js-js"></script>
+<script></script>    </footer>
+</div>
+<script>
+
+(
+    function()
+    {
+        // Left rail sub-nav functionality
+        if(!!document.querySelector('#left-rail-nav .menu-item-has-children'))
+        {
+            for(var _i = 0, _nav = document.querySelectorAll('#left-rail-nav .menu-item-has-children'); _i < _nav.length; _i ++)
+            {
+                _nav[_i].addEventListener(
+                    'click',
+                    function()
+                    {
+                        this.classList.toggle('expanded');
+                    }
+                );
+            }
+
+            // If the current page is buried in the sidebar nav, open it.
+            var currentParent = document.querySelector('#left-rail-nav .current-menu-parent');
+
+            if(!!currentParent) currentParent.click();
+        }
+
+        // Set an exact min-height
+        if(!!document.querySelector('.interior #content'))
+        {
+            // Calculate content height minus header and a slice of the footer
+            var contentHeight = window.innerHeight - document.querySelector('#wrapper-navbar').offsetHeight - 20;
+
+            contentHeight = contentHeight - (!!document.querySelector('#wpadminbar') ? document.querySelector('#wpadminbar').offsetHeight : 0);
+
+            // Add a minimum minimum height
+            contentHeight = contentHeight > 600 ? contentHeight + 'px' : '60vh';
+
+            // Set the content height
+            document.querySelector('.interior #content').style.minHeight = contentHeight;
+        }
+    }
+)();
+
+window.addEventListener("load",function(){
+    var ms_ie = false;
+    var ua = window.navigator.userAgent;
+    console.log(ua);
+    var old_ie = ua.indexOf('MSIE ');
+    var new_ie = ua.indexOf('Trident/');
+        
+    if ((old_ie > -1) || (new_ie > -1)) {
+        ms_ie = true;
+    }
+        
+    if ( ms_ie ) {
+        var arr = document.body.className.split(" ");
+        if (arr.indexOf('ie') == -1) {
+            document.body.className += " ie";
+        }
+    }
+});
+
+</script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8bc1b00c2de410f4',t:'MTcyNTE1NjI0Ni4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

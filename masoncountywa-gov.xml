@@ -1,0 +1,394 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>Mason County Government Error Page</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="robots" content="index,follow">
+<meta name="rating" content="General">
+
+<!-- Font Awesome -->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+  rel="stylesheet"
+/>
+<!-- Google Fonts -->
+<link
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+  rel="stylesheet"
+/>
+<!-- MDB -->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css"
+  rel="stylesheet"
+/>
+
+<!-- Mason County CSS -->
+<link href="/css/mason.css" rel="stylesheet"></head>
+
+<body>
+<!--Main Navigation-->
+
+<div class="container">
+  <div class="skipcontent"> <a href="#skip">Skip Navigation</a> </div>
+</div>
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #005689;" role="navigation">
+  <div class="container">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item"> <a class="nav-link" href="/index.php"> <img src="/images/masonlogo-wh-sm.png" width="127" height="125" alt="Mason County Logo" class="img-fluid"></a></li>
+    </ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a href="https://www.facebook.com/masoncountywa/"><i class="fab fa-facebook fa-2x" style="color:white;"></i></a></li>
+      <li class="px-3">&nbsp;</li>
+      <li class="nav-item"> <a class="text-white" href="/accessibility.php">Accessibility</a> </li>
+      <li class="px-3">&nbsp;</li>
+      <li class="nav-item"> <a class="text-white" href="/text-size.php">Text Size</a> </li>
+      <li class="nav-item"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+      <li class="nav-item">
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script> 
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!--Navbar-->
+<nav class="navbar navbar-expand-lg" style="background-color: #3F729B">
+  <div class="container"> 
+    
+    <!-- Navbar brand --> 
+    <a class="navbar-brand text-white" href="/index.php">Mason County WA Home</a> 
+    
+    <!-- Toggle button -->
+    <button
+      data-mdb-collapse-init
+      class="navbar-toggler"
+      type="button"
+      data-mdb-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"> <i class="fas fa-bars" style="color:white;"></i> </button>
+    
+    <!-- Collapsible wrapper -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+      
+      <!-- Links -->
+      
+      <ul class="navbar-nav me-auto">
+        <!-- Dropdown -->
+        <li class="px-3">&nbsp;</li>
+        <li class="nav-item dropdown"> <a 
+               data-mdb-dropdown-init 
+               class="nav-link dropdown-toggle text-white dh" 
+               id="navbarDropdownMenuLink" 
+               aria-haspopup="true" 
+               aria-expanded="false">Departments</a>
+          <ul class="border border-primary dropdown-menu multi-column columns-2 dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+            <div class="row">
+              <div class="col-sm-6">
+                <ul class="multi-column-dropdown">
+                  Elected Offices
+                  <div class="dropdown-divider"></div>
+                  <li ><a class="dropdown-item" href="/assessor/index.php">Assessor</a> </li>
+                  <li ><a class="dropdown-item" href="/auditor/index.php">Auditor</a> </li>
+                  <li ><a class="dropdown-item" href="/clerk/index.php">Clerk of the Court</a> </li>
+                  <li ><a class="dropdown-item" href="/commissioners/index.php">Commissioners</a> </li>
+                  <li ><a class="dropdown-item" href="/coroner/index.php">Coroner</a> </li>
+                  <li ><a class="dropdown-item" href="/district-court/index.php">District Court</a> </li>
+                  <li ><a class="dropdown-item" href="/prosecutor/index.php">Prosecutor</a> </li>
+                  <li ><a class="dropdown-item" href="/sheriff/index.php">Sheriff</a> </li>
+                  <li ><a class="dropdown-item" href="/superior-court/index.php">Superior Court</a></li>
+                  <li ><a class="dropdown-item" href="/treasurer/index.php">Treasurer</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-6">
+                <ul class="multi-column-dropdown">
+                  Departments
+                  <div class="dropdown-divider"></div>
+                  <li ><a class="dropdown-item"  href="/district-court/probation.php">Adult Probation</a></li>
+                  <li ><a class="dropdown-item" href="/equalization/index.php">Board Of Equalization</a> </li>
+                    <li ><a class="dropdown-item" href="/budget/index.php">Budget</a> </li>
+                  <li ><a class="dropdown-item"  href="/civil-service/index.php">Civil Service</a> </li>
+                  <li ><a class="dropdown-item"  href="/community-services/index.php">Community Development</br>
+                    (Building, Fire Marshal, Planning) </a></li>
+                  <li ><a class="dropdown-item"  href="/county-administrator/index.php">County Administrator</a></li>
+                  <li ><a class="dropdown-item"  href="/dem/index.php">Emergency Management</a> </li>
+                  <li ><a class="dropdown-item"  href="/facilities/index.php">Facilities and Grounds</a> </li>
+                  <li ><a class="dropdown-item"  href="/gis/index.php">GIS / Mapping</a> </li>
+                  <li ><a class="dropdown-item"  href="/hearings-examiner/index.php">Hearing Examiner</a> </li>
+                  <li ><a class="dropdown-item"  href="/human-resources/index.php">Human Resources</a></li>
+                  <li ><a class="dropdown-item"  href="/information-technology/index.php">Information Technology</a></li>
+                  <li ><a class="dropdown-item"  href="/probation/index.php">Juvenile Probation</a></li>
+                  <li ><a class="dropdown-item"  href="/leoff/index.php">LEOFF Board</a></li>
+                  <li ><a class="dropdown-item"  href="/parks/index.php">Parks and Trails</a></li>
+                  <li ><a class="dropdown-item"  href="/public-defender/index.php">Public Defense</a></li>
+                  <li ><a class="dropdown-item"  href="/health/index.php">Public Health and Human Services</a></li>
+                  <li ><a class="dropdown-item"  href="/public-works/index.php">Public Works / Roads</a> </li>
+                  <li ><a class="dropdown-item"  href="/risk-management/index.php">Risk Management</a> </li>
+                  <li ><a class="dropdown-item"  href="/therapeutic-courts/index.php">Therapeutic Courts</a></li>
+                  <li ><a class="dropdown-item"  href="/utilities-waste/index.php">Utilities / Waste Management</a></li>
+                  <li ><a class="dropdown-item"  href="https://extension.wsu.edu/mason/">WSU Extension</a> </li>
+                </ul>
+              </div>
+            </div>
+          </ul>
+        </li>
+        <li class="px-3">&nbsp;</li>
+        <!-- Dropdown -->
+        <li class="nav-item dropdown"> <a  data-mdb-dropdown-init class="nav-link dropdown-toggle text-white dh" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Advisory Boards</a>
+          <ul class="border border-primary dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="/ac/index.php">Advisory Boards Home</a> </li>
+            <div class="dropdown-divider"></div>
+            <li><a class="dropdown-item" href="/ac/aging-agency/index.php">Area Agency on Aging</a> </li>
+            <li><a class="dropdown-item" href="/ac/cwd/index.php">Clean Water District</a></li>
+            <li><a class="dropdown-item" href="/ac/criminal-justice/index.php">Criminal Justice</a> </li>
+            <li><a class="dropdown-item" href="/historic/index.php">Historic Preservation</a> </li>
+            <li><a class="dropdown-item" href="/ac/hbh/index.php">Housing & Behavioral Health Board</a> </li>
+            <li><a class="dropdown-item" href="/ac/housing-authority/index.php">Housing Authority</a> </li>
+            <li><a class="dropdown-item" href="/ac/ltac/index.php">Lodging Tax Advisory Committee</a> </li>
+            <li><a class="dropdown-item" href="/ac/noxious-weed/index.php">Noxious Weed Control Board</a> </li>
+            <li><a class="dropdown-item" href="/ac/onsite/index.php">Onsite Sewage </a> </li>
+            <li><a class="dropdown-item" href="/ac/parks/index.php">Parks and Trails </a> </li>
+            <li><a class="dropdown-item" href="/ac/planning-commission/index.php">Planning Advisory Commission</a> </li>
+            <li><a class="dropdown-item" href="/ac/salaries/index.php">Salary Commission</a> </li>
+            <li><a class="dropdown-item" href="/ac/spencer-lmd/index.php">Spencer Lake Management District #3</a> </li>
+            <li><a class="dropdown-item" href="/ac/solid-waste/index.php">Solid Waste Advisory Committee (SWAC)</a> </li>
+            <li><a class="dropdown-item" href="https://www.tmbhaso.org/">Thurston/Mason County TMBHO site</a> </li>
+            <li><a class="dropdown-item" href="https://trl.org/board/">Timberland Regional Library</a></li>
+            <li><a class="dropdown-item" href="/ac/tip-cap/index.php">TIP-CAP</a> </li>
+            <li><a class="dropdown-item" href="/ac/veterans/index.php">Veterans' Services</a> </li>
+            <li><a class="dropdown-item" href="/ac/workforce-development/index.php">Workforce Development Council</a> </li>
+          </ul>
+        </li>
+        <li class="px-3">&nbsp;</li>
+        
+        <!-- Dropdown -->
+        <li class="nav-item dropdown"> <a  data-mdb-dropdown-init  class="nav-link dropdown-toggle text-white dh" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Quick Links</a>
+          <ul class="border border-primary dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li> <a class="dropdown-item" href="/campus.php">Campus Map</a></li>
+            <li> <a class="dropdown-item" href="/code/index.php">Codes and Regulations</a></li>
+            <li> <a class="dropdown-item" href="/community-links.php">Community Links</a></li>
+            <li><a class="dropdown-item" href="/contacts/index.php">Contacts / Directory</a> </li>
+            <li> <a class="dropdown-item" href="/questions.php">Email Us</a></li>
+            <li> <a class="dropdown-item" href="https://public.coderedweb.com/CNE/en-US/BFE39578CE91">Emergency Alerts</a> </li>
+            <li> <a class="dropdown-item" href="/human-resources/jobs/index.php">Employment</a> </li>
+            <li><a class="dropdown-item" href="/forms/index.php">Forms / Brochures</a></li>
+            <li> <a class="dropdown-item" href="/forms/human-resources/lactation-rooms.pdf">Lactation Information</a> </li>
+            <li><a class="dropdown-item" href="https://www.paydici.com/mason-co-treasurer-wa/search/landing">Pay Property Taxes Online</a> </li>
+            <li><a class="dropdown-item" href="https://client.pointandpay.net/web/MasonCountyUtilitiesWA">Pay My Utility Bill</a> </li>
+            <li><a class="dropdown-item" href="https://www.pud3.org/weathercams">Road Condition Cameras</a>
+          </ul>
+        </li>
+      </ul>
+      <!-- Links -->
+      <ul class="navbar-nav me-auto dh">
+        <li class="px-3">&nbsp;</li>
+        <li class="nav-item"> <a class="text-white" href="https://www.ExploreHoodCanal.com">Tourism</a> </li>
+        <li class="px-3">&nbsp;</li>
+      </ul>
+      <!-- Search form -->
+      <div role="search" class="ps-2">
+        <form class="d-flex input-group w-auto" action="/search/index.php" id="cse-search-box">
+          <input class="form-control" type="search" placeholder="Search" aria-label="Search" name="q">
+          <button class="btn header-button btn-sm text-white dh" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+    <!-- Collapsible content --> 
+  </div>
+</nav>
+
+<!--Main Navigation-->
+
+<div class="container lr-shadow content p-0">
+<img src="/images/jt-mason-county.jpg" class="img-fluid" alt="Mason County Page Banner">
+</div>
+<div id="skip"></div><div class="container lr-shadow content">
+  <div class="row">
+    <div class="col-sm-4 primary-aside pb-o" role="complementary">
+  <div class="left-nav">
+    <nav class="navbar navbar-expand-sm navbar-dark">
+      <div class="container"> 
+        <!-- Toggle button -->
+        <button 
+              data-mdb-collapse-init
+              class="navbar-toggler" 
+              type="button" 
+              data-mdb-target="#navbarText" 
+              aria-controls="navbarText" 
+              aria-expanded="false" 
+              aria-label="Toggle navigation"> <i class="fas fa-bars" style="color:white;"></i> </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="nav mr-auto flex-column" >
+            <h5 class="left-nav-heading">Hot Topics</h5>
+            <br>
+			<li class="nav-item"><a class="nav-link" href="/budget/2024-budget-information.php">2024 Budget Information</a></li>
+            <li class="nav-item"><a class="nav-link" href="/arpa/index.php">ARPA Funds</a></li>
+            <li class="nav-item"><a class="nav-link" href="/forms/public-works/Belfair-UGA-2018-Basin-Plan.pdf">Belfair UGA Basin Plan</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dms.masoncountywa.gov/WebLink/Browse.aspx?id=1">Browse our online Documents</a></li>
+            <li class="nav-item"><a class="nav-link" href="/cdbg/index.php">Community Development Block Grant</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dms.masoncountywa.gov/WebLink/Browse.aspx?dbid=0&id=366497">Contracts and Interlocal Agreements</a></li>
+            <li class="nav-item"><a class="nav-link" href="/finance/index.php">Finance Committee</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dms.masoncountywa.gov/WebLink/Browse.aspx?id=356555&dbid=0&repo=Mason">News Releases</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dms.masoncountywa.gov/WebLink/Browse.aspx?id=356724">Proclamations </a></li>
+            <li class="nav-item"><a class="nav-link" href="/public-records/index.php">Public Records</a></li>
+            <li class="nav-item"><a class="nav-link" href="/resolutions/index.php">Resolutions</a></li>
+            <li class="nav-item"><a class="nav-link" href="/rfp/index.php">Request for Proposal / Qualifications</a></li>
+            <li class="nav-item"><a class="nav-link" href="/public-works/road-closures.php">Road Closures / Restrictions / Traffic Impacts</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/public-works/surplus-property.php">Surplus Real Estate Sale</a></li>
+            <p>&nbsp;</p>
+            <h5 class="left-nav-heading">Online Services</h5>
+            <li class="nav-item"><a class="nav-link"  href="https://public.coderedweb.com/CNE/en-US/BFE39578CE91">Emergency Alert Notification Signup </a> </li>
+            <li class="nav-item"><a class="nav-link" href="/astr/land_records.php">Land Records</a></li>
+            <li class="nav-item"><a class="nav-link" href="/gis/index.php">Parcel Map Viewer</a> </li>
+            <li class="nav-item"><a class="nav-link" href="https://www.paydici.com/mason-co-treasurer-wa/search/landing">Pay Property Taxes Online</a> </li>
+            <li class="nav-item"><a class="nav-link" href="https://property.masoncountywa.gov/taxsifter">Property / Parcel Information </a> </li>
+            <li class="nav-item"><a class="nav-link" href="https://co-mason-wa.smartgovcommunity.com/Public/Home">Permit Status / Apply Online</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/community-services/bld-inspection.php">Request a Building Inspection</a></li>
+            <p>&nbsp;</p>
+            <h5 class="left-nav-heading"> Departments </h5>
+            <li class="nav-item"><a class="nav-link" href="/assessor/index.php">Assessor</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/auditor/index.php">Auditor</a> </li>
+               <ul><li class="nav-item"><a class="nav-link" href="/auditor/elections/index.php">Auditor Elections</a> </li></ul>
+            <li class="nav-item"><a class="nav-link" href="/equalization/index.php">Board of Equalization</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/budget/index.php">Budget</a> </li>
+              <li class="nav-item"><a class="nav-link" href="/civil-service/index.php">Civil Service</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/clerk/index.php">Clerk of Court</a> </li>
+            <li class="nav-item"><a class="nav-link"  href="/community-services/index.php">Community Development</br>
+              (Building, Fire Marshal, Planning) </a></li>
+            <li class="nav-item"><a class="nav-link" href="/coroner/index.php">Coroner</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/county-administrator/index.php">County Administrator</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/commissioners/index.php">County Commissioner</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/district-court/index.php">District Court</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/dem/index.php">Emergency Management</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/facilities/index.php">Facilities and Grounds</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/gis/index.php">GIS / Mapping </a> </li>
+            <li class="nav-item"><a class="nav-link" href="/hearings-examiner/index.php">Hearing Examiner</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/historic/index.php">Historic Preservation</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/human-resources/index.php">Human Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="/information-technology/index.php">Information Technology</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/jury/index.php">Jury Services</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/leoff/index.php">LEOFF Board </a> </li>
+                        <li class="nav-item"><a class="nav-link" href="/parks/index.php">Parks &amp; Trails</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/probation/index.php">Probation</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/prosecutor/index.php">Prosecutor</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/public-defender/index.php">Public Defense </a> </li>
+            <li class="nav-item"><a class="nav-link"  href="/health/index.php">Public Health and Human Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="/public-works/index.php">Public Works</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/risk-management/index.php">Risk Management</a></li>
+            <li class="nav-item"><a class="nav-link" href="/sheriff/index.php">Sheriff</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/superior-court/index.php">Superior Court</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/therapeutic-courts/index.php">Therapeutic Courts</a> </li>
+            <li class="nav-item"><a class="nav-link" href="https://www.explorehoodcanal.com">Tourism</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/treasurer/index.php">Treasurer</a> </li>
+            <li class="nav-item"><a class="nav-link" href="/utilities-waste/index.php">Utilities/Waste Management </a> </li>
+            <li class="nav-item"><a class="nav-link" href="https://extension.wsu.edu/mason/">WSU Extension</a> </li>
+            <p>&nbsp;</p>
+                    <div id="tourbookwrap" style='height: 400px;'></div><script async src="//www.elocallink.tv/mlink/mlink2/php/mlink2.php?id=w9wyw4"></script>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+    <div class="col-sm-8 content">
+      <main role="main">
+        <div class="page-header">
+          <h3>Error Page - Missing page or invalid link </h3>
+        </div>
+<p>We have recently redesigned many portions of our website and added new content.</p>
+          <p>Due to the redesign, some page may have been moved or renamed.</p>
+          <p>To find the page you are looking for, please visit our home page and follow the links to the page you are looking for.</p>
+          <p>Also, please update any bookmarks or favorites that you may have saved. </p>
+		
+<script type="text/javascript">
+  (function() {
+    var cx = '015433871165165852124:u73hixrzeqy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+  
+</script>
+<gcse:searchbox-only resultsUrl="http://www.masoncountywa.gov/search/index.php">
+
+</gcse:searchbox-only>
+    
+
+      </main>
+    </div>
+  </div>
+</div>
+<!--Footer-->
+<div role="contentinfo">
+<footer class="bg-black text-white mt-0"> 
+  <div class="container" >
+    <div class="row"> 
+      
+      <!--First column-->
+      <div class="col-md-6">
+          <p>&nbsp;</p>
+        <h5 class="title">Mason County, WA</h5>
+        <p>411 N 5th St</br>
+          Shelton WA 98584</p>
+        <p>(360) 427-9670</p>
+      </div>
+      <!--/.First column--> 
+      
+      <!--Second column-->
+      <div class="col-md-6">
+          <p>&nbsp;</p>
+        <h5 class="title">Links</h5>
+        <ul class="mb-0">
+          <li><a class="text-white" href="/contacts/index.php">Departments / Elected Officials</a></li>
+          <li><a class="text-white" href="/questions.php">Email Us</a></li>
+          <li><a class="text-white" href="/disclaimer.php">Disclaimer</a></li>
+        </ul>
+      </div>
+      <!--/.Second column--> 
+    </div>
+</footer>
+</div></div>
+<!-- SCRIPTS --> 
+
+<!-- MDB -->
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.umd.min.js"
+></script>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-81P1QX4XM5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-81P1QX4XM5');
+</script>
+
+<script>
+  (function() {
+    var cx = '015433871165165852124:u73hixrzeqy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script><!--Footer-->
+</body>
+</html>

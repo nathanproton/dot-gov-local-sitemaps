@@ -1,0 +1,1861 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--Metadata Area Starts-->
+	<!-- Metadata Area Starts -->
+	<title>Welcome to Pickens County, SC</title>
+	<meta property="og:title" content="Welcome to Pickens County, SC" />
+	<meta property="og:image" content="https://www.co.pickens.sc.us///pickenscountysc/_assets_/images/logo.png" />
+	<meta name="robots" content="index, follow">
+
+	<meta name="robots" content="index, follow">
+<!--Metadata Area Ends-->    
+
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+
+    <link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="_assets_/plugins/tiny-slider-master/dist/tiny-slider.css">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+</head>
+<body id="homepage">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = ''
+RZ.baseurlpath = ''
+RZ.protocolRelativeRevizeBaseUrl='//cms5.revize.com'
+
+RZ.pagetemplatename = 'index'
+RZ.pagetemplateid = '43'
+RZ.pagemodule = ''
+RZ.pagemoduleid = ''
+RZ.pagerecordid = '';
+
+RZ.pageid = 'index';
+RZ.pageparentid = '';
+RZ.pagesectionid = '0';
+RZ.pagesectionname = 'Home Page';
+RZ.pagesectionlevel = '0';
+RZ.pagesectionfolder = '';
+RZ.pagesectionfilter = 'sectionid=0';
+RZ.pagelinkfilter = 'linklevel=0 and linksectionid=0';
+RZ.pagelinklevel = '0';
+RZ.pagelinkid = '-1';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = '32bef324d2ba767a2a36752a01767071cf05f14a5188ae0587e22ebe2e895107|9972a47940c4c4f55ba059aaadd0ca6de7798dd6fcf0cf607ab934c9619e1a80|c4505eaa5b5bd644b7ecc4623fd2e64fcf613ac11a67ae29c1d0eaa824997a31'
+RZ.page_key = 'index[]'
+RZ.parent_key = ''
+RZ.inherit_key = 'index[]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'pickenscountysc'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms5.revize.com/revize/pickenscountysc';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-2429304-5";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,Production';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+
+
+<!--Top Area Starts-->
+<header>
+
+	<a href="#main" id="skip" tabindex="0" class="btn">Skip to main content</a>
+<!--Toggle Area Starts-->
+	
+
+
+
+<div id="toggles" class="hidden-lg hidden-md">
+    <div id="search-toggle" class="fa fa-search"></div>
+    <div id="nav-toggle" class="fa fa-bars"></div>
+</div><!--/#toggles.hidden-lg.hidden-md-->
+  
+<!--Toggle Area Ends-->
+    
+	<div class="container">
+		<div class="row">
+<!--Logo Area Starts-->            
+            
+
+
+
+<a href="./" id="logo"><img src="_assets_/images/logo.png" alt="navigation logo"></a>
+  
+<!--Logo Area Ends-->
+            			
+<!--Top Nav Area Starts-->            
+            <nav class="col-md-12">
+				<!-- start plugin: menus.topnav-include -->
+
+                
+
+
+
+
+
+ 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-53"><a class="menuA level0 menuDisplay" href="index.php" target="_self">Home</a></li>
+	<li class="menuLI level0 menuDisplay li-61 children"><a class="menuA level0 menuDisplay" href="about_us/index.php" target="_self">About Us</a>
+		<ul class="menuUL level1 menuHidden ul-66">
+			<li class="menuLI level1 menuHidden li-66"><a class="menuA level1 menuHidden" href="about_us/general_statistics/index.php" target="_self">General Statistics</a></li>
+			<li class="menuLI level1 menuHidden li-67"><a class="menuA level1 menuHidden" href="about_us/maps/index.php" target="_self">Maps</a></li>
+			<li class="menuLI level1 menuHidden li-68"><a class="menuA level1 menuHidden" href="newslist.php" target="_self">News Releases</a></li>
+			<li class="menuLI level1 menuHidden li-69"><a class="menuA level1 menuHidden" href="about_us/our_history.php" target="_self">Our History</a></li>
+			<li class="menuLI level1 menuHidden li-70"><a class="menuA level1 menuHidden" href="about_us/photo_gallery.php" target="_self">Photo Gallery</a></li>
+			<li class="menuLI level1 menuHidden li-71"><a class="menuA level1 menuHidden" href="about_us/privacy_policy.php" target="_self">Privacy Policy</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-62 children"><a class="menuA level0 menuDisplay" href="government/index.php" target="_self">Government</a>
+		<ul class="menuUL level1 menuHidden ul-87">
+			<li class="menuLI level1 menuHidden li-87"><a class="menuA level1 menuHidden" href="government/county_administrator/index.php" target="_self">County Administrator</a></li>
+			<li class="menuLI level1 menuHidden li-88"><a class="menuA level1 menuHidden" href="government/county_council/index.php" target="_self">County Council</a></li>
+			<li class="menuLI level1 menuHidden li-89"><a class="menuA level1 menuHidden" href="government/county_directory.php" target="_self">County Directory</a></li>
+			<li class="menuLI level1 menuHidden li-90"><a class="menuA level1 menuHidden" href="government/pickens_county_municipalities.php" target="_self">Pickens County Municipalities</a></li>
+			<li class="menuLI level1 menuHidden li-1479"><a class="menuA level1 menuHidden" href="government/pickens_county_delegation.php" target="_self">Pickens County Delegation</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-63 children"><a class="menuA level0 menuDisplay" href="departments/index.php" target="_self">Departments</a>
+		<ul class="menuUL level1 menuHidden ul-97">
+			<li class="menuLI level1 menuHidden li-97"><a class="menuA level1 menuHidden" href="departments/airport/index.php" target="_self">Airport</a></li>
+			<li class="menuLI level1 menuHidden li-98"><a class="menuA level1 menuHidden" href="https://www.alliancepickens.com/" target="_new">Alliance Pickens</a></li>
+			<li class="menuLI level1 menuHidden li-99"><a class="menuA level1 menuHidden" href="http://pickenssheriff.com/" target="_new">Animal Enforcement</a></li>
+			<li class="menuLI level1 menuHidden li-2118"><a class="menuA level1 menuHidden" href="departments/animal_shelter/index.php" target="_self">Animal Shelter</a></li>
+			<li class="menuLI level1 menuHidden li-100"><a class="menuA level1 menuHidden" href="https://pickensassessor.org/" target="_new">Assessor</a></li>
+			<li class="menuLI level1 menuHidden li-101"><a class="menuA level1 menuHidden" href="departments/auditor/index.php" target="_self">Auditor</a></li>
+			<li class="menuLI level1 menuHidden li-102"><a class="menuA level1 menuHidden" href="departments/building_codes/index.php" target="_self">Building Codes</a></li>
+			<li class="menuLI level1 menuHidden li-104"><a class="menuA level1 menuHidden" href="departments/building_maintenance/index.php" target="_self">Building Maintenance</a></li>
+			<li class="menuLI level1 menuHidden li-105"><a class="menuA level1 menuHidden" href="departments/clerk_of_court/index.php" target="_self">Clerk of Court</a></li>
+			<li class="menuLI level1 menuHidden li-106"><a class="menuA level1 menuHidden" href="departments/coroner/index.php" target="_self">Coroner</a></li>
+			<li class="menuLI level1 menuHidden li-107"><a class="menuA level1 menuHidden" href="departments/delinquent_tax/index.php" target="_self">Delinquent Tax</a></li>
+			<li class="menuLI level1 menuHidden li-2558"><a class="menuA level1 menuHidden" href="https://www.co.pickens.sc.us/departments/emergency_services/e911_addressing.php" target="_new">E-911 Addressing</a></li>
+			<li class="menuLI level1 menuHidden li-2125"><a class="menuA level1 menuHidden" href="departments/engineering/index.php" target="_self">Engineering</a></li>
+			<li class="menuLI level1 menuHidden li-1961"><a class="menuA level1 menuHidden" href="departments/environmental_enforcement/index.php" target="_self">Environmental Enforcement</a></li>
+			<li class="menuLI level1 menuHidden li-108"><a class="menuA level1 menuHidden" href="departments/emergency_services/index.php" target="_self">Emergency Services</a></li>
+			<li class="menuLI level1 menuHidden li-109"><a class="menuA level1 menuHidden" href="departments/finance/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-110"><a class="menuA level1 menuHidden" href="departments/gis/index.php" target="_self">GIS</a></li>
+			<li class="menuLI level1 menuHidden li-111"><a class="menuA level1 menuHidden" href="departments/human_resources/index.php" target="_self">Human Resources</a></li>
+			<li class="menuLI level1 menuHidden li-112"><a class="menuA level1 menuHidden" href="departments/information_technology/index.php" target="_self">Information Technology</a></li>
+			<li class="menuLI level1 menuHidden li-113"><a class="menuA level1 menuHidden" href="departments/magistrate_court/index.php" target="_self">Magistrate Court</a></li>
+			<li class="menuLI level1 menuHidden li-2653"><a class="menuA level1 menuHidden" href="departments/master_in_equity/index.php" target="_self">Master In Equity</a></li>
+			<li class="menuLI level1 menuHidden li-114"><a class="menuA level1 menuHidden" href="departments/building_codes/index.php" target="_self">Mobile Home</a></li>
+			<li class="menuLI level1 menuHidden li-1063"><a class="menuA level1 menuHidden" href="http://www.greenvillecounty.org/solicitor/" target="_new">Office of Solicitor</a></li>
+			<li class="menuLI level1 menuHidden li-116"><a class="menuA level1 menuHidden" href="departments/parks,_recreation,___tourism/index.php" target="_self">Parks, Recreation, & Tourism</a></li>
+			<li class="menuLI level1 menuHidden li-117"><a class="menuA level1 menuHidden" href="departments/planning/index.php" target="_self">Planning</a></li>
+			<li class="menuLI level1 menuHidden li-119"><a class="menuA level1 menuHidden" href="departments/probate_court/index.php" target="_self">Probate Court</a></li>
+			<li class="menuLI level1 menuHidden li-2129"><a class="menuA level1 menuHidden" href="departments/public_service_commission/index.php" target="_self">Public Service Commission</a></li>
+			<li class="menuLI level1 menuHidden li-121"><a class="menuA level1 menuHidden" href="departments/purchasing/index.php" target="_self">Purchasing</a></li>
+			<li class="menuLI level1 menuHidden li-122"><a class="menuA level1 menuHidden" href="departments/register_of_deeds/index.php" target="_self">Register of Deeds</a></li>
+			<li class="menuLI level1 menuHidden li-124"><a class="menuA level1 menuHidden" href="https://pickenselections.org/" target="_new">Registration & Election</a></li>
+			<li class="menuLI level1 menuHidden li-2005"><a class="menuA level1 menuHidden" href="departments/roads___bridges/index.php" target="_self">Roads & Bridges</a></li>
+			<li class="menuLI level1 menuHidden li-2135"><a class="menuA level1 menuHidden" href="departments/solid_waste/index.php" target="_self">Solid Waste</a></li>
+			<li class="menuLI level1 menuHidden li-125"><a class="menuA level1 menuHidden" href="http://pickenssheriff.com/" target="_new">Sheriff Office</a></li>
+			<li class="menuLI level1 menuHidden li-126"><a class="menuA level1 menuHidden" href="departments/stormwater_management/index.php" target="_self">Stormwater Management</a></li>
+			<li class="menuLI level1 menuHidden li-127"><a class="menuA level1 menuHidden" href="departments/treasurer/index.php" target="_self">Treasurer</a></li>
+			<li class="menuLI level1 menuHidden li-128"><a class="menuA level1 menuHidden" href="departments/vehicle_maintenance/index.php" target="_self">Vehicle Maintenance</a></li>
+			<li class="menuLI level1 menuHidden li-129"><a class="menuA level1 menuHidden" href="departments/veterans_affairs/index.php" target="_self">Veterans Affairs</a></li>
+			<li class="menuLI level1 menuHidden li-130"><a class="menuA level1 menuHidden" href="http://www.pickenssheriff.com/index.php?pid=6" target="_new">Victim's Rights</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-64 children"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a>
+		<ul class="menuUL level1 menuHidden ul-91">
+			<li class="menuLI level1 menuHidden li-91"><a class="menuA level1 menuHidden" href="https://pickenscountylibrarysystem.com/" target="_new">Pickens County Library</a></li>
+			<li class="menuLI level1 menuHidden li-92"><a class="menuA level1 menuHidden" href="http://www.pickens.k12.sc.us/" target="_new">Pickens County Schools</a></li>
+			<li class="menuLI level1 menuHidden li-94"><a class="menuA level1 menuHidden" href="residents/outdoor_burning/index.php" target="_self">Outdoor Burning</a></li>
+			<li class="menuLI level1 menuHidden li-354"><a class="menuA level1 menuHidden" href="departments/solid_waste/recycling.php" target="_self">Recycling</a></li>
+			<li class="menuLI level1 menuHidden li-352"><a class="menuA level1 menuHidden" href="departments/veterans_affairs/index.php" target="_self">Veterans Affairs</a></li>
+			<li class="menuLI level1 menuHidden li-2236"><a class="menuA level1 menuHidden" href="departments/parks,_recreation,___tourism/locals/get_involved/pickens_proud/index.php" target="_self">Pickens Proud</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-65 children"><a class="menuA level0 menuDisplay" href="i_want_to/index.php" target="_self">I Want To</a>
+		<ul class="menuUL level1 menuHidden ul-80">
+			<li class="menuLI level1 menuHidden li-80"><a class="menuA level1 menuHidden" href="i_want_to/apply_for/index.php" target="_self">Apply For</a></li>
+			<li class="menuLI level1 menuHidden li-992"><a class="menuA level1 menuHidden" href="government/county_directory.php" target="_self">Contact Us</a></li>
+			<li class="menuLI level1 menuHidden li-82"><a class="menuA level1 menuHidden" href="i_want_to/pay/index.php" target="_self">Pay</a></li>
+			<li class="menuLI level1 menuHidden li-83"><a class="menuA level1 menuHidden" href="i_want_to/services/index.php" target="_self">Services</a></li>
+		</ul>
+	</li>
+</ul>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DMTFDGLT9L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DMTFDGLT9L');
+</script>
+
+
+
+
+
+                
+                
+                
+                <div class="float_button_above">
+                <script language="JavaScript" type="text/JavaScript">
+                RZ.module = 'revize_topnav';
+                RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=index&"
+                       + "linksfilter=linkplacement=topnav and linkparentid=0&"
+                       + "numberoflevels=3&"
+                       + "linkoptions=url,template,file&"
+                       + "linknewsection=*all*";
+                RZ.img = '<span class="rzBtn rzSmall">Edit Top Navigation</span>';
+                RZ.caption = '';
+                RZ.set="links.linkplacement=topnav";
+                RZ.options = '';
+                if (typeof RZaction != 'undefined') RZaction('editlist');
+                </script>
+                </div>
+                
+                <!-- end plugin: menus.topnav-include -->
+            </nav><!--/.col-md-6-->
+<!--Top Nav Area Ends-->                                            
+            
+<!--Translate and Search Area Starts-->                                				
+            
+
+
+
+<div id="controls">
+<!--Translate Area Starts-->                                				
+    <div id="google-translate" class="hidden">
+        <script>
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pagelanguage: 'en',
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE},
+                    'google-translate');
+            }
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div><!--/#google-translate.control.hidden-sm.hidden-xs-->
+    <ul id="translation-links">
+        <li><button type="button" id="translate-button" aria-label="translate website" aria-haspopup="true" aria-expanded="false">EN <i class="fa fa-angle-down"></i></button>
+            <ul class="clearfix" aria-labelledby="translate-button">
+                <li><a href="#" class="Afrikaans" data-lang="Afrikaans">Afrikaans</a></li>
+                <li><a href="#" class="Albanian" data-lang="Albanian">Albanian</a></li>
+                <li><a href="#" class="Arabic" data-lang="Arabic">Arabic</a></li>
+                <li><a href="#" class="Armenian" data-lang="Armenian">Armenian</a></li>
+                <li><a href="#" class="Azerbaijani" data-lang="Azerbaijani">Azerbaijani</a></li>
+                <li><a href="#" class="Basque" data-lang="Basque">Basque</a></li>
+                <li><a href="#" class="Belarusian" data-lang="Belarusian">Belarusian</a></li>
+                <li><a href="#" class="Bengali" data-lang="Bengali">Bengali</a></li>
+                <li><a href="#" class="Bosnian" data-lang="Bosnian">Bosnian</a></li>
+                <li><a href="#" class="Bulgarian" data-lang="Bulgarian">Bulgarian</a></li>
+                <li><a href="#" class="Catalan" data-lang="Catalan">Catalan</a></li>
+                <li><a href="#" class="Cebuano" data-lang="Cebuano">Cebuano</a></li>
+                <li><a href="#" class="Chinese" data-lang="Chinese (Simplified)">Chinese (Simplified)</a></li>
+                <li><a href="#" class="Chinese" data-lang="Chinese (Traditional)">Chinese (Traditional)</a></li>
+                <li><a href="#" class="Croatian" data-lang="Croatian">Croatian</a></li>
+                <li><a href="#" class="Czech" data-lang="Czech">Czech</a></li>
+                <li><a href="#" class="Danish" data-lang="Danish">Danish</a></li>
+                <li><a href="#" class="Dutch" data-lang="Dutch">Dutch</a></li>
+                <li><a href="#" class="English" data-lang="English">English</a></li>
+                <li><a href="#" class="Esperanto" data-lang="Esperanto">Esperanto</a></li>
+                <li><a href="#" class="Estonian" data-lang="Estonian">Estonian</a></li>
+                <li><a href="#" class="Filipino" data-lang="Filipino">Filipino</a></li>
+                <li><a href="#" class="Finnish" data-lang="Finnish">Finnish</a></li>
+                <li><a href="#" class="French" data-lang="French">French</a></li>
+                <li><a href="#" class="Galician" data-lang="Galician">Galician</a></li>
+                <li><a href="#" class="Georgian" data-lang="Georgian">Georgian</a></li>
+                <li><a href="#" class="German" data-lang="German">German</a></li>
+                <li><a href="#" class="Greek" data-lang="Greek">Greek</a></li>
+                <li><a href="#" class="Gujarati" data-lang="Gujarati">Gujarati</a></li>
+                <li><a href="#" class="Haitian Creole" data-lang="Haitian Creole">Haitian Creole</a></li>
+                <li><a href="#" class="Hausa" data-lang="Hausa">Hausa</a></li>
+                <li><a href="#" class="Hebrew" data-lang="Hebrew">Hebrew</a></li>
+                <li><a href="#" class="Hindi" data-lang="">Hindi</a></li>
+                <li><a href="#" class="Hmong" data-lang="Hmong">Hmong</a></li>
+                <li><a href="#" class="Hungarian" data-lang="Hungarian">Hungarian</a></li>
+                <li><a href="#" class="Icelandic" data-lang="Icelandic">Icelandic</a></li>
+                <li><a href="#" class="Igbo" data-lang="Igbo">Igbo</a></li>
+                <li><a href="#" class="Indonesian" data-lang="Indonesian">Indonesian</a></li>
+                <li><a href="#" class="Irish" data-lang="Irish">Irish</a></li>
+                <li><a href="#" class="Italian" data-lang="Italian">Italian</a></li>
+                <li><a href="#" class="Japanese" data-lang="Japanese">Japanese</a></li>
+                <li><a href="#" class="Javanese" data-lang="Javanese">Javanese</a></li>
+                <li><a href="#" class="Kannada" data-lang="Kannada">Kannada</a></li>
+                <li><a href="#" class="Khmer" data-lang="Khmer">Khmer</a></li>
+                <li><a href="#" class="Korean" data-lang="Korean">Korean</a></li>
+                <li><a href="#" class="Lao" data-lang="Lao">Lao</a></li>
+                <li><a href="#" class="Latin" data-lang="Latin">Latin</a></li>
+                <li><a href="#" class="Latvian" data-lang="Latvian">Latvian</a></li>
+                <li><a href="#" class="Lithuanian" data-lang="Lithuanian">Lithuanian</a></li>
+                <li><a href="#" class="Macedonian" data-lang="Macedonian">Macedonian</a></li>
+                <li><a href="#" class="Malay" data-lang="Malay">Malay</a></li>
+                <li><a href="#" class="Maltese" data-lang="Maltese">Maltese</a></li>
+                <li><a href="#" class="Maori" data-lang="Maori">Maori</a></li>
+                <li><a href="#" class="Marathi" data-lang="Marathi">Marathi</a></li>
+                <li><a href="#" class="Mongolian" data-lang="Mongolian">Mongolian</a></li>
+                <li><a href="#" class="Nepali" data-lang="Nepali">Nepali</a></li>
+                <li><a href="#" class="Norwegian" data-lang="Norwegian">Norwegian</a></li>
+                <li><a href="#" class="Persian" data-lang="Persian">Persian</a></li>
+                <li><a href="#" class="Polish" data-lang="Polish">Polish</a></li>
+                <li><a href="#" class="Portuguese" data-lang="Portuguese">Portuguese</a></li>
+                <li><a href="#" class="Punjabi" data-lang="Punjabi">Punjabi</a></li>
+                <li><a href="#" class="Romanian" data-lang="Romanian">Romanian</a></li>
+                <li><a href="#" class="Russian" data-lang="Russian">Russian</a></li>
+                <li><a href="#" class="Serbian" data-lang="Serbian">Serbian</a></li>
+                <li><a href="#" class="Slovak" data-lang="Slovak">Slovak</a></li>
+                <li><a href="#" class="Slovenian" data-lang="Slovenian">Slovenian</a></li>
+                <li><a href="#" class="Somali" data-lang="Somali">Somali</a></li>
+                <li><a href="#" class="Spanish" data-lang="Spanish">Spanish</a></li>
+                <li><a href="#" class="Swahili" data-lang="Swahili">Swahili</a></li>
+                <li><a href="#" class="Swedish" data-lang="Swedish">Swedish</a></li>
+                <li><a href="#" class="Tamil" data-lang="Tamil">Tamil</a></li>
+                <li><a href="#" class="Telugu" data-lang="Telugu">Telugu</a></li>
+                <li><a href="#" class="Thai" data-lang="Thai">Thai</a></li>
+                <li><a href="#" class="Turkish" data-lang="Turkish">Turkish</a></li>
+                <li><a href="#" class="Ukrainian" data-lang="Ukrainian">Ukrainian</a></li>
+                <li><a href="#" class="Urdu" data-lang="Urdu">Urdu</a></li>
+                <li><a href="#" class="Vietnamese" data-lang="Vietnamese">Vietnamese</a></li>
+                <li><a href="#" class="Welsh" data-lang="Welsh">Welsh</a></li>
+                <li><a href="#" class="Yiddish" data-lang="Yiddish">Yiddish</a></li>
+                <li><a href="#" class="Yoruba" data-lang="Yoruba">Yoruba</a></li>
+                <li><a href="#" class="Zulu" data-lang="Zulu">Zulu</a></li>
+            </ul>
+        </li>
+    </ul><!--/#translation-links-->
+<!--Translate Area Ends-->                                
+
+<!--Search Area Starts-->                
+    <div id="search">
+        <form class="search-form" method="GET" action="search.php" role="search" aria-label="sitewide">
+            <label for="search-input"><img src="_assets_/images/search-icon.png" alt="search-icon" title="search-icon"><span class="sr-only">Search</span></label>
+            <input name="q" class="form-control search-input" placeholder="Search here..." type="search" id="search-input">
+            <button>Go</button>
+        </form>
+    </div><!-- /#search -->
+<!--Search Area Ends-->                                
+</div>
+     
+<!--Translate and Search Area Ends-->                                
+		</div><!--/.row-->
+	</div><!--/.container-->
+</header>
+<!--Top Area Starts-->
+
+<section id="slider">
+<!--Slider Area Starts-->            	
+    <div class="sliderbtn">
+        
+        
+        
+        <script language="JavaScript" type="text/JavaScript">
+        RZ.module = 'slider';
+        RZ.recordid = '';
+        RZ.nexturl = "editforms/slider-caption-editform.jsp";
+        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+        RZ.img = '<span class="rzBtn rzSmall" style="">Edit Slider Caption</span>';
+        RZ.set = 'slider.pageid=slidercaption';
+        RZ.options = '';
+        if (typeof RZaction != 'undefined') RZaction('editform');
+        </script>
+        
+        <script language="JavaScript" type="text/JavaScript">
+        RZ.module = 'slider';
+        RZ.nexturl = "editforms/home-slider-editlist.jsp?pageid=index";
+        RZ.img = '<span class="rzBtn rzSmall" style="">Edit Slider List</span>';
+        RZ.caption = '';
+        RZ.options = '';
+        if (typeof RZaction != 'undefined') RZaction('editlist');
+        </script>
+        
+
+	
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+      RZ.module = 'alert';
+      RZ.nexturl = "editforms/alert-editform.jsp";
+      RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+      RZ.img = '<span class="rzBtn" style="">Edit Alert</span>';
+      RZ.set = 'alert.pageid=alert';
+      RZ.options = '';
+      if (typeof RZaction != 'undefined') RZaction('editform');
+    </script>
+	
+
+
+
+
+<!-- Revize Forward to Edit Form -->
+<script language="JavaScript" type="text/JavaScript">
+	RZ.module = 'freeform';
+	RZ.recordid = '';
+	RZ.nexturl = "editforms/metadata-editform.jsp";
+	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+	RZ.img = '<span class="rzBtn" style="">Edit Metadata</span>';
+	RZ.set = "freeform.pageid=index";
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('editform');
+</script>
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	RZ.nexturl = '';
+	RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('permissions');
+</script>
+    	
+    </div>
+    
+    <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+ 
+    
+      
+    	
+    
+    <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('slider','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+  	<ul class="bxslider">
+        <li style="background:url('./_assets_/images/slide-1.jpg') center no-repeat;background-size:cover"></li>
+			
+    </ul><!--/.bxslider-->
+<!--Slider Area Ends-->  
+
+<!--Social Area Starts-->            	          	    
+    <div id="social-media-links">
+        <div class="socialbtn">
+            
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'global';
+            RZ.recordid = '';
+            RZ.nexturl = "editforms/social-editform.jsp";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+            RZ.img = '<span class="rzBtn rzSmall" style="">Edit Social</span>';
+            RZ.set = 'global.pageid=social';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editform');
+            </script>
+        </div>
+        
+
+
+
+<div id="social-media-links">
+
+<a href="https://twitter.com/pickenscountysc" target="_blank" class="social-media-link"><img src="_assets_/images/twitter-icon.png" alt="twitter-icon" title="twitter-icon"><span class="sr-only">Twitter link</span></a>
+
+<a href="https://www.facebook.com/PickensCountySC" target="_blank" class="social-media-link"><img src="_assets_/images/facebook-icon.png" alt="facebook-icon" title="facebook-icon"><span class="sr-only">Facebook link</span></a>
+
+<a href="https://www.instagram.com/pickenscountysc/" class="social-media-link"><img src="_assets_/images/instagram-icon.png" alt="instagram-icon" title="instagram-icon"><span class="sr-only">Instagram link</span></a>
+
+</div>
+ 
+    </div><!-- /#social-media-links -->
+<!--Social Area Ends-->
+
+<!--Slider Caption Area Starts-->            	          	    
+	<h1 class="container text-center" id="slider-caption">
+         
+         
+        <div class="title">
+            ADVENTURE STARTS HERE
+        </div>
+        <div class="sub-title">
+            Pickens County, SC
+        </div>
+    </h1><!-- /.container.text-center#slider-caption -->
+<!--Slider Caption Area Ends-->            	          	        
+</section><!--/#slider-->
+
+
+<main id="main">
+
+    <div id="quicklink-section">
+<!--Quick Links Area Starts-->            	          	    
+        <div class="container">
+            <div class="qlinksBtn">
+                
+                <script language="JavaScript" type="text/JavaScript">
+                RZ.module = 'imagelink';
+                RZ.nexturl = "editforms/quick-links-editlist.jsp?pageid=index";
+                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                RZ.img = '<span class="rzBtn rzSmall" style="">Edit Quick Links</span>';
+                RZ.caption = '';
+                RZ.options = '';
+                if (typeof RZaction != 'undefined') RZaction('editlist');
+                </script>
+            </div>
+            <!--qlinks-btn-->
+			 
+            <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(2)
+</script>
+ 
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('imagelink','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['imagelink_2']={field:'seq_no',seq:'9.00'};
+</script>
+
+            <div id="quicklinks">
+                <div class="quicklink">
+			<a href="http://pickenscountysctax.us/" target="_blank">
+			<img src="quickimages/globe.png" alt="globe" title="globe">
+			<div class="text">Pay <br> Taxes</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="https://www.co.pickens.sc.us/government/county_council/boards___commissions.php" target="_blank">
+			<img src="county%20seal%20no%20background.png" alt="county seal no background" title="county seal no background">
+			<div class="text">Boards and Commissions</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="i_want_to/services/index.php" target="_self">
+			<img src="quickimages/website-check.png" alt="website-check" title="website-check">
+			<div class="text">Online <br> Services</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="https://www.co.pickens.sc.us/departments/human_resources/index.php" target="_blank">
+			<img src="quickimages/exclamation.png" alt="exclamation" title="exclamation">
+			<div class="text">Job <br> Opportunities</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="i_want_to/apply_for/documents___forms/index.php" target="_self">
+			<img src="quickimages/credit.png" alt="credit" title="credit">
+			<div class="text">Documents & <br>Forms</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="https://ess.pickenscountysc.us/MSS/Vendors/VBids/Default.aspx" target="_blank">
+			<img src="quickimages/exclamation.png" alt="exclamation" title="exclamation">
+			<div class="text">Bid <br>Opportunities</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="https://ess.pickenscountysc.us/mss/default.aspx" target="_blank">
+			<img src="quickimages/exclamation.png" alt="exclamation" title="exclamation">
+			<div class="text">Employee Self Service</div>
+					</a>
+			</div>
+			<div class="quicklink">
+			<a href="https://pickenscountysc-self.govplatform.com/" target="_blank">
+			<img src="house%20icon.png" alt="house icon" title="house icon">
+			<div class="text">Short-Term Rentals</div>
+					</a>
+			</div>
+			
+            </div><!-- /#quicklinks -->            
+        </div><!-- /.container -->
+<!--Quick Links Area Ends-->   
+         	          	            
+        <a href="./" class="canoe-logo">
+            <img src="_assets_/images/canoe.png" alt="canoe" title="canoe">
+        </a><!-- /.canoe-logo -->
+    </div><!-- /#quicklink-section -->
+
+<!--News Area Starts-->            	          	        
+    <div id="news-section">
+        <div class="newsheaderbtn">
+            
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'global';
+            RZ.recordid = '';
+            RZ.nexturl = "editforms/news-header-editform.jsp";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+            RZ.img = '<span class="rzBtn rzSmall" style="">Edit News Header</span>';
+            RZ.set = 'global.pageid=newsheader';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editform');
+            </script>
+            
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'news';
+            RZ.nexturl = "editforms/news-editlist.jsp";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+            RZ.img = '<span class="rzBtn rzSmall" style="">Edit News List</span>';
+            RZ.caption = '';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editlist');
+            </script>
+            
+        </div>
+          <img class="news-bg" src="globalimages/news-bg.jpg" alt="news-bg" title="news-bg">    
+      <h2 class="section-header">
+            News Releases
+      </h2>
+         
+        <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(3)
+</script>
+ 
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+             
+                
+             
+        
+        
+        <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('news','news_detail','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['news_3']={field:'seq_no',seq:'24.00'};
+</script>
+    
+      <div class="container">
+            <div id="news">
+                <div class="news">
+			<a href="news_detail_T8_R100.php">
+			<img class="image" src="newsimage/opp%20fair%20social.png" alt="opp fair social" title="newsimage/opp%20fair%20social.png">
+			<div class="info">
+			<div class="date">Jun 17, 2024</div>
+			<div class="text">Interested in serving on a Pickens County Board or Commission?</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R99.php">
+			<img class="image" src="newsimage/text%20to%20911.png" alt="text to 911" title="newsimage/text%20to%20911.png">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">New in Pickens County: Text-to-911</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R102.php">
+			<img class="image" src="newsimage/bow%20hunting%20raffle.jpg" alt="bow hunting raffle" title="newsimage/bow%20hunting%20raffle.jpg">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">Pickens County Airport Bow Hunting Raffle Tickets on Sale Aug. 19</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R96.php">
+			<img class="image" src="newsimage/UPCOUNTRYFIBER-140%20-%20Copy.jpg" alt="UPCOUNTRYFIBER-140 - Copy" title="newsimage/UPCOUNTRYFIBER-140%20-%20Copy.jpg">
+			<div class="info">
+			<div class="date">Apr 01, 2024</div>
+			<div class="text">More Pickens County residents will soon have access to broadband internet</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R80.php">
+			<img class="image" src="newsimage/HOST%20COMPLIANCE.png" alt="HOST COMPLIANCE" title="newsimage/HOST%20COMPLIANCE.png">
+			<div class="info">
+			<div class="date">Jun 01, 2023</div>
+			<div class="text">Pickens County Launching New Registration Process for Short-Term Rentals</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R71.php">
+			<img class="image" src="newsimage/PC%20Pinnacle%20Citizen.png" alt="PC Pinnacle Citizen" title="newsimage/PC%20Pinnacle%20Citizen.png">
+			<div class="info">
+			<div class="date">Nov 14, 2022</div>
+			<div class="text">Nominate an outstanding citizen for the Pinnacle Citizen Award</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R74.php">
+			<img class="image" src="newsimage/Denise%20Award.jpg" alt="Denise Award" title="newsimage/Denise%20Award.jpg">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">Pickens County Emergency Management Director Denise Kwiatek named SCEMA Director of the Year</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R75.php">
+			<img class="image" src="newsimage/public%20meeting%20notice.png" alt="public meeting notice" title="newsimage/public%20meeting%20notice.png">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">Public Meeting: Pickens County Hazard Mitigation Plan</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R62.php">
+			<img class="image" src="newsimage/fall%20newsletter%2021.png" alt="fall newsletter 21" title="newsimage/fall%20newsletter%2021.png">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">Fall Newsletter 2021</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R51.php">
+			<img class="image" src="newsimage/news-2.jpg" alt="news-2" title="newsimage/news-2.jpg">
+			<div class="info">
+			<div class="date">Nov 16, 2020</div>
+			<div class="text">Public Portal link for Family Court cases and docketing</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R68.php">
+			<img class="image" src="newsimage/cover%20Summer%20News%20-%20Copy.jpg" alt="cover Summer News - Copy" title="newsimage/cover%20Summer%20News%20-%20Copy.jpg">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">Summer 2022 Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R11.php">
+			<img class="image" src="newsimage/august%20img%20-%20Copy.png" alt="august img - Copy" title="newsimage/august%20img%20-%20Copy.png">
+			<div class="info">
+			<div class="date">Aug 04, 2020</div>
+			<div class="text">August 2020 Pickens County Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R12.php">
+			<img class="image" src="newsimage/july%20img%20-%20Copy.png" alt="july img - Copy" title="newsimage/july%20img%20-%20Copy.png">
+			<div class="info">
+			<div class="date">Jul 02, 2020</div>
+			<div class="text">July 2020 Pickens County Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R13.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Jun 08, 2020</div>
+			<div class="text">June 2020 Pickens County Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R50.php">
+			<img class="image" src="newsimage/codered_banner_2%20-%20Copy.png" alt="Code Red" title="newsimage/codered_banner_2%20-%20Copy.png">
+			<div class="info">
+			<div class="date">Jan 19, 2020</div>
+			<div class="text">Register your Phone Number for Emergency Notifications</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R14.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">May 01, 2020</div>
+			<div class="text">May 2020 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R73.php">
+			<img class="image" src="newsimage/ellieafter.jpg" alt="ellieafter" title="newsimage/ellieafter.jpg">
+			<div class="info">
+			<div class="date"></div>
+			<div class="text">One Year Later: Puppy mill rescue is enjoying her forever family and a cage-free life</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R15.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Apr 28, 2020</div>
+			<div class="text">PUBLIC NOTICE OF MEETING - Pickens County Board of Voter Registration and Elections</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R16.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Apr 01, 2020</div>
+			<div class="text">April 2020 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R17.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Mar 02, 2020</div>
+			<div class="text">March 2020 Pickens County Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R18.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Feb 05, 2020</div>
+			<div class="text">February 2020 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R19.php">
+			<img class="image" src="newsimage/Jan%202020%20cover%20image.png" alt="Jan 2020 cover image" title="newsimage/Jan%202020%20cover%20image.png">
+			<div class="info">
+			<div class="date">Jan 06, 2020</div>
+			<div class="text">January 2020 Pickens County Newsletter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R20.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Dec 09, 2019</div>
+			<div class="text">December 2019 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R21.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Nov 05, 2019</div>
+			<div class="text">November 2019 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R22.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Oct 02, 2019</div>
+			<div class="text">October 2019 Pickens County News Letter</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R23.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Jun 12, 2019</div>
+			<div class="text">Planning Case Information from the June 10th, 2019 Planning Commission meeting related to SD-19-004, proposed Laurel Grove Plantation, located on Midway Road and Old Fox Squirrel Ridge Road, Pickens</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R25.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Feb 22, 2018</div>
+			<div class="text">County Leaders Take Pickens County Global</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R28.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Aug 16, 2017</div>
+			<div class="text">Safeplast NA Company will build in the Pickens County Commerce Park</div>
+			</div>
+			</a>
+			</div>
+			<div class="news">
+			<a href="news_detail_T8_R49.php">
+			<img class="image" src="./_assets_/images/news-1.jpg" alt="news" title="./_assets_/images/news-1.jpg">
+			<div class="info">
+			<div class="date">Mar 08, 2018</div>
+			<div class="text">Historic Easley Cotton Mill - Tax Incentive Information</div>
+			</div>
+			</a>
+			</div>
+			
+        </div><!-- /#news -->
+            <a href="newslist.php" class="see-all">See All news</a>
+      </div><!-- /.container -->
+    </div><!-- /#news-section -->
+<!--News Area Ends-->            	          	            
+    
+<!--Events Area Starts-->            	          	            
+    <div id="events-section">
+        <img class="events-bg" src="_assets_/images/events-bg.jpg" alt="events-bg" title="events-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="eventsheaderbtn">
+                        
+                        
+                        
+                        <script language="JavaScript" type="text/JavaScript">
+                        RZ.module = 'global';
+                        RZ.recordid = '';
+                        RZ.nexturl = "editforms/events-header-editform.jsp";
+                        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                        RZ.img = '<span class="rzBtn rzSmall" style="">Edit Events Header</span>';
+                        RZ.set = 'global.pageid=eventsheader';
+                        RZ.options = '';
+                        if (typeof RZaction != 'undefined') RZaction('editform');
+                        </script>
+                    </div>
+                       
+                  <h2 class="section-header">
+                       UPCOMING EVENTS 
+                  </h2><!-- /.section-header -->
+                </div><!-- /.col-md-6 -->
+              <div class="col-md-6">
+                    <div class="eventsheaderbtn">
+                        
+                        <script language="JavaScript" type="text/JavaScript">
+                        RZ.module = 'imagelink';
+                        RZ.nexturl = "editforms/events-name-editlist.jsp?pageid=calendraname";
+                        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                        RZ.img = '<span class="rzBtn rzSmall" style="">Edit Calendar Name </span>';
+                        RZ.caption = '';
+                        RZ.options = '';
+                        if (typeof RZaction != 'undefined') RZaction('editlist');
+                        </script>
+                </div>
+                    
+          			<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(4)
+</script>
+ 
+                    
+                     
+                    
+					
+                     
+                    
+					
+                     
+                    
+					
+					<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('imagelink','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['imagelink_4']={field:'seq_no',seq:'4.00'};
+</script>
+
+                                         
+                	<div id="select-calendar">  
+						Community Events
+                    	<i class="fa fa-angle-down"></i>
+                        <div id="calendar-selection">
+                            <ul id="tabs">
+                                <li class="current">
+			<a href="#Events-feed" id="Events-label">Events</a>
+			</li>
+			<li >
+			<a href="#Meetings-feed" id="Meetings-label">Meetings</a>
+			</li>
+			<li >
+			<a href="#Programs-feed" id="Programs-label">Programs</a>
+			</li>
+			
+                            </ul><!-- /#tabs -->
+                      </div><!-- /#calendar-selection -->
+                </div><!-- /#select-calendar -->
+              </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+            <div class="row">
+                <div class="calendar-holder">
+                    <div id="tabs-content">	                   
+                        <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(5)
+</script>
+
+                        
+                         
+						  	<div id="Events-feed" class="tab-content current">
+							
+                        	<div class="calendarEventPopup Events-feed">
+                   			  <script>
+                              window.addEventListener('message', function(e) {
+                                var $iframe = jQuery("#calendarEvent");
+                                var eventName = e.data[0];
+                                var data = e.data[1];
+                                switch(eventName) {
+                                  case 'setHeight':
+                                    $iframe.height(data);
+                                    break;
+                                }
+                              }, false);
+                            </script>
+                        <style>
+                                @media only screen and (max-width:768px){iframe#calendarEvent{height:auto!important}}
+                                @media only screen and (max-height:700px){iframe#calendarEvent{height:auto!important}}
+                            </style>
+                        <div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
+                          <div class="calendarEvent-overlay" style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div><!-- /.calendarEvent-overlay -->
+                          <iframe src="about:blank" style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
+                        </div><!-- /#RZcalendar_detail -->
+                  </div><!-- /.calendarEventPopup -->       
+
+<iframe src="calendar_app/index.html#Events-mini,css=calendar_mini_pickenscountysc.css" width="100%" height="110" frameborder="0"></iframe>
+</div>
+                            
+                    
+                         
+							<div id="Meetings-feed" class="tab-content">
+							
+                        	<div class="calendarEventPopup Meetings-feed">
+                   			  <script>
+                              window.addEventListener('message', function(e) {
+                                var $iframe = jQuery("#calendarEvent");
+                                var eventName = e.data[0];
+                                var data = e.data[1];
+                                switch(eventName) {
+                                  case 'setHeight':
+                                    $iframe.height(data);
+                                    break;
+                                }
+                              }, false);
+                            </script>
+                        <style>
+                                @media only screen and (max-width:768px){iframe#calendarEvent{height:auto!important}}
+                                @media only screen and (max-height:700px){iframe#calendarEvent{height:auto!important}}
+                            </style>
+                        <div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
+                          <div class="calendarEvent-overlay" style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div><!-- /.calendarEvent-overlay -->
+                          <iframe src="about:blank" style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
+                        </div><!-- /#RZcalendar_detail -->
+                  </div><!-- /.calendarEventPopup -->       
+
+<iframe src="calendar_app/index.html#Meetings-mini,css=calendar_mini_pickenscountysc.css" width="100%" height="110" frameborder="0"></iframe>
+</div>
+                            
+                    
+                         
+							<div id="Programs-feed" class="tab-content">
+							
+                        	<div class="calendarEventPopup Programs-feed">
+                   			  <script>
+                              window.addEventListener('message', function(e) {
+                                var $iframe = jQuery("#calendarEvent");
+                                var eventName = e.data[0];
+                                var data = e.data[1];
+                                switch(eventName) {
+                                  case 'setHeight':
+                                    $iframe.height(data);
+                                    break;
+                                }
+                              }, false);
+                            </script>
+                        <style>
+                                @media only screen and (max-width:768px){iframe#calendarEvent{height:auto!important}}
+                                @media only screen and (max-height:700px){iframe#calendarEvent{height:auto!important}}
+                            </style>
+                        <div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
+                          <div class="calendarEvent-overlay" style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div><!-- /.calendarEvent-overlay -->
+                          <iframe src="about:blank" style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
+                        </div><!-- /#RZcalendar_detail -->
+                  </div><!-- /.calendarEventPopup -->       
+
+<iframe src="calendar_app/index.html#Programs-mini,css=calendar_mini_pickenscountysc.css" width="100%" height="110" frameborder="0"></iframe>
+</div>
+                            
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('imagelink','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['imagelink_5']={field:'seq_no',seq:'4.00'};
+</script>
+                
+                      </div>
+                </div>
+            </div><!-- /.row -->
+            <a href="calendar.php" class="see-all">See All Events</a>
+        </div><!-- /.container -->
+    </div><!-- /#events-section -->
+<!--Events Area Ends--> 
+
+<!--Action Area Starts-->            	          	            
+    <div id="action-section">
+        <div class="container">
+            <div class="actionbtn">
+            	
+				<script language="JavaScript" type="text/JavaScript">
+                RZ.module = 'imagelink';
+                RZ.nexturl = "editforms/action-links-editlist.jsp?pageid=actionlinks";
+                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                RZ.img = '<span class="rzBtn rzSmall" style="">Edit Action Links</span>';
+                RZ.caption = '';
+                RZ.options = '';
+                if (typeof RZaction != 'undefined') RZaction('editlist');
+                </script>
+            </div>
+            
+            <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(6)
+</script>
+ 
+            
+                
+            
+            
+                
+            
+            
+                
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('imagelink','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['imagelink_6']={field:'seq_no',seq:'4.00'};
+</script>
+
+            
+            <div class="row">
+                <div class="col-md-4">
+			<a href="about_us/our_history.php" id="action">
+			<div class="title">History</div>
+			<div class="image" style="background:url('quickimages/PCMAH1.jpg') center no-repeat;background-size:cover"></div>
+			<div class="text">History Brief</div>
+			</a>
+			</div>
+			<div class="col-md-4">
+			<a href="https://pickenscountylibrarysystem.com/" id="action">
+			<div class="title">Library</div>
+			<div class="image" style="background:url('quickimages/PCLS-LOGO-Horizontal-Excel-Green-757x212%20-%20Copy.png') center no-repeat;background-size:cover"></div>
+			<div class="text">Library Brief</div>
+			</a>
+			</div>
+			<div class="col-md-4">
+			<a href="departments/parks,_recreation,___tourism/index.php" id="action">
+			<div class="title">Parks & Rec</div>
+			<div class="image" style="background:url('quickimages/action-3.jpg') center no-repeat;background-size:cover"></div>
+			<div class="text">Parks & Rec Brief</div>
+			</a>
+			</div>
+			
+            </div><!-- /.row -->
+            <div class="tree">
+                <img src="_assets_/images/tree.png" alt="tree" title="tree">
+            </div><!-- /.tree -->
+        </div><!-- /.container -->
+    </div><!-- /#action-section -->
+<!--Action Area Ends--> 
+
+<!--Newsletter Area Starts-->            	          	            
+    
+
+
+
+ 
+
+<div id="newsletter-section">
+    <img class="newsletter-bg" src="_assets_/images/events-bg.jpg" alt="bg" title="bg">
+    <div class="container">
+        <div class="newslettterbtn">
+        	
+            
+            
+            <script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'global';
+            RZ.recordid = '';
+            RZ.nexturl = "editforms/signup-editform.jsp";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+            RZ.img = '<span class="rzBtn rzSmall" style="">Edit Newsletter</span>';
+            RZ.set = 'slider.pageid=newsletter';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editform');
+            </script>
+        </div>
+         
+        
+        <h2 class="section-header">
+            Sign Up for Updates
+        </h2>
+        <div class="text">
+            
+        </div>
+        <section id="newsletter" aria-labelledby="newsletter-title">
+            <form class="signup submission" id="newsletter-signup"  action="enotify/index.php" enctype="application/x-www-form-urlencoded" method="get">
+                <input type="email" name="email" placeholder="Your Email Address" aria-label="email address" required>
+                <button>Join</button>
+            </form><!--/.signup.submission#newsletter-signup-->
+        </section>
+    </div>
+    <img class="newsletter-bottom" src="_assets_/images/newsletter-bottom.png" alt="newsletter-bottom" title="newsletter-bottom">
+</div>
+<!--Newsletter Area Ends-->            	          	                
+    
+<!--Aleret Area Starts-->            	          	                
+	
+
+
+ 
+<!-- start alert html -->
+<div class="alert alert-dismissible floating-alert fade in os-animation" data-os-animation="fadeInUpBig" data-os-animation-delay="2s" role="alert">
+  <!-- alertbtn -->
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <h2>Pickens County Video Tour</h2>
+    
+  
+        <p><a href="alert_detail.php" class="btn">Read More</a></p>
+         
+</div>
+
+<!--Aleret Area Ends-->
+
+<!--Share Area Starts-->            	          
+	<!-- ENABLERS: update include statement with revize code -->
+	
+
+
+
+<section id="modal-section">
+		<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal" >
+		<i class="fa fa-share-alt"></i>
+		<span>Share <span class="sr-only">this page</span></span>
+	</button>
+
+	<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h2 class="modal-title" id="myModalLabel">Share this page</h2>
+				</div>
+				<div class="modal-body">
+					<div class="copylink">
+						<p>Copy and paste this code into your website.</p>
+						<pre>&lt;a href="http://www.co.pickens.sc.us/">Your Link Name&lt;/a&gt;</pre>
+					</div><!-- /.copylink -->
+					<div class="share-btns">
+						<p>Share this page on your favorite Social network</p>
+						<div class="row">
+							<div class="col-sm-4">
+								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.co.pickens.sc.us/" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-facebook"></i> Facebook
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.twitter.com/intent/tweet?url=http://www.co.pickens.sc.us/" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.reddit.com/submit?url=http://www.co.pickens.sc.us/" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-reddit"></i> Reddit
+								</a>
+							</div>
+						</div><!-- /.row -->
+					</div><!-- /.share-btns -->
+					<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+				</div><!-- /.modal-body -->
+			</div>
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</section><!-- /#modal-section -->
+<!--Share Area Ends-->            	              
+</main>
+
+<!--Footer ARea Starts-->
+<footer>
+    <div id="footer-top">
+        <div class="container">
+            <div class="row">
+<!--Footer Logo Area Starts-->            	                      
+               
+
+
+
+<div class="col-md-2">
+    <a href="./" id="footer-logo">
+        <img src="_assets_/images/logo.png" alt="logo" title="logo">
+    </a><!-- /#footer-logo -->
+</div><!-- ./col-md-2 -->
+ 
+<!--Footer Logo Area Ends-->            	                                      
+                <div class="col-md-offset-1 col-md-3">
+<!--Footer Address Area Starts-->            	                    
+                      
+                        <div class="footerContactBtn">
+                            
+                            
+                            
+                            <script language="JavaScript" type="text/JavaScript">
+                            RZ.module = 'global';
+                            RZ.recordid = '';
+                            RZ.nexturl = "editforms/contact-editform.jsp";
+                            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                            RZ.img = '<span class="rzBtn">Edit Contact</span>';
+                            RZ.set = 'global.pageid=footercontact';
+                            RZ.options = '';
+                            if (typeof RZaction != 'undefined') RZaction('editform');
+                            </script>
+                        </div> 
+                    
+                    
+
+
+
+ 
+
+<div class="footer address">
+     
+	
+    <span>Contact Us</span>
+    <p><span style="font-family: arial, helvetica, sans-serif;">Pickens County<br /></span><span style="font-family: arial, helvetica, sans-serif;">222 McDaniel Avenue, B-2<br /></span><span style="font-family: arial, helvetica, sans-serif;">Pickens, SC 29671<br /></span><span style="font-family: arial, helvetica, sans-serif;"><a href="tel:8648985844" target="_blank">(864) 898-5844</a></span></p> 
+</div><!-- /.footer.address -->
+ 
+<!--Footer Address Area Ends-->            	                            
+<!--Footer Social Area Starts-->            	            
+                    
+
+
+
+<div id="social-media-links">
+
+<a href="https://twitter.com/pickenscountysc" target="_blank" class="social-media-link"><img src="_assets_/images/twitter-icon.png" alt="twitter-icon" title="twitter-icon"><span class="sr-only">Twitter link</span></a>
+
+<a href="https://www.facebook.com/PickensCountySC" target="_blank" class="social-media-link"><img src="_assets_/images/facebook-icon.png" alt="facebook-icon" title="facebook-icon"><span class="sr-only">Facebook link</span></a>
+
+<a href="https://www.instagram.com/pickenscountysc/" class="social-media-link"><img src="_assets_/images/instagram-icon.png" alt="instagram-icon" title="instagram-icon"><span class="sr-only">Instagram link</span></a>
+
+</div>
+<!--Footer Social Area Ends-->            	              
+                </div><!-- /.col-md-offset-1.col-md-3 -->
+                
+<!--Footer Qlinks1 Area Starts-->            	
+                <div class="col-md-2">
+                    <div class="footer departments">
+                          
+                            <div class="footerContactBtn">
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'global';
+                                RZ.recordid = '';
+                                RZ.nexturl = "editforms/title-editform.jsp";
+                                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                                RZ.img = '<span class="rzBtn">Edit Header</span>';
+                                RZ.set = 'global.pageid=deptheader';
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editform');
+                                </script>
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'links';
+                                RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=&"
+                                     + "linksfilter=linkplacement=deptlinks and linkparentid=0&"
+                                     + "linkoptions=url,template,file&"
+                                     + "toplevel=0&"
+                                     + "bottomlevel=0&"
+                                     + "linknewsection=*all*&"
+                                RZ.img = '<span class="rzBtn">Edit Department Links</span>';
+                                RZ.caption = '';
+                                RZ.set = "links.linkplacement = deptlinks";
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editlist');
+                                </script>
+                                
+                            </div> 
+                        
+                        
+
+
+
+ 
+
+  
+<div class="title">How Do I?</div>
+
+    
+         
+            
+            
+                <a href="i_want_to/pay/index.php" target="_self">Pay Taxes</a>
+          
+        
+    
+         
+            
+            
+                <a href="i_want_to/apply_for/documents___forms/probate.php#outer-321 " target="_self">Apply for a Marriage License</a>
+          
+        
+    
+         
+            
+            
+                <a href="https://pickenselections.org/" target="_new">Register to Vote</a>
+          
+        
+    
+
+                    </div><!-- /.footer.departments -->
+                </div><!-- /.col-md-2 -->
+<!--Footer Qlinks1 Area Ends-->
+
+<!--Footer Qlinks2 Area Starts-->            	
+                <div class="col-md-2">
+                    <div class="footer popular-pages">
+                          
+                            <div class="footerContactBtn">
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'global';
+                                RZ.recordid = '';
+                                RZ.nexturl = "editforms/title-editform.jsp";
+                                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                                RZ.img = '<span class="rzBtn">Edit Header</span>';
+                                RZ.set = 'global.pageid=popularheader';
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editform');
+                                </script>
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'links';
+                                RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=&"
+                                     + "linksfilter=linkplacement=popularlinks and linkparentid=0&"
+                                     + "linkoptions=url,template,file&"
+                                     + "toplevel=0&"
+                                     + "bottomlevel=0&"
+                                     + "linknewsection=*all*&"
+                                RZ.img = '<span class="rzBtn">Edit Popular Links</span>';
+                                RZ.caption = '';
+                                RZ.set = "links.linkplacement = popularlinks";
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editlist');
+                                </script>
+                                
+                            </div> 
+                        
+                        
+
+
+
+ 
+
+  
+<div class="title">Popular Services</div>
+
+    
+         
+            
+            
+                <a href="departments/register_of_deeds/index.php" target="_self">Register of Deeds</a>
+          	
+        
+    
+         
+            
+            
+                <a href="departments/building_codes/index.php" target="_self">Building Codes</a>
+          	
+        
+    
+         
+            
+            
+                <a href="departments/veterans_affairs/index.php" target="_self">Veterans Affairs</a>
+          	
+        
+    
+
+                    </div><!-- /.footer.popular-pages -->
+                </div><!-- /.col-md-2 -->
+<!--Footer Qlinks2 Area Ends-->
+
+<!--Footer Qlinks3 Area Starts-->            	
+                <div class="col-md-2">
+                    <div class="footer more-pages">
+                          
+                            <div class="morepagesBtn">
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'global';
+                                RZ.recordid = '';
+                                RZ.nexturl = "editforms/title-editform.jsp";
+                                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                                RZ.img = '<span class="rzBtn">Edit Header</span>';
+                                RZ.set = 'global.pageid=morepagesheader';
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editform');
+                                </script>
+                                
+                                
+                                
+                                <script language="JavaScript" type="text/JavaScript">
+                                RZ.module = 'links';
+                                RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=&"
+                                     + "linksfilter=linkplacement=morepageslinks and linkparentid=0&"
+                                     + "linkoptions=url,template,file&"
+                                     + "toplevel=0&"
+                                     + "bottomlevel=0&"
+                                     + "linknewsection=*all*&"
+                                RZ.img = '<span class="rzBtn">Edit More Pages Links</span>';
+                                RZ.caption = '';
+                                RZ.set = "links.linkplacement = morepageslinks";
+                                RZ.options = '';
+                                if (typeof RZaction != 'undefined') RZaction('editlist');
+                                </script>
+                                
+                            </div> 
+                        
+                        
+
+
+
+ 
+
+  
+<div class="title">County Employees</div>
+
+    
+         
+            
+            
+                <a href="https://selfservice.pickenscountysc.us/ess" target="_new">ESS</a>
+          	
+        
+    
+
+                    </div><!-- /.footer.more-pages -->
+                </div><!-- /.col-md-2 -->
+<!--Footer Qlinks3 Area Ends-->            	                
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /#footer-top -->
+<!--Copyright and Login Area Starts-->            	    
+    <div id="footer-bottom">
+        <div id="revize" class="text-center">
+              
+                <div class="copyrightBtn">
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'global';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/copyright-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = 'no';
+                    RZ.img = '<span class="rzBtn">Edit Copyright</span>';
+                    RZ.set = 'global.pageid=copyright';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                </div> 
+            
+            
+
+
+
+ 
+
+<div style="text-align: center;">Home Page Photograph Provided by:<br /><a href="https://www.lakehartwellcountry.com/" target="_blank">Lake Hartwell Country</a><br /><a href= "../about_us/privacy_policy.php">Privacy Policy</a></div>
+<div style="text-align: center;">&copy; &middot; 2021 Pickens County &middot; 222 McDaniel Avenue, Pickens, SC 29671 &middot; <a href="tel:8648985844">(864) 898-5844</a> &middot;</div>
+ 
+Powered by <a href="https://www.revize.com" id="revize-link">Revize</a> The Government Website Experts &middot;  <a href="https://cms5.revize.com/revize/security/index.jsp?webspace=pickenscountysc&filename=/index.php" id="revize-login">Login</a>
+        </div><!--/.col-md-6#revize-->
+    </div><!-- /#footer-bottom -->
+<!--Copyright and Login Area Ends-->            	        
+</footer>
+<!--Footer ARea Ends-->  
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/tiny-slider-master/dist/tiny-slider.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+
+<!--Goole Analytics Code Area Starts-->
+<!--Goole Analytics Code Area Ends-->
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2429304-5']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,559 @@
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <link rel="shortcut icon" href="/runtime/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+         <link rel="stylesheet" href="/common/styles/ezpopup.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/runtime/styles/main.css" type="text/css" media="screen" />
+        
+    <title>Tom Green County</title>
+
+    <link rel="stylesheet" href="/runtime/styles/normalize.min.css" />
+    <link rel="stylesheet" href="/runtime/styles/layout.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/runtime/styles/ionicons.min.css" />
+    <link type="text/css" rel="stylesheet" href="/runtime/skins/Menu/Menu.ezSilk.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/skins/PanelBar/PanelBar.ezMetro.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/skins/DropDownList/DropDownList.ezMetro.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezmegastyle.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/ezrss.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarfeed.css?v=5.14.3.7" media="screen" />
+<link type="text/css" rel="stylesheet" href="/runtime/styles/calendarControl.css?v=5.14.3.7" media="screen" />
+
+    <link rel="stylesheet" href="/runtime/styles/custom.css" />
+    
+
+
+    </head>
+
+    <body>
+        <a id="skip-navigation" href="#contentwrapperin" tab-index="0" alt="Press enter to skip the Navigation" title="Press enter to skip to the Navigation">Skip Navigation</a>
+        <form method="post" action="./" id="nseForm">
+<input type="hidden" name="ContentPlaceHolder1_RadScriptManager1_TSM" id="ContentPlaceHolder1_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MjAwNDE0MjAPZBYCZg9kFgYCAw9kFg4CAQ9kFhoCAQ8UKwACPCsABAEADxYCHgdWaXNpYmxlaGRkZAICDxQrAAQPFgQfAGgeDkxvYWRpbmdQYW5lbElEBTdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX0RvY3VtZW50TGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHgRTa2luBQdEZWZhdWx0ZGQCAw8UKwAEDxYEHwBoHwEFN2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfQ2FsZW5kYXJMaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAgQPFCsABA8WBB8AaB8BBTZjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX0NvbmZpcm1MaWdodEJveF9Mb2FkaW5nUGFuZWxkFCsAA2RkPCsABQAQFgFmFgEUKwABZA8WAWYWAQV3VGVsZXJpay5XZWIuVUkuUmFkTGlnaHRCb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwAAFgICAQ8PFgIfAgUHRGVmYXVsdGRkAgUPFCsABA8WBB8AaB8BBThjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1NlbmRFbWFpbExpZ2h0Qm94X0xvYWRpbmdQYW5lbGQUKwADZGQ8KwAFABAWAWYWARQrAAFkDxYBZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRMaWdodEJveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjEuMS4xMTkuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAAWAgIBDw8WAh8CBQdEZWZhdWx0ZGQCBg8WAh8AaGQCBw8WAh8AaGQCCA8WAh8AaGQCCQ8WAh8AaGQCCg8WAh8AaGQCDA8WAh8AaBYCZg8UKwAEDxYCHwEFO2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfU3Vic2NyaXB0aW9uTGlnaHRCb3hfTG9hZGluZ1BhbmVsZBQrAANkZDwrAAUAEBYBZhYBFCsAAWQPFgFmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZExpZ2h0Qm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAABYCAgEPDxYCHwIFB0RlZmF1bHRkZAINDw8WAh8AaGQWBGYPFgIfAGhkAgIPFgIfAGhkAg4PFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgIeBXN0eWxlBSFtYXJnaW4tdG9wOjVweDttYXJnaW4tYm90dG9tOjVweDsWAmYPZBYCZg9kFgICAQ8WAh4JaW5uZXJodG1sBd9PPHVsIGNsYXNzPSJtYWluIiByb2xlPSJtZW51YmFyIiBhcmlhLWxhYmVsPSJtZWdhIG1lbnUiPjxsaSBjbGFzcz0idG9wLWxpbmsiPjxhIGhyZWY9Ii9wYWdlL2hvbWVwYWdlIiByb2xlPSJtZW51aXRlbSIgYXJpYS1oYXNwb3B1cD0iZmFsc2UiPkhvbWU8L2E+PC9saT48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+Q291bnR5IE9mZmljaWFsczwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duIiByb2xlPSJtZW51IiBhcmlhLWxhYmVsPSJDb3VudHkgT2ZmaWNpYWxzIj48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMSc+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jYy5Db21taXNzaW9uZXJzSG9tZSc+Q29tbWlzc2lvbmVycyBDb3VydHM8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NhLkNvdW50eUF0dG9ybmV5SG9tZSc+Q291bnR5IEF0dG9ybmV5PC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jY2suQ291bnR5Q2xlcmtIb21lJz5Db3VudHkgQ2xlcms8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NvLmp1ZGdlJz5Db3VudHkgSnVkZ2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NjbC5Ib21lcGFnZSc+Q291cnRzIGF0IExhdzwvYT48L2xpPjwvdWw+PHVsIGNsYXNzPSdjb2x1bW4gY29sLTInPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvY29uc3RhYmxlLkNvbnN0YWJsZUhvbWUnPkNvbnN0YWJsZXM8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2RhLkRpc3RyaWN0QXR0b3JuZXlIb21lJz5EaXN0cmljdCBBdHRvcm5leTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvZGNsLkRpc3RyaWN0Q2xlcmtIb21lJz5EaXN0cmljdCBDbGVyazwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvZGMuRGlzdHJpY3RDb3VydEhvbWUnPkRpc3RyaWN0IENvdXJ0PC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RjLjUxc3QnPjUxc3QgSnVkaWNpYWwgRGlzdHJpY3QgQ291cnQ8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RjLjExOXRoJz4xMTl0aCBKdWRpY2lhbCBEaXN0cmljdCBDb3VydDwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZGMuMzQwdGgnPjM0MHRoIEp1ZGljaWFsIERpc3RyaWN0IENvdXJ0PC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9kYy4zOTFzdCc+Mzkxc3QgSnVkaWNpYWwgRGlzdHJpY3QgQ291cnQ8L2E+PC9saT48L3VsPjwvbGk+PC91bD48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMyc+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9qcC5KUEhvbWVQYWdlJz5KdXN0aWNlcyBvZiB0aGUgUGVhY2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnRvbWdyZWVuY291bnR5c2hlcmlmZi5vcmcvJyB0YXJnZXQ9J19ibGFuayc+U2hlcmlmZidzIE9mZmljZTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvY3RheC5UYXhBc3Nlc3Nvcic+Q291bnR5IFRheCBBc3Nlc3Nvci1Db2xsZWN0b3I8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2N0LlRyZWFzdXJlckhvbWVQYWdlJz5Db3VudHkgVHJlYXN1cmVyPC9hPjwvbGk+PC91bD48L3VsPjwvbGk+PGxpIGNsYXNzPSJ0b3AtbGluayBtZW51LWRyb3Bkb3duLWljb24iPjxzcGFuIHRhYmluZGV4PSIwIiByb2xlPSJtZW51aXRlbSIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtZGVzY3JpYmVkYnk9ImN5Y2xlLWhlYWRlcnMiPkNvdW50eSBEZXBhcnRtZW50czwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duIiByb2xlPSJtZW51IiBhcmlhLWxhYmVsPSJDb3VudHkgRGVwYXJ0bWVudHMiPjx1bCBjbGFzcz0nY29sdW1uIGNvbC0xJz48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NhdS5BdWRpdG9ySG9tZVBhZ2UnPkF1ZGl0b3I8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NjLkNvbW1pc3Npb25lcnNIb21lJz5Db21taXNzaW9uZXJzIENvdXJ0PC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2NjLlRHQ1BhcmtzJz5Ub20gR3JlZW4gQ291bnR5IFBhcmtzPC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9jYy5UeFBBQ0UnPlRleGFzIFByb3BlcnR5IEFzc2Vzc2VkIENsZWFuIEVuZXJneSBQcm9ncmFtIChUeFBBQ0UpPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly93d3cuY3Zjc2NkLm9yZy8nIHRhcmdldD0nX2JsYW5rJz5Db21tdW5pdHkgU3VwZXJ2aXNpb24gYW5kIENvcnJlY3Rpb25zIERlcGFydG1lbnQgKFByb2JhdGlvbik8L2E+PHVsIGNsYXNzPSdjb250YWluZXInPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0naHR0cHM6Ly93d3cuY3Zjc2NkLm9yZy9vcGVuLWVtcGxveW1lbnQtcG9zaXRpb25zLycgdGFyZ2V0PSdfYmxhbmsnPkNTQ0QgT3BlbiBFbXBsb3ltZW50IFBvc2l0aW9uczwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2N0LkNvbXBsaWFuY2UnPkNvbXBsaWFuY2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NvbnN0YWJsZS5Db25zdGFibGVIb21lJz5Db25zdGFibGVzPC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnRvbWdyZWVuY291bnR5dHguZ292L3BhZ2UvY29uc3RhYmxlLkFiYXRlbWVudEZvcm0nPkFiYXRlbWVudCBOdWlzYW5jZSBDb21wbGFpbnQgRm9ybTwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NhLkNvdW50eUF0dG9ybmV5SG9tZSc+Q291bnR5IEF0dG9ybmV5PC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jY2suQ291bnR5Q2xlcmtIb21lJz5Db3VudHkgQ2xlcms8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NvLmp1ZGdlJz5Db3VudHkgSnVkZ2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2NjbC5Ib21lcGFnZSc+Q291bnR5IENvdXJ0IGF0IExhdzwvYT48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9jY2wuR3VhcmRpYW5zaGlwUnVsZXMnPkd1YXJkaWFuc2hpcDwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2RhLkRpc3RyaWN0QXR0b3JuZXlIb21lJz5EaXN0cmljdCBBdHRvcm5leTwvYT48L2xpPjwvdWw+PHVsIGNsYXNzPSdjb2x1bW4gY29sLTInPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvZGNsLkRpc3RyaWN0Q2xlcmtIb21lJz5EaXN0cmljdCBDbGVyazwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvZGMuRGlzdHJpY3RDb3VydEhvbWUnPkRpc3RyaWN0IENvdXJ0PC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RjLjUxc3QnPjUxc3QgSnVkaWNpYWwgRGlzdHJpY3QgQ291cnQ8L2E+PC9saT48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2RjLjExOXRoJz4xMTl0aCBKdWRpY2lhbCBEaXN0cmljdCBDb3VydDwvYT48L2xpPjxsaSBjbGFzcz0naXRlbSc+PGEgaHJlZj0nL3BhZ2UvZGMuMzQwdGgnPjM0MHRoIEp1ZGljaWFsIERpc3RyaWN0IENvdXJ0PC9hPjwvbGk+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPScvcGFnZS9kYy4zOTFzdCc+Mzkxc3QgSnVkaWNpYWwgRGlzdHJpY3QgQ291cnQ8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jYS5Eb21lc3RpY1Zpb2xlbmNlJz5Eb21lc3RpYyBWaW9sZW5jZSBVbml0PC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9lbGUuRWxlY3RIb21lTmV3JyB0YXJnZXQ9J19ibGFuayc+RWxlY3Rpb25zPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9lbnYuRW52SGVhbHRoSG9tZSc+RW52aXJvbm1lbnRhbCBIZWFsdGg8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vdG9tZ3JlZW4uYWdyaWxpZmUub3JnLycgdGFyZ2V0PSdfYmxhbmsnPkV4dGVuc2lvbiBTZXJ2aWNlPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48c3Bhbj5GYWNpbGl0aWVzIE1haW50ZW5hbmNlPC9zcGFuPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9oci5IUkhvbWUnPkh1bWFuIFJlc291cmNlczwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvY3QuSW5kaWdlbnRIZWFsdGgnPkluZGlnZW50IEhlYWx0aCBDYXJlPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9pdC5JVEhvbWVQYWdlJz5JbmZvcm1hdGlvbiBUZWNobm9sb2d5PC9hPjwvbGk+PC91bD48dWwgY2xhc3M9J2NvbHVtbiBjb2wtMyc+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9qcC5KUEhvbWVQYWdlJz5KdXN0aWNlIG9mIHRoZSBQZWFjZSAxLTQ8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL2p1di5KdXZlbmlsZUhvbWUnPkp1dmVuaWxlIERldGVudGlvbiBhbmQgUHJvYmF0aW9uPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPSdodHRwOi8vd3d3LnRnY2xpYnJhcnkuY29tLycgdGFyZ2V0PSdfYmxhbmsnPkxpYnJhcnk8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vd3d3LmN2cGRvLm9yZy8nIHRhcmdldD0nX2JsYW5rJz5QdWJsaWMgRGVmZW5kZXI8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL3B1ci5QdXJjaGFzaW5nSG9tZSc+UHVyY2hhc2luZzwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly93d3cudG9tZ3JlZW5jb3VudHlzaGVyaWZmLm9yZy8nIHRhcmdldD0nX2JsYW5rJz5TaGVyaWZmPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jdGF4LlRheEFzc2Vzc29yJz5UYXggQXNzZXNzb3ItQ29sbGVjdG9yPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9jdC5UcmVhc3VyZXJIb21lUGFnZSc+VHJlYXN1cmVyPC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9Jy9wYWdlL2JiLkJhaWxCb25kQm9hcmQnPkJhaWwgQm9uZCBCb2FyZDwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9Jy9wYWdlL3ZldC5WZXRlcmFuc0hvbWUnPlZldGVyYW5zIENvdW50eSBTZXJ2aWNlPC9hPjwvbGk+PC91bD48L3VsPjwvbGk+PGxpIGNsYXNzPSJ0b3AtbGluayI+PGEgaHJlZj0iL3BhZ2UvZnQuRmluYW5jaWFsVHJhbnNwYXJlbmN5IiByb2xlPSJtZW51aXRlbSIgYXJpYS1oYXNwb3B1cD0iZmFsc2UiPkZpbmFuY2lhbCBUcmFuc3BhcmVuY3k8L2E+PC9saT48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+U2VydmljZXM8L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93biIgcm9sZT0ibWVudSIgYXJpYS1sYWJlbD0iU2VydmljZXMiPjx1bCBjbGFzcz0nY29sdW1uIHNpbmdsZS1jb2wnPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly9lc3MuY28udG9tLWdyZWVuLnR4LnVzL01TUy9lbXBsb3ltZW50b3Bwb3J0dW5pdGllcy9kZWZhdWx0LmFzcHgnIHRhcmdldD0nX2JsYW5rJz5FbXBsb3ltZW50IE9wcG9ydHVuaXRpZXM8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vZXNzLmNvLnRvbS1ncmVlbi50eC51cy9NU1MvbG9naW4uYXNweCc+RW1wbG95ZWUgU2VsZiBTZXJ2aWNlPC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vZXNzLmNvLnRvbS1ncmVlbi50eC51cy9NU1MvbG9naW4uYXNweCc+UGF5cm9sbCAmIFRheCBJbmZvcm1hdGlvbjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHA6Ly93d3cuZHBzLnRleGFzLmdvdi9Ecml2ZXJMaWNlbnNlLycgdGFyZ2V0PSdfYmxhbmsnPkRyaXZlcnMgTGljZW5zZSBSZW5ld2FsPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPSdodHRwczovL3d3dy50b21ncmVlbmNvdW50eXR4Lmdvdi9wYWdlL2RjbC5KdXJvckluZm8nIHRhcmdldD0nX2JsYW5rJz5KdXJ5IFBhbmVsIFN0YXR1czwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cDovL29keXNzZXlwYS5jby50b20tZ3JlZW4udHgudXMvZGVmYXVsdC5hc3B4JyB0YXJnZXQ9J19ibGFuayc+U2VhcmNoIEp1ZGljaWFsIFJlY29yZHM8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHA6Ly9jby50b20tZ3JlZW4udHgudXMvcGFnZS9NYWtlQVBheW1lbnQnIHRhcmdldD0nX2JsYW5rJz5QYXkgQ291cnQgQ29zdCBhbmQgRmluZXM8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnByb3BlcnR5ZnJhdWRhbGVydC5jb20vcGhvZW5peC9QRkFTaWduVXAuV2ViU2l0ZS9UWFRvbUdyZWVuPycgdGFyZ2V0PSdfYmxhbmsnPlByb3BlcnR5IEZyYXVkIEFsZXJ0IC0gVG9tIEdyZWVuIENvdW50eTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly9jb21wdHJvbGxlci50ZXhhcy5nb3YvZWNvbm9teS9sb2NhbC9jaDM4MC0zODEvcmVwb3J0aW5nLXNlYXJjaC5waHAnPlRleGFzIENvbXB0cm9sbGVy4oCZcyBDaGFwdGVyIDM4MCBhbmQgMzgxIEFncmVlbWVudCBEYXRhYmFzZTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly9zZWN1cmUucmVjMS5jb20vVFgvdG9tLWdyZWVuLWNvdW50eS10eC9jYXRhbG9nJyB0YXJnZXQ9J19ibGFuayc+VG9tIEdyZWVuIENvdW50eSBQYXJrcyBSZXNlcnZhdGlvbnM8L2E+PC9saT48L3VsPjwvdWw+PC9saT48bGkgY2xhc3M9InRvcC1saW5rIG1lbnUtZHJvcGRvd24taWNvbiI+PHNwYW4gdGFiaW5kZXg9IjAiIHJvbGU9Im1lbnVpdGVtIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1kZXNjcmliZWRieT0iY3ljbGUtaGVhZGVycyI+TG9jYWwgTGlua3M8L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93biIgcm9sZT0ibWVudSIgYXJpYS1sYWJlbD0iTG9jYWwgTGlua3MiPjx1bCBjbGFzcz0nY29sdW1uIHNpbmdsZS1jb2wnPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly93d3cuYW5nZWxvLmVkdS8nIHRhcmdldD0nX2JsYW5rJz5BbmdlbG8gU3RhdGUgVW5pdmVyc2l0eTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cDovL2lzd2RhdGFjbGllbnQuYXp1cmV3ZWJzaXRlcy5uZXQvd2ViaW5kZXguYXNweD9kYmtleT10b21ncmVlbmNhZCZ0aW1lPTIwMTkwMjI2MTEzNDA1OScgdGFyZ2V0PSdfYmxhbmsnPkFwcHJhaXNhbCBEaXN0cmljdCAoUHJvcGVydHkgVEFYKTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly93d3cuc2FuYW5nZWxvLm9yZy8nIHRhcmdldD0nX2JsYW5rJz5DaGFtYmVyIG9mIENvbW1lcmNlPC9hPjx1bCBjbGFzcz0nY29udGFpbmVyJz48bGkgY2xhc3M9J2l0ZW0nPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnNhbmFuZ2Vsby5vcmcvZWNvbm9taWMtZGV2ZWxvcG1lbnQnIHRhcmdldD0nX2JsYW5rJz4gICAgRWNvbm9taWMgRGV2ZWxvcG1lbnQ8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPSdodHRwczovL3d3dy5jdmNzY2Qub3JnLycgdGFyZ2V0PSdfYmxhbmsnPkNvbW11bml0eSBTdXBlcnZpc2lvbiBhbmQgQ29ycmVjdGlvbnMgRGVwYXJ0bWVudDwvYT48dWwgY2xhc3M9J2NvbnRhaW5lcic+PGxpIGNsYXNzPSdpdGVtJz48YSBocmVmPSdodHRwczovL3d3dy5jdmNzY2Qub3JnL29wZW4tZW1wbG95bWVudC1wb3NpdGlvbnMvJyB0YXJnZXQ9J19ibGFuayc+Q1NDRCBPcGVuIEVtcGxveW1lbnQgUG9zaXRpb25zPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cDovL3d3dy5jdmNvZy5vcmcvY3Zjb2cvJyB0YXJnZXQ9J19ibGFuayc+Q29uY2hvIFZhbGxleSBDb3VuY2lsIG9mIEdvdmVybm1lbnRzPC9hPjwvbGk+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPSdodHRwOi8vd3d3LmNvc2F0eC51cy8nIHRhcmdldD0nX2JsYW5rJz5DaXR5IG9mIFNhbiBBbmdlbG88L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vd3d3Lmdvb2RmZWxsb3cuYWYubWlsLycgdGFyZ2V0PSdfYmxhbmsnPkdvb2RmZWxsb3cgQWlyIEZvcmNlIEJhc2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vaG93YXJkY29sbGVnZS5lZHUvJyB0YXJnZXQ9J19ibGFuayc+SG93YXJkIENvbGxlZ2U8L2E+PC9saT48bGkgY2xhc3M9J2NvbC1oZWFkZXInPjxhIGhyZWY9J2h0dHBzOi8vbWhtcmN2Lm9yZy8nPk1ITVIgQ29uY2hvIFZhbGxleTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cDovL3NhbmFuZ2Vsb3BvbGljZS5vcmcvJyB0YXJnZXQ9J19ibGFuayc+U2FuIEFuZ2VsbyBQb2xpY2UgRGVwYXJ0bWVudDwvYT48L2xpPjwvdWw+PC91bD48L2xpPjxsaSBjbGFzcz0idG9wLWxpbmsgbWVudS1kcm9wZG93bi1pY29uIj48c3BhbiB0YWJpbmRleD0iMCIgcm9sZT0ibWVudWl0ZW0iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLWRlc2NyaWJlZGJ5PSJjeWNsZS1oZWFkZXJzIj5Ib3cgZG8gSS4uLjwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duIiByb2xlPSJtZW51IiBhcmlhLWxhYmVsPSJIb3cgZG8gSS4uLiI+PHVsIGNsYXNzPSdjb2x1bW4gc2luZ2xlLWNvbCc+PGxpIGNsYXNzPSdjb2wtaGVhZGVyJz48YSBocmVmPScvcGFnZS9wdXIuUHVyY2hhc2luZ0hvbWUnPkRvIEJ1c2luZXNzIFdpdGggVG9tIEdyZWVuIENvdW50eTwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cHM6Ly9lc3MuY28udG9tLWdyZWVuLnR4LnVzL01TUy9sb2dpbi5hc3B4Jz5Gb3JtZXIgRW1wbG95ZWUgVGF4ICYgUGF5cm9sbCBJbmZvcm1hdGlvbjwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvTWFrZUFQYXltZW50Jz5NYWtlIEEgUGF5bWVudDwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0naHR0cDovL2lzd2RhdGFjbGllbnQuYXp1cmV3ZWJzaXRlcy5uZXQvd2ViaW5kZXguYXNweD9kYmtleT10b21ncmVlbmNhZCZ0aW1lPTIwMTkwMjI2MTEzNDA1OSc+UGF5IFByb3BlcnR5IFRheDwvYT48L2xpPjxsaSBjbGFzcz0nY29sLWhlYWRlcic+PGEgaHJlZj0nL3BhZ2UvZGNsLkp1cm9ySW5mbyc+UmVwb3J0IEZvciBKdXJ5IER1dHk8L2E+PC9saT48L3VsPjwvdWw+PC9saT48L3VsPmQCAw9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7FgJmD2QWAmYPZBYEAgEPFgIfBAUKd2lkdGg6NjclOxYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWAmYPFgIeBWNsYXNzBQ9pbWFnZXNpemVpdExlZnQWAgIBDxYCHgRocmVmBQ4vcGFnZS9ob21lcGFnZWQCAw8WAh8EBQp3aWR0aDozMyU7FgICAQ8WAh8DAgIWBGYPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIBD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCBQ9kFgICAQ8WAh8DAgIWBGYPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTowcHg7ZAIBD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206NXB4OxYCZg9kFgJmD2QWBgIBDxQrAAIUKwACDxYOHhVFbmFibGVFbWJlZGRlZFNjcmlwdHNnHhJSZXNvbHZlZFJlbmRlck1vZGULKXJUZWxlcmlrLldlYi5VSS5SZW5kZXJNb2RlLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIxLjEuMTE5LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQCHwIFBmV6U2lsax4cRW5hYmxlRW1iZWRkZWRCYXNlU3R5bGVzaGVldGceF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naB4TRW5hYmxlRW1iZWRkZWRTa2luc2geBEZsb3cLKXBUZWxlcmlrLldlYi5VSS5JdGVtRmxvdywgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0AGQQFhxmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbFhwUKwACDxYEHgRUZXh0BQ5FbGVjdGlvbnMgSG9tZR4LTmF2aWdhdGVVcmwFFi9wYWdlL2VsZS5FbGVjdEhvbWVOZXdkZBQrAAIPFgQfDgUSVm90ZXIgUmVnaXN0cmF0aW9uHw8FGy9wYWdlL2VsZS5Wb3RlclJlZ2lzdHJhdGlvbmRkFCsAAg8WBB8OBR5FbGVjdGlvbiAmIFBvbGxpbmcgSW5mb3JtYXRpb24fDwUVL3BhZ2UvZWxlLlBvbGxpbmdJbmZvZGQUKwACDxYGHgZUYXJnZXQFBl9ibGFuax8OBQxQaG90byBJRCBMYXcfDwUlL3VwbG9hZC9wYWdlLzAwMjgvZG9jcy9QaG90b0lETGF3LnBkZmRkFCsAAg8WBB8OBRBFbGVjdGlvbiBSZXN1bHRzHw8FGi9wYWdlL2VsZS5FbGVjdGlvbnNSZXN1bHRzZGQUKwACDxYEHw4FEENhbXBhaWduIEZpbmFuY2UfDwUYL3BhZ2UvZWxlLkNhbXBGaW5SZXBvcnRzZGQUKwACDxYEHw4FJlB1YmxpYyBPZmZpY2lhbHMvQ2FuZGlkYXRlIEluZm9ybWF0aW9uHw8FGS9wYWdlL2VsZS5wdWJsaWNvZmZpY2lhbHNkZBQrAAIPFgQfDgUMUG9sbCBXb3JrZXJzHw8FFS9wYWdlL2VsZS5Qb2xsV29ya2Vyc2RkFCsAAg8WBB8OBQVGb3Jtcx8PBQ8vcGFnZS9lbGUuZm9ybXNkZBQrAAIPFgQfDgUnRWxlY3Rpb24gXCBDYW52YXNzIFwgQ29udmVudGlvbiBOb3RpY2VzHw8FES9wYWdlL2VsZS5Ob3RpY2VzZGQUKwACDxYEHw4FGEVsZWN0aW9ucyBWb3RpbmcgUm9zdGVycx8PBRcvcGFnZS9lbGUuVm90aW5nUm9zdGVyc2RkFCsAAg8WBB8OBR1PcmRlciBvZiBFbGVjdGlvbi9SZXNvbHV0aW9ucx8PBQ8vcGFnZS9lbGUuT3JkZXJkZBQrAAIPFgQfDgUIVHJhaW5pbmcfDwUSL3BhZ2UvZWxlLnRyYWluaW5nZGQUKwACDxYEHw4FI1ZvbHVudGVlciBEZXB1dHkgUmVnaXN0cmFyIFRyYWluaW5nHw8FEy9wYWdlL2VsZS52b2x1bnRlZXJkZBQrAAIPFgQfDgUSMjAyMSBSZWRpc3RyaWN0aW5nHw8FFy9wYWdlL2VsZS5yZWRpc3RyaWN0aW5nZGQUKwACDxYEHw4FHy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0fD2VkZBQrAAIPFgQfDgURUMOhZ2luYSBQcmluY2lwYWwfDwUWL3BhZ2UvZWxlLkVsZWN0SG9tZU5ld2RkFCsAAg8WBB8OBRVSZWdpc3RybyBkZSBFbGVjdG9yZXMfDwUbL3BhZ2UvZWxlLlZvdGVyUmVnaXN0cmF0aW9uZGQUKwACDxYEHw4FJkluZm9ybWFjacOzbiBkZSBFbGVjY2lvbmVzIHkgZGUgU29uZGVvHw8FFS9wYWdlL2VsZS5Qb2xsaW5nSW5mb2RkFCsAAg8WBB8OBR9MZXkgZGUgSWRlbnRpZmljYWNpw7NuIGNvbiBGb3RvHw8FJS91cGxvYWQvcGFnZS8wMDI4L2RvY3MvUGhvdG9JRExhdy5wZGZkZBQrAAIPFgQfDgUcUmVzdWx0YWRvcyBkZSBsYXMgRWxlY2Npb25lcx8PBRovcGFnZS9lbGUuRWxlY3Rpb25zUmVzdWx0c2RkFCsAAg8WBB8OBRRGaW5hbnphcyBkZSBDYW1wYcOxYR8PBRsvcGFnZS9lbGUuRVNQQ2FtcEZpblJlcG9ydHNkZBQrAAIPFgQfDgUgRnVuY2lvbmFyaW9zIFB1YmxpY29zL2NhbmRpZGF0b3MfDwUZL3BhZ2UvZWxlLnB1YmxpY29mZmljaWFsc2RkFCsAAg8WBB8OBRhUcmFiYWphZG9yZXMgRWxlY3RvcmFsZXMfDwUVL3BhZ2UvZWxlLlBvbGxXb3JrZXJzZGQUKwACDxYEHw4FBkZvcm1hcx8PBRIvcGFnZS9lbGUuRVNQZm9ybXNkZBQrAAIPFgQfDgUGQXZpc29zHw8FES9wYWdlL2VsZS5ub3RpY2VzZGQUKwACDxYEHw4FH09yZGVuIGRlIEVsZWNjacOzbi9SZXNvbHVjaW9uZXMfDwUPL3BhZ2UvZWxlLk9yZGVyZGQUKwACDxYEHw4FITIwMjEgUmVkaXN0cmlidWNpw7NuIGRlIGRpc3RyaXRvcx8PBRcvcGFnZS9lbGUucmVkaXN0cmljdGluZ2RkDxYcZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZhYBBXNUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMS4xLjExOS40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0ZBY4Zg8PFgQfDgUORWxlY3Rpb25zIEhvbWUfDwUWL3BhZ2UvZWxlLkVsZWN0SG9tZU5ld2RkAgEPDxYEHw4FElZvdGVyIFJlZ2lzdHJhdGlvbh8PBRsvcGFnZS9lbGUuVm90ZXJSZWdpc3RyYXRpb25kZAICDw8WBB8OBR5FbGVjdGlvbiAmIFBvbGxpbmcgSW5mb3JtYXRpb24fDwUVL3BhZ2UvZWxlLlBvbGxpbmdJbmZvZGQCAw8PFgYfEAUGX2JsYW5rHw4FDFBob3RvIElEIExhdx8PBSUvdXBsb2FkL3BhZ2UvMDAyOC9kb2NzL1Bob3RvSURMYXcucGRmZGQCBA8PFgQfDgUQRWxlY3Rpb24gUmVzdWx0cx8PBRovcGFnZS9lbGUuRWxlY3Rpb25zUmVzdWx0c2RkAgUPDxYEHw4FEENhbXBhaWduIEZpbmFuY2UfDwUYL3BhZ2UvZWxlLkNhbXBGaW5SZXBvcnRzZGQCBg8PFgQfDgUmUHVibGljIE9mZmljaWFscy9DYW5kaWRhdGUgSW5mb3JtYXRpb24fDwUZL3BhZ2UvZWxlLnB1YmxpY29mZmljaWFsc2RkAgcPDxYEHw4FDFBvbGwgV29ya2Vycx8PBRUvcGFnZS9lbGUuUG9sbFdvcmtlcnNkZAIIDw8WBB8OBQVGb3Jtcx8PBQ8vcGFnZS9lbGUuZm9ybXNkZAIJDw8WBB8OBSdFbGVjdGlvbiBcIENhbnZhc3MgXCBDb252ZW50aW9uIE5vdGljZXMfDwURL3BhZ2UvZWxlLk5vdGljZXNkZAIKDw8WBB8OBRhFbGVjdGlvbnMgVm90aW5nIFJvc3RlcnMfDwUXL3BhZ2UvZWxlLlZvdGluZ1Jvc3RlcnNkZAILDw8WBB8OBR1PcmRlciBvZiBFbGVjdGlvbi9SZXNvbHV0aW9ucx8PBQ8vcGFnZS9lbGUuT3JkZXJkZAIMDw8WBB8OBQhUcmFpbmluZx8PBRIvcGFnZS9lbGUudHJhaW5pbmdkZAINDw8WBB8OBSNWb2x1bnRlZXIgRGVwdXR5IFJlZ2lzdHJhciBUcmFpbmluZx8PBRMvcGFnZS9lbGUudm9sdW50ZWVyZGQCDg8PFgQfDgUSMjAyMSBSZWRpc3RyaWN0aW5nHw8FFy9wYWdlL2VsZS5yZWRpc3RyaWN0aW5nZGQCDw8PFgQfDgUfLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLR8PZWRkAhAPDxYEHw4FEVDDoWdpbmEgUHJpbmNpcGFsHw8FFi9wYWdlL2VsZS5FbGVjdEhvbWVOZXdkZAIRDw8WBB8OBRVSZWdpc3RybyBkZSBFbGVjdG9yZXMfDwUbL3BhZ2UvZWxlLlZvdGVyUmVnaXN0cmF0aW9uZGQCEg8PFgQfDgUmSW5mb3JtYWNpw7NuIGRlIEVsZWNjaW9uZXMgeSBkZSBTb25kZW8fDwUVL3BhZ2UvZWxlLlBvbGxpbmdJbmZvZGQCEw8PFgQfDgUfTGV5IGRlIElkZW50aWZpY2FjacOzbiBjb24gRm90bx8PBSUvdXBsb2FkL3BhZ2UvMDAyOC9kb2NzL1Bob3RvSURMYXcucGRmZGQCFA8PFgQfDgUcUmVzdWx0YWRvcyBkZSBsYXMgRWxlY2Npb25lcx8PBRovcGFnZS9lbGUuRWxlY3Rpb25zUmVzdWx0c2RkAhUPDxYEHw4FFEZpbmFuemFzIGRlIENhbXBhw7FhHw8FGy9wYWdlL2VsZS5FU1BDYW1wRmluUmVwb3J0c2RkAhYPDxYEHw4FIEZ1bmNpb25hcmlvcyBQdWJsaWNvcy9jYW5kaWRhdG9zHw8FGS9wYWdlL2VsZS5wdWJsaWNvZmZpY2lhbHNkZAIXDw8WBB8OBRhUcmFiYWphZG9yZXMgRWxlY3RvcmFsZXMfDwUVL3BhZ2UvZWxlLlBvbGxXb3JrZXJzZGQCGA8PFgQfDgUGRm9ybWFzHw8FEi9wYWdlL2VsZS5FU1Bmb3Jtc2RkAhkPDxYEHw4FBkF2aXNvcx8PBREvcGFnZS9lbGUubm90aWNlc2RkAhoPDxYEHw4FH09yZGVuIGRlIEVsZWNjacOzbi9SZXNvbHVjaW9uZXMfDwUPL3BhZ2UvZWxlLk9yZGVyZGQCGw8PFgQfDgUhMjAyMSBSZWRpc3RyaWJ1Y2nDs24gZGUgZGlzdHJpdG9zHw8FFy9wYWdlL2VsZS5yZWRpc3RyaWN0aW5nZGQCAw8UKwACFCsAAmRkZGQCBQ8UKwACZGRkAgcPZBYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwQFIm1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206MzBweDtkAgkPZBYCAgEPFgIfAwIHFg5mD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206MHB4O2QCAQ9kFgICAQ8WAh8EBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDtkAgIPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7FgJmD2QWAmYPZBYCZg8WAh8GBQtpbWFnZXNpemVpdGQCAw9kFgICAQ8WAh8EBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDtkAgQPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDowcHg7bWFyZ2luLWJvdHRvbTowcHg7ZAIFD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6MHB4O21hcmdpbi1ib3R0b206MHB4O2QCBg9kFgICAQ8WAh8EBSFtYXJnaW4tdG9wOjBweDttYXJnaW4tYm90dG9tOjBweDtkAgsPZBYCAgEPFgIfAwIBFgJmD2QWAgIBDxYCHwQFIW1hcmdpbi10b3A6NXB4O21hcmdpbi1ib3R0b206NXB4O2QCDQ9kFgICAQ8WAh8DAgEWAmYPZBYCAgEPFgIfBAUhbWFyZ2luLXRvcDo1cHg7bWFyZ2luLWJvdHRvbTo1cHg7ZAIFD2QWAgIBDxYCHwBoZAIHD2QWAgIBDxYCHwBoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQU/Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyNCRDb250ZW50UmVwZWF0ZXI0JGN0bDAxJGN0bDAwJFJhZE1lbnUxgR7nl30CtVqQ4skBbgnmE4zSMUNRHJm2uUgJThh9QJg=" />
+
+<link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=i4B1a7nhXNqiVFk83vq9ijSjJbIZ7_nkW3u4S2nJZhSIF3WkDrVE5hOyA54Szap8OM3p_cDPqsT-gd4Iwu99fbqmC5gK4ibE3tt_xFFhXnRyHCvIIH0_3ASNtBuNulbC6MSyktVVIYsIjg98a8hRDW1qSDf0ImxjY0FlB9ZE5G81&amp;t=637474339409609204' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=lnbEkDINaNyVcdlSh7up6WJ-j2I_ZELM_V6bFTroVGcvFV9XnHEEvEnl8OygdeRO8nKT41walFkkC30hIOHiwqXZsFxSgxs3k3QPqheaJ-23PSVGiDmZwGIH-qL2OWZ3yMzO6ZGLNz2pB4D6F8nX8yDmUD6ASreppddMPWq5Zpg1&amp;t=637474339409609204' /><link class='Telerik_stylesheet' type='text/css' rel='stylesheet' href='/WebResource.axd?d=6M6VWjEf2phRNY6QiIYwvcuTvmadd5Lr8g9LabayQ0VqlW8MbM3YRhow_6Z4equtYLWc9H_KTZJojxAb_VX855RJwvoW-FEB7wt6nLyNCB28c_gRC51erMzP04SVgPKIM7Gnj2xkwII0wzTAgfUP_A2&amp;t=637474339409609204' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ContentPlaceHolder1_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3aceece802-cb39-4409-a6c9-bfa3b2c8bf10%3aea597d4b%3bTelerik.Web.UI%3aen-US%3aa3561803-43fa-48b8-8632-66948071f7a3%3a16e4e7cd%3af7645509%3a22a6274a%3a33715776%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a16d8629e" type="text/javascript"></script>
+<script src="/runtime/scripts/modernizr-2.8.3.min.js" type="text/javascript"></script>
+<script src="Service.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+
+            <div id="topnavwrapper" class="outercontainer floatleft topnavcolor clearfix no-border no-margin">
+                <div id="topnav" class="innercontainer clearfix">
+                    <div id="topnavin" class="innercontainer clearfix">
+                        
+<input type="hidden" id="hdnModifiedDate" value="11/08/2023" />
+
+<script>
+    $telerik.getViewPortSize = function () {
+        var width = 0;
+        var height = 0;
+
+        var canvas = document.body;
+
+        if ((!$telerik.quirksMode && !$telerik.isSafari) ||
+            (Telerik.Web.Browser.chrome && Telerik.Web.Browser.version >= 61)) {
+            canvas = document.documentElement;
+        }
+
+        if (window.innerWidth) {
+            // Seems there's no completely reliable way to get the viewport size in Gecko, this should be the best one
+            // Check https://bugzilla.mozilla.org/show_bug.cgi?id=189112#c7
+            width = Math.max(document.documentElement.clientWidth, document.body.clientWidth);
+            height = Math.max(document.documentElement.clientHeight, document.body.clientHeight);
+
+            if (width > window.innerWidth)
+                width = document.documentElement.clientWidth;
+            if (height > window.innerHeight)
+                height = document.documentElement.clientHeight;
+        }
+        else {
+            width = canvas.clientWidth;
+            height = canvas.clientHeight;
+        }
+
+        width += canvas.scrollLeft;
+        height += canvas.scrollTop;
+
+        if ($telerik.isMobileSafari) {
+            width += window.pageXOffset;
+            height += window.pageYOffset;
+        }
+
+        return { width: width - 6, height: height - 6 };
+    }
+</script>
+<script src="/common/scripts/ezutilities.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/misc.js" type="text/javascript" ></script>
+<script src="/runtime/scripts/megamenu.js?v=5.14.3.7" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        var Page_Validators;        //add this variable to fix the bug
+
+        function nse_onload() {
+            
+
+            var $lightActive = $(".rltbActiveImage");
+            if ($lightActive.length > 0) {
+                $lightActive.attr("alt", "LightBox Active");
+            }
+
+            var $buttonMax = $(".rltbActionButton.rltbMaximizeButton");
+            if ($buttonMax.length > 0) {
+                $buttonMax.attr("title", "Maximize");
+                $buttonTxt = $buttonMax.find(".rltbButtonText");
+                if ($buttonTxt.length > 0) {
+                    $buttonTxt.text("Maximize");
+                }
+            }
+
+            var $login = $("#login");
+            if ($login && $login.length > 0) {
+                $("#login").click(function () {
+                    document.location.href = "/tools/Page.aspx?id=90";
+                });
+            }
+        }
+        Sys.Application.add_load(nse_onload);
+    </script>
+
+
+
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder1_ContentRepeater1_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<!-- ezcrawl-ignore-start -->
+<div class="ezMegaWrapper">
+    <div id="ContentPlaceHolder1_ContentRepeater1_ctl00_0_megamenu_0" class="menu" role="application"><ul class="main" role="menubar" aria-label="mega menu"><li class="top-link"><a href="/page/homepage" role="menuitem" aria-haspopup="false">Home</a></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">County Officials</span><ul class="dropdown" role="menu" aria-label="County Officials"><ul class='column col-1'><li class='col-header'><a href='/page/cc.CommissionersHome'>Commissioners Courts</a></li><li class='col-header'><a href='/page/ca.CountyAttorneyHome'>County Attorney</a></li><li class='col-header'><a href='/page/cck.CountyClerkHome'>County Clerk</a></li><li class='col-header'><a href='/page/co.judge'>County Judge</a></li><li class='col-header'><a href='/page/ccl.Homepage'>Courts at Law</a></li></ul><ul class='column col-2'><li class='col-header'><a href='/page/constable.ConstableHome'>Constables</a></li><li class='col-header'><a href='/page/da.DistrictAttorneyHome'>District Attorney</a></li><li class='col-header'><a href='/page/dcl.DistrictClerkHome'>District Clerk</a></li><li class='col-header'><a href='/page/dc.DistrictCourtHome'>District Court</a><ul class='container'><li class='item'><a href='/page/dc.51st'>51st Judicial District Court</a></li><li class='item'><a href='/page/dc.119th'>119th Judicial District Court</a></li><li class='item'><a href='/page/dc.340th'>340th Judicial District Court</a></li><li class='item'><a href='/page/dc.391st'>391st Judicial District Court</a></li></ul></li></ul><ul class='column col-3'><li class='col-header'><a href='/page/jp.JPHomePage'>Justices of the Peace</a></li><li class='col-header'><a href='https://www.tomgreencountysheriff.org/' target='_blank'>Sheriff's Office</a></li><li class='col-header'><a href='/page/ctax.TaxAssessor'>County Tax Assessor-Collector</a></li><li class='col-header'><a href='/page/ct.TreasurerHomePage'>County Treasurer</a></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">County Departments</span><ul class="dropdown" role="menu" aria-label="County Departments"><ul class='column col-1'><li class='col-header'><a href='/page/cau.AuditorHomePage'>Auditor</a></li><li class='col-header'><a href='/page/cc.CommissionersHome'>Commissioners Court</a><ul class='container'><li class='item'><a href='/page/cc.TGCParks'>Tom Green County Parks</a></li><li class='item'><a href='/page/cc.TxPACE'>Texas Property Assessed Clean Energy Program (TxPACE)</a></li></ul></li><li class='col-header'><a href='https://www.cvcscd.org/' target='_blank'>Community Supervision and Corrections Department (Probation)</a><ul class='container'><li class='item'><a href='https://www.cvcscd.org/open-employment-positions/' target='_blank'>CSCD Open Employment Positions</a></li></ul></li><li class='col-header'><a href='/page/ct.Compliance'>Compliance</a></li><li class='col-header'><a href='/page/constable.ConstableHome'>Constables</a><ul class='container'><li class='item'><a href='https://www.tomgreencountytx.gov/page/constable.AbatementForm'>Abatement Nuisance Complaint Form</a></li></ul></li><li class='col-header'><a href='/page/ca.CountyAttorneyHome'>County Attorney</a></li><li class='col-header'><a href='/page/cck.CountyClerkHome'>County Clerk</a></li><li class='col-header'><a href='/page/co.judge'>County Judge</a></li><li class='col-header'><a href='/page/ccl.Homepage'>County Court at Law</a><ul class='container'><li class='item'><a href='/page/ccl.GuardianshipRules'>Guardianship</a></li></ul></li><li class='col-header'><a href='/page/da.DistrictAttorneyHome'>District Attorney</a></li></ul><ul class='column col-2'><li class='col-header'><a href='/page/dcl.DistrictClerkHome'>District Clerk</a></li><li class='col-header'><a href='/page/dc.DistrictCourtHome'>District Court</a><ul class='container'><li class='item'><a href='/page/dc.51st'>51st Judicial District Court</a></li><li class='item'><a href='/page/dc.119th'>119th Judicial District Court</a></li><li class='item'><a href='/page/dc.340th'>340th Judicial District Court</a></li><li class='item'><a href='/page/dc.391st'>391st Judicial District Court</a></li></ul></li><li class='col-header'><a href='/page/ca.DomesticViolence'>Domestic Violence Unit</a></li><li class='col-header'><a href='/page/ele.ElectHomeNew' target='_blank'>Elections</a></li><li class='col-header'><a href='/page/env.EnvHealthHome'>Environmental Health</a></li><li class='col-header'><a href='https://tomgreen.agrilife.org/' target='_blank'>Extension Service</a></li><li class='col-header'><span>Facilities Maintenance</span></li><li class='col-header'><a href='/page/hr.HRHome'>Human Resources</a></li><li class='col-header'><a href='/page/ct.IndigentHealth'>Indigent Health Care</a></li><li class='col-header'><a href='/page/it.ITHomePage'>Information Technology</a></li></ul><ul class='column col-3'><li class='col-header'><a href='/page/jp.JPHomePage'>Justice of the Peace 1-4</a></li><li class='col-header'><a href='/page/juv.JuvenileHome'>Juvenile Detention and Probation</a></li><li class='col-header'><a href='http://www.tgclibrary.com/' target='_blank'>Library</a></li><li class='col-header'><a href='https://www.cvpdo.org/' target='_blank'>Public Defender</a></li><li class='col-header'><a href='/page/pur.PurchasingHome'>Purchasing</a></li><li class='col-header'><a href='https://www.tomgreencountysheriff.org/' target='_blank'>Sheriff</a></li><li class='col-header'><a href='/page/ctax.TaxAssessor'>Tax Assessor-Collector</a></li><li class='col-header'><a href='/page/ct.TreasurerHomePage'>Treasurer</a><ul class='container'><li class='item'><a href='/page/bb.BailBondBoard'>Bail Bond Board</a></li></ul></li><li class='col-header'><a href='/page/vet.VeteransHome'>Veterans County Service</a></li></ul></ul></li><li class="top-link"><a href="/page/ft.FinancialTransparency" role="menuitem" aria-haspopup="false">Financial Transparency</a></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Services</span><ul class="dropdown" role="menu" aria-label="Services"><ul class='column single-col'><li class='col-header'><a href='https://ess.co.tom-green.tx.us/MSS/employmentopportunities/default.aspx' target='_blank'>Employment Opportunities</a></li><li class='col-header'><a href='https://ess.co.tom-green.tx.us/MSS/login.aspx'>Employee Self Service</a><ul class='container'><li class='item'><a href='https://ess.co.tom-green.tx.us/MSS/login.aspx'>Payroll & Tax Information</a></li></ul></li><li class='col-header'><a href='http://www.dps.texas.gov/DriverLicense/' target='_blank'>Drivers License Renewal</a></li><li class='col-header'><a href='https://www.tomgreencountytx.gov/page/dcl.JurorInfo' target='_blank'>Jury Panel Status</a></li><li class='col-header'><a href='http://odysseypa.co.tom-green.tx.us/default.aspx' target='_blank'>Search Judicial Records</a></li><li class='col-header'><a href='http://co.tom-green.tx.us/page/MakeAPayment' target='_blank'>Pay Court Cost and Fines</a></li><li class='col-header'><a href='https://www.propertyfraudalert.com/phoenix/PFASignUp.WebSite/TXTomGreen?' target='_blank'>Property Fraud Alert - Tom Green County</a></li><li class='col-header'><a href='https://comptroller.texas.gov/economy/local/ch380-381/reporting-search.php'>Texas Comptroller’s Chapter 380 and 381 Agreement Database</a></li><li class='col-header'><a href='https://secure.rec1.com/TX/tom-green-county-tx/catalog' target='_blank'>Tom Green County Parks Reservations</a></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">Local Links</span><ul class="dropdown" role="menu" aria-label="Local Links"><ul class='column single-col'><li class='col-header'><a href='https://www.angelo.edu/' target='_blank'>Angelo State University</a></li><li class='col-header'><a href='http://iswdataclient.azurewebsites.net/webindex.aspx?dbkey=tomgreencad&time=201902261134059' target='_blank'>Appraisal District (Property TAX)</a></li><li class='col-header'><a href='https://www.sanangelo.org/' target='_blank'>Chamber of Commerce</a><ul class='container'><li class='item'><a href='https://www.sanangelo.org/economic-development' target='_blank'>    Economic Development</a></li></ul></li><li class='col-header'><a href='https://www.cvcscd.org/' target='_blank'>Community Supervision and Corrections Department</a><ul class='container'><li class='item'><a href='https://www.cvcscd.org/open-employment-positions/' target='_blank'>CSCD Open Employment Positions</a></li></ul></li><li class='col-header'><a href='http://www.cvcog.org/cvcog/' target='_blank'>Concho Valley Council of Governments</a></li><li class='col-header'><a href='http://www.cosatx.us/' target='_blank'>City of San Angelo</a></li><li class='col-header'><a href='https://www.goodfellow.af.mil/' target='_blank'>Goodfellow Air Force Base</a></li><li class='col-header'><a href='https://howardcollege.edu/' target='_blank'>Howard College</a></li><li class='col-header'><a href='https://mhmrcv.org/'>MHMR Concho Valley</a></li><li class='col-header'><a href='http://sanangelopolice.org/' target='_blank'>San Angelo Police Department</a></li></ul></ul></li><li class="top-link menu-dropdown-icon"><span tabindex="0" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-describedby="cycle-headers">How do I...</span><ul class="dropdown" role="menu" aria-label="How do I..."><ul class='column single-col'><li class='col-header'><a href='/page/pur.PurchasingHome'>Do Business With Tom Green County</a></li><li class='col-header'><a href='https://ess.co.tom-green.tx.us/MSS/login.aspx'>Former Employee Tax & Payroll Information</a></li><li class='col-header'><a href='/page/MakeAPayment'>Make A Payment</a></li><li class='col-header'><a href='http://iswdataclient.azurewebsites.net/webindex.aspx?dbkey=tomgreencad&time=201902261134059'>Pay Property Tax</a></li><li class='col-header'><a href='/page/dcl.JurorInfo'>Report For Jury Duty</a></li></ul></ul></li></ul></div>
+    <div id="cycle-headers" class="sr-only">Use SPACEBAR to cycle through the dropdown menu headers</div>
+</div>
+<!-- ezcrawl-ignore-end -->
+</div>
+        
+</div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div id="headerwrapper" class="outercontainer floatleft clearfix">
+                <div id="header" class="innercontainer mobile-center clearfix no-margin">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder2_ContentRepeater2_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+
+<div class="ezlayout2">
+    <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ezCol1_0" class="ezlayout2Col1" style="width:67%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_0_divImage_0" class="imagesizeitLeft">
+<a href="/page/homepage" id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_0_aImage_0"><h1><img src="/upload/shared/widgets/image/000020/logo.png" id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater1_0_ctl00_0_imgImage_0" alt="Tom Green Logo
+" class="Noimagesizeit" /></h1></a>
+</div>
+</div>
+                    
+        </div>
+    </div>
+
+    <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ezCol2_0" class="ezlayout2Col2" style="width:33%;">
+        <div class="widgettable">
+                
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater2_0_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;"><div id="socialmedia">
+    <a href="/page/homepage" aria-label="Go to Homepage" title="Go to Homepage"><i class="fa fa-home"></i></a>
+    <a href="/page/co.contactus" aria-label="Contact Us" title="Contact Us"><i class="fa fa-envelope"></i></a>
+    <a href="/page/sitemap_main" aria-label="Sitemap" title="Sitemap"><i class="fa fa-sitemap"></i></a>
+</div></div>
+                    
+                        <div id="ContentPlaceHolder2_ContentRepeater2_ctl00_0_ContentRepeater2_0_WidgetBox_1" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<!-- This is the search box markup -->
+<div id="searchbox">
+    <div type="submit" onClick="return executeQuery();" id="cse-search-box-form-id" class="input-wrapper">
+        <input type="text" id="cse-search-input-box-id" size="25" autocomplete="off" aria-label="Search" placeholder="Search Tom Green County">
+        <button type="submit" value="Search" id="ezSearchbutton"><img src="/templates/t_images/search.png" 
+
+alt="Search this website" /></button>
+    </div>
+</div>
+
+
+<!-- This is the script to detect and handle our custom search markup -->
+
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box-form-id&amp;inputbox=cse-
+
+search-input-box-id">
+</script>
+
+<!-- This is the script to perform the search on enter or click -->
+
+<script type="text/javascript">
+    function executeQuery() {
+        var input = document.getElementById('cse-search-input-box-id');
+        var element = google.search.cse.element.getElement('searchresults-only0');
+        var ezbutton = document.getElementById('ezSearchbutton');
+            input.onkeyup = function(e) {
+                if (e.keyCode == 13) {
+                    element.execute(input.value)
+                    e.preventDefault();
+                }
+            }
+            input.onkeydown = function(e) {
+                if (e.keyCode == 13) {
+                    e.preventDefault();
+                }
+            }
+            input.onkeypress = function(e) {
+                if (e.keyCode == 13) {
+                    e.preventDefault();
+                }
+            }
+            ezbutton.onclick = function() {
+                element.execute(input.value)
+            }
+            return false;
+    }
+</script></div>
+                    
+        </div>
+    </div>
+</div>
+
+</div>
+        
+</div>
+
+                </div>
+            </div>
+            <!--end of headerwrapper-->
+
+            <div id="contentwrapper" role="main" aria-label="main-content" class="outercontainer floatleft secondary">
+                <div id="clock" class="innercontainer"></div>
+                <div id="contentwrapperin" class="innercontainer clearfix">
+                    <div id="contentleft" class="floatleft">
+                        <div id="contentleftin">
+                            
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder4_ContentRepeater4_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:0px;">
+<div class="eztext_area">
+<span class="text_topper">Quicklinks</span>
+</div></div>
+        
+            <div id="ContentPlaceHolder4_ContentRepeater4_WidgetBox_1" class="widgetitem" style="margin-top:0px;margin-bottom:5px;">
+<!-- ezcrawl-ignore-start -->
+<div tabindex="0" id="ctl00_ContentPlaceHolder4_ContentRepeater4_ctl01_ctl00_RadMenu1" class="RadMenu RadMenu_ezSilk rmSized TelerikRadMenu">
+	<!-- 2021.1.119.45 --><ul class="rmRootGroup rmVertical">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/page/ele.ElectHomeNew">Elections Home</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.VoterRegistration">Voter Registration</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.PollingInfo">Election & Polling Information</a></li><li class="rmItem "><a class="rmLink rmRootLink" target="_blank" href="/upload/page/0028/docs/PhotoIDLaw.pdf">Photo ID Law</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.ElectionsResults">Election Results</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.CampFinReports">Campaign Finance</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.publicofficials">Public Officials/Candidate Information</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.PollWorkers">Poll Workers</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.forms">Forms</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.Notices">Election \ Canvass \ Convention Notices</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.VotingRosters">Elections Voting Rosters</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.Order">Order of Election/Resolutions</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.training">Training</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.volunteer">Volunteer Deputy Registrar Training</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.redistricting">2021 Redistricting</a></li><li class="rmItem "><span class="rmLink rmRootLink" tabindex="0">-------------------------------</span></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.ElectHomeNew">Página Principal</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.VoterRegistration">Registro de Electores</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.PollingInfo">Información de Elecciones y de Sondeo</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/upload/page/0028/docs/PhotoIDLaw.pdf">Ley de Identificación con Foto</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.ElectionsResults">Resultados de las Elecciones</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.ESPCampFinReports">Finanzas de Campaña</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.publicofficials">Funcionarios Publicos/candidatos</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.PollWorkers">Trabajadores Electorales</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.ESPforms">Formas</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.notices">Avisos</a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/page/ele.Order">Orden de Elección/Resoluciones</a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/page/ele.redistricting">2021 Redistribución de distritos</a></li>
+	</ul><input id="ctl00_ContentPlaceHolder4_ContentRepeater4_ctl01_ctl00_RadMenu1_ClientState" name="ctl00_ContentPlaceHolder4_ContentRepeater4_ctl01_ctl00_RadMenu1_ClientState" type="hidden" />
+</div>
+
+
+
+
+    <script type="text/javascript">
+        var CurrentRadMenu;
+        var currentRadMenuObject;
+        var CurrentRadMenuItem;
+        var CurrentOpenedRadMenuItem;
+
+        function DropDownItemSelected_ContentPlaceHolder4_ContentRepeater4_ctl00_1(sender, eventArgs) {
+            var item = eventArgs.get_item();
+            item.set_selected(false);
+        }
+
+        function onRadMenuItemFocus(sender, args) {
+            //Enables tabbing through menu items including dropdowns
+            currentRadMenuObject = sender;
+            CurrentRadMenu = sender.get_element(); //store a reference to the menu element whose item is currently in focus
+            CurrentRadMenuItem = args.get_item(); //The focused menu item
+            CurrentOpenedRadMenuItem = sender.get_openedItem(); //store reference to opened dropdown - sender.get_openedItem().close()
+            CurrentRadMenuItem.open();
+        }
+
+        function onDropdownListLoad(sender, args) {
+            //Enables tabbing through dropdown lists
+            var dropdown = $(sender.get_dropDownElement());
+            var element = $(sender.get_element());
+            dropdown.find(".dropitems").attr("tabindex",0);
+        }
+
+        function removeMenuTabIndex() {
+            $telerik.$(".RadMenu[tabindex=0]").removeAttr("tabindex");
+            $telerik.$(".RadPanelBar[tabindex=0]").removeAttr("tabindex");
+            Sys.Application.remove_load(removeMenuTabIndex);
+        }
+        Sys.Application.add_load(removeMenuTabIndex);
+    </script>
+
+<!-- ezcrawl-ignore-end -->
+</div>
+        
+</div>
+
+                        </div>
+                    </div>
+                    <div id="contentright" class="floatright">
+                        <div id="contentrightin">
+                            
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder3_ContentRepeater3_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:30px;">
+<div class="eztext_area">
+<span class="Heading1">County Elections<br />
+<hr />
+</span>
+</div></div>
+        
+</div>
+
+                            
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_0" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="headline" style="text-align: center;"><span style="text-align: center; font-family: ralewayregular, sans-serif; font-size: 24px; color: #140f6b;"><br />
+<br />
+Link for&nbsp;</span><a href="https://www.tomgreencountytx.gov/page/ele.ElectionsResults" title="Election Results" style="font-family: ralewayregular, sans-serif; font-size: 24px; text-align: center;">Election Results</a><br />
+&nbsp;<br />
+<p style="margin: 0in 0in 0pt; text-align: center;"><span style="font-size: 20px;"><strong><span style="font-size: 14pt; font-family: Calibri;">
+<span style="font-size: 20px;">Contact Information<br />
+</span><span lang="es"><span style="font-size: 20px;">Informaci&oacute;n del contacto</span><br />
+<br />
+</span></span></strong></span></p>
+</div>
+<div class="story">
+<p style="text-align: center;"><span style="font-size: 14px;">Edd B. &amp; Frances Frink Keyes Building<br />
+113 W. Beauregard Street<br />
+1st Floor/Pimer Piso<br />
+San Angelo, Texas 76903
+<br />
+<br />
+<strong><span style="text-decoration: underline;">Phone/Telefono:</span></strong> 325-659-6541&nbsp;<br />
+<strong><span style="text-decoration: underline;">Fax:</span></strong> 325-657-9226
+<br />
+<strong><span style="text-decoration: underline;">Email/Correro Electronico:</span></strong> <a href="mailto:elections@co.tom-green.tx.us">elections@co.tom-green.tx.us</a><br />
+<br />
+<br />
+</span></p>
+</div>
+</div></div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_1" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="headline">
+<p style="text-align: center;">Hours of Operation<br />
+Horas de Operacion</p>
+</div>
+<div class="story" style="text-align: center;">Monday-Friday: 8:00am - 5:00pm <em>Closed for lunch 12-1 pm</em><br />
+<br />
+Lunes-Viernes: 8:00am - 5:00pm <em>Cerrado de 12-1pm para el almuerzo<br />
+<br />
+</em></div>
+</div></div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_2" class="widgetitem" style="margin-top:0px;margin-bottom:0px;"><div id="ContentPlaceHolder5_ContentRepeater5_ctl00_2_divImage_2" class="imagesizeit">
+<a id="ContentPlaceHolder5_ContentRepeater5_ctl00_2_aImage_2"><img src="/upload/page/0090/widgets/image/001084/votes1.jpg" id="ContentPlaceHolder5_ContentRepeater5_ctl00_2_imgImage_2" alt="All Vote" title="Vote" class="Noimagesizeit" /></a>
+</div>
+</div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_3" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="story"><span style="font-size: 12px; font-family: georgia;">
+</span>
+<div style="text-align: center;"><em><span style="font-size: 26px;"><br />
+</span></em></div>
+<div style="text-align: center;"><em><span style="font-size: 28px;">Welcome to Tom Green County Election <br />
+<br />
+&amp; Voter Registration</span></em></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><em><span style="font-size: 26px; font-family: tahoma;">Bienvenidos a la Oficina de Elecciones y de la Registraci&oacute;n <br />
+</span></em></div>
+<div style="text-align: center;"><em><span style="font-size: 26px; font-family: tahoma;"><br />
+</span></em></div>
+<div style="text-align: center;"><em><span style="font-size: 26px; font-family: tahoma;">de Votantes del Condado de Tom Green</span><span style="font-size: 26px;"><span style="font-size: 26px;"><br />
+</span><br />
+</span></em>
+</div>
+</div>
+</div></div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_4" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="headline" style="text-align: center;"><span style="font-size: 18px;"><span style="font-size: 22px;"><strong>Our Staff</strong></span>&nbsp; <em>Nuestro Personal<br />
+</em></span></div>
+<div class="story"><span style="font-size: 14px;"><br />
+<span style="font-size: 18px;"><strong>Election Administrator</strong></span><span style="font-size: 18px;"> <em>Administradora de Elecciones</em>:&nbsp; <span style="font-size: 18px;">Vona Hudson<br />
+<br />
+</span>
+<strong><span style="font-size: 18px;">Election Coordinator</span></strong> <em>Coordinador de Elecciones</em>:&nbsp; <span style="font-size: 18px;">Kathy Pyburn</span><span style="font-size: 18px;"><br />
+</span><span style="font-size: 18px;"><strong><br />
+</strong></span></span></span>
+<div><span style="font-size: 16px;"><span style="font-size: 18px;"><span style="font-size: 18px;"><strong>
+Election Clerks</strong></span> <em>Empleados de Elecciones</em>:&nbsp;&nbsp;</span><span style="font-size: 18px;">&nbsp;Catarino Chavez &amp;&nbsp;</span></span><span style="font-size: large;">Mary Wright</span></div>
+<div><span style="font-size: 18px;"><strong>
+</strong></span><span style="font-size: 14px;">
+</span></div>
+<span style="font-size: 14px;">
+</span>
+<div class="tw-ta-container tw-nfl" id="tw-target-text-container"><span style="font-size: 16px;">&nbsp;</span></div>
+<span style="font-size: 14px;">
+</span>
+</div>
+</div></div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_5" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="headline" style="text-align: center;"><hr />
+<span style="font-size: 18px;">Voting Entities Served Include/Las entidades de votaci&oacute;n atendidas incluyen</span><span style="font-size: 18px;">:</span></div>
+<div class="story">
+<ul><span style="font-size: 14px;"></span>
+    <li><span style="font-size: 14px;">State (Example: Constitutional Amendments) <span style="color: #333333;"><em><span style="font-family: georgia;">Estado (Ejemplo: Enmiendas Constitucionales)</span></em></span></span></li>
+    <span style="font-size: 14px;"></span>
+    <li><span style="font-size: 14px;">Tom Green County <span style="color: #333333;"><em><span style="font-family: georgia;">Condado de Tom Green</span></em></span></span></li>
+    <span style="font-size: 14px;"></span>
+    <li><span style="font-size: 14px;">City of San Angelo <span style="color: #333333;"><em><span style="font-family: georgia;">Ciudad de San Angelo </span></em></span></span></li>
+    <span style="font-size: 14px;"></span>
+    <li><span style="font-size: 14px;">Independent School Districts <span style="color: #333333;"><em><span style="font-family: georgia;">Distritos Escolar Independiente</span></em> </span></span></li>
+    <span style="font-size: 14px;"></span>
+    <ul>
+        <li><span style="font-size: 14px;">Christoval</span></li>
+    </ul>
+    <span style="font-size: 14px;"></span>
+    <ul>
+        <li><span style="font-size: 14px;">Grape Creek</span></li>
+    </ul>
+    <span style="font-size: 14px;"></span>
+    <ul>
+        <li><span style="font-size: 14px;">Veribest</span></li>
+        <li><span style="font-size: 14px;">Wall</span></li>
+    </ul>
+    <span style="font-size: 14px;"></span>
+    <ul>
+        <li><span style="font-size: 14px;">Water Valley </span></li>
+    </ul>
+    <span style="font-size: 14px;"></span>
+    <li><span style="font-size: 14px;">Several Water Districts <em><span style="font-family: georgia;">Varios distritos de aqua<br />
+    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;</span></em><span style="font-family: georgia; font-size: 18px;">&nbsp;&nbsp;&nbsp;<br />
+    </span></span></li>
+</ul>
+<hr />
+<ul>
+</ul>
+</div>
+</div></div>
+        
+            <div id="ContentPlaceHolder5_ContentRepeater5_WidgetBox_6" class="widgetitem" style="margin-top:0px;margin-bottom:0px;">
+<div class="eztext_area">
+<div class="headline">
+<p style="text-align: center;"> </p>
+</div>
+<div class="story" style="text-align: center;"><span style="font-size: 16px;">
+</span>
+<div class="tw-ta-container tw-nfl" id="tw-target-text-container">
+</div>
+<div style="text-align: center;"><span style="text-decoration-line: underline; font-size: x-large;"><br />
+TGC ELECTIONS DEPARTMENT LIVE FEEDS<br />
+<br />
+</span></div>
+<p style="text-align: center;"><span style="font-size: 14px;">
+<a href="https://www.youtube.com/channel/UC2YrLIRaZb1MvoZmQJW7VDg" target="_blank" id="Elections youtube stream 1" title="youtube link">- EARLY VOTING BALLOT BOARD &amp; COUNTING ROOM</a>&nbsp;- Available during the election period</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">OR</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">- <a href=" https://www.youtube.com/channel/UClNfWHlAo3dHFly7EsQLZ2w" target="_blank" id="Elections youtube stream 2" title="youtube link">CENTRAL COUNT</a>&nbsp; - Available on election days<br />
+<br />
+-------------------------------------------------------------------------------------------------------------------------<br />
+<br />
+<a href="https://youtu.be/AgwiBxYFUes" target="_blank" title="How to Vote"><span style="font-size: 18px;">How to Vote with Verity Duo</span></a><br />
+</span></p>
+</div>
+</div></div>
+        
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="footerwrapper" class="outercontainer floatleft topnavcolor">
+                <div id="footer" class="innercontainer clearfix">
+                    
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder7_ContentRepeater7_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p style="text-align: center;"><img alt="Tom Green County Seal" src="/upload/template/0001/images/footer_logo.png" /></p>
+<p style="text-align: center;">Tom Green County Courthouse<br />
+112 W. Beauregard<br />
+San Angelo, TX 76903</p>
+</div></div>
+        
+</div>
+
+                </div>
+            </div>
+
+            <div id="eztagwrapper" class="outercontainer floatleft secondarycolor">
+                <div id="eztag" class="innercontainer clearfix no-margin">
+                    <div id="eztagin" class="innercontainer clearfix floatleft">
+                        
+<div class="widgettable">
+    
+            <div id="ContentPlaceHolder8_ContentRepeater8_WidgetBox_0" class="widgetitem" style="margin-top:5px;margin-bottom:5px;">
+<div class="eztext_area">
+<p>Copyright &copy; 2024 - Tom Green County, Texas</p>
+</div></div>
+        
+</div>
+
+                    </div>
+                    <div id="poweredby" class="innercontainer clearfix floatleft">
+                        <p>
+                            <span class="eztask">powered by</span>
+                            <a class="eztask" title="ezTask: Exceptional websites that are affordable and easy to
+update!" href="http://www.eztask.com/" target="_blank"><strong>ezTask</strong>Titanium </a><a class="eztask"><sup>TM</sup></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ContentPlaceHolder1_RadScriptManager1_TSM');Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_flow":0,"_renderMode":2,"_skin":"ezSilk","clientStateFieldID":"ctl00_ContentPlaceHolder4_ContentRepeater4_ctl01_ctl00_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","expandDelay":300,"itemData":[{"navigateUrl":"/page/ele.ElectHomeNew"},{"navigateUrl":"/page/ele.VoterRegistration"},{"navigateUrl":"/page/ele.PollingInfo"},{"navigateUrl":"/upload/page/0028/docs/PhotoIDLaw.pdf","target":"_blank"},{"navigateUrl":"/page/ele.ElectionsResults"},{"navigateUrl":"/page/ele.CampFinReports"},{"navigateUrl":"/page/ele.publicofficials"},{"navigateUrl":"/page/ele.PollWorkers"},{"navigateUrl":"/page/ele.forms"},{"navigateUrl":"/page/ele.Notices"},{"navigateUrl":"/page/ele.VotingRosters"},{"navigateUrl":"/page/ele.Order"},{"navigateUrl":"/page/ele.training"},{"navigateUrl":"/page/ele.volunteer"},{"navigateUrl":"/page/ele.redistricting"},{},{"navigateUrl":"/page/ele.ElectHomeNew"},{"navigateUrl":"/page/ele.VoterRegistration"},{"navigateUrl":"/page/ele.PollingInfo"},{"navigateUrl":"/upload/page/0028/docs/PhotoIDLaw.pdf"},{"navigateUrl":"/page/ele.ElectionsResults"},{"navigateUrl":"/page/ele.ESPCampFinReports"},{"navigateUrl":"/page/ele.publicofficials"},{"navigateUrl":"/page/ele.PollWorkers"},{"navigateUrl":"/page/ele.ESPforms"},{"navigateUrl":"/page/ele.notices"},{"navigateUrl":"/page/ele.Order"},{"navigateUrl":"/page/ele.redistricting"}]}, {"itemFocus":onRadMenuItemFocus}, null, $get("ctl00_ContentPlaceHolder4_ContentRepeater4_ctl01_ctl00_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+        <script type="text/javascript" src="/runtime/scripts/custom.js"></script>
+        <script type="text/javascript" src="/runtime/scripts/ezalert.js"></script>
+        <script type="text/javascript" src="/common/scripts/ezpopup.js"></script>
+        <gcse:searchresults-only linkTarget="_parent"></gcse:searchresults-only>
+        <script type="text/javascript">
+            ezPopup.init("/page/rss/1623");
+        </script>
+    </body>
+
+    </html>
+    
+    

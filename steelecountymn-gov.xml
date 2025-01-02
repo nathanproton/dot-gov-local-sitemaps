@@ -1,0 +1,610 @@
+
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+
+	<base href="https://steelecountymn.gov/" />
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!--Metadata Area Starts-->	
+  
+
+
+
+ 
+
+
+
+
+	<title>404. The page/URL requested wasn't found on this site.</title>
+
+
+
+	<meta name="keywords" content="Welcome,to,Steele,County, MN"/>
+
+
+
+	<meta name="description" content="Welcome to Steele County, MN"/>
+
+
+<!--Metadata Area Ends-->
+    
+    
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+
+    
+    
+ 
+    
+    <link href='https://fonts.googleapis.com/css?family=Lora:700italic,700,400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300italic,300,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    
+	<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">	
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/css/animate.min.css">			
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+	<!-- Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms2.revize.com'
+
+RZ.pagetemplatename = 'fullwidth'
+RZ.pagetemplateid = '5'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '4301';
+
+RZ.pageid = 'links-4301';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '4301';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=4301';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=4301';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '4301';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '4301';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = ''
+RZ.page_key = 'fullwidth[4301]'
+RZ.parent_key = 'admin[]'
+RZ.inherit_key = ''
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'steelecountynew'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms2.revize.com/revize/steelecountynew';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@co.steele.mn.us";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-158751502-1";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "600";
+RZ.webspace_config.image_maxwidth = "600";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "subscribers@co.steele.mn.us";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = "webspace_page_permissions record not found where: webspace_page_permissions.page_key=admin[]"
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,Production';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+
+   
+<div id="left" class="matchIt">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div id="logo-wrapper">
+                       <div id="main-shade"></div>
+                        <div class="container-fluid">
+                            <div class="row">
+                                 <div class="col-md-12">
+                                
+<!-- Logo Area Starts -->                                  
+                                    <a href="./" id="logo">
+                                    <img src="_assets_/images/logo.png" alt="steele county">
+                                    <br>
+                                    minnesota
+                                    </a><!-- /#logo -->
+<!-- Logo Area Ends -->                                      
+                                    
+                                    <div id="nav-toggle" class="fa fa-bars"></div>
+                                    <div id="search-toggle" class="fa fa-search"></div>
+                                </div><!-- /.col-md-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.container-fluid -->
+                    </div><!-- /#logo-wrapper -->
+                    <div id="nav-wrapper">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-12">
+                                   <div class="row">
+                                    
+ <!--Topnav Area Starts-->	 
+                    		
+                             
+
+
+ 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-47 children"><a class="menuA level0 menuDisplay" href="divisions/index.php" target="_self">Departments</a>
+		<ul class="menuUL level1 menuHidden ul-6043">
+			<li class="menuLI level1 menuHidden li-6043"><a class="menuA level1 menuHidden" href="administration/index.php" target="_self">Administration</a></li>
+			<li class="menuLI level1 menuHidden li-6044"><a class="menuA level1 menuHidden" href="assessor/index.php" target="_self">Assessor</a></li>
+			<li class="menuLI level1 menuHidden li-6045"><a class="menuA level1 menuHidden" href="attorney/index.php" target="_self">Attorney</a></li>
+			<li class="menuLI level1 menuHidden li-6046"><a class="menuA level1 menuHidden" href="auditor/index.php" target="_self">Auditor</a></li>
+			<li class="menuLI level1 menuHidden li-6048"><a class="menuA level1 menuHidden" href="commissioners/index.php" target="_self">Commissioners</a></li>
+			<li class="menuLI level1 menuHidden li-6049"><a class="menuA level1 menuHidden" href="community_corrections/index.php" target="_self">Community Corrections</a></li>
+			<li class="menuLI level1 menuHidden li-6050"><a class="menuA level1 menuHidden" href="court_administration/index.php" target="_self">Court Administration</a></li>
+			<li class="menuLI level1 menuHidden li-6051"><a class="menuA level1 menuHidden" href="detention_center/index.php" target="_self">Detention Center</a></li>
+			<li class="menuLI level1 menuHidden li-6052"><a class="menuA level1 menuHidden" href="elections/index.php" target="_self">Elections</a></li>
+			<li class="menuLI level1 menuHidden li-6053"><a class="menuA level1 menuHidden" href="emergency_management/index.php" target="_self">Emergency Management</a></li>
+			<li class="menuLI level1 menuHidden li-6054"><a class="menuA level1 menuHidden" href="environmental_services/index.php" target="_self">Environmental Services</a></li>
+			<li class="menuLI level1 menuHidden li-6055"><a class="menuA level1 menuHidden" href="extension/index.php" target="_self">Extension Office</a></li>
+			<li class="menuLI level1 menuHidden li-6056"><a class="menuA level1 menuHidden" href="maintenance/index.php" target="_self">Facilities & Fleet</a></li>
+			<li class="menuLI level1 menuHidden li-6057"><a class="menuA level1 menuHidden" href="finance/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-6058"><a class="menuA level1 menuHidden" href="four_seasons/index.php" target="_self">Four Seasons Centre</a></li>
+			<li class="menuLI level1 menuHidden li-6059"><a class="menuA level1 menuHidden" href="gis/index.php" target="_self">GIS (Geographic Information Systems)</a></li>
+			<li class="menuLI level1 menuHidden li-6060"><a class="menuA level1 menuHidden" href="highway/index.php" target="_self">Highway</a></li>
+			<li class="menuLI level1 menuHidden li-6061"><a class="menuA level1 menuHidden" href="hr/index.php" target="_self">Human Resources</a></li>
+			<li class="menuLI level1 menuHidden li-6062"><a class="menuA level1 menuHidden" href="mnprairie/index.php" target="_self">Human Services (MNPrairie)</a></li>
+			<li class="menuLI level1 menuHidden li-6064"><a class="menuA level1 menuHidden" href="landfill/index.php" target="_self">Landfill</a></li>
+			<li class="menuLI level1 menuHidden li-6065"><a class="menuA level1 menuHidden" href="park_and_recreation/index.php" target="_self">Park & Recreation</a></li>
+			<li class="menuLI level1 menuHidden li-6066"><a class="menuA level1 menuHidden" href="planning_and_zoning/index.php" target="_self">Planning & Zoning</a></li>
+			<li class="menuLI level1 menuHidden li-8527"><a class="menuA level1 menuHidden" href="property_tax___elections/index.php" target="_self">Property Tax & Elections</a></li>
+			<li class="menuLI level1 menuHidden li-6067"><a class="menuA level1 menuHidden" href="public_health/index.php" target="_self">Public Health</a></li>
+			<li class="menuLI level1 menuHidden li-6068"><a class="menuA level1 menuHidden" href="recorder/index.php" target="_self">Recorder</a></li>
+			<li class="menuLI level1 menuHidden li-6069"><a class="menuA level1 menuHidden" href="sheriff/index.php" target="_self">Sheriff</a></li>
+			<li class="menuLI level1 menuHidden li-6072"><a class="menuA level1 menuHidden" href="treasurer/index.php" target="_self">Treasurer</a></li>
+			<li class="menuLI level1 menuHidden li-6071"><a class="menuA level1 menuHidden" href="veteran_services/index.php" target="_self">Veteran Services</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-5399 children"><a class="menuA level0 menuDisplay" href="your_government/index.php" target="_self">Your Government</a>
+		<ul class="menuUL level1 menuHidden ul-6553">
+			<li class="menuLI level1 menuHidden li-6553"><a class="menuA level1 menuHidden" href="commissioners/index.php" target="_self">County Commissioners</a></li>
+			<li class="menuLI level1 menuHidden li-6554"><a class="menuA level1 menuHidden" href="Auditor/24TWPOFF.pdf" target="_new">Township Officials</a></li>
+			<li class="menuLI level1 menuHidden li-6555"><a class="menuA level1 menuHidden" href="divisions/index.php" target="_self">County Departments</a></li>
+			<li class="menuLI level1 menuHidden li-6573"><a class="menuA level1 menuHidden" href="https://www.mncourts.gov/steele.aspx" target="_new">Judicial Branch</a></li>
+			<li class="menuLI level1 menuHidden li-6557"><a class="menuA level1 menuHidden" href="your_government/state_government/index.php" target="_self">State Government</a></li>
+			<li class="menuLI level1 menuHidden li-6558"><a class="menuA level1 menuHidden" href="your_government/federal_government/index.php" target="_self">Federal Government</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-49 children"><a class="menuA level0 menuDisplay" href="visitors/index.php" target="_self">Visitors</a>
+		<ul class="menuUL level1 menuHidden ul-802">
+			<li class="menuLI level1 menuHidden li-802"><a class="menuA level1 menuHidden" href="visitors/about_steele_county/index.php" target="_self">About Steele County</a></li>
+			<li class="menuLI level1 menuHidden li-6612"><a class="menuA level1 menuHidden" href="calendar.php" target="_self">Calendar of Events</a></li>
+			<li class="menuLI level1 menuHidden li-7992"><a class="menuA level1 menuHidden" href="visitors/chamber_of_commerce/index.php" target="_self">Chambers of Commerce</a></li>
+			<li class="menuLI level1 menuHidden li-799"><a class="menuA level1 menuHidden" href="https://www.steelecountymn.gov/four_seasons/index.php" target="_new">Four Seasons Centre</a></li>
+			<li class="menuLI level1 menuHidden li-6610"><a class="menuA level1 menuHidden" href="https://www.schsmn.org/" target="_new">Historical Society</a></li>
+			<li class="menuLI level1 menuHidden li-1200"><a class="menuA level1 menuHidden" href="park_and_recreation/index.php" target="_self">Park & Recreation</a></li>
+			<li class="menuLI level1 menuHidden li-7562"><a class="menuA level1 menuHidden" href="visitors/southern_minnesota_area_rural_transit_(smart).php" target="_self">Southern Minnesota Area Rural Transit (SMART)</a></li>
+			<li class="menuLI level1 menuHidden li-6611"><a class="menuA level1 menuHidden" href="https://scff.org/" target="_new">Steele County Fair</a></li>
+			<li class="menuLI level1 menuHidden li-5436"><a class="menuA level1 menuHidden" href="visitors/steele_county_free_fair.php" target="_self">Steele County Fairgrounds</a></li>
+			<li class="menuLI level1 menuHidden li-6609"><a class="menuA level1 menuHidden" href="https://visitowatonna.org/visit-owatonna/village-of-yesteryear/" target="_new">Village of Yesteryear</a></li>
+			<li class="menuLI level1 menuHidden li-7478"><a class="menuA level1 menuHidden" href="four_seasons/visitor_information.php" target="_self">Visitor Information</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-51 children"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a>
+		<ul class="menuUL level1 menuHidden ul-6536">
+			<li class="menuLI level1 menuHidden li-6536"><a class="menuA level1 menuHidden" href="residents/assistance___support.php" target="_self">Assistance & Support</a></li>
+			<li class="menuLI level1 menuHidden li-6487"><a class="menuA level1 menuHidden" href="administration/fee_schedules.php" target="_self">County Fee Schedules</a></li>
+			<li class="menuLI level1 menuHidden li-6545"><a class="menuA level1 menuHidden" href="elections/index.php" target="_self">Elections & Voting</a></li>
+			<li class="menuLI level1 menuHidden li-6546"><a class="menuA level1 menuHidden" href="four_seasons/shows_and_event_information.php" target="_self">Event Spaces</a></li>
+			<li class="menuLI level1 menuHidden li-4355"><a class="menuA level1 menuHidden" href="residents/online_services.php" target="_self">Online Services</a></li>
+			<li class="menuLI level1 menuHidden li-535"><a class="menuA level1 menuHidden" href="auditor/tax_information___parcel_data.php" target="_self">Parcel Information</a></li>
+			<li class="menuLI level1 menuHidden li-6547"><a class="menuA level1 menuHidden" href="auditor/tax_information___parcel_data.php" target="_self">Property Tax</a></li>
+			<li class="menuLI level1 menuHidden li-537"><a class="menuA level1 menuHidden" href="environmental_services/recycling_information.php" target="_self">Recycling Information</a></li>
+			<li class="menuLI level1 menuHidden li-542"><a class="menuA level1 menuHidden" href="residents/community_information/index.php" target="_self">Public Hearings & Notices, Events & News</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-55"><a class="menuA level0 menuDisplay" href="how_do_i/index.php" target="_self">FAQ's</a></li>
+	<li class="menuLI level0 menuDisplay li-57 children"><a class="menuA level0 menuDisplay" href="quick_links/index.php" target="_self">Quick Links</a>
+		<ul class="menuUL level1 menuHidden ul-1063">
+			<li class="menuLI level1 menuHidden li-1063"><a class="menuA level1 menuHidden" href="https://secure3.entertimeonline.com/ta/6128339.jobs?ShowAllOpenings" target="_new">Employment Opportunities</a></li>
+			<li class="menuLI level1 menuHidden li-7152"><a class="menuA level1 menuHidden" href="quick_links/data_practices.php" target="_self">Data Practices & Request Forms</a></li>
+			<li class="menuLI level1 menuHidden li-1064"><a class="menuA level1 menuHidden" href="visitors/about_steele_county/facts_and_figures.php" target="_self">Facts & Figures</a></li>
+			<li class="menuLI level1 menuHidden li-8496"><a class="menuA level1 menuHidden" href="https://steele-county-hub-site-steelecomn.hub.arcgis.com/" target="_new">GIS Land Hub</a></li>
+			<li class="menuLI level1 menuHidden li-6559"><a class="menuA level1 menuHidden" href="https://www.facebook.com/SteeleCountyMN/" target="_new">Steele County Facebook</a></li>
+			<li class="menuLI level1 menuHidden li-1062"><a class="menuA level1 menuHidden" href="Quick Links/Adopted_5_14_13_Mission___Vision__Values__Statement.pdf" target="_new">Steele County Mission Statement</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-59"><a class="menuA level0 menuDisplay" href="contact_info/index.php" target="_self">Contact Info</a></li>
+</ul>
+
+
+
+
+
+
+<!--Topnav Area Ends-->	
+
+                                    </div><!-- /.row -->
+                                </div><!-- /.col-md-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.container-fluid -->
+                    </div><!-- /#nav-wrapper -->
+                </div><!-- /.row -->
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div><!-- /#left -->
+<div class="main-wrap">
+ <div id="right" class="matchIt">
+     <div class="container-fluid">
+         <div class="row">
+             <div class="col-md-12">
+                 <div class="row">
+                     <div id="social-search">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="row make-relative">
+                                        <div class="col-md-6 col-md-offset-6">
+                                        
+<!--Search Area Starts-->	                                        
+                                            <div id="search" class="pull-right">
+                                                <form class="search-form" method="get" action="search.php">
+                                                    <input name="q" class="form-control search-input" placeholder="Search..." type="search" id="search-input">
+                                                    <button>Go</button>
+                                                </form><!-- /.search-form -->
+                                            </div><!-- /#search -->
+<!--Search Area Ends-->	
+
+<!--Social Area Starts-->	                                            
+                                            <div id="social" class="hidden-sm ">
+                                                                                              
+
+
+
+ 
+
+
+
+            <a href="https://www.facebook.com/SteeleCountyMN"><i class="fa fa-facebook"></i></a>
+            
+
+
+	   <a href="https://www.twitter.com/srgolberg1"><i class="fa fa-twitter"></i></a>
+	   
+   
+											</div><!-- /#social -->
+<!-- Social Area Ends --> 
+                                      
+                                         </div><!-- /.col-lg-3 -->
+                                    </div><!-- /.row -->
+                                </div><!-- /.col-lg-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.container-fluid -->
+                    </div><!-- /#social-search -->
+                    <div id="freeform-slider">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="row">
+                                        <div id="freeform-caption">
+                                            <div class="container v-align">
+                                                <div class="row">
+                                                    <div class="col-md-12">
+                                                        <div class="freeform-caption">
+
+<!--Page Header Starts-->	
+                                                            
+								  
+                                                          <h1>404. The page/URL requested wasn't found on this site.</h1> 
+<!--Page Header Ends-->	                                                           
+
+<!--Breadcrumb Area Starts-->	                                                            
+                                                            <div class="breadcrumbs">
+                                                              <p><a href="./">Home</a> <span>&nbsp;&rsaquo;&nbsp;</span>&nbsp;not&nbsp;found </p>
+                                                            </div>
+<!--Breadcrumb Area Ends-->	                                                            
+                                                            
+                                                        </div><!-- /.slider-caption -->
+                                                    </div><!-- /.col-md-12 -->
+                                                </div><!-- /.row -->
+                                            </div><!-- /.container -->
+                                        </div><!-- /#freeform-caption -->
+                                        
+<!--Banner Area Starts-->	
+									<div class="sliderbtn">
+                                              
+                                              
+                                              
+                                              <script language="JavaScript" type="text/JavaScript">
+                                              RZ.module = 'banner';
+                                              RZ.nexturl = "editforms/banner-editform.jsp";
+                                              RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                                              RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
+                                              RZ.set = 'banner.pageid=links-4301';
+                                              RZ.options = '';
+                                              if (typeof RZaction != 'undefined') RZaction('editform');
+                                              </script>
+                                              
+                                     </div>
+									
+                                        
+                                                                                
+                                    <ul class="bxslider">
+                                        <li style="background:url('_assets_/images/freeform-slider.jpg') center top no-repeat;background-size:cover"></li>
+                                    </ul><!-- /.bxslider -->
+                                    
+<!--Banner Area Ends-->	   
+                                    </div><!-- /.row -->
+                                </div><!-- /.col-md-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.container-fluid -->
+                    </div><!-- /#freeform-slider -->
+                    <div id="articles">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="row">
+                                        <div class="entry equal">
+                                        
+<!--Center Content Area Starts-->                                          
+                                            <div class="post">
+                                               <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td>
+                                                        
+                                                        
+                                                        
+                                                        <script language="JavaScript" type="text/JavaScript">
+                                                        RZ.module = 'freeform';
+                                                        RZ.recordid = '';
+                                                        RZ.nexturl = "editforms/freeform-editform.jsp";
+                                                        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                                                        RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
+                                                        RZ.set = "freeform.pageid=links-4301";
+                                                        RZ.options = '';
+                                                        if (typeof RZaction != 'undefined') RZaction('editform');
+                                                        </script>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <!-- Revize Forward to Edit Form -->
+                                                        <script language="JavaScript" type="text/JavaScript">
+                                                        RZ.module = 'freeform';
+                                                        RZ.recordid = '';
+                                                        RZ.nexturl = "editforms/metadata-editform.jsp";
+                                                        RZ.popupwidth = '1050'; RZ.popupheight = '650'; RZ.popupscroll = 'yes';
+                                                        RZ.img = '<img src="images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
+                                                        RZ.set = "freeform.pageid=links-4301";
+                                                        RZ.options = '';
+                                                        if (typeof RZaction != 'undefined') RZaction('editform');
+                                                        </script>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <script language="JavaScript" type="text/JavaScript">
+                                                        RZ.nexturl = '';
+                                                        RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+                                                        RZ.options = '';
+                                                        if (typeof RZaction != 'undefined') RZaction('permissions');
+                                                        </script>
+                                                        </td>
+                                                </tr>
+                                                </table>
+                                                
+                                           </div><!-- /.post -->
+ <!--Center Content Area Ends-->    
+ 
+                                        </div><!-- /.entry -->
+                                    </div><!-- /.row -->
+                                </div><!-- /.col-lg-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.container-fluid -->
+                    </div><!-- /#articles -->
+                 </div><!-- /.row -->
+             </div><!-- /.col-md-12 -->
+         </div><!-- /.row -->
+     </div><!-- /.container-fluid -->
+ </div><!-- /#right -->
+ 
+<footer class="clearfix">
+    <div class="container-fluid">
+        <div class="row">
+        
+<!-- Copyright Area Starts -->              
+        	<div class="col-md-9 col-sm-12">
+            	 <p>&copy; 2015 &bull; Steele County &bull; 630 Florence Ave, Owatonna, MN 55060 &bull; <a href="tel:5074447400">507-444-7400</a> &bull;&nbsp;<a href="https://outlook.office365.com" target="_blank">Employee Email</a> &bull;&nbsp;<a href="https://secure6.entertimeonline.com/ta/6128339.login" target="_blank">Kronos&nbsp;</a>&bull; <a href="http://portal.office365.com" target="_blank">Office 365</a></p>
+                    
+
+<span id="revize-login">
+                        <span class="powered-by-revize"><span>&nbsp;&#149&nbsp;</span>
+                            Powered By <a id="powered-by-revize-link" target="_blank" href="http://www.revize.com">Revize <span>&nbsp;&#149&nbsp;</span> </a>
+                        </span><!-- /#powered-by-revize -->
+                        
+                            		<a href="https://cms2.revize.com/revize/security/index.jsp?webspace=steelecountynew&filename=/not_found/index.php" id="revize-login-link">Login</a>
+                            	 </span><!-- /#revize-login -->
+
+
+
+          </div><!-- /.col-md-9 -->
+<!-- Copyright Area Ends -->  
+
+            <div class="hidden-lg hidden-md col-sm-12">
+                 <div class="social-sub">
+                            
+<!-- Social Area Starts -->
+                                  
+
+
+
+ 
+
+
+
+            <a href="https://www.facebook.com/SteeleCountyMN"><i class="fa fa-facebook"></i></a>
+            
+
+
+	   <a href="https://www.twitter.com/srgolberg1"><i class="fa fa-twitter"></i></a>
+	   
+   
+<!-- Social Area Ends --> 
+
+				</div><!-- /.social-sub -->
+            </div><!-- /.hidden-lg --> 
+            
+<!-- Footer Logo Area Starts -->               
+            <div class="col-md-3 hidden-sm hidden-xs">
+                <div id="footer-logo">
+                    <a href="./"><img src="_assets_/images/footer-logo.png" alt="steele county"></a>
+                </div><!-- /#footer-logo -->
+            </div><!-- /.col-md-3 -->
+<!-- Footer Logo Area Ends -->              
+            
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</footer><!-- /footer -->
+
+<!--Google Analytics File-->
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MBLN6YYL7Z"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'G-MBLN6YYL7Z');
+
+</script>   
+<!--Google Analytics File-->
+
+</div><!-- /.main-wrap -->  
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+<script src="_assets_/plugins/waypoints/waypoints.min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5113ea471e44f9dd"></script>
+<script type="text/javascript">
+  addthis.layers({
+    'theme' : 'transparent',
+    'share' : {
+      'position' : 'right',
+      'numPreferredServices' : 6
+    }
+  });
+</script>
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-158751502-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</body>
+</html>

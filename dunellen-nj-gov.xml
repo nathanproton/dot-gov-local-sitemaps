@@ -1,0 +1,626 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="https://www.dunellen-nj.gov/" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!---Metadata Area Starts-->
+	
+
+ 
+
+	
+	
+
+	<title>Press Releases</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content="Welcome to Borough of Dunellen, NJ"/>
+
+
+	<meta http-equiv="refresh" content="0; URL='https://www.dunellen-nj.gov/PressReleases'" />
+
+	<meta name="robots" content="index, follow">
+<!---Metadata Area Ends-->
+
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+<!-- // BEG of /plugins/general/general.revize_login.js \\ -->
+function revizelogin()
+{
+	var loginSpan = document.getElementById('revize-login');
+	//var loginSpan = document.getElementById('powered-by-revize-link');
+	if (!loginSpan) return;
+
+	var color,styleElement;
+	var selector1 = "#revize-login a";
+	var rule1 = "text-decoration:none !important;color:";
+	var selector2 = "#revize-login a:hover";
+	var rule2 = "text-decoration:underline !important";
+	if (document.all)
+	{
+		color = loginSpan.currentStyle.color;
+		styleElement = document.createStyleSheet();
+		styleElement.addRule(selector1 , rule1+color+' !important')
+		styleElement.addRule(selector2 , rule2)
+	}
+	else
+	{
+		color =  document.defaultView.getComputedStyle(loginSpan,'').getPropertyValue('color');
+		styleElement = document.createElement("style");
+		document.getElementsByTagName("head")[0].appendChild(styleElement);
+		styleElement = document.styleSheets[document.styleSheets.length-1];
+		styleElement.insertRule(selector1 + ' {' + rule1+color + ' !important}',0);
+		styleElement.insertRule(selector2 + ' {' + rule2 + '}',0);
+	}
+}
+if (typeof window.addEventListener != "undefined")
+	window.addEventListener("load", revizelogin, false);
+else if (typeof window.attachEvent != "undefined")
+	window.attachEvent("onload", revizelogin);
+<!-- \\ END of /plugins/general/general.revize_login.js // -->
+
+
+
+</script>
+
+
+
+
+<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+	<!-- Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms1.revize.com'
+
+RZ.pagetemplatename = 'fullwidth'
+RZ.pagetemplateid = '1'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '1419';
+
+RZ.pageid = 'links-1419';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '1419';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=1419';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=1419';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '1419';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '1419';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = ''
+RZ.page_key = 'fullwidth[1419]'
+RZ.parent_key = 'admin[]'
+RZ.inherit_key = ''
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'dunellennj'
+RZ.webspacedesc = "tinymce";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms1.revize.com/revize/dunellennj';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.calendar_options = "max_events=5";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "www.dunellen-nj.gov";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "";
+RZ.webspace_config.notify_options = "";
+RZ.webspace_config.notify_return_url = "";
+RZ.webspace_config.page_title = "Welcome to Borough of Dunellen, NJ";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.store_form_submission_db = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = "webspace_page_permissions record not found where: webspace_page_permissions.page_key=admin[]"
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,fileschannel';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+
+<!--Top Area Starts-->        
+  
+
+
+
+
+<header>
+	<a href="#main" id="skip" tabindex="0">SKIP TO CONTENT</a>
+
+	<div class="container">
+<!--Logo and Toggle Area Starts-->
+		
+
+
+
+<a href="./" id="logo">
+    <img src="./_assets_/images/logo.png" alt="Logo">
+</a><!-- /.logo -->
+
+<div id="toggles" class="hidden-lg hidden-md">
+    <div tabindex="0" id="nav-toggle" class="fa fa-bars"></div>	
+</div><!-- /#toggles -->
+<!--Logo and Toggle Area Ends-->
+
+<div id="right-bar">
+<!--Translate Area Stars-->
+			
+
+
+
+<div id="google-translate" class="hidden-sm hidden-xs" tabindex="0">
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({  
+                pageLanguage: 'en', 
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+<!--Translate Area Ends-->            
+
+<!--Social Area Stars-->
+			
+
+
+
+<div class="social-links hidden-sm hidden-xs">
+
+<a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook"> 
+</a>  
+ 
+<a href="https://twitter.com/" target="_blank" class="fa fa-twitter"> 
+</a> 
+
+<a href="https://www.instagram.com" target="_blank" class="fa fa-instagram">
+</a>
+
+
+    </div>
+<!--Social Area Ends-->            
+		</div><!--/#top-bar-->
+
+<!--Top Area Stars-->
+		<nav>
+			
+
+
+ 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-7"><a class="menuA level0 menuDisplay" href="index.php" target="_self">Home</a></li>
+	<li class="menuLI level0 menuDisplay li-33 children"><a class="menuA level0 menuDisplay" href="departments/index.php" target="_self">Departments</a>
+		<ul class="menuUL level1 menuHidden ul-2576">
+			<li class="menuLI level1 menuHidden li-2576"><a class="menuA level1 menuHidden" href="departments/success_form_submission.php" target="_self">Success Form Submission</a></li>
+			<li class="menuLI level1 menuHidden li-540"><a class="menuA level1 menuHidden" href="departments/administration1/index.php" target="_self">Administration</a></li>
+			<li class="menuLI level1 menuHidden li-44"><a class="menuA level1 menuHidden" href="departments/construction/index.php" target="_self">Construction</a></li>
+			<li class="menuLI level1 menuHidden li-46"><a class="menuA level1 menuHidden" href="departments/finance/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-48"><a class="menuA level1 menuHidden" href="departments/fire/index.php" target="_self">Fire</a></li>
+			<li class="menuLI level1 menuHidden li-50"><a class="menuA level1 menuHidden" href="departments/health/index.php" target="_self">Health</a></li>
+			<li class="menuLI level1 menuHidden li-52"><a class="menuA level1 menuHidden" href="departments/municipal_clerk/index.php" target="_self">Municipal Clerk</a></li>
+			<li class="menuLI level1 menuHidden li-54"><a class="menuA level1 menuHidden" href="departments/municipal_court/index.php" target="_self">Municipal Court</a></li>
+			<li class="menuLI level1 menuHidden li-56"><a class="menuA level1 menuHidden" href="departments/office_of_emergency_management/index.php" target="_self">Office of Emergency Management</a></li>
+			<li class="menuLI level1 menuHidden li-58"><a class="menuA level1 menuHidden" href="departments/parks_and_recreation/index.php" target="_self">Parks & Recreation</a></li>
+			<li class="menuLI level1 menuHidden li-60"><a class="menuA level1 menuHidden" href="departments/police/index.php" target="_self">Police</a></li>
+			<li class="menuLI level1 menuHidden li-62 children"><a class="menuA level1 menuHidden" href="departments/property_maintenance/index.php" target="_self">Property Maintenance</a>
+				<ul class="menuUL level2 menuHidden ul-692">
+					<li class="menuLI level2 menuHidden li-692"><a class="menuA level2 menuHidden" href="departments/property_maintenance/departments/property_maintenance1/frequently_asked_questions.php" target="_self">Frequently Asked Questions</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-64"><a class="menuA level1 menuHidden" href="departments/public_library/index.php" target="_self">Public Library</a></li>
+			<li class="menuLI level1 menuHidden li-66"><a class="menuA level1 menuHidden" href="departments/public_works/index.php" target="_self">Public Works</a></li>
+			<li class="menuLI level1 menuHidden li-68"><a class="menuA level1 menuHidden" href="departments/registrar/index.php" target="_self">Registrar</a></li>
+			<li class="menuLI level1 menuHidden li-70"><a class="menuA level1 menuHidden" href="departments/rescue_squad/index.php" target="_self">Rescue Squad</a></li>
+			<li class="menuLI level1 menuHidden li-660"><a class="menuA level1 menuHidden" href="departments/tax_assessor.php" target="_self">Tax Assessor</a></li>
+			<li class="menuLI level1 menuHidden li-72"><a class="menuA level1 menuHidden" href="departments/tax_assessor/index.php" target="_self">Tax Collector</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-29 children"><a class="menuA level0 menuDisplay" href="about_dunellen/index.php" target="_self">About Dunellen</a>
+		<ul class="menuUL level1 menuHidden ul-90">
+			<li class="menuLI level1 menuHidden li-90"><a class="menuA level1 menuHidden" href="about_dunellen/community_organizations/index.php" target="_self">Community Organizations</a></li>
+			<li class="menuLI level1 menuHidden li-94"><a class="menuA level1 menuHidden" href="about_dunellen/directions/index.php" target="_self">Directions</a></li>
+			<li class="menuLI level1 menuHidden li-92"><a class="menuA level1 menuHidden" href="about_dunellen/demographics/index.php" target="_self">History and Demographics</a></li>
+			<li class="menuLI level1 menuHidden li-96"><a class="menuA level1 menuHidden" href="about_dunellen/maps/index.php" target="_self">Maps</a></li>
+			<li class="menuLI level1 menuHidden li-100"><a class="menuA level1 menuHidden" href="about_dunellen/schools/index.php" target="_self">Schools</a></li>
+			<li class="menuLI level1 menuHidden li-102"><a class="menuA level1 menuHidden" href="about_dunellen/seniors/index.php" target="_self">Seniors and Disabled Community Members</a></li>
+			<li class="menuLI level1 menuHidden li-1906"><a class="menuA level1 menuHidden" href="about_dunellen/sister_city_val_tidone_italy.php" target="_self">Sister City: Val Tidone, Italy</a></li>
+			<li class="menuLI level1 menuHidden li-2215"><a class="menuA level1 menuHidden" href="about_dunellen/dunellen_mural_project.php" target="_self">Dunellen Mural Project & Downtown</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-31 children"><a class="menuA level0 menuDisplay" href="municipal_news/index.php" target="_self">News</a>
+		<ul class="menuUL level1 menuHidden ul-690">
+			<li class="menuLI level1 menuHidden li-690"><a class="menuA level1 menuHidden" href="municipal_news/announcements/index.php" target="_self">Announcements</a></li>
+			<li class="menuLI level1 menuHidden li-544"><a class="menuA level1 menuHidden" href="municipal_news/community_news_2/index.php" target="_self">Community News</a></li>
+			<li class="menuLI level1 menuHidden li-550"><a class="menuA level1 menuHidden" href="municipal_news/muniicpal_news_2/index.php" target="_self">Municipal News</a></li>
+			<li class="menuLI level1 menuHidden li-936"><a class="menuA level1 menuHidden" href="municipal_news/revaluation/index.php" target="_self">Revaluation</a></li>
+			<li class="menuLI level1 menuHidden li-1230"><a class="menuA level1 menuHidden" href="municipal_news/social_media_policy.php" target="_self">Social Media Policy</a></li>
+			<li class="menuLI level1 menuHidden li-1255"><a class="menuA level1 menuHidden" href="municipal_news/transit_hub_and_did_information.php" target="_self">Transit Hub and DID Information</a></li>
+			<li class="menuLI level1 menuHidden li-1982"><a class="menuA level1 menuHidden" href="municipal_news/unresolved_altice_optimum_complaint_form.php" target="_self">Unresolved Altice/Optimum Complaint Form</a></li>
+			<li class="menuLI level1 menuHidden li-2006"><a class="menuA level1 menuHidden" href="municipal_news/recently_enacted_ordinances_that_effect_dunellen_residents.php" target="_self">Recently Enacted Ordinances that Affect Dunellen Residents</a></li>
+			<li class="menuLI level1 menuHidden li-2091"><a class="menuA level1 menuHidden" href="municipal_news/njep_green_acres_program_for_dunellen_residents.php" target="_self">NJDEP Blue Acres Program for Flood Damaged Properties</a></li>
+			<li class="menuLI level1 menuHidden li-2179"><a class="menuA level1 menuHidden" href="news_detail_T30_R11.php" target="_self">COVID-19</a></li>
+			<li class="menuLI level1 menuHidden li-2317"><a class="menuA level1 menuHidden" href="municipal_news/general_notifications.php" target="_self">General Notifications</a></li>
+			<li class="menuLI level1 menuHidden li-2676"><a class="menuA level1 menuHidden" href="municipal_news/press_releases.php" target="_self">Press Releases</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-1116"><a class="menuA level0 menuDisplay" href="redevelopment/index.php" target="_self">Redevelopment</a></li>
+	<li class="menuLI level0 menuDisplay li-37 children"><a class="menuA level0 menuDisplay" href="government/index.php" target="_self">Government</a>
+		<ul class="menuUL level1 menuHidden ul-78">
+			<li class="menuLI level1 menuHidden li-78"><a class="menuA level1 menuHidden" href="government/animal_control/index.php" target="_self">Animal Control</a></li>
+			<li class="menuLI level1 menuHidden li-529"><a class="menuA level1 menuHidden" href="government/bid_announcements/index.php" target="_self">Bid Announcements</a></li>
+			<li class="menuLI level1 menuHidden li-80"><a class="menuA level1 menuHidden" href="government/forms_center/index.php" target="_self">Document Center</a></li>
+			<li class="menuLI level1 menuHidden li-82"><a class="menuA level1 menuHidden" href="government/job_postings/index.php" target="_self">Job Postings</a></li>
+			<li class="menuLI level1 menuHidden li-84 children"><a class="menuA level1 menuHidden" href="government/mayor_and_council/index.php" target="_self">Mayor and Council</a>
+				<ul class="menuUL level2 menuHidden ul-495">
+					<li class="menuLI level2 menuHidden li-495"><a class="menuA level2 menuHidden" href="government/mayor_and_council/documents.php" target="_self">Documents</a></li>
+					<li class="menuLI level2 menuHidden li-493"><a class="menuA level2 menuHidden" href="government/mayor_and_council/photographs.php" target="_self">Photographs</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-555"><a class="menuA level1 menuHidden" href="government/public_notices/index.php" target="_self">Public Notices</a></li>
+			<li class="menuLI level1 menuHidden li-2773"><a class="menuA level1 menuHidden" href="government/stormwater_management.php" target="_self">Stormwater Management</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-444 children"><a class="menuA level0 menuDisplay" href="boards_and_commissions/index.php" target="_self">Agencies</a>
+		<ul class="menuUL level1 menuHidden ul-447">
+			<li class="menuLI level1 menuHidden li-447 children"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_parking_authority.php" target="_self">Dunellen Parking Authority</a>
+				<ul class="menuUL level2 menuHidden ul-2563">
+					<li class="menuLI level2 menuHidden li-2563"><a class="menuA level2 menuHidden" href="index.php" target="_self">New Page</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-449 children"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_shade_tree_commission.php" target="_self">Dunellen Shade Tree Commission</a>
+				<ul class="menuUL level2 menuHidden ul-499">
+					<li class="menuLI level2 menuHidden li-499"><a class="menuA level2 menuHidden" href="boards_and_commissions/documents.php" target="_self">Documents</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-451"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_planning_board.php" target="_self">Dunellen Planning Board</a></li>
+			<li class="menuLI level1 menuHidden li-453"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_sewer_utility/index.php" target="_self">Dunellen Sanitary Sewer Utility</a></li>
+			<li class="menuLI level1 menuHidden li-458"><a class="menuA level1 menuHidden" href="boards_and_commissions/maurer_ouse_restoration_committee.php" target="_self">Maurer House Restoration Committee</a></li>
+			<li class="menuLI level1 menuHidden li-862"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_municipal_alliance.php" target="_self">Dunellen Municipal Alliance</a></li>
+			<li class="menuLI level1 menuHidden li-1852"><a class="menuA level1 menuHidden" href="boards_and_commissions/parsa.php" target="_self">PARSA</a></li>
+			<li class="menuLI level1 menuHidden li-1854"><a class="menuA level1 menuHidden" href="boards_and_commissions/middlesex_county_improvement_authority.php" target="_self">Middlesex County Improvement Authority</a></li>
+			<li class="menuLI level1 menuHidden li-1856"><a class="menuA level1 menuHidden" href="boards_and_commissions/green_brook_flood_control_commission.php" target="_self">Green Brook Flood Control Commission</a></li>
+			<li class="menuLI level1 menuHidden li-2148"><a class="menuA level1 menuHidden" href="http://www.dunellen-nj.gov/boards_and_commissions/mayors_traffic_and_pedestrian_task_force.php" target="_new">Mayors Traffic and Pedestrian Task Force</a></li>
+			<li class="menuLI level1 menuHidden li-2149"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_downtown_management_organization.php" target="_self">Dunellen Downtown Management Organization</a></li>
+			<li class="menuLI level1 menuHidden li-2160"><a class="menuA level1 menuHidden" href="boards_and_commissions/mayor_s_cannabis_task_force.php" target="_self">Mayor's Cannabis Task Force</a></li>
+			<li class="menuLI level1 menuHidden li-2564"><a class="menuA level1 menuHidden" href="boards_and_commissions/dunellen_green_team_advisory_committee.php" target="_self">Dunellen Green Team Advisory Committee</a></li>
+			<li class="menuLI level1 menuHidden li-2628"><a class="menuA level1 menuHidden" href="boards_and_commissions/new_page.php" target="_self">Dunellen Arts, Inclusion and Culture Commission</a></li>
+		</ul>
+	</li>
+</ul>
+
+
+
+
+
+
+		</nav>
+<!--Top Area Ends-->
+
+		
+	</div><!-- /.container -->
+</header><!-- /.clearfix -->
+<!--Top Area Ends-->        
+
+<section id="slider">
+<!--Search Area Starts-->    
+	
+
+
+
+<div class="container">
+    <div id="search">
+        <form class="search-form" method="get" action="search.php">
+            <label class="fa fa-search" for="search-input"></label>
+<i class="fa fa-search"></i>
+            <input name="q" class="form-control search-input" placeholder="Search here..." type="search" id="search-input">
+            <button>go</button>
+        </form><!-- /.search-form -->
+    </div><!-- /#search -->
+</div><!--/.container-->
+<!--Search Area Ends-->    	
+
+<!--Slider Area Starts-->                                                
+	
+
+<div class="sliderbtn">
+  
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+    RZ.module = 'banner';
+    RZ.nexturl = "editforms/banner-editlist.jsp?pageid=1419";
+    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+    RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
+    RZ.caption = '';
+    RZ.options = '';
+    if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+    
+</div>
+                      
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+    
+      
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('banner','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+<ul class="bxslider">
+    <li style="background:url('_assets_/images/inner-hero1.jpg') center center no-repeat;background-size:cover"></li>
+</ul><!-- /.bxslider -->
+
+<div id="hero-overlay" style="background:url('./_assets_/images/hero-overlay.png') center no-repeat;background-size:cover;"></div>
+<!--Slider Area Ends-->
+
+	<div class="container">
+<!--Breadcrumb Area Starts-->
+		<nav id="breadcrumbs">
+    <p>
+        
+			<a href="./">Home</a>not&nbsp;found
+		
+	</p>
+</nav>    
+<!--Breadcrumb Area Ends-->        
+
+<!--Page Title Area Starts-->
+		  
+        <h1 id="page-title">Press Releases</h1>
+<!--Page Title Area Ends-->        
+	</div><!--/.container-->
+</section><!-- /#slider -->
+
+<main id="main">
+	<div class="container">
+		<article id="entry">
+<!--Center Content Area Starts-->
+			<div id="post">
+	            <div class="editcenterBtns">
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'freeform';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/freeform-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                    RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
+                    RZ.set = 'freeform.pageid=links-1419';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                    
+
+
+<!-- Revize Forward to Edit Form -->
+<script language="JavaScript" type="text/JavaScript">
+	RZ.module = 'freeform';
+	RZ.recordid = '';
+	RZ.nexturl = "editforms/metadata-editform.jsp";
+	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+	RZ.img = '<img src="./images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
+	RZ.set = "freeform.pageid=links-1419";
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('editform');
+</script>
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	RZ.nexturl = '';
+	RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('permissions');
+</script>
+
+                </div><!-- /.centerBtns -->
+                <strong>Bandit Trash Trap Press Release</strong> 
+			</div><!-- /#post -->
+<!--Center Content Area Ends-->
+		</article><!-- /#entry -->
+	</div><!-- /.container -->
+</main>
+
+<!--Footer Area Starts-->
+<footer>
+	<div class="container">
+<!--Copyright Area Starts-->    
+		
+        <section id="copyright">
+        
+        
+
+
+
+Copyright &copy; 2021 Borough of Dunellen, NJ 355 North Avenue, Dunellen, NJ 08812 732-968-3033
+        </section>
+<!--Copyright Area Ends-->    
+
+<!--Login Area Starts-->    
+		<section id="revize-logo">
+    <span>Website by <a href="https://www.revize.com/">revize</a>.<!-- // BEG of /plugins/general/general.revize_login.include.jsp \\ -->
+<span id="revize-login" class="v06-11-2011"><span class="powered-by-revize">Powered By
+<a id="powered-by-revize-link" style="color:inherit;text-decoration:none"
+target="_blank" href="http://www.revize.com">Revize</a>
+</span><a id="revize-login-link" style="color:inherit;text-decoration:none"
+href="https://cms1.revize.com/revize/security/index.jsp?webspace=dunellennj&filename=/not_found/index.php">Login</a></span>
+<!-- \\ END of /plugins/general/general.revize_login.include.jsp // --></span>
+</section><!-- /#revize-logo -->
+
+<!--Login Area Ends-->            
+	</div><!-- /.container -->
+</footer>
+<!--Footer Area Ends-->
+
+<!-- Share widget make into an include file -->
+
+
+
+
+<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal">
+	<i class="fa fa-share-alt"></i>
+	<span>Share</span>
+</button>
+
+<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel">Share this page</h4>
+			</div>
+			<div class="modal-body">
+				<div class="copylink">
+					<p>Copy and paste this code into your website.</p>
+					<pre>&lt;a href="http://www.dunellen-nj.gov/sitemap.xml">Your Link Name&lt;/a&gt;</pre>
+				</div><!-- /.copylink -->
+				<div class="share-btns">
+					<p>Share this page on your favorite Social network</p>
+					<div class="row">
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.dunellen-nj.gov/sitemap.xml" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-facebook"></i> Facebook
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.twitter.com/home?status=http://www.dunellen-nj.gov/sitemap.xml" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-twitter"></i> Twitter
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.plus.google.com/share?url=http://www.dunellen-nj.gov/sitemap.xml" class="btn-google" onclick="return !window.open(this.href, 'google ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-google-plus"></i> Google Plus
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.reddit.com/submit?url=http://www.dunellen-nj.gov/sitemap.xml" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-reddit"></i> Reddit
+							</a>
+						</div>
+					</div><!-- /.row -->
+				</div><!-- /.share-btns -->
+				<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+			</div><!-- /.modal-body -->
+		</div>
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Share widget make into an include file -->
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+
+<!--Goole Analytics Code Area Starts-->
+<!--Goole Analytics Code Area Ends-->
+
+
+
+
+</body>
+</html>

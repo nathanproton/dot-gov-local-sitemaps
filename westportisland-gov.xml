@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>Welcome to Westport Island!</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en-us" dir="ltr">
+		
+		<meta name="author" content="TajMo">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+		<meta property="og:url" content="https://westportisland.us">
+		<meta property="og:title" content="Welcome to Westport Island!">
+		
+		<link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://westportisland.us/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://westportisland.us/css/site.css" type="text/css" media="screen">
+		
+		
+	</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101523196-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<nav id="main-nav" class="navbar navbar-default">
+	<div class="navbar-header">
+		<a class="navbar-brand" href="https://westportisland.us"><img src="https://westportisland.us/images/site/town-emblem.png"></a>
+	</div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<a class="navbar-brand-mobile visible-xs" href="https://westportisland.us"><img src="https://westportisland.us/images/site/town-emblem.png"></a>
+	  			<p class="title"><a href="https://westportisland.us">Westport Island</a></p>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+	  			<div class="search hidden-xs">
+		        <form id="search-form" method="post" action="https://westportisland.us/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="22" />
+<input type="hidden" name="RES" value="8" />
+<input type="hidden" name="meta" value="gRwap5TuIyaKU5TnXrVYlnNWNkcWK2+f0T1BCygf+EmmulR2UFOau9fyDUKdLdXE0GU+UlZ3rukRBEdwd92vIpLxGc5EImhgfmYY24Uh8FkCqsBFjSCPfTqvRWPugE8jkCNg0qDV714A+QWKgxKxfxCVExfTICydlV1il7pxjzXPaE2a+7+eb+4i2LvyJO7EU8RjLvprelkchgAysfW/Md6dCImPqgDjKuBZvo4JVMVmzUnBAckJqMsiAQnjS95HHrYCWY6hMxp+zBfwBoYiNWCyGppOT7eSQG17xnhZcY1nSnLEFdg1ilBryy0NCC3kOLAem07rUNML8yGor8Z8vLTLdIjfKwqHgl29MHMyZ0fBYGNZ8l3gZm0VUnY+f/2BzTTQxYLF1is5qoB6eFA2LcA6UgI2kRN2YTOFhlxGRVLRGxRIDnCsKt4W6CaE+NbygwTL8iV1O5IG4ukeWTpEUCjkjifUYgY6sNDh/3pzCkPt4FFDlmojG9mPEn3enQ+/Bp1a+3SYMPiqDDF6Z62VVDCBBzIuzwAetriRGT0slCQ=" />
+<input type="hidden" name="site_id" value="1" />
+<input type="hidden" name="csrf_token" value="d34fdab02a112a4bc40c59de9742ebc38368b542" />
+</div>
+
+
+		        <input type="text" name="keywords" id="keywords" value="" size="18" maxlength="100" placeholder="Search"><button><i class="fa fa-search" aria-hidden="true"></i></button>
+		        </form>
+	  			</div>
+	  		</div>
+	  	</div>
+	  	<div class="row">
+	  		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 aqua-bg">
+			    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active"><a href="https://westportisland.us">Home</a></li>
+						<li ><a href="https://westportisland.us/news">News</a></li>
+						<li ><a href="https://westportisland.us/calendar">Calendar</a></li>		
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">I Want To...<span class="caret"></span></a>
+					        	<ul class="dropdown-menu">
+					        		<li><a href="https://westportisland.us/government/voter-registration">Register to Vote</a></li>
+<li><a href="https://westportisland.us/government/motor-vehicle-registration">Register My Car or Trailer</a></li>
+<li><a href="https://westportisland.us/government/register-boats-snowmobiles-atvs">Register My Boat or ATV or Sled</a></li>
+<li><a href="https://westportisland.us/government/tax-collector">Pay My Property Tax Bill</a></li>
+<li><a href="http://www.maine.gov/sos/bmv/licenses/renewal.html" target="_blank">Renew My Drivers License or ID</a></li>
+<li><a href="https://westportisland.us/government/dog-licenses">License my Dog</a></li>
+<li><a href="https://westportisland.us/government/shellfish-licensing">Get a Shellfish License</a></li>
+<li><a href="https://westportisland.us/government/hunting-fishing-licenses">Get a Hunting/Fishing License</a></li>
+<li><a href="https://westportisland.us/government/marriage-licenses">Get a Marriage License</a></li>
+<li><a href="https://westportisland.us/government/renting-the-town-hall">Rent Town Hall or Community Church</a></li>
+<li><a href="https://westportisland.us/government/business-registration">Get a Business License</a></li>
+<li><a href="https://westportisland.us/government/waste-disposal-recycling">Dispose of Refuse or Recycle Waste</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Install a Dock</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Put in a Driveway</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Build on My Lot</a></li>
+<li><a href="https://westportisland.us/government/plumbing-inspector">Put in a Septic System</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Remodel or Add onto My Home</a></li>
+<li><a href="https://westportisland.us/government/obtaining-a-burn-permit">Get a Burn Permit</a></li>
+<li><a href="https://westportisland.us/images/site/body-images/Mooring_application_v2.0_.pdf" target="_blank">Get a Mooring Permit</a></li>
+<li><a href="https://westportisland.us/contact">Contact a Town Official</a></li>
+<li><a href="https://www.axisgis.com/Westport_IslandME/" target="_blank">Search Property Tax Data</a></li>
+<li><a href="https://westportisland.us/government/vital-records">Find a Birth or Death Certificate</a></li>
+<li><a href="https://westportisland.us/government/animal-control-officer">Report a stray dog or cat</a></li>
+<li><a href="https://westportisland.us/board-committee">Get Involved with Town Government</a></li>
+<li><a href="https://westportisland.us/government/fireworks-regulations">Display Fireworks</a></li>
+								</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Government <span class="caret"></span></a>
+					        	<ul class="dropdown-menu">
+					        		<li><a href="https://westportisland.us/government/board-of-selectmen" class="drop">Select Board</a></li>
+<li><a href="https://westportisland.us/government/town-clerk-registrar-of-voters">Town Clerk &amp; Registrar</a></li>
+<li><a href="https://westportisland.us/government/tax-collector">Tax Collector &amp; Treasurer</a></li>
+<li><a href="https://westportisland.us/government/municipal-agent">Municipal Agent</a></li>
+<li><a href="https://westportisland.us/government/road-commissioner">Road Commissioner</a></li>
+<li><a href="https://westportisland.us/government/school-board">RSU #12 School Board Members</a></li>
+<li><a href="https://westportisland.us/government/fire-department">Westport Volunteer Fire Department</a></li>
+<li class="dropdown-submenu"><a href="https://westportisland.us/government/appointed-personnel">Appointed Personnel</a></li>
+<li><a href="https://westportisland.us/board-committee">Town Boards &amp; Committees</a></li>
+<li><a href="https://westportisland.us/government/town-ordinances">Town Ordinances</a></li>
+<li><a href="/images/site/body-images/Permit_Fees_Web.pdf" target="_blank">Permits &amp; Fees</a></li>
+
+								</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
+					        	<ul class="dropdown-menu">
+					        		<li><a href="https://westportisland.us/community/our-history">Our History</a></li>
+<li><a href="https://westportisland.us/community/cemeteries">Our Cemeteries</a></li>
+<li><a href="https://westportisland.us/community/resident-services">Resident Services</a></li>
+<li><a href="https://westportisland.us/community/public-lands">Public Lands</a></li>
+<li><a href="https://westportisland.us/community/maps">Maps</a></li>
+								</ul>
+						</li>
+						<li ><a href="https://westportisland.us/business">Business</a></li>
+						<li><a href="https://westportisland.us/contact">Contact</a></li>
+					</ul>
+		  			<div class="mobile-search">
+				        <form id="search-form" method="post" action="https://westportisland.us/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="22" />
+<input type="hidden" name="RES" value="20" />
+<input type="hidden" name="meta" value="a5sP4xK2RgzdDvN7YJDKKKF+fQS/DQStnapBtRjOtntex+f6ku2+WoJua/VVklkL1Zf+PKlZ+bwG1FpZzx4/QE27j0eZ30P2Tq28ZS1+j7T0GRUnRZyXilE+oVrdVHdrlY6cvMlJr4An5kMO+G7h9fc+QmzudwC3RUVZ0YMgMqk9JdzOe79rqPNhv2PLgwrq+T0XhbxWulT6X9t0EsxFjJEKouK9JFzqwmw1ZCoTqP5OIS+uS261uawfvtDE8h88Zo/Fv4ojdt9X+ACVvWJENeToZZUg+dhZLjyOwo2hnoU/Vts6XMXixT5tLl9h4YP+vGLeJDevI4yIfDZVeqyIzZD1CaO7a5XJmDqEtSOGOVcVw705OnzIPMxpfRMy5K/mP1ysVyLi1c3WpOKHHKhzmMz5LRxiiF3RaYPx3SucQK8zxBmwcMBsp1Al/evOESXG3y15bfK48SU8QJsgg1Fqs3G3+7O1UQZoHq9DDcZXCSGjzfXwvc2FoTrmPWoCh7wK/pWFRMZKg9lS80o1hl4MGd94+lMGQdDinGzw/2+3G9o=" />
+<input type="hidden" name="site_id" value="1" />
+<input type="hidden" name="csrf_token" value="d34fdab02a112a4bc40c59de9742ebc38368b542" />
+</div>
+
+
+				        <input type="text" name="keywords" id="keywords" value="" size="18" maxlength="100" placeholder="Search"><button><i class="fa fa-search" aria-hidden="true"></i></button>
+				        </form>
+				  	</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+
+
+
+	
+		<div class="banner">
+			<img src="https://westportisland.us/images/site/header_images/banner-3-1515002251.jpg" class="banner-image">
+			<div class="banner-caption">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<h1>Welcome to Westport Island!</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	<div class="wrapper">
+	<main>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+					<div class="body">
+						<p><b>Westport Island</b> is located on Maine&rsquo;s mid-coast in Lincoln County on Sheepscot Bay. Surrounded by the Sheepscot River to the East and the Back and Sasanoa Rivers to the West, Westport Island is a quiet and picture perfect small Maine community of about 720 year-around residents, which, like other Maine coastal communities, swells in the summer. Originally known as Jeremysquam, Westport Island was incorporated as part of Freetown (now Edgecomb) in 1774. In 1828, Westport became a separate town.</p>
+
+<p>Westport Island flourished in the early 1800&rsquo;s as a fishing and farming community&mdash;one of the most prosperous in Maine. Today, Westport Island is home to a broad cross section of residents from families who have lived here for generations to new residents and retirees who are proud to call Westport Island home.</p>
+
+<h2><strong><a href="http://westportisland.us/images/site/body-images/2023_Annual_Report.pdf">Westport Island 2023&nbsp;Town Report</a></strong></h2>
+
+<h2><a href="http://westportisland.us/images/site/body-images/2019_Comprehensive_Plan.pdf"><strong>Westport Island Comprehensive Plan</strong></a></h2>
+
+<p>&nbsp;</p>
+
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					<aside id="home-sidebar" class="sidebar">
+						
+							<h3>Office Hours at Town Office, 6 Fowles Point Rd.</h3>
+							<p><strong>Tue. 10:00 am to 6:00 pm</strong></p>
+
+<p><strong>Wed. 10:00 am to 2:00 pm</strong></p>
+
+<p><strong>Thu. 10:00 am to 2:00 pm</strong></p>
+
+						
+					</aside>
+				</div>
+			</div>
+		</div>
+	</main>
+	<section id="home-boxes">
+		<div class="container">
+			<div class="row myrow">
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 aqua-bg">
+					<div class="box-content">
+						<h3>Upcoming Events &amp; Public Notices</h3>
+							
+	<ul>
+		<li><a href="https://westportisland.us/news/sign-up-for-the-monthly-e-newsletter"><time>01-01-24</time> - Sign up for the monthly e-newsletter! </a></li>
+	
+	
+		<li><a href="https://westportisland.us/news/bridge-work-this-summer-fall"><time>07-01-24</time> - Bridge work this summer/fall</a></li>
+	
+	
+		<li><a href="https://westportisland.us/news/apply-for-heating-assistance-for-the-2024-2025-winter-season-now"><time>07-23-24</time> - Apply for Heating Assistance for the 2024-2025 Winter Season Now</a></li>
+	</ul>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 gray-bg">
+					<div class="box-content">
+						<h3>Quicklinks</h3>
+						
+							<ul>
+								<li><a href="http://westportisland.us/tax-maps-data">Tax maps & GIS info</a>
+							
+						
+							
+								<li><a href="http://westportisland.us/government/fire-department">Westport Volunteer Fire Department</a>
+							
+						
+							
+								<li><a href="http://westportisland.us/board-committee/community-association">Westport Community Association</a>
+							
+						
+							
+								<li><a href="https://westportisland.us/board-committee/helping-hands">Helping Hands</a>
+							
+						
+							
+								<li><a href="https://westportisland.us/board-committee/friends-of-westport-island-history">Friends of Westport Island History</a>
+							
+						
+							
+								<li><a href="https://westportisland.wordpress.com/">Westport Island Goings On</a>
+							</ul>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 green-bg">
+					<div class="box-content">
+						<h3>Contact Us</h3>
+						<p><a href="http://westportisland.us/government/tax-collector">Ashley Murray Tax Collector/Treasurer</a><br />
+(207) 882- 8477 ext. 1<br />
+<a href="mailto:treasurer@westportisland.us">treasurer@westportisland</a><a href="http://treasurer@westportisland.gov">.gov</a></p>
+
+<p><a href="https://westportisland.us/government/town-clerk-registrar-of-voters">April Thibodeau -</a><a href="http://westportisland.us/government/town-clerk-registrar-of-voters"> Town Clerk/Registrar of Voters</a><br />
+(207) 882- 8477 ext. 3<br />
+<a href="mailto:townclerk@westportisland.us">townclerk@westportisland.</a><a href="http://townclerk@westportisland.gov">gov</a></p>
+
+<p><a href="http://westportisland.us/government/municipal-agent">Dedee Greenleaf-Hodgdon - Municipal Agent</a><br />
+(207) 882- 8477 ext. 2<br />
+<a href="mailto:excise@westportialnd.gov">excise@westportisland.gov</a></p>
+
+<p>&nbsp;</p>
+
+					</div>
+				</div>
+			</div>
+	</section>
+	</div>
+
+<footer>
+	<img src="https://westportisland.us/images/site/footer-image.jpg" class="img-responsive">
+	<div class="content">
+		<div class="container">
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<h4>Government</h4>
+				<ul>
+					<li><a href="https://westportisland.us/government/board-of-selectmen" class="drop">Select Board</a></li>
+<li><a href="https://westportisland.us/government/town-clerk-registrar-of-voters">Town Clerk &amp; Registrar</a></li>
+<li><a href="https://westportisland.us/government/tax-collector">Tax Collector &amp; Treasurer</a></li>
+<li><a href="https://westportisland.us/government/municipal-agent">Municipal Agent</a></li>
+<li><a href="https://westportisland.us/government/road-commissioner">Road Commissioner</a></li>
+<li><a href="https://westportisland.us/government/school-board">RSU #12 School Board Members</a></li>
+<li><a href="https://westportisland.us/government/fire-department">Westport Volunteer Fire Department</a></li>
+<li class="dropdown-submenu"><a href="https://westportisland.us/government/appointed-personnel">Appointed Personnel</a></li>
+<li><a href="https://westportisland.us/board-committee">Town Boards &amp; Committees</a></li>
+<li><a href="https://westportisland.us/government/town-ordinances">Town Ordinances</a></li>
+<li><a href="/images/site/body-images/Permit_Fees_Web.pdf" target="_blank">Permits &amp; Fees</a></li>
+
+				</ul>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<h4>Community</h4>
+				<ul>
+					<li><a href="https://westportisland.us/community/our-history">Our History</a></li>
+<li><a href="https://westportisland.us/community/cemeteries">Our Cemeteries</a></li>
+<li><a href="https://westportisland.us/community/resident-services">Resident Services</a></li>
+<li><a href="https://westportisland.us/community/public-lands">Public Lands</a></li>
+<li><a href="https://westportisland.us/community/maps">Maps</a></li>
+				</ul>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<ul id="i-want-to">
+					<li><a href="https://westportisland.us/government/voter-registration">Register to Vote</a></li>
+<li><a href="https://westportisland.us/government/motor-vehicle-registration">Register My Car or Trailer</a></li>
+<li><a href="https://westportisland.us/government/register-boats-snowmobiles-atvs">Register My Boat or ATV or Sled</a></li>
+<li><a href="https://westportisland.us/government/tax-collector">Pay My Property Tax Bill</a></li>
+<li><a href="http://www.maine.gov/sos/bmv/licenses/renewal.html" target="_blank">Renew My Drivers License or ID</a></li>
+<li><a href="https://westportisland.us/government/dog-licenses">License my Dog</a></li>
+<li><a href="https://westportisland.us/government/shellfish-licensing">Get a Shellfish License</a></li>
+<li><a href="https://westportisland.us/government/hunting-fishing-licenses">Get a Hunting/Fishing License</a></li>
+<li><a href="https://westportisland.us/government/marriage-licenses">Get a Marriage License</a></li>
+<li><a href="https://westportisland.us/government/renting-the-town-hall">Rent Town Hall or Community Church</a></li>
+<li><a href="https://westportisland.us/government/business-registration">Get a Business License</a></li>
+<li><a href="https://westportisland.us/government/waste-disposal-recycling">Dispose of Refuse or Recycle Waste</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Install a Dock</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Put in a Driveway</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Build on My Lot</a></li>
+<li><a href="https://westportisland.us/government/plumbing-inspector">Put in a Septic System</a></li>
+<li><a href="https://westportisland.us/government/code-enforcement-officer">Remodel or Add onto My Home</a></li>
+<li><a href="https://westportisland.us/government/obtaining-a-burn-permit">Get a Burn Permit</a></li>
+<li><a href="https://westportisland.us/images/site/body-images/Mooring_application_v2.0_.pdf" target="_blank">Get a Mooring Permit</a></li>
+<li><a href="https://westportisland.us/contact">Contact a Town Official</a></li>
+<li><a href="https://www.axisgis.com/Westport_IslandME/" target="_blank">Search Property Tax Data</a></li>
+<li><a href="https://westportisland.us/government/vital-records">Find a Birth or Death Certificate</a></li>
+<li><a href="https://westportisland.us/government/animal-control-officer">Report a stray dog or cat</a></li>
+<li><a href="https://westportisland.us/board-committee">Get Involved with Town Government</a></li>
+<li><a href="https://westportisland.us/government/fireworks-regulations">Display Fireworks</a></li>
+				</ul>
+				<ul id="additional-links">
+					<li><a href="https://westportisland.us/info/privacy-policy">Privacy Policy</a></li>
+				</ul>
+				<p>&copy;2024 Town of Westport Island<br>
+				<small>Site by <a href="https://willowlightstudio.com" target="_blank">Willow Light Studio</a></small></p>
+			</div>
+		</div>
+	</div>
+</footer>
+<a href="javascript:void(0)" id="scrollup"><i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i></a>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://westportisland.us/scripts/tinynav.min.js"></script>
+<script src="https://westportisland.us/scripts/site.js"></script>
+<script src="https://use.fontawesome.com/752f952060.js"></script>
+
+</body>
+</html>

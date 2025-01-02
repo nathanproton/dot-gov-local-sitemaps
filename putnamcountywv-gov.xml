@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://putnamcountywv.gov/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Sitemap is generated on 2024-09-01 02:06:17 GMT -->
+	<url>
+		<loc>https://putnamcountywv.gov/</loc>
+		<lastmod>2024-05-06T20:09:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/fire-rescue-levy-estimate/</loc>
+		<lastmod>2024-04-18T13:23:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/events/my-bookings/</loc>
+		<lastmod>2024-01-08T21:19:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/events/tags/</loc>
+		<lastmod>2024-01-08T21:19:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/events/categories/</loc>
+		<lastmod>2024-01-08T21:19:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/events/locations/</loc>
+		<lastmod>2024-01-08T21:19:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/events/</loc>
+		<lastmod>2024-01-08T21:19:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/privacy-policy/</loc>
+		<lastmod>2023-11-01T15:42:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/municipalities/</loc>
+		<lastmod>2023-10-03T19:15:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/contact-us/</loc>
+		<lastmod>2023-11-08T17:30:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://putnamcountywv.gov/utilities/</loc>
+		<lastmod>2023-10-23T15:46:54+00:00</lastmod>
+	</url>
+</urlset>
+<!-- Sitemap is generated for this view -->

@@ -1,0 +1,996 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+    <head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="south florida municipality, indian creek village, peninsula, barrier island, biscayne bay" /><meta name="description" content="The Indian Creek Village, which is situated on a man-made barrier island along Biscayne Bay, is a municipality located in the Southeastern tip of the Florida peninsula, on the northeastern part of Miami-Dade County with a total land area of approximately 0.46 square miles, or 294 acres." /><link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,500&amp;family=Playfair+Display+SC&amp;family=Playfair+Display:wght@500&amp;display=swap" rel="stylesheet" /><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/Framework/App_Themes/Framework/Global/main.css" /><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" /><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
+        
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5RVX9LG6BG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5RVX9LG6BG');
+</script>
+        <title>
+	Home
+</title><meta property="og:title" content="Home" /><meta property="og:url" content="https://www.indiancreekvillagefl.gov" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Default" /><meta name="Generator" content="Sitefinity 12.2.7232.0 SE" /><link rel="canonical" href="https://www.indiancreekvillagefl.gov" /><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nOuSt_M6IgylTNLwmV7zOaEnoXeNSnSPwJ4pe4_YAA3Rg_DafRJmDqsixeCefpjZslyLXaQ7s-_fEDPJGIuyESLpE2Sf77IsNn4QxZp9wIID0&amp;t=638562561717740368&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d12.2.7232.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a4ce39564-eafe-4a26-9ef6-244a21c7a8bb%3a7a90d6a%3a83fa35c7%3a850288ef%3ad271177c%3adff30785" type="text/css" rel="stylesheet" /></head>
+    <body>
+        <form method="post" action="./" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl12_TSSM" id="ctl12_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="48KN7w3pNgSIUYIEEdWuBVIIdkIEZ5eVEhbjyyAwuSHi59SEeuL5Ya6mhpTGcHs51EmV1bOIDr4+cWd1qcM4VjeV2gh/M6OgErHjHkqs6zugMK72dPXVDQDQGC9lBl9nOXn+zGEPrrmlrnwqkySBTBOn+8Ayl9YP2+5qBWHjd1tLTWGZw6eaBncn5scM2tmVMXUr7p2jRqxmyr6r65gfG4dgP5tqO+mvdRDTcrD91ygSEmYTuAShTSHFM0dGxQkYFdmAnjqKNkuIc4fwsgoYaO6+ZBcYetgjD31ny6HnP9IwT+5ynODfaDgHvuGGoXRjcipFgy1dEdX9280TeyHZnUPzut++7Ti+Q5TGsjjqKDzuxCKxeaQdKy5eE+BYdQw8w1SJi5mwzfeb505j6cry5gPLkx5ek/y5J95jhi0AO4xUiNXkLlt/GarI5pd5RW14gfyEocNwM/P7WPM1e8i90J9hpDKAgkQRjpvhVL9bzO/k0sN5QQ8EQURkk9qgP+7gZ3BfKb68b+wEJI0hEjP5M31Ozs7vejFE3HRSacy0xHv0mWvPEiLFRQF+n9SL5xY/ihG3gM3v3muJQLjzCo+yUjRTyDY2u8rcfBnX9i0rXVWHvueaWASCsFoJCxogNxzQSCdj7G/JV1isyxXFuncDmRyjws3AN+pVrgYCO0URWgeUjP2p1INyF5jUhHC+YqbKXooQNl+clmNUgYiGwsUMyFyoy1tCw5IgzBQXmaPm+iEjKV5aNv2wtxtuK+Gl/lp3KAn4kMdlRkFnGMu2q/myu+N/rnE6UJrDFcetcjdI9oWlZ+0qh3WTTgoiW09UX498WvhD8ei17tQKCS9cIyi+yvPhuhjIdPLQISUZc4D5hpop9QpaD/9rNiDfRqHG33T0x7Na+9vYXIr1zLKquzfSK9+6fi1Z5YyGN/YPt8QH/mngGfEMZvd5Z6SLy/3uP7DdE6NIcLeQFzeY3xxZuoyx1Q63aj4hWRvgA2Kj72M3ish00IcqJltu2JnAdh3TMYxV4s2F02DUiwaqsl2SndPL7tG4jfbGX8VzNvUc1CfzptZ/Uqhr2kjMUMvaNrFZ5T0GKL/CxiO1x5DAp5Q9uXvaJImc1IMkkq15yZB/QsUayXQ4hh+TYwrLCgN4lyLO2gGySlbo96dPqLghkJ0m8ThzV8St1va7WYoRXXJ5pbaOaC0z15i968rC4mvO3MCOrhjFFD3CH6476rpLODit6Nj++YsR/8QgaEQXrO4/5d0eGRjZp1ihgMvwZAx13aRmlHjL87JLhmoYtmumAHIMSpDWcaytd6Zl95QbXCpA5lbvd6++ZgV2gSV0/mPB5x2strIS" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZH90IcbaXT5lHKcYIuqzS-FzL8Zeoa9MM2WoiDvstBmmLvPIVmwS59kR6miIQ_fvsQ2&amp;t=638562561717896622"><\/script>');//]]>
+</script>
+
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvrEehKlwn-c_oIZlD2LE5gPS7Gwlf5z2OInHrlZOL8k-3KlukCHBY5jMob9iFhYuCsrVqU2Y2otQT-scu_LTwNkuuvfKvN1swg9E3fnG27uRgasSfKEH4nu9v2izRPfReiYVfAfaiukqxKafWDMEaQ81&t=7a0cc936"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8ODqCbEdAGp4_ZV_dMwuHPMhZTaaQ1zoKP64_CihwfhfoB-Vq8Hc49JDPRUnGwXyrQO5ItRTlxv42P4GN0mf_03IZQ5k-T6bzkPkXIZS3oQsfetBsEzyZCIyicTDVjP_brTVJzTKesBJHStObkaqKPpA1&t=7a0cc936"><\/script>');//]]>
+</script>
+
+<script src="https://code.jquery.com/jquery-1.12.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="https://kendo.cdn.telerik.com/2019.3.917/js/kendo.all.min.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TDVjdgRbdvNAY3tnbizUcBqOMVH1082Hulfn3VrvDKaJUZMcOoKhb0u_AYciAQ4Smer_LIAyctGHowceUM7VJGnHDL7r-1VPnE_CYFh1G7gyw_7TqjRO_XqvEMfvJKE-0&amp;t=3f682b39" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcRU62MWeG3kVi9sHj4QGYSKOgE8ux7cr6YXL0L_UldyG8MfydqTtALKaghvf3xkBITATCHHxE-owkNm2kT1YbyIByJ3Us93ErDHSQLnb19WdehXj-VCW2m8qV2-zmFLyag2&amp;t=3f682b39" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LDxs7tI-ncIIKPgYq3uJyrJ-DDwbxx4GpGtbTN_MnbCedRuvgJlc04dPKErGQHFUL3jhUrALa_KgHvFHLplwl2Vk9Bee2K3d_B3NXGghP5UTvCMmenOMwbB7quPtVorFDQAGdaGyw2owRuMWGov1_g2&amp;t=3f682b39" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=txOWT0IWXM4wZRbIbHwGn-w0ajXE7OGHPlc8oN257ghqrpgwHM1EVCfrzmkusrpxatDvfDPUwXRxMIkbx6zSTnqFQqSo38Lz1nr7d74aMXQblvvTVkQU_R-Jcxc-aUOU7jNQR39y17EQLHh_vCR-jAmKGSV6kRsLcWZ48-UTHTjhOf5vYQnFRRpameKlVEFU0&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=j3ubkVmFFg_bKHE4u-88zxExEajMEYZIwBfH8UG8HvPEIEf_C5AyixHXXu4tPngFx72IE7ZRywI-Tsgab0jVQeBhzT4Hg_4qH4Ogp5tCHk-i4bXc90E7oGPc3OwHX2IaXhR9bxN74pM6dIdXMZsYhRqzkS7VpEHa9H9lJMD4Tvk1&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Dezrbx0WlWl5CTpaPsSxzBZ_rkTqKJdP264sRT9NpwDBt4BSkNmv0JjPmHHFzMjrptQ_xC7SrS57oRRaFVOJj7-6EU5X9puUT7mleQFwCsdc499gGMTYZ8T5hEWG2idz0mh45seulOIvMLJZjrm2GsR4kvbrTDw_8qleIO5eqP41&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=CSUfuNyVdUTEu1f06URCvmIks5DTg9Nif5IQfrtEp5DWZxVuweGv1lW1Rt3tG_QktG4mMc5cZiyn3pXwBpgzCK_KTmTXppyfcrgiIRCAVpUlP5SUj7od8aCwfyoG1g7N9rffrQ8c4zdYsiWBgZwjNxieI11tGG2MDc6EI-Ea5W81&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=X0mghJFu2lvB3gFRSPiZrmcrElZcj1BOusH9DdIenqRqbimfnAPYDi0c-f6iM-kkUfqmmjoM6CCoKbfT4w_DeRClo-nelNAq-zKVJvUStrQ9ofgV_kpND1G27djR8PYd2dPFKQWltBJs8IxvnNT3eRJn3sg9zbS6aMh51I6MrWAh2xO7D3daRb7uvWUKnMCC0&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=v-xR7JCoSq9qoVIUEwgspZeujU1k-_EH7pkwGRl_Mv15K4cJQ2NmCpkmd3okHH9zVr39i3lloRKGJAKnTieVqi4xSeaslSc_573DPv-byORjJ5nXFJcZIW_jf3S98pAA__AzX46C1KXa6CgXAFh7y4EZ9quo2zqQ86qbneXrcEk8z42eOwCEzAdMrSbWgq6x0&amp;t=1f7ae5e" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wCnEtj_hQ6CsSpnxyWK2r4JThGIRRTyXLhkFjCHjyH1bZSK32B--dyoDpg8yTujM--f-8-xAGgEE7AHE100uqMUw5gzvgs8j1DoXVZ8EmiNjUaLAw9TWkMU_iRNg0a5aHYrdFGjfRWCWOMnHGjQJGNScrOow1mB2-jfWTeMVucsJbCaXuQKFQp6rekMLid3l0&amp;t=1f7ae5e" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jtk6_obxYshN32jhtt5tjdQgHkN8Cp-1AosIWffvo2cBZGYiL5nuMvPh3iyasZkJH_Mnegj7EJxgOTwCllJqf1CLWOx-JRktc1UGGynEVKjio5uEuf7HBQYz5Rl_3YObezHlOdEO3cEC6xW6hjQokOGc0yLMgJ_hEs3pca2qX0g1&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=SuYCzQWRU5sdiMz0dhJW-olcNCvn4_bkkkJomKmNXUPS_RgB6mQqufRVohhnVfTWx7Oc5xf6JeKlVFVeVzZiBCDIl7vai1fhC41or6MHaHwts7Z6VYUI1WfLsqXz3zBhHxj1LLgmKfL71pzuXxhNGwMP0V8ogZBtXNHpR2AyqxQ1&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=RdWBQoamSl9f73XAiu7pS9XnTZGL2TqtppR2Hv8EkEYT488UtHl6yL_56oibfTgmDf9xU3mdFedeYqwdpRfy7VqYWUQkK_mArKG0G2iACW8bApSIR_aUVxa-p4uG1WIfQn1FbZb6MwDkF1PMg7dXhw2&amp;t=ffffffff977f3f6d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tlTynJuwcuOdlotOppqvaNLFseKx45InRrVP4L8xmc4nrchmneQ-FZp5HF7bMyZ7ek6oo1ZiVCA6fQYEsPsQ7Sn7RKuRO6kmZOuizi6u6rzEuK3bvGqjnF8-HoQrBkuSxWIqZIrNwGrxJafrf4GIRRiNIvvfAefgzsHoKTXn1BAOIawxIO7K33sUNfxAy36D0&amp;t=ffffffff81673f38" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="30D63089" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="6Sy4gMJ3XzTfpKRNb9+zB6az5E8NMjMs4Xx3RhxyQ3xAiauK3aqNKp073TmGTU5QZgNdDk56VPHbYQXuN90Cx7EMKQaabf7TLnBNuCwfqATxreChP8pabzKUJXfbe7a1pkiwpLQsNCtD0ufxoUyCEg==" />
+</div>
+            <a class="sr-only sr-only-focusable" href="#main">Skip to main content</a>
+            <div id="video-panel">
+                <div class="gradient"></div>
+                <video autoplay loop muted aria-hidden="true">
+                    <source src="/videos/default-source/default-video-library/icv_bg_loop_web_lo.webm" type="video/webm">
+                </video>
+            </div>
+            <header id="icvHeader">
+                <div id="icvEmergencyBanner">
+                    
+<div>
+	
+<!-- 2019.3.917.45 -->
+      <div id="carouselEmergency" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="list" title="carousel-inner" aria-label="carousel-inner">
+          
+        </div>
+        <a class="carousel-control-prev" href="#carouselEmergency" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselEmergency" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+      </div>
+      
+    <input id="ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView_ClientState" name="ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView_ClientState" type="hidden" /><span id="ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView" style="display:none;"></span>
+
+</div>
+
+
+                </div>
+                <div id="icvMenuButton" class="d-lg-none">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbarNav" 
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-bars text-light"></i>
+                    </button>
+                </div>
+                <div id="icvWeather">
+                    <div class="weatherwidget" aria-expanded="false">
+                        <div class="weathericon"></div>
+                        <div class="weathertemp"></div>
+                    </div>
+                    <div id="weatherpanel" style="display: none;">
+                        <div class="weatherinfo">
+                            <h2>Last Updated <span class="updated"></span></h2>
+                            <div class="weathericon"></div>
+                            <ul>
+                                <li>Weather <span class="weatherdesc"></span>
+                                <li>Current Temp <span class="temp degree">-</span></li>
+                                <li>Feels Like <span class="feels degree">-</span></li>
+                                <li>Humidity <span class="humid">-</span></li>
+                                <li>Pressure <span class="pressure">-</span></li>
+                                <li>Cloudiness <span class="cloudy">-</span></li>
+                                <li>Visibility <span class="vis">-</span></li>
+                                <li>Sunrise <span class="sunrise">-</span></li>
+                                <li>Sunset <span class="sunset">-</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="icvQuickLinks">
+                    
+
+
+
+
+
+<div class="d-none d-lg-flex sfNavWrp sfNavHorizontalWrp  ASP.sfctrlpresentation_openaccessdataprovider_8dd3d4aec3004501ae87b19d63c2173d_ascx">
+    
+    
+      
+    
+     
+    <ul class="sfNavHorizontal sfNavList">
+        
+                        <li>
+                          <a href="/quicklinks/calendar"><span class="sr-only">Quick link to</span> Calendar</a>          
+                        </li>
+                    
+                        <li>
+                          <a href="/quicklinks/document-center"><span class="sr-only">Quick link to</span> Document Center</a>          
+                        </li>
+                    
+                        <li>
+                          <a href="/quicklinks/stay-connected"><span class="sr-only">Quick link to</span> Stay Connected</a>          
+                        </li>
+                    
+                        <li>
+                          <a href="/quicklinks/staff-directory"><span class="sr-only">Quick link to</span> Staff Directory</a>          
+                        </li>
+                    
+
+    </ul>
+</div>
+
+                </div>
+                <div id="icvSearchBtn">
+                    <i class="fas fa-search"></i>
+                </div>
+                <div id="icvLogo">
+                    
+<div class='sfContentBlock'><h1><a href="/home">Indian Creek <span class="logoSub">Village</span></a></h1>
+
+</div>
+                </div>
+                <div id="icvMainNav">
+                    
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light ">
+    
+    
+    
+    
+  <div class="collapse navbar-collapse navbarNav">
+    <ul id="mainnav_T5BC863B4004_ctl00_ctl00_navigationUl" class="navbar-nav">
+        
+                        <li>
+                            <a href="/" class="nav-link active">Home</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents" class="nav-link">Residents</a>
+                            <ul id="mainnav_T5BC863B4004_ctl00_ctl00_ctl02_ctl01_childNodesContainer">
+                        <li>
+                            <a href="/residents/about" class="nav-link">About</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/building" class="nav-link">Building</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/Trash" class="nav-link">Trash / Recycling</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/waterutility-service" class="nav-link">Water Utility Service</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/stormwater-drainage-system" class="nav-link">Stormwater</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/public-records-request" class="nav-link">Public Records Request</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/elections" class="nav-link">Elections</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/residents/project-updates" class="nav-link">Project Updates</a>
+                            
+                        </li>
+                    </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/government" class="nav-link">Government</a>
+                            <ul id="mainnav_T5BC863B4004_ctl00_ctl00_ctl02_ctl02_childNodesContainer">
+                        <li>
+                            <a href="/government/mayor-village-council-" class="nav-link">Mayor &amp; Village Council</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/village-clerk" class="nav-link">Village Clerk</a>
+                            <ul id="mainnav_T5BC863B4004_ctl00_ctl00_ctl02_ctl02_ctl02_childNodesContainer">
+                        <li>
+                            <a href="/government/village-clerk/public-records" class="nav-link">Public Records Request</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/village-clerk/rfp-rfq" class="nav-link">RFP/RFQ</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/village-clerk/elections" class="nav-link">Elections</a>
+                            
+                        </li>
+                    </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/government/building" class="nav-link">Building</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/code-enforcement" class="nav-link">Code Enforcement</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/agendas" class="nav-link">Agendas</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/police" class="nav-link">Police</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/staff-directory" class="nav-link">Staff Directory</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/government/employment-opportunities" class="nav-link">Job Opportunities&#160;</a>
+                            
+                        </li>
+                    </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/police" class="nav-link">Police</a>
+                            <ul id="mainnav_T5BC863B4004_ctl00_ctl00_ctl02_ctl03_childNodesContainer">
+                        <li>
+                            <a href="/police/about-icvpd" class="nav-link">About&#160;</a>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/police/police-staff-directory" class="nav-link">Police Directory</a>
+                            
+                        </li>
+                    </ul>
+                        </li>
+                    
+    </ul>
+    </div>
+</nav>
+
+
+<script type="text/javascript">
+    (function ($) {
+        var whetherToOpenOnClick = true;
+
+        var kendoMenu = $('.navbar-nav').not('.k-menu').kendoMenu({
+            animation: false,
+            openOnClick: whetherToOpenOnClick,
+            open: function (e) {
+                if (window.DataIntelligenceSubmitScript) {
+                    var item = $(e.item);
+
+                    DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                        predicate: "Toggle navigation",
+                        object: item.find("a:first").text(),
+                        objectMetadata: [
+                                                    {
+                                                        'K': 'PageTitle',
+                                                        'V': document.title
+                                                    },
+                                                    {
+                                                        'K': 'PageUrl',
+                                                        'V': location.href
+                                                    }
+                        ]
+                    });
+                }
+            }
+        }).data('kendoMenu');
+
+        if (whetherToOpenOnClick && kendoMenu) {
+            jQuery(kendoMenu.element).find("li:has(ul) > a").attr("href", "javascript:void(0)");
+        }
+    })(jQuery);
+</script>
+
+
+
+
+<nav class="d-flex d-lg-none navbar navbar-expand-lg navbar-dark ">
+  <div class="collapse navbar-collapse navbarNav">
+    <ul class="navbar-nav quicklinks">
+      
+                      <li class="nav-item">
+                          <a href="/quicklinks/calendar" class="nav-link">Calendar</a>
+                          
+                      </li>
+                  
+                      <li class="nav-item">
+                          <a href="/quicklinks/document-center" class="nav-link">Document Center</a>
+                          
+                      </li>
+                  
+                      <li class="nav-item">
+                          <a href="/quicklinks/stay-connected" class="nav-link">Stay Connected</a>
+                          
+                      </li>
+                  
+                      <li class="nav-item">
+                          <a href="/quicklinks/staff-directory" class="nav-link">Staff Directory</a>
+                          
+                      </li>
+                  
+    </ul>
+  </div>
+</nav>
+
+                </div>
+                <div id="icvHero">
+                    
+<div>
+	
+
+
+    <div id="carouselMain" class="carousel slide carousel-fade" data-ride="carousel">
+      
+      <div class="carousel-inner">      
+        
+    <div class="carousel-item" data-interval="5000" role="tabpanel">
+      
+        
+            
+            	<div class="d-flex flex-column flex-md-row">
+          <div class="d-block carousel-img" style='background: url(https://www.indiancreekvillagefl.gov/images/default-source/banners/_mg_0514.jpg?sfvrsn=4fa5293c_6);' title='Village Hall'></div>
+                  
+                    </sf:Conditional>
+                </div>
+                    
+              
+          
+      
+    </div>
+  
+    <div class="carousel-item" data-interval="5000" role="tabpanel">
+      
+        
+            
+            	<div class="d-flex flex-column flex-md-row">
+          <div class="d-block carousel-img" style='background: url(https://www.indiancreekvillagefl.gov/images/default-source/banners/icv_aerial.jpg?sfvrsn=547f0312_3);' title='Indian Creek Village Aerial'></div>
+                  
+                </div>
+              
+          
+      
+    </div>
+  
+    <div class="carousel-item" data-interval="5000" role="tabpanel">
+      
+        
+            
+            	<div class="d-flex flex-column flex-md-row">
+          <div class="d-block carousel-img" style='background: url(https://www.indiancreekvillagefl.gov/images/default-source/banners/entryway-into-indian-creek-village.jpg?sfvrsn=f5cca3bf_6);' title='Entryway into Indian Creek Village'></div>
+                  
+                    </sf:Conditional>
+                </div>
+                    
+              
+          
+      
+    </div>
+  
+    <div class="carousel-item" data-interval="5000" role="tabpanel">
+      
+        
+            
+            	<div class="d-flex flex-column flex-md-row">
+          <div class="d-block carousel-img" style='background: url(https://www.indiancreekvillagefl.gov/images/default-source/banners/aerial-of-indian-creek-village.jpg?sfvrsn=911e7e72_6);' title='Aerial of Indian Creek Village'></div>
+                  
+                    </sf:Conditional>
+                </div>
+                    
+              
+          
+      
+    </div>
+  
+      </div>
+      <ol class="carousel-indicators" role="list">
+      </ol>
+      <a class="carousel-control-prev" href="#carouselMain" role="button" data-slide="prev">
+        <!--<span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselMain" role="button" data-slide="next">
+        <!--<span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  <input id="ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView_ClientState" name="ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView_ClientState" type="hidden" /><span id="ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView" style="display:none;"></span>
+    
+
+</div>
+                </div>
+            </header>
+            <main id="main">
+                
+<div class="sf_cols d-flex flex-column flex-md-row multi-widget">
+    <div class="sf_colsOut flex-grow-1 w-100" style="" data-placeholder-label="News">
+        <div id="mainContent_C039_Col00" class="sf_colsIn sf_2cols_1in_50"><div class='home-widget-header'><h2>News</h2>
+<a href="/indian-creek-village/news">View All <span class="sr-only">Headlines</span></a>
+
+</div><div>
+	
+
+    <div class="headlineList">
+      
+    <div class="headlineItem"  data-sf-provider='OpenAccessProvider' data-sf-id='6a264473-3633-4986-963b-729c9aa0672f' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+      <h2 class="headlineTitle">Job Opportunities
+        
+            
+                
+                    <a href='/indian-creek-village/news/news-detail/2024/08/19/job-opportunities'>                     
+                  
+              
+          
+              <span class="ml-4">Read More <span class="sr-only">about Job Opportunities</span> &gt;</span></a>
+      </h2>
+    </div>
+  
+    <div class="headlineItem"  data-sf-provider='OpenAccessProvider' data-sf-id='60557445-f858-4323-b957-f47c2f28ef24' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+      <h2 class="headlineTitle">Contractor Registration
+        
+            
+                
+                    <a href='/indian-creek-village/news/news-detail/2024/08/15/contractor-registration'>                     
+                  
+              
+          
+              <span class="ml-4">Read More <span class="sr-only">about Contractor Registration</span> &gt;</span></a>
+      </h2>
+    </div>
+  
+    <div class="headlineItem"  data-sf-provider='OpenAccessProvider' data-sf-id='35b882cb-f12b-469f-92e0-aad7194853bb' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+      <h2 class="headlineTitle">Bridge Weight Capacity Guidelines
+        
+            
+                <a href='https://www.indiancreekvillagefl.gov/docs/default-source/departments/residents/letter-from-manager-re-bridge-weight-capacity-guideline-(june-2021).pdf?sfvrsn=32a63dc1_2' target="_blank">
+              
+          
+              <span class="ml-4">Read More <span class="sr-only">about Bridge Weight Capacity Guidelines</span> &gt;</span></a>
+      </h2>
+    </div>
+  
+    <div class="headlineItem"  data-sf-provider='OpenAccessProvider' data-sf-id='976ce17d-988b-465f-9cde-04e778779bec' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+      <h2 class="headlineTitle">2024 Resident Hurricane Readiness Guide
+        
+            
+                
+                    <a href='/indian-creek-village/news/news-detail/2023/05/05/2023-resident-hurricane-readiness-guide'>                     
+                  
+              
+          
+              <span class="ml-4">Read More <span class="sr-only">about 2024 Resident Hurricane Readiness Guide</span> &gt;</span></a>
+      </h2>
+    </div>
+  
+    <div class="headlineItem"  data-sf-provider='OpenAccessProvider' data-sf-id='9aed8b5a-7dbd-449e-a5dd-29992e21625e' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+      <h2 class="headlineTitle">Gov-Easy Customer Service Portal
+        
+            
+                
+                    <a href='/indian-creek-village/news/news-detail/2024/01/17/gov-easy-customer-service-portal'>                     
+                  
+              
+          
+              <span class="ml-4">Read More <span class="sr-only">about Gov-Easy Customer Service Portal</span> &gt;</span></a>
+      </h2>
+    </div>
+  
+    </div>
+  <input id="ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView_ClientState" name="ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView_ClientState" type="hidden" /><span id="ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView" style="display:none;"></span>
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut flex-grow-1 w-100" style="" data-placeholder-label="Looking Ahead">
+        <div id="mainContent_C039_Col01" class="sf_colsIn sf_2cols_2in_50"><div class='home-widget-header'><h2>Looking Ahead</h2>
+<a href="https://www.indiancreekvillagefl.gov/indian-creek-village/calendar">VIEW ALL</a>
+
+</div> 
+
+        <div class="icvEventsList">
+            
+        <div class="icvEventItem d-flex flex-row align-items-center justify-content-between" data-sf-provider='OpenAccessDataProvider'  data-sf-id='a1672810-551f-48b3-86b4-80cbdfab806a' data-sf-type="Telerik.Sitefinity.Events.Model.Event">
+            <h2 class="sfeventTitle sftitle text-left">
+                <a data-sf-field="Title" data-sf-ftype="ShortText" href="indian-creek-village/calendar/event-detail/2024/09/10/council-meetings/first-budget-hearing-fy2025">First Budget Hearing FY2025</a>
+            </h2>
+            <div class="icvEventDate">
+              <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01">
+	        
+            
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_textLabel_read" class="sfTxtContent" data-empty-label="not set">
+		09/10/2024
+	</div>
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_characterCounter_read">
+		
+	</div>
+        
+<div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ConditionalTemplates" style="display:none;">
+		<div id="ClientTemplatePanel_ctl01">
+	
+            
+            <div>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_titleLabel_write_ctl01" class="sfTxtLbl sfInlineBlock"></span>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01">
+
+<div class="sfDetailsPopupWrp sfInlineBlock">
+    <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_btnToolTipTarget_ctl01"><span class="sfTooltip">(?)</span></a>
+    <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01" class="sfDetailsPopup" style="display: none;">
+        <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01_lblTitle_ctl01"></span>
+        
+    </div>
+</div>
+</span>
+            </div>
+            <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandButton_write_ctl01" class="sfOptionalExpander"></a>
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01" class="sfFieldWrp">
+		
+                <input name="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" type="text" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" class="sfTxt" />
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_characterCounter_write_ctl01" class="sfFlRight sfMRight5">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_descriptionLabel_write_ctl01" class="sfDescription">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_exampleLabel_write_ctl01" class="sfExample">
+			
+		</div>
+                <p id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_expandableTarget_write_ctl01_characterCounterDescription_write_ctl01" class="sfExample"></p>
+            
+	</div>
+        
+</div>
+	</div>
+</div>
+          </div>
+            
+      </div>
+    
+        <div class="icvEventItem d-flex flex-row align-items-center justify-content-between" data-sf-provider='OpenAccessDataProvider'  data-sf-id='f02807bd-abe0-4597-8337-972a48229248' data-sf-type="Telerik.Sitefinity.Events.Model.Event">
+            <h2 class="sfeventTitle sftitle text-left">
+                <a data-sf-field="Title" data-sf-ftype="ShortText" href="indian-creek-village/calendar/event-detail/2024/09/10/council-meetings/regular-council-meeting">Regular Council Meeting</a>
+            </h2>
+            <div class="icvEventDate">
+              <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01">
+	        
+            
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_textLabel_read" class="sfTxtContent" data-empty-label="not set">
+		09/10/2024
+	</div>
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_characterCounter_read">
+		
+	</div>
+        
+<div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ConditionalTemplates" style="display:none;">
+		<div id="ClientTemplatePanel_ctl01">
+	
+            
+            <div>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_titleLabel_write_ctl01" class="sfTxtLbl sfInlineBlock"></span>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01">
+
+<div class="sfDetailsPopupWrp sfInlineBlock">
+    <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_btnToolTipTarget_ctl01"><span class="sfTooltip">(?)</span></a>
+    <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01" class="sfDetailsPopup" style="display: none;">
+        <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01_lblTitle_ctl01"></span>
+        
+    </div>
+</div>
+</span>
+            </div>
+            <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandButton_write_ctl01" class="sfOptionalExpander"></a>
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01" class="sfFieldWrp">
+		
+                <input name="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" type="text" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" class="sfTxt" />
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_characterCounter_write_ctl01" class="sfFlRight sfMRight5">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_descriptionLabel_write_ctl01" class="sfDescription">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_exampleLabel_write_ctl01" class="sfExample">
+			
+		</div>
+                <p id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_expandableTarget_write_ctl01_characterCounterDescription_write_ctl01" class="sfExample"></p>
+            
+	</div>
+        
+</div>
+	</div>
+</div>
+          </div>
+            
+      </div>
+    
+        <div class="icvEventItem d-flex flex-row align-items-center justify-content-between" data-sf-provider='OpenAccessDataProvider'  data-sf-id='6d7aa885-5227-41c0-bc09-d93b8187ac71' data-sf-type="Telerik.Sitefinity.Events.Model.Event">
+            <h2 class="sfeventTitle sftitle text-left">
+                <a data-sf-field="Title" data-sf-ftype="ShortText" href="indian-creek-village/calendar/event-detail/2024/09/26/council-meetings/second-budget-hearing-fy2025">Second Budget Hearing FY2025</a>
+            </h2>
+            <div class="icvEventDate">
+              <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01">
+	        
+            
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_textLabel_read" class="sfTxtContent" data-empty-label="not set">
+		09/26/2024
+	</div>
+            
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_characterCounter_read">
+		
+	</div>
+        
+<div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ConditionalTemplates" style="display:none;">
+		<div id="ClientTemplatePanel_ctl01">
+	
+            
+            <div>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_titleLabel_write_ctl01" class="sfTxtLbl sfInlineBlock"></span>
+                <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01">
+
+<div class="sfDetailsPopupWrp sfInlineBlock">
+    <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_btnToolTipTarget_ctl01"><span class="sfTooltip">(?)</span></a>
+    <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01" class="sfDetailsPopup" style="display: none;">
+        <span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_tooltip_write_ctl01_ctl00_ctl00_wrpToolTip_ctl01_lblTitle_ctl01"></span>
+        
+    </div>
+</div>
+</span>
+            </div>
+            <a onclick="return false;" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandButton_write_ctl01" class="sfOptionalExpander"></a>
+            <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01" class="sfFieldWrp">
+		
+                <input name="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" type="text" id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_textBox_write_ctl01" class="sfTxt" />
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_characterCounter_write_ctl01" class="sfFlRight sfMRight5">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_descriptionLabel_write_ctl01" class="sfDescription">
+			
+		</div>
+                <div id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_exampleLabel_write_ctl01" class="sfExample">
+			
+		</div>
+                <p id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_expandableTarget_write_ctl01_characterCounterDescription_write_ctl01" class="sfExample"></p>
+            
+	</div>
+        
+</div>
+	</div>
+</div>
+          </div>
+            
+      </div>
+    
+        </div>
+    <input id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ClientState" name="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ClientState" type="hidden" /><span id="ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList" style="display:none;"></span>
+<span></span>            
+        </div>
+    </div>
+</div><div>
+	
+
+        <div class="callouts">
+            
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='c5b4788e-4c64-4b95-bb02-15042f11df10' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+              
+                  
+                      <a href='/residents/project-updates'>
+                        <i class='fas fa-hammer'></i>
+                        Capital Improvements
+                      </a>
+                    
+                
+            </div>
+            
+        </div>
+    
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='9581fc42-506d-4da3-b598-2f582554e30c' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+                
+                  <a target="_blank" href='https://www.indiancreekvillagefl.gov/docs/default-source/departments/building/permit-application-and-documentation-combined.pdf?sfvrsn=ca30a3e_12'>
+                    <i class='fas fa-building'></i>
+                    Building Permit
+                  </a>
+                
+            </div>
+            
+        </div>
+    
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='8dd07a86-75ed-458a-bc19-de7f4e3c809e' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+              
+                  
+                      <a href='/government/agendas'>
+                        <i class='fas fa-clipboard'></i>
+                        Agendas
+                      </a>
+                    
+                
+            </div>
+            
+        </div>
+    
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='c74df46a-db9f-4e77-bba0-826bec01f1cb' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+              
+                  
+                      <a href='/document-center/residents'>
+                        <i class='fas fa-file-alt'></i>
+                        Letters to Residents
+                      </a>
+                    
+                
+            </div>
+            
+        </div>
+    
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='1ced1e1a-a66f-4b48-aae4-65d840008a05' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+              
+                  
+                      <a href='/government/staff-directory'>
+                        <i class='fas fa-id-badge'></i>
+                        Staff Directory
+                      </a>
+                    
+                
+            </div>
+            
+        </div>
+    
+        <div class="callout-item"  data-sf-provider='OpenAccessProvider' data-sf-id='40999b5a-538b-4abd-ae64-c09f6e502840' data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div class="callout-title">
+              
+                  
+                      <a href='/indian-creek-village/coronavirus'>
+                        <i class='fas fa-virus'></i>
+                        Coronavirus
+                      </a>
+                    
+                
+            </div>
+            
+        </div>
+    
+        </div>
+    <input id="ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView_ClientState" name="ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView_ClientState" type="hidden" /><span id="ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView" style="display:none;"></span>
+
+</div><div class="sf_cols">
+    <div class="sf_colsOut sf_1col_1_100">
+        <div id="mainContent_C040_Col00" class="sf_colsIn sf_1col_1in_100"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50" style="">
+        <div id="mainContent_C041_Col00" class="sf_colsIn sf_2cols_1in_50">
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50" style="">
+        <div id="mainContent_C041_Col01" class="sf_colsIn sf_2cols_2in_50">            
+        </div>
+    </div>
+</div>
+            
+        </div>
+    </div>
+</div>
+            </main>
+            <div class="footerlogomark">
+            <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.4" id="svg-root" width="100%" height="90">
+                <g>
+                <defs>
+                    <mask id="svg-circle-mask">
+                    <rect x="0px" y="0px" width="100%" height="100%" fill="white"></rect>
+                    <circle id="svg-circle" cx="160px" cy="0%" r="90" fill="black"></circle>
+                    </mask>
+                </defs>
+                <rect width="100%" height="100%" x="0" y="0" fill="#0B7FA9" mask="url(#svg-circle-mask)">
+                </rect>			
+                </g>
+            </svg>
+            </div>
+
+            <footer id="footer">
+                
+<div class='sfContentBlock'><section id="icvinfo">
+<header>
+Indian Creek Village
+</header>
+<p>9080 Bay Drive</p>
+<p>Indian Creek Village, FL 33154</p>
+<p><a id="contactPhoneNumber">305-865-4121</a></p>
+</section>
+
+</div>
+            </footer>
+            <section id="colophon" aria-label="colophon">
+                
+<div class='accessibility-statement'><p>Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.</p>
+<p><strong>Accessibility Update</strong></p>
+<p>The Village recently updated its new website and it is now fully accessible. While we continue to work through the process of ensuring that all uploaded documents are fully accessible, persons having difficulty accessing any content on the website are requested to contact <a href="mailto:village@icvps.org">village@indiancreekvillagefl.gov</a>&nbsp;for assistance, modification or accommodation.</p>
+
+</div>
+
+
+
+
+<div class="sfNavWrp sfNavHorizontalWrp  ASP.sfctrlpresentation_openaccessdataprovider_f892d554d7e444d0b0bad7c555fa8ab9_ascx">
+    
+    
+      
+    
+     
+    <ul>
+        
+                        <li>
+                            <a href="/footer-links/sitemap">Sitemap</a>          
+                        </li>
+                    
+    </ul>
+</div>
+
+            </section>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            
+
+            <div id="icvSearchArea" aria-label="search area" role="search">
+                
+<div class='closeSearch'><em class="fas fa-times"></em> Close
+
+</div><div id="searcharea_T5BC863B4016" class="icvSearchText">
+	
+
+<fieldset id="searcharea_T5BC863B4016_ctl00_ctl00_main" class="sfsearchBox">
+    <input name="ctl00$searcharea$T5BC863B4016$ctl00$ctl00$searchTextBox" type="text" id="searcharea_T5BC863B4016_ctl00_ctl00_searchTextBox" class="sfsearchTxt" />
+    <input type="submit" name="ctl00$searcharea$T5BC863B4016$ctl00$ctl00$searchButton" value="Search" onclick="return false;" id="searcharea_T5BC863B4016_ctl00_ctl00_searchButton" class="sfsearchSubmit" />
+</fieldset>
+
+</div>
+            </div>
+            
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl12_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=12.2.7232.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:4ce39564-eafe-4a26-9ef6-244a21c7a8bb:7a90d6a:83fa35c7:850288ef:d271177c:dff30785';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$emergencybanner$ctl02$ctl00$ctl00$dynamicContentListView","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView_ItemsContainer","DataService":{}}},"clientStateFieldID":"ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView_ClientState","renderMode":1}, null, null, $get("ctl00_emergencybanner_ctl02_ctl00_ctl00_dynamicContentListView"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$hero$ctl00$ctl00$ctl00$dynamicContentListView","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView_ItemsContainer","DataService":{}}},"_virtualItemCount":4,"clientStateFieldID":"ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView_ClientState","renderMode":1}, null, null, $get("ctl00_hero_ctl00_ctl00_ctl00_dynamicContentListView"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$mainContent$ctl03$ctl00$ctl00$dynamicContentListView","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView_ItemsContainer","DataService":{}}},"_virtualItemCount":5,"clientStateFieldID":"ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView_ClientState","renderMode":1}, null, null, $get("ctl00_mainContent_ctl03_ctl00_ctl00_dynamicContentListView"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.Fields.TextField, {"_allowNulls":false,"_conditionalTemplatesContainerId":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ConditionalTemplates","_currentCondition":"displaymode-equal-read","_isLocalizable":false,"_maxChars":0,"_readOnlyReplacement":null,"_textBoxId":"textBox_write","_textLabelId":"textLabel_read","_trimSpaces":false,"_unit":null,"conditionDictionary":{"displaymode-equal-read":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_conditionalTemplate","displaymode-equal-write":"ClientTemplatePanel_ctl01"},"controlErrorCssClass":null,"dataFieldName":null,"dataFormatString":null,"defaultValue":"09/10/2024","description":null,"descriptionElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_descriptionLabel_read"),"displayMode":0,"example":null,"fieldName":null,"labelElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_textLabel_read"),"suffix":"_ctl01","title":null,"titleElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01_ctl00_ctl00_titleLabel_read"),"validatorDefinition":"{\"AlphaNumericViolationMessage\":\"Non alphanumeric characters are not allowed.\",\"ComparingValidatorDefinitions\":[],\"CurrencyViolationMessage\":\"You have entered an invalid currency.\",\"EmailAddressViolationMessage\":\"You have entered an invalid email address.\",\"ExpectedFormat\":0,\"IntegerViolationMessage\":\"You have entered an invalid integer.\",\"InternetUrlViolationMessage\":\"You have entered an invalid URL.\",\"MaxLength\":0,\"MaxLengthViolationMessage\":\"Too long\",\"MaxValue\":null,\"MaxValueViolationMessage\":\"Too big\",\"MessageCssClass\":null,\"MessageTagName\":\"div\",\"MinLength\":0,\"MinLengthViolationMessage\":\"Too short.\",\"MinValue\":null,\"MinValueViolationMessage\":\"Too small.\",\"NonAlphaNumericViolationMessage\":\"Alphanumeric characters are not allowed.\",\"NumericViolationMessage\":\"You have entered an invalid number.\",\"PercentageViolationMessage\":\"You have entered an invalid percentage.\",\"RecommendedCharactersCount\":null,\"RegularExpression\":null,\"RegularExpressionSeparator\":null,\"RegularExpressionViolationMessage\":\"Invalid format\",\"Required\":null,\"RequiredViolationMessage\":\"Required field.\",\"ResourceClassId\":\"\",\"USSocialSecurityNumberViolationMessage\":\"You have entered an invalid US social security number.\",\"USZipCodeViolationMessage\":\"You have entered an invalid US ZIP code.\",\"ValidateIfInvisible\":true}","value":"09/10/2024"}, null, null, $get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl0_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.Fields.TextField, {"_allowNulls":false,"_conditionalTemplatesContainerId":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ConditionalTemplates","_currentCondition":"displaymode-equal-read","_isLocalizable":false,"_maxChars":0,"_readOnlyReplacement":null,"_textBoxId":"textBox_write","_textLabelId":"textLabel_read","_trimSpaces":false,"_unit":null,"conditionDictionary":{"displaymode-equal-read":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_conditionalTemplate","displaymode-equal-write":"ClientTemplatePanel_ctl01"},"controlErrorCssClass":null,"dataFieldName":null,"dataFormatString":null,"defaultValue":"09/10/2024","description":null,"descriptionElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_descriptionLabel_read"),"displayMode":0,"example":null,"fieldName":null,"labelElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_textLabel_read"),"suffix":"_ctl01","title":null,"titleElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01_ctl00_ctl00_titleLabel_read"),"validatorDefinition":"{\"AlphaNumericViolationMessage\":\"Non alphanumeric characters are not allowed.\",\"ComparingValidatorDefinitions\":[],\"CurrencyViolationMessage\":\"You have entered an invalid currency.\",\"EmailAddressViolationMessage\":\"You have entered an invalid email address.\",\"ExpectedFormat\":0,\"IntegerViolationMessage\":\"You have entered an invalid integer.\",\"InternetUrlViolationMessage\":\"You have entered an invalid URL.\",\"MaxLength\":0,\"MaxLengthViolationMessage\":\"Too long\",\"MaxValue\":null,\"MaxValueViolationMessage\":\"Too big\",\"MessageCssClass\":null,\"MessageTagName\":\"div\",\"MinLength\":0,\"MinLengthViolationMessage\":\"Too short.\",\"MinValue\":null,\"MinValueViolationMessage\":\"Too small.\",\"NonAlphaNumericViolationMessage\":\"Alphanumeric characters are not allowed.\",\"NumericViolationMessage\":\"You have entered an invalid number.\",\"PercentageViolationMessage\":\"You have entered an invalid percentage.\",\"RecommendedCharactersCount\":null,\"RegularExpression\":null,\"RegularExpressionSeparator\":null,\"RegularExpressionViolationMessage\":\"Invalid format\",\"Required\":null,\"RequiredViolationMessage\":\"Required field.\",\"ResourceClassId\":\"\",\"USSocialSecurityNumberViolationMessage\":\"You have entered an invalid US social security number.\",\"USZipCodeViolationMessage\":\"You have entered an invalid US ZIP code.\",\"ValidateIfInvisible\":true}","value":"09/10/2024"}, null, null, $get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl1_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.Fields.TextField, {"_allowNulls":false,"_conditionalTemplatesContainerId":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ConditionalTemplates","_currentCondition":"displaymode-equal-read","_isLocalizable":false,"_maxChars":0,"_readOnlyReplacement":null,"_textBoxId":"textBox_write","_textLabelId":"textLabel_read","_trimSpaces":false,"_unit":null,"conditionDictionary":{"displaymode-equal-read":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_conditionalTemplate","displaymode-equal-write":"ClientTemplatePanel_ctl01"},"controlErrorCssClass":null,"dataFieldName":null,"dataFormatString":null,"defaultValue":"09/26/2024","description":null,"descriptionElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_descriptionLabel_read"),"displayMode":0,"example":null,"fieldName":null,"labelElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_textLabel_read"),"suffix":"_ctl01","title":null,"titleElement":$get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01_ctl00_ctl00_titleLabel_read"),"validatorDefinition":"{\"AlphaNumericViolationMessage\":\"Non alphanumeric characters are not allowed.\",\"ComparingValidatorDefinitions\":[],\"CurrencyViolationMessage\":\"You have entered an invalid currency.\",\"EmailAddressViolationMessage\":\"You have entered an invalid email address.\",\"ExpectedFormat\":0,\"IntegerViolationMessage\":\"You have entered an invalid integer.\",\"InternetUrlViolationMessage\":\"You have entered an invalid URL.\",\"MaxLength\":0,\"MaxLengthViolationMessage\":\"Too long\",\"MaxValue\":null,\"MaxValueViolationMessage\":\"Too big\",\"MessageCssClass\":null,\"MessageTagName\":\"div\",\"MinLength\":0,\"MinLengthViolationMessage\":\"Too short.\",\"MinValue\":null,\"MinValueViolationMessage\":\"Too small.\",\"NonAlphaNumericViolationMessage\":\"Alphanumeric characters are not allowed.\",\"NumericViolationMessage\":\"You have entered an invalid number.\",\"PercentageViolationMessage\":\"You have entered an invalid percentage.\",\"RecommendedCharactersCount\":null,\"RegularExpression\":null,\"RegularExpressionSeparator\":null,\"RegularExpressionViolationMessage\":\"Invalid format\",\"Required\":null,\"RequiredViolationMessage\":\"Required field.\",\"ResourceClassId\":\"\",\"USSocialSecurityNumberViolationMessage\":\"You have entered an invalid US social security number.\",\"USZipCodeViolationMessage\":\"You have entered an invalid US ZIP code.\",\"ValidateIfInvisible\":true}","value":"09/26/2024"}, null, null, $get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ctrl2_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$mainContent$C048$eventsFrontendList$ctl00$ctl00$eventsList","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ItemsContainer","DataService":{}}},"_virtualItemCount":3,"clientStateFieldID":"ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList_ClientState","renderMode":1}, null, null, $get("ctl00_mainContent_C048_eventsFrontendList_ctl00_ctl00_eventsList"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.UserPreferences, {"_timeOffset":"-10800000","_userBrowserSettingsForCalculatingDates":true,"timeZoneDisplayName":"(UTC-05:00) Eastern Time (US \u0026 Canada)","timeZoneId":"Eastern Standard Time"}, null, null);
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$mainContent$ctl05$ctl00$ctl00$dynamicContentListView","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView_ItemsContainer","DataService":{}}},"_virtualItemCount":6,"clientStateFieldID":"ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView_ClientState","renderMode":1}, null, null, $get("ctl00_mainContent_ctl05_ctl00_ctl00_dynamicContentListView"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Services.Search.Web.UI.Public.SearchBox, {"disableSuggestions":true,"indexCatalogue":"full-site-search","language":null,"minSuggestLength":3,"resultsUrl":"/search","searchButton":$get("searcharea_T5BC863B4016_ctl00_ctl00_searchButton"),"searchTextBox":$get("searcharea_T5BC863B4016_ctl00_ctl00_searchTextBox"),"siteId":"e63a4aec-e8ec-4633-b559-66d6608fbf77","suggestionFields":"Title,Content","suggestionsRoute":"/restapi/search/suggestions","wordsMode":0}, null, null, $get("searcharea_T5BC863B4016"));
+});
+//]]>
+</script>
+</form>
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/3fe5d189c0.js" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Framework/App_Themes/Framework/JS/jquery-functions.js"></script>
+    </body>
+</html>

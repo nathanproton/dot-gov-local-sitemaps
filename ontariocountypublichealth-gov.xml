@@ -1,0 +1,3169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<!-- Google Tag Manager for GA4 -->
+				<script>(function(w,d,s,l,i){w.GAMeasurementID='G-BWS4C6PVQ4';w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','cpDataLayerGA4','GTM-K73C5PS');</script>
+				<!-- End Google Tag Manager for GA4 -->
+				<script type='text/javascript'>
+					var enableTelemetry = 'false'
+					var aiConfig = {
+					instrumentationKey: '1cde048e-3185-4906-aa46-c92a7312b60f'						
+					}
+					var appInsights = window.appInsights || function (a) { function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement('script'); b.src = a.url || 'https://az416426.vo.msecnd.net/scripts/a/ai.0.js', d.getElementsByTagName('script')[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Dependency']; f.length;)b('track' + f.pop()); if (b('setAuthenticatedUserContext'), b('clearAuthenticatedUserContext'), b('startTrackEvent'), b('stopTrackEvent'), b('startTrackPage'), b('stopTrackPage'), b('flush'), !a.disableExceptionTracking) { f = 'onerror', b('_' + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c['_' + f](a, b, d, e, h), i } } return c }(aiConfig);
+					window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length;
+					// Add telemetry initializer
+					appInsights.queue.push(function() {
+						appInsights.context.addTelemetryInitializer(function(envelope) {
+							var telemetryItem = envelope.data.baseData;
+							// To check the telemetry item’s type:
+							if (!false)
+							{
+								//If the telemetry is not enabled, we still want to capture Google map custom event, so only allow that
+								if (envelope.name.indexOf('.Event') == -1)
+									return false;
+							}
+						});
+					});						
+					appInsights.trackPageView();
+				</script>
+	<script>
+		function populateAntiForgery(token) {
+			var input = document.createElement("input");
+			input.name = "__RequestVerificationToken";
+			input.type = "hidden";
+			input.value = token;
+			var absPat = /^https?:\/\/|^\/\//i;
+			var forms = document.getElementsByTagName("form");
+			for (var i = 0; i < forms.length; i++) {
+				if (forms[i].method == "post" &&
+					!forms[i].querySelector('[name="__RequestVerificationToken"]') &&
+					!absPat.test(forms[i].getAttribute("action"))) {
+					forms[i].appendChild(input.cloneNode());
+				}
+			}
+		}
+
+		function getAntiForgeryToken(callback, error) {
+			var xhr = new XMLHttpRequest();
+			xhr.open("GET", "/antiforgery");
+			xhr.addEventListener("load", function() {
+				try {
+					if (this.status !== 200) {
+						throw Error("Invalid status. Could not retrieve antiforgery token.");
+		}
+					var obj = JSON.parse(this.responseText);
+					callback(obj.token);
+				} catch (e) {
+					typeof error === "function" && error(e);
+				}
+			});
+			xhr.send();
+		}
+
+		getAntiForgeryToken(function(token) {
+			if (document.readyState === "complete"
+				|| document.readyState === "loaded" 
+				|| document.readyState === "interactive") {
+				populateAntiForgery(token);
+				return;
+			}
+			document.addEventListener("DOMContentLoaded", function() {
+				populateAntiForgery(token);
+			}, false);
+		}, console.error);
+			</script>
+			
+	
+<script type="text/javascript">
+		window.departmentHeader = {};
+		window.pageSectionTracker = {};
+		window.isResponsiveEnabled = true;
+		window.isRemoveSetHeights= true;
+		if (window.isRemoveSetHeights) {
+			document.documentElement.className += ' removeSetHeights';
+		}
+		window.mainMenuMediaQuery = 'screen and (max-width: 40em)';
+		window.isMobileBrowserIncludingTablets = false;
+		window.fixedResponsiveMenu = false;
+		window.fullWidthResponsiveMenu = false;
+		window.responsiveMenuHeight = '';
+		window.responsiveMenuFontSize = '';
+		(function () {
+			window.setSizeCookie = function () {
+				document.cookie = "dpi=" + window.devicePixelRatio + "; path=/";
+				document.cookie = "viewportWidth=" + window.innerWidth + "; path=/";
+				document.cookie = "viewportHeight=" + window.innerHeight + "; path=/";
+				if (screen && screen.width && screen.height) {
+					document.cookie = "screenWidth=" + screen.width + "; path=/";
+					document.cookie = "screenHeight=" + screen.height + "; path=/";
+				}
+				document.cookie = "responsiveGhost=1; path=/";
+			};
+
+			setSizeCookie();
+		}());
+</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="category0" content="Home" />
+<meta name="category1" content="Your Government" />
+<meta name="category2" content="Health &amp; Human Services" />
+<meta name="category3" content="Public Health" />
+
+	<meta name="apple-itunes-app" content="app-id=1181083568" />
+<link rel="manifest" href="/manifest/client">
+
+	<meta name="theme-color" content="rgb(15, 36, 95)">
+	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+		<title>Ontario County Public Health | Ontario County, NY - Official Website</title>
+	
+		<meta name="description" content="Read current news about public health and find resources to deal with everyday illnesses.">
+		<meta name="keywords" content="Read current news about public health and find resources to deal with everyday illnesses.">
+					<script src="/Assets/Scripts/jQuery/jquery-2.2.4.min.js"></script>
+<script src="/Assets/Scripts/jQuery/jQuery-migrate-1.4.1.js" type="text/javascript"></script>	
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
+	<!--[if IE 8]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<!--[if IE 9]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<script type="text/javascript"><!--
+	var intCountryCode = 840;
+	var externalSiteDialogHeight = '390px';
+	var order = '';
+//--></script>
+	
+<link href="/-1971643437.css" rel="stylesheet" type="text/css" />	<link href="/1398991919.css" rel="stylesheet" type="text/css" />	<link href="/-1506769093.css" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
+	<script type="text/javascript">
+		window.Pages = window.Pages || {};
+		// FrontEnd RWD initialization
+		window.Pages.rwdReady = $.Deferred();
+		window.Pages.toolBarDeferred = $.Deferred();
+		window.Pages.rwdSetupComplete = $.Deferred();
+		window.Pages.megaMenuLoaded = $.Deferred();
+		window.Pages.angularToolbarComplete = $.Deferred();
+		window.Pages.frontEndToolbarComplete = $.Deferred();
+	</script>
+	<!--CPHeadContent-->
+	<script src="/-1498615008.js" type="text/javascript"></script>
+	
+	
+	
+	
+
+
+
+
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="/Scripts/html5.js"></script><![endif]-->
+
+	<script type="text/javascript">
+		setEditorVariables(false, 840);
+		function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+	</script>
+	
+</head>
+<body class="wide " >
+
+	
+
+	<div id="fb-root"></div>
+<div id=skipToContentLinks>
+<a href="#ccd36ebf52-3f74-41ac-a898-5ff2853a7304" target="_self" class="skipToContentLink">Skip to Main Content</a>
+</div>
+	<form id="frmReferenceFormForTelerikEditorDialogs"></form>
+
+		<input type="hidden" id="GoogleMapsKey" value="AIzaSyDWUuE-ifkbhxblF920N8MjpBdTg1Wt784" />
+	
+	
+	
+<input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
+	<input type="hidden" id="hdnStructureID" value="10" />
+	<input type="hidden" id="hdnContentCollectionID" value="7c722e03-9e8e-4123-baec-99a5abf4029b" />
+	<input type="hidden" id="hdnWorkingCopyID" value="00000000-0000-0000-0000-000000000000" />
+	<input type="hidden" id="hdnThemeID" value="14" />
+	<input type="hidden" id="pageIsFrontEnd" value="true" />
+	<input type="hidden" id="pageModuleID" />
+	<input type="hidden" id="pagePageID" value="101" />
+	<input type="hidden" id="hdnModuleEligibleForJquery224Upgrade" value="true" />
+
+		<div id="stickyPlaceholder"></div>
+<div id="outer-wrap" class="outer-wrap">
+	<div id="inner-wrap" class="inner-wrap">
+			<div id="divToolbars" class="cpToolbars newCP mui-fixed" style="">
+				
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/CP/ie7.css"><![endif]-->
+<!-- Allow Dashboard, Favorites Enabled -->
+
+<!-- Begin Signed Out Bar -->
+<div class="cpToolbar user public">
+    <div class="inner selfClear">
+        <p class="dropdown"><a href="/MyAccount/ProfileCreate" role="link" class="myConnections" id="signedOutToolbarCreateProfileButton">Create a Website Account</a> <span class="welcomeMessage">- Manage notification subscriptions, save form progress and more. &nbsp;&nbsp;</span></p>
+        <ul class="nav secondary">
+	        <li><a href="/MyAccount" role="link" class="button" id="loggedOutToolbarSignInButton"><span>Website Sign In</span></a></li>
+        </ul>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#signedOutToolbarCreateProfileButton').keypress(function (e) { if (e.which === 0) return; $(this).click(); });
+        $('#signedOutToolbarCreateProfileButton').click(function (event) {
+        	event.preventDefault();
+        	window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin;
+        });
+
+			
+				$('#loggedOutToolbarSignInButton').click(function (event) {
+					event.preventDefault();
+					window.location.href = '/MyAccount/?from=url&url=' + encodeURIComponent(window.location.href.replace(window.location.origin, '')) + '&dn=' + window.location.host;
+				});
+			
+
+		if ('False' == 'True') {
+            $('#loggedOutToolbarSignInButton').hide();
+		}
+    })
+</script>
+<!-- End Signed Out Bar -->
+
+			</div>
+		<div id="bodyWrapper">
+			<div id="mainNavHolderMobile" class="mainNavHolderMobile"></div>
+			
+<div data-cpRole="structuralContainer" id="bodyContainerTS">
+<!-- Header Container --><header data-cpRole="structuralContainer" id="headerContainerTS" class="fixedTopTS">
+<div class="siteWrap2"><div data-cpRole="structuralContainer" id="innerHeaderTS">
+<div data-cpRole="banner" id="bannerLogoTS" class="bannerLogoTS empty">
+
+
+
+
+                    <a style="            display: block; text-align: center;
+" class="bannerObject" href="/" target="_self"><img alt="Ontario County NY Homepage" class="bannerObject" height="77" src="/ImageRepository/Document?documentID=41874" width="200" /></a>
+
+</div><nav data-cpRole="nav" id="mainNav" class="siteNav mainNav" role="navigation">
+<ol id="mainNavMenu" data-parent="1" class="rootNavMenu" role="menu"><!--
+--><li id="MainItem8" class="topMenuItem" role="none" data-pageid="8" data-displaymegamenu="True"><!--
+			--><!--
+			--><a role="menuitem" aria-haspopup="true" aria-expanded="false" id="mainNavYourGovernment" class="navMainItem mainNavItem mainNavItem1" href="/8/Your-Government" target="_self">Your Government</a><!--
+			--><!--
+			--></li><!----><li id="MainItem35" class="topMenuItem" role="none" data-pageid="35" data-displaymegamenu="True"><!--
+			--><!--
+			--><a role="menuitem" aria-haspopup="true" aria-expanded="false" id="mainNavOnlineServices" class="navMainItem mainNavItem mainNavItem2" href="/35/Online-Services" target="_self">Online Services</a><!--
+			--><!--
+			--></li><!----><li id="MainItem27" class="topMenuItem" role="none" data-pageid="27" data-displaymegamenu="True"><!--
+			--><!--
+			--><a role="menuitem" aria-haspopup="true" aria-expanded="false" id="mainNavHowDoI" class="navMainItem mainNavItem mainNavItem3" href="/27/How-Do-I" target="_self">How Do I?</a><!--
+			--><!--
+			--></li><!----><li id="MainItem31" class="topMenuItem" role="none" data-pageid="31" data-displaymegamenu="True"><!--
+			--><!--
+			--><a role="menuitem" aria-haspopup="true" aria-expanded="false" id="mainNavExperienceOntarioCounty" class="navMainItem mainNavItem mainNavItem4" href="/31/Experience-Ontario-County" target="_self">Experience Ontario County</a><!--
+			--><!--
+			--></li><!---->
+</ol>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'mainNavMenu';
+			var menuType = MAIN_MENU;
+
+			//setup menu manager properties for main menu
+			if (!menuManager.mobileMainNav && true)
+				menuManager.adjustMainItemsWidth('#' + menuID);
+			menuManager.isMainMenuEditable = false;
+			menuManager.mainMenuMaxSubMenuLevels = 4;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init main menu
+			var setupDraggable = menuManager.isMainMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=14&menuContainerID=mainNav';
+
+			menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus);
+			menuManager.mainMenuInit = true;
+			menuManager.mainMenuTextResizer = true;
+			if (1.00 > 0)
+				menuManager.mainMenuTextResizerRatio = 1.00;
+			if (window.isResponsiveEnabled)
+				menuManager.mainMenuReady.resolve();
+
+		});
+	</script>
+
+
+<aside data-cpRole="megaMenu" id="megaMenu" class="megaMenu" style="display: none;"><input type="hidden" id="megaMenuPopupDirection" value="0"><input type="hidden" id="megaMenuWidthReference" value="1"><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu8" class="contentTop mainNavMegaMenu megaMenuContainer pageID_8 hidden" data-orientation="horizontal">	<div id="cc7b2df1a6-3d50-4a17-a759-4c4689f1e044" data-containerid="7b2df1a6-3d50-4a17-a759-4c4689f1e044" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu35" class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-orientation="horizontal">	<div id="cc2d8d3c78-290a-415c-83ae-50548feb7dc5" data-containerid="2d8d3c78-290a-415c-83ae-50548feb7dc5" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu27" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-orientation="horizontal">	<div id="ccac15a831-b2db-49ea-afc1-1d4d041152a0" data-containerid="ac15a831-b2db-49ea-afc1-1d4d041152a0" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu31" class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-orientation="horizontal">	<div id="cce13ccadd-561e-4763-ae23-9addd2092896" data-containerid="e13ccadd-561e-4763-ae23-9addd2092896" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside></aside></nav><div data-cpRole="contentContainer" id="searchTS">	<div id="cc4307ad38-693c-4429-bc5b-dcc408e2de58" data-containerid="4307ad38-693c-4429-bc5b-dcc408e2de58" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile" data-contentcontainerbreakpoint="35">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="42920fe2-b53f-4234-8c37-56aaf51d160c">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id31ece78d-632b-45c9-9b94-0338e7bcf94a" style="" data-widgetcontainerid="31ece78d-632b-45c9-9b94-0338e7bcf94a">	
+<div data-widget-id="855f9a62-ca96-4fba-86e5-1a7db2a3b60d" data-widget-controller-path="/Layout/WidgetSearch">
+	
+		<script defer type="text/javascript" src="/Common/Controls/jquery-ui-1.10.4/js/jquery.ui.autocomplete.min.js"></script>
+	<script defer src="/Areas/Layout/Assets/Scripts/Search.js" type="text/javascript"></script>
+	<script defer type="text/javascript">
+
+		$(document).ready(function () {
+			try {
+				$(".widgetSearchButton.widgetSearchButton855f9a62-ca96-4fba-86e5-1a7db2a3b60d").click(function (e) {
+				e.preventDefault();
+					if ($("#ysnSearchOnlyDept855f9a62-ca96-4fba-86e5-1a7db2a3b60d").is(':checked')) {
+						doWidgetSearch($(this).siblings(".widgetSearchBox").val(), Number(0));
+					} else {
+						doWidgetSearch($(this).siblings(".widgetSearchBox").val(), 0);
+					}
+			});
+			$("#searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d").keypress(function (e) {
+				if (window.clipboardData) {
+					if (e.keyCode == 13) {
+							if ($("#ysnSearchOnlyDept855f9a62-ca96-4fba-86e5-1a7db2a3b60d").is(':checked')) {
+								doWidgetSearch($(this).val(), Number(0));
+							} else {
+								doWidgetSearch($(this).val(), 0);
+							}
+						return false;
+					}
+				} else {
+					if (e.which == 13) {
+							if ($("#ysnSearchOnlyDept855f9a62-ca96-4fba-86e5-1a7db2a3b60d").is(':checked')) {
+								doWidgetSearch($(this).val(), Number(0));
+							} else {
+								doWidgetSearch($(this).val(), 0);
+							}
+						return false;
+					}
+				}
+				return true;
+			});
+
+				if (true) {
+					var currentRequest = null;
+
+					var $searchField = $("#searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d").autocomplete({
+						source: function (request, response) {
+							currentRequest = $.ajax({
+								url: '/Search/AutoComplete',
+								dataType: "json",
+								timeout: 10000,
+								beforeSend: function () {
+									if (currentRequest != null) {
+										currentRequest.abort();
+									}
+								},
+								data:
+								{
+									term: request.term,
+								},
+								success: function (data) {
+									response(data);
+									$('.autoCompleteError').remove();
+								},
+								error: function (xmlhttprequest, textstatus, message) {
+									if (textstatus === "timeout") {
+										if ($("#searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d").siblings('.autoCompleteError').length == 0)
+											$('<span class="autoCompleteError"><p class="alert error">Search autocomplete is currently not responding. Please try again later.</p></span>').insertAfter($("#searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d"));
+									}
+								}
+							});
+						},
+						html: true,
+						delay: 500,
+						select: function (event, ui) {
+							$(this).val(ui.item.value);
+							$(this).next().click();
+						}
+					});
+
+					if (true && true) {
+						$searchField.data("ui-autocomplete")._renderItem = function (ul, item) {
+							return $("<li class=\"itemList\"></li>")
+								.data("ui-autocomplete-item", item)
+								.append("<a>" + item.label + "</a>")
+								.appendTo(ul);
+						};
+					}
+					else {
+						$searchField.data("autocomplete")._renderItem = function (ul, item) {
+							return $("<li></li>")
+								.data("item.autocomplete", item)
+								.append("<a>" + item.label + "</a>")
+								.appendTo(ul);
+						};
+					}
+}
+}
+			catch(e) {} //we're going to eat this error. Autocomplete won't work but we dont wan't to break anything else on the page.
+		});
+	</script>
+
+	<section id="widgetPreviewSearch" class="widget widgetSearch skin21 widgetOptionSet37" style="display: block;" aria-label="Search">
+				<!-- For the button right and inside -->
+		<div class="widgetBody buttonRightInside">
+			<input class="widgetSearchBox widgetSearchBox855f9a62-ca96-4fba-86e5-1a7db2a3b60d" cp5ph="true" id="searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." title="Search..." type="text" value="" />
+							<a href="/Search/Results" id="btnSearchIcon" class="widgetSearchButton widgetSearchButton855f9a62-ca96-4fba-86e5-1a7db2a3b60d" role="button"><img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=41314" data-image="/ImageRepository/Document?documentID=41315" src="/ImageRepository/Document?documentID=41315" /></a>
+
+			<label class="searchLabel" for="searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d">Search</label>
+		</div>
+
+	</section>
+
+
+<style scoped>
+    
+        .widgetSearch ::-webkit-input-placeholder {
+        color: #0F245F;
+      }
+        .widgetSearch :-moz-placeholder { /* Firefox 18- */
+       color: #0F245F;
+    }
+        .widgetSearch ::-moz-placeholder {  /* Firefox 19+ */
+       color: #0F245F;
+    }
+    .widgetSearch :-ms-input-placeholder {
+       color: #0F245F;
+    }
+    
+
+	.widgetSearch .widgetBody .widgetSearchBox855f9a62-ca96-4fba-86e5-1a7db2a3b60d
+	{
+        color: #0F245F;
+		background: #fff;
+height: 55px;
+border-radius:  50px;
+border: 0 none;
+padding: 0 80px 0 20px;
+font-family: Open Sans;
+font-size: 18px;
+font-style: italic;
+font-weight: 400;
+	}
+	.widgetSearch .widgetBody .widgetSearchButton855f9a62-ca96-4fba-86e5-1a7db2a3b60d
+	{
+		margin: 5px 5px 0 0;
+	}
+	.widgetSearch .widgetSearch-onlyDept855f9a62-ca96-4fba-86e5-1a7db2a3b60d
+	{
+		display: inline-block;
+		color: #333;
+		
+		
+		 padding-top: 10px;
+	}
+	#ysnSearchOnlyDept855f9a62-ca96-4fba-86e5-1a7db2a3b60d
+	{
+		position: relative;
+		top: .125em;
+	}
+
+</style>
+
+	<link rel="stylesheet" href="/Common/Controls/jquery-ui-1.10.4/themes/jquery-ui.css">
+
+
+	<script type="text/javascript">
+	//Updates search icons href to have the correct queryString
+	function searchBtnApplyQuery() {
+		document.getElementById("btnSearchIcon").href = "/Search?searchPhrase=" + document.getElementById("searchField855f9a62-ca96-4fba-86e5-1a7db2a3b60d").value;
+    }
+	</script>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div>
+</div></div>
+</header><!-- Banner --><div data-cpRole="structuralContainer" id="bannerContainerTS" class="noOverflowTS">
+<div data-cpRole="banner" id="banner1"><div data-cpRole="structuralContainer" id="bannerSizingTS">
+<div data-cpRole="structuralContainer" id="bannerContentTS">
+<div class="siteWrap"><!-- <div data-cpRole="contentContainer" id="contentTS"></div> --></div>
+</div>
+</div>
+
+
+
+
+                <div id="bannerImagesJSON51" class="hidden"></div>
+                <div id="bannerSlideshowControls_banner1" class="bannerSlideshowControlsNew none " style="display:none">
+                    <a id="arrowPrev_banner1" tabindex="0" class="arrowNew prev" aria-label="Banner Arrow Previous"><svg style=" " class=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowLeft"></use></svg></a>
+                    <a id="arrowNext_banner1" tabindex="0" class="arrowNew next" aria-label="Banner Arrow Next"><svg style=" " class=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowRight"></use></svg></a>
+                </div>
+                <script type="text/javascript">
+				onOrLive($(window), function () {
+					$.when(window.Pages.rwdSetupComplete)
+						.done(function () {
+							renderExternalBannerSlideshow('banner1',
+									{"BannerOptionID":51,"ThemeID":14,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":"5","SlideshowTransition":0,"SlideShowTransitionTiming":"1","ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"DisplayVideoPauseButton":false,"VideoPauseButtonAlignment":1,"VideoPauseButtonControlsAlignment":0,"VideoPauseButtonStyle":"#FFFFFF","VideoPauseButtonBackgroundStyle":"#000000","VideoPauseButtonAlignmentClass":"alignRight viewport","DisplaySlideshowPauseButton":true,"SlideshowControlsColor":"#FFFFFF","SlideshowControlsBackgroundColor":"#000000","SlideshowPauseButtonClass":"isHidden","BannerImages":[{"BannerImageID":206,"BannerOptionID":51,"FileName":"/ImageRepository/Document?documentID=41293","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":""},{"BannerImageID":207,"BannerOptionID":51,"FileName":"/ImageRepository/Document?documentID=41292","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":""},{"BannerImageID":208,"BannerOptionID":51,"FileName":"/ImageRepository/Document?documentID=41294","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":""}],"BannerVideos":[{"BannerVideoID":18,"BannerOptionID":51,"VideoFileName":"","ImageFileName":"EmptyBannerBkg202311200812028334.png","IsLink":false,"LinkAddress":null,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","VideoFileID":"00000000-0000-0000-0000-000000000000","ImageFileID":"00000000-0000-0000-0000-000000000000","VideoWidth":0,"VideoHeight":0,"ImageWidth":0,"ImageHeight":0,"LinkedVideoUrl":"","RecordStatus":0,"AltText":null}],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/"},
+								'/App_Themes/2023 - Interior/Images/',
+								'Rotating',
+								'0');
+						});
+				}, "load");
+                </script>
+
+
+</div>
+</div><!-- Content container --><div data-cpRole="structuralContainer" id="mainContainerTS">
+<div class="siteWrap"><div data-cpRole="structuralContainer" id="mainWrapTS" class="mainWrap" role="main">
+<div data-cpRole="structuralContainer" id="outerContentWrapTS" class="outerContentWrap">
+<div data-cpRole="structuralContainer" id="contentWrapTS" class="contentWrap">
+<div data-cpRole="breadCrumbs" id="breadCrumbs" class="breadCrumbContainer">		<ol class="semanticList breadCrumbs">
+			<li><a class="breadCrumb" href="/">Home</a></li><li><a class="breadCrumb" href="/8/Your-Government">Your Government</a></li><li><a class="breadCrumb" href="/1421/Health-Human-Services">Health & Human Services</a></li><li id="currentBCPage" data-pageid="101">Public Health</li>
+		</ol>
+
+	   
+    
+</div><div data-cpRole="mainContentContainer" id="moduleContent">
+	
+	<div id="page" class="moduleContentNew">
+		
+
+	<input id="hdnPageID" name="hdnPageID" type="hidden" value="101" />
+	<input id="hdnParentID" name="hdnParentID" type="hidden" value="1421" />
+	<input id="hdnVersionID" name="hdnVersionID" type="hidden" value="26200" />
+	<input id="pageMenuTitle" name="pageMenuTitle" type="hidden" value="Public Health" />
+	<input id="pageShowFeatureColumn" name="pageShowFeatureColumn" type="hidden" value="True" />
+	<input id="hdnIsLayoutPage" name="hdnIsLayoutPage" type="hidden" value="False" />
+	<input id="hdnPageStatus" name="hdnPageStatus" type="hidden" value="Published" />
+
+				<h1 id="versionHeadLine" class="headline">
+
+Ontario County Public Health		</h1>
+	
+		<div id="ccd36ebf52-3f74-41ac-a898-5ff2853a7304" data-containerid="d36ebf52-3f74-41ac-a898-5ff2853a7304" class="pageContent cpGrid cpGrid24"  >
+			
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="aa5a4409-697f-4107-b1d7-e26f95e044ab">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id4c8f7e42-55a1-4bb9-be05-b1ddb22df03a" style="" data-widgetcontainerid="4c8f7e42-55a1-4bb9-be05-b1ddb22df03a">	
+<div class="widget editor pageStyles narrow" id="divEditorf5458f31-e953-4071-a020-55a72229710a" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <h2 class="subhead1" style="text-align: center;">Healthcare Survey&nbsp;</h2><p>We value your insight. Our survey aims to gather information about your experiences and challenges related to accessing healthcare and dental care services in our region. Your feedback is crucial in helping us understand the current landscape and identify areas for improvement.</p><h2 class="subhead1">Click on the image to complete the survey. </h2><p><a href="https://compyle.clearimpact.com/#/public/survey/78CFD3E2-8ACE-4E62-8593-0DD0D3457165"><img src="/ImageRepository/Document?documentId=44860" class="fr-fil fr-dib" alt="Access to Care Survey English 8.5.2024"></a></p><p><br></p><h2 class="subhead1">Haga clic en la imagen para completar la encuesta.</h2><p><br></p><p><a href="https://compyle.clearimpact.com/#/public/survey/CC7DA7C4-4E97-4732-A462-A06399B33419"><img src="/ImageRepository/Document?documentId=44861" class="fr-fil fr-dib" alt="Access to Care Survey Spanish 8.5.2024"></a></p><p><br></p>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + 'f5458f31-e953-4071-a020-55a72229710a'));
+	});
+</script>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="b731c610-811f-4f72-887e-cacdd1e4a3f6">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id38384cf0-ce77-40b4-9c2a-7617e948bab3" style="" data-widgetcontainerid="38384cf0-ce77-40b4-9c2a-7617e948bab3">	
+<div class="widget image pageStyles" id="divImageOutered708e71-ca26-4f35-ba72-9ceabee15e23" data-widget-id="ed708e71-ca26-4f35-ba72-9ceabee15e23">
+    
+	<div class="widgetBody " id="divImageed708e71-ca26-4f35-ba72-9ceabee15e23"><img src="/ImageRepository/Document?documentID=39361" alt="EDUCATION PROGRAMS" title="EDUCATION PROGRAMS"/>	</div></div>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="937f28e3-e19d-4b4b-ba8c-b453336ab95c">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id70a0f5a7-3f54-49a1-b4a7-9ca5b1c7e78a" style="" data-widgetcontainerid="70a0f5a7-3f54-49a1-b4a7-9ca5b1c7e78a">	
+
+
+
+    <script defer src="/Areas/Layout/Assets/Scripts/CarouselWidget.js" type="text/javascript"></script>
+
+<section id="divCarouselcc146b02-9ed8-493e-b738-92fa2a46c101" data-widgetid="cc146b02-9ed8-493e-b738-92fa2a46c101" class="widget widgetCarousel wide" data-transition="slide" data-transitiontiming="1" aria-labelledby="headercc146b02-9ed8-493e-b738-92fa2a46c101" aria-label="Carousel">
+
+    <div class="widgetBody">
+        <div class="widgetCarousel-container">
+            <div class="widgetCarousel-window"  style="flex:80%">
+                <div class="widgetCarousel-slider" >
+
+
+<div class="widgetCarousel-group" data-group="1">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;">
+				
+<div class="widget image pageStyles" id="divImageOuter87bbbea2-7437-43d7-9aa0-5d391e8eb34e" data-widget-id="87bbbea2-7437-43d7-9aa0-5d391e8eb34e">
+    
+	<div class="widgetBody " id="divImage87bbbea2-7437-43d7-9aa0-5d391e8eb34e"><img src="/ImageRepository/Document?documentID=43469" alt="OCPH Edu Programs 2024 Mental" title="OCPH Edu Programs 2024 Mental"/>	</div></div>
+
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="2">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget editor pageStyles narrow" id="divEditor874e5aff-fcaf-48f6-a689-aafeb596662d" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <p><img src="/ImageRepository/Document?documentId=43470" class="fr-fil fr-dib" alt="OCPH Edu Programs 2024"></p>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + '874e5aff-fcaf-48f6-a689-aafeb596662d'));
+	});
+</script>
+</div>
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="3">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget image pageStyles" id="divImageOuter1d1b87c3-36e2-4586-8152-d2914547eed3" data-widget-id="1d1b87c3-36e2-4586-8152-d2914547eed3">
+    
+	<div class="widgetBody " id="divImage1d1b87c3-36e2-4586-8152-d2914547eed3"><img src="/ImageRepository/Document?documentID=43538" alt="Narcan Training Flyer" title="Narcan Training Flyer"/>	</div></div>
+
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="4">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget editor pageStyles narrow" id="divEditor78d7084f-54fb-4736-a4ed-36485490246b" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <h1 class="headline" style="text-align: center;" role="heading" aria-level="2">Applied Suicide Intervention Training (ASIST)</h1><p id="isPasted"><strong>Workshop Dates:</strong> November 18 &amp; November 19, 2024 (BOTH days)&nbsp;</p><p><strong>Times:&nbsp;</strong>8:30 am to 4:30 pm both days&nbsp;</p><p><strong>Location: &nbsp;</strong>3019 County Complex Dive, room 204&nbsp;</p><p><strong>Cost:</strong> There is no fee for this training, but <strong>you must preregister&nbsp;</strong></p><p><strong>Registration can be completed using this link:&nbsp;</strong><a href="https://preventsuicideny-selfreg.administrateweblink.com/catalogue/TGVhcm5pbmdDYXRlZ29yeTo2/courses/ASIST%1E-%1E-Applied-Suicide-Intervention-Skills-Training-(ASIST)">ASIST Class: November &nbsp;18 &amp; November 19, 2024</a> or scan the QR code</p><p><strong>Space is limited, please register by: November 12, 2024</strong></p><p><strong><img src="/ImageRepository/Document?documentId=42564" class="fr-fil fr-dib" alt="Asist for November 24"></strong><br></p>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + '78d7084f-54fb-4736-a4ed-36485490246b'));
+	});
+</script>
+</div>
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="5">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget image pageStyles" id="divImageOuter622a42b0-8e93-4986-a50e-c3768812ec62" data-widget-id="622a42b0-8e93-4986-a50e-c3768812ec62">
+    
+	<div class="widgetBody " id="divImage622a42b0-8e93-4986-a50e-c3768812ec62"><img src="/ImageRepository/Document?documentID=43539" alt="What is Lock and Talk" title="What is Lock and Talk"/>	</div></div>
+
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="6">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget image pageStyles" id="divImageOuter1dd500d8-d0ee-4907-8db0-e2ccd1bfe520" data-widget-id="1dd500d8-d0ee-4907-8db0-e2ccd1bfe520">
+    
+	<div class="widgetBody imageBorder" id="divImage1dd500d8-d0ee-4907-8db0-e2ccd1bfe520"><img src="/ImageRepository/Document?documentID=41629" alt="Youth MHFA Flyer (1)-1" title="Youth MHFA Flyer (1)-1"/>	</div></div>
+
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="7">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget image pageStyles" id="divImageOuter86420222-3b78-4bc7-b51d-3ebc23291b93" data-widget-id="86420222-3b78-4bc7-b51d-3ebc23291b93">
+    
+	<div class="widgetBody " id="divImage86420222-3b78-4bc7-b51d-3ebc23291b93"><img src="/ImageRepository/Document?documentID=41627" alt="Adult MHFA Flyer" title="Adult MHFA Flyer"/>	</div></div>
+
+
+			</div>
+	</div>
+
+
+<div class="widgetCarousel-group" data-group="8">
+			<div class="widgetCarousel-item widgetCarousel-item--100 col" style="padding: 0 0.5em;opacity:0;">
+				
+<div class="widget editor pageStyles narrow" id="divEditorba94bd65-7525-4dfc-83c4-6c6118e4ad65" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <blockquote id="isPasted"><h1 style="text-align: center;" aria-level="2">Chronic Disease Self-Management Classes</h1></blockquote><p>Learn to manage your chronic illness without leaving your home.&nbsp;<br>Super easy!</p><ul><li>No computer needed. All you need is a phone.&nbsp;</li><li>The program is mailed to you.... Free!</li><li>We meet over the phone (conference call) once a week for six weeks.&nbsp;</li><li>Small classes of only 5 people.&nbsp;</li></ul><h2 style="text-align: center;">Interested? Call 1-800-299-2995 or <a href="http://Email" target="_blank" rel="noopener" aria-describedby="audioeye_new_window_message" aria-label="HealthEducation@ontariocountyny.gov Opens in new window"><span class="__cf_email__" data-cfemail="29614c48455d416c4d5c4a485d4046476946475d485b40464a465c475d504750074e465f">[email&#160;protected]</span></a> &nbsp;</h2><blockquote id="isPasted"><h1 style="text-align: center;" aria-level="2" role="heading"><img src="/ImageRepository/Document?documentId=38540" alt="New CDSMP Class" class="fr-fic fr-dii"></h1></blockquote><blockquote id="isPasted"><h1 style="text-align: center;" aria-level="2" role="heading"><br></h1></blockquote>
+    </div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + 'ba94bd65-7525-4dfc-83c4-6c6118e4ad65'));
+	});
+</script>
+</div>
+
+			</div>
+	</div>
+                </div>
+            </div>
+
+
+                <a href="#" aria-label="Previous" class="arrow prev widgetCarousel-previous disabled" style="display: none; background-color:"><svg style="background:; color:;"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowLeft"></use></svg></a>
+                <a href="#" aria-label="Next" class="arrow next widgetCarousel-next disabled" style="display: none; background-color:"><svg style="background:; color:;"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowRight"></use></svg></a>
+                <ol class="semanticList pager dots" style="display: none;"></ol>
+                    <script type="text/javascript">
+						$.when(window.Pages.rwdReady).done(function () {
+                    var mediaQuerySize = 25;
+                    var carouselWidgetID = 'divCarouselcc146b02-9ed8-493e-b738-92fa2a46c101';
+                    var $carouselWidget = $('#' + carouselWidgetID);
+                    var transition = 'slide';
+                    var transitionTiming = 1;
+                    var groupAdvance = 'automatically';
+                    var groupTiming = 5;
+                    var showArrows = true;
+                    var showPaging = true;
+                    var showDots = true;
+
+                    if (mediaQuerySize > 0) {
+                        var mediaElementQuery = '#' + carouselWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
+                        window.cpMedia.unregister(mediaElementQuery).register(mediaElementQuery, {
+                        deferSetup: false,
+									setup: function () {
+										$carouselWidget.addClass('narrow').removeClass('wide');
+                                cpMedia.diag('$(element).addClass("narrow"), mediaQuery: ' + mediaElementQuery);
+
+										$carouselWidget.carouselWidget({
+                                            transition: transition,
+											transitionTiming: transitionTiming,
+											groupAdvance: groupAdvance,
+											groupTiming: groupTiming,
+											showArrows: showArrows,
+											showPaging: showPaging,
+											showDots: showDots,
+											sliderSelector : 'div.widgetCarousel-slider',
+											groupSelector: 'div.widgetCarousel-group',
+											itemsSelector: 'div.widgetCarousel-item'
+                                        });
+                            },
+									match: function () {
+										$carouselWidget.addClass('wide').removeClass('narrow');
+                                cpMedia.diag('$(element).removeClass("narrow"), mediaQuery: ' + mediaElementQuery);
+
+										$carouselWidget.carouselWidget('destroy');
+										$carouselWidget.carouselWidget('init', {
+                                            transition: transition,
+											transitionTiming: transitionTiming,
+											groupAdvance: groupAdvance,
+											groupTiming: groupTiming,
+											showArrows: showArrows,
+											showPaging: showPaging,
+											showDots: showDots,
+											sliderSelector : 'div.widgetCarousel-slider',
+											groupSelector: 'div.widgetCarousel-group',
+											itemsSelector: ''
+                                        });
+                            },
+									unmatch: function () {
+										$carouselWidget.addClass('narrow').removeClass('wide');
+                                cpMedia.diag('$(element).addClass("narrow"), mediaQuery: ' + mediaElementQuery);
+
+										$carouselWidget.carouselWidget('destroy');
+										$carouselWidget.carouselWidget('init', {
+                                transition: transition,
+											transitionTiming: transitionTiming,
+											groupAdvance: groupAdvance,
+											groupTiming: groupTiming,
+											showArrows: showArrows,
+											showPaging: showPaging,
+											showDots: showDots,
+											sliderSelector : 'div.widgetCarousel-slider',
+											groupSelector: 'div.widgetCarousel-group',
+											itemsSelector: 'div.widgetCarousel-item'
+                                        });
+                            }
+                        });
+                    }
+                });
+
+                    </script>
+        </div>
+
+    </div>
+</section>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="13bf3a29-11e8-43e2-aecc-338bc898a0c8">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idaeaed0c5-b846-46aa-ac54-d3425554d086" style="" data-widgetcontainerid="aeaed0c5-b846-46aa-ac54-d3425554d086">	
+<div class="widget image pageStyles" id="divImageOuter30de9b3f-d7c2-4655-be6d-15c48047f943" data-widget-id="30de9b3f-d7c2-4655-be6d-15c48047f943">
+    
+	<div class="widgetBody " id="divImage30de9b3f-d7c2-4655-be6d-15c48047f943">				<a href="https://988lifeline.org/" target="_blank"><img src="/ImageRepository/Document?documentID=39370" alt="988 suicide & crisis Lifeline 24/7 Call, text, chat" title="988 suicide & crisis Lifeline 24/7 Call, text, chat"/></a>
+	</div></div>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="cd297087-94ed-464a-8d23-47a4526bebe1">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id5ad5326e-c7c5-4833-9b13-1d44f6042d50" style="" data-widgetcontainerid="5ad5326e-c7c5-4833-9b13-1d44f6042d50">	
+<div class="widget editor pageStyles narrow" id="divEditora6abe7e0-b411-4774-94f2-da3c3c60a50e" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <div style='margin: 0px; overflow-wrap: break-word; white-space: pre-wrap; font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;' id="isPasted"><p style="text-align: center;"><strong><img src="/ImageRepository/Document?documentId=44760" class="fr-fil fr-dib" alt="PHAB Final Logo">Public Health Accreditation Board</strong></p><p>Ontario County Public Health is accredited through the Public Health Accreditation Board (PHAB). The PHAB Center for Innovation is home to the Foundational Public Health Services (FPHS). The FPHS framework outlines the unique responsibilities of governmental <span style="text-decoration: none; margin: 0px; text-align: inherit; overflow-wrap: break-word; padding: 0px; font-family: inherit;">public health</span> and defines a minimum set of Foundational Capabilities and Foundational Areas that must be available in every community. Building stronger, healthier communities starts with the FPHS. Learn about the key aspects of the framework and how it&rsquo;s used in public health <span style="text-decoration: none; margin: 0px; text-align: inherit; overflow-wrap: break-word; padding: 0px; font-family: inherit;">transformation</span> efforts.&nbsp;</p></div><div style='margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space: pre-wrap; font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><div dir="auto" style="font-family: inherit; text-align: start;">For more information, visit: <span style="text-decoration: none; margin: 0px; text-align: inherit; overflow-wrap: break-word; padding: 0px; font-family: inherit;"><a href="http://www.phaboard.org/FPHS?fbclid=IwZXh0bgNhZW0CMTAAAR1EAvnchJZ10UGSROwQ8GRTvWglQMyOD9DjXd4PoeM7vRVUakLveQMiMyA_aem_aNymALmTPBIbx61_wRfw5A" rel="noopener" tabindex="0" target="_blank" style="color: var(--blue-link); cursor: pointer; text-decoration: none; list-style: none; margin: 0px; text-align: inherit; border-style: none; padding: 0px; box-sizing: border-box; border-width: 0px; outline: none; -webkit-tap-highlight-color: transparent; touch-action: manipulation; background-color: transparent; display: inline; font-family: inherit;">www.phaboard.org/FPHS</a>&nbsp;</span></div></div>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + 'a6abe7e0-b411-4774-94f2-da3c3c60a50e'));
+	});
+</script>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="5e666057-7b17-43ff-a4a8-ad64c38c8bf0">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idd777e390-05b8-4176-902d-06327f44c87b" style="" data-widgetcontainerid="d777e390-05b8-4176-902d-06327f44c87b">	
+<div class="widget image pageStyles" id="divImageOuterb4ac3a7b-1c47-4723-a52f-237c8ae84dc5" data-widget-id="b4ac3a7b-1c47-4723-a52f-237c8ae84dc5">
+    
+	<div class="widgetBody " id="divImageb4ac3a7b-1c47-4723-a52f-237c8ae84dc5">				<a href="https://www.facebook.com/OCPHealth" target="_blank"><img src="/ImageRepository/Document?documentID=39390" alt="Join us on Facebook" title="Join us on Facebook"/></a>
+	</div></div>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+		</div>
+
+	</div>
+
+	
+	<div class="newCP">
+
+	</div>
+</div>
+</div><aside data-cpRole="contentContainer" id="featureColumn" class="secondaryContent">	<div id="cc422d5dae-ecc3-4ee6-82dc-ed670a5e33ca" data-containerid="422d5dae-ecc3-4ee6-82dc-ed670a5e33ca" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="c26b5237-dbd5-4b2a-b3de-3d0378b68802">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id3b47b57c-804b-4b48-94ed-a20ebe1a5bdb" style="" data-widgetcontainerid="3b47b57c-804b-4b48-94ed-a20ebe1a5bdb">	
+<div class="widget editor pageStyles narrow" id="divEditorfd62ec10-619f-4339-ab91-d11e32272c47" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <h2 class="subhead1" tabindex="-1"><img data-fr-image-pasted="true" src="https://www.ontariocountyny.gov/ImageRepository/Document?documentId=39464" alt="Ontario County Public Health Logo Rounded Frame" style="box-sizing: border-box; border: 0px; height: auto; max-width: 100%; cursor: pointer; padding: 0px 1px; user-select: none; color: rgb(10, 3, 18); font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 252px;" id="isPasted" class="fr-fil fr-dib"><img src="/ImageRepository/Document?documentId=25553" class="fr-fil fr-dib" alt="PHAB-Accred-Health-Dept.-Seal-Color_White-Background"></h2><h2 class="subhead1" tabindex="-1" aria-hidden="true"><br></h2><h2 class="subhead1">Contact Us</h2><h3 class="subhead2" tabindex="-1" aria-hidden="true" aria-level="2"><br></h3><h3 class="subhead2" aria-level="2">Kate Ott, RN, MPH</h3><h3 class="subhead2" aria-level="2">Director of Public Health</h3><p><a href="/FormCenter/County-Contact-Forms-29/Public-Health-209">Email Public Health</a></p><p>Hours: M-F, 8:30 am - 5:00 pm</p><ul><li>Ph: 585-396-4343</li><li>Fax: 585-396-4551</li></ul><p>After Hours Emergency</p><ul><li>Ph: 585-394-4560, ask for the Public Health Nurse on call.</li></ul>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + 'fd62ec10-619f-4339-ab91-d11e32272c47'));
+	});
+</script>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="0461cbc1-a5d0-4ccb-a5e5-530f8f3f5ca7">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id8f2b31d7-a313-4034-a510-934927cf1808" style="" data-widgetcontainerid="8f2b31d7-a313-4034-a510-934927cf1808">	
+	<div data-widget-id="6943ebee-9908-4a73-8861-7838504172c3" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+
+ 
+
+
+	<section id="widgetQuicklink6943ebee-9908-4a73-8861-7838504172c3" class="widget widgetQuickLinks skin22 widgetOptionSet2 narrow" data-modulewidgettype="quickLinks" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-labelledby="quickLinksHeader6943ebee-9908-4a73-8861-7838504172c3">
+			<header class="widgetHeader" id="quickLinksHeader6943ebee-9908-4a73-8861-7838504172c3">
+		<div class="">
+					<h3><a  style="" href="/QuickLinks.aspx?CID=21" >Quick Links</a></h3>
+						</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid1 ">
+        <div class="row  narrow">
+				<div class="col col1 first last">
+					<ol class="semanticList bullets">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/37048/1-Finalized-CHA-December-2022" target="_self" >Finger Lakes Regional Community Health Assessment (Ontario County- Page 154) December 2022</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/39911/2022-ANNUAL-REPORT-FINAL-word" target="_blank"  aria-label="Ontario County Public Health's Annual Report, 2022 opens in new window">Ontario County Public Health's Annual Report, 2022</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/37050/CHIP-Chart-Word-Template-122022" target="_self" >Community Health Improvement Plan (Ontario County CHIP Chart)</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+		</div>
+				<a id="quickLinksViewAll6943ebee-9908-4a73-8861-7838504172c3" class="widgetViewAll alignLeft" style="" href="/QuickLinks.aspx?CID=21" aria-labelledby="quickLinksHeader6943ebee-9908-4a73-8861-7838504172c3 quickLinksViewAll6943ebee-9908-4a73-8861-7838504172c3">View All Links</a>
+        
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+
+	</section>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="05039af3-f4e7-4b07-8ecf-03636b77d988">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id22b27a78-1366-4de7-aad3-f9da2121e272" style="" data-widgetcontainerid="22b27a78-1366-4de7-aad3-f9da2121e272">	
+<div class="widget editor pageStyles narrow" id="divEditor46e5d6d4-835d-42c9-9b6c-c90029e0b206" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+        <div class="fr-view">
+
+
+        <ul><li><a aria-label="Community Engagement Toolkit" class="Hyperlink" data-ae-blurbtype="button" href="http://ctb.ku.edu/en/toolkits" tabindex="0" target="_self">Community Engagement Toolkit</a></li><li><a aria-label="Permits" class="Hyperlink" data-ae-blurbtype="button" href="http://www.co.ontario.ny.us/148/Pistol-Permits" tabindex="0" target="_self">County Clerk, Permits</a></li><li><a aria-label="OC Health Profile" class="Hyperlink" data-ae-blurbtype="button" href="https://ny-ontariocounty2.civicplus.com/DocumentCenter/View/9917" style="outline: 0px;" tabindex="0" target="_self" title="OC Health Profile">County Health Profile, 2017</a></li><li><span style="outline-color: initial; outline-style: initial;"><a aria-label="OC Dental Card Program" class="Hyperlink" data-ae-blurbtype="button" href="/DocumentCenter/View/6902" tabindex="0" target="_self" title="OC Dental Card Program">Dental Card Program</a></span></li><li><a class="Hyperlink" href="/DocumentCenter/View/43737/2023-Ontario-County-Resource-Guide-Final-43024">Ontario County Health Collaborative</a></li><li><a href="https://ontariocountyny.gov/DocumentCenter/View/43737/2024-Ontario-County-Resource-Guide-Final-43024" aria-hidden="true" tabindex="-1" target="_blank" rel="noopener" aria-describedby="audioeye_new_window_message">Ontario County Resource Guide</a></li><li><a aria-label="Permits and Licenses" class="Hyperlink" data-ae-blurbtype="button" href="https://www.health.ny.gov/permits/" tabindex="0" target="_self" title="Permits and Licenses">Permits &amp; Licenses, (Including Food Permits) NY State</a></li><li><a aria-label="Restaurant Violations" class="Hyperlink" data-ae-blurbtype="button" href="https://health.data.ny.gov/Health/Food-Service-Establishment-Map-Last-Inspection/qd6f-nmcs" tabindex="0">Restaurant Violations, NY State</a></li><li><a aria-label="Strategic Plan" class="Hyperlink" data-ae-blurbtype="button" href="/DocumentCenter/View/37806/Strategic-Plan-2023-" tabindex="0">Strategic Plan 2023</a></li><li><a aria-label="S2AY Rural Health Network" class="Hyperlink" data-ae-blurbtype="button" href="http://www.s2aynetwork.org/" rel="noopener" tabindex="0" target="_blank" aria-describedby="audioeye_new_window_message">Pivital Rural Health Network</a></li><li><a aria-describedby="audioeye_pdf_message" aria-label="NY State Reportables" class="Hyperlink" data-ae-blurbtype="button" href="https://www.health.ny.gov/forms/instructions/doh-389_instructions.pdf" tabindex="0" target="_self" title="NY State Reportables">Reportable Diseases</a></li><li><a aria-label="211 Lifeline" class="Hyperlink" data-ae-blurbtype="button" href="https://211lifeline.org/" tabindex="0" target="_self" title="211 Lifeline">2-1-1 Lifeline</a></li><li><a class="Hyperlink" href="/DocumentCenter/View/12068" target="_self">Bill of Rights</a></li><li><a href="https://ontariocountyny.gov/198/Health-Information" id="isPasted">Health Education Classes</a></li></ul>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + '46e5d6d4-835d-42c9-9b6c-c90029e0b206'));
+	});
+</script>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</aside>
+</div><div data-cpRole="structuralContainer" id="siteSidebarTS" class="siteSidebar">
+<aside data-cpRole="contentContainer" id="sidebarContainer1TS">	<div id="cc566b93eb-ebfa-4de5-8f06-4f7e1acd9200" data-containerid="566b93eb-ebfa-4de5-8f06-4f7e1acd9200" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+
+
+	</div>
+</aside><nav data-cpRole="nav" id="secondaryNav" class="siteNav secondaryNav">
+
+
+
+
+
+	<ol role="menu" id="secondaryMenusecondaryNav" data-parent="101" class="rootNavMenu accordionNav">
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem195" data-pageid="195">
+		<div class="accordionNavItem">
+			<a href="/195/About-Us" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">About Us</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand About Us Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="195">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1169" data-pageid="1169">
+			<div class="accordionNavItem">
+				<a href="/1169/Ontario-County-Public-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Ontario County Public Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1170" data-pageid="1170">
+			<div class="accordionNavItem">
+				<a href="http://www.health.ny.gov/regulations/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rules, Regulations, and Laws of New York</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2199" data-pageid="2199">
+		<div class="accordionNavItem">
+			<a href="/2199/BeThe1To" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">#BeThe1To</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2208" data-pageid="2208">
+		<div class="accordionNavItem">
+			<a href="/2208/Community-Resources" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Community Resources</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Community Resources Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="2208">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2209" data-pageid="2209">
+			<div class="accordionNavItem">
+				<a href="/2209/Community-Health-Improvement-Plan" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Community Health Improvement Plan</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2206" data-pageid="2206">
+		<div class="accordionNavItem">
+			<a href="/2206/Covid-19" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Covid 19</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2110" data-pageid="2110">
+		<div class="accordionNavItem">
+			<a href="https://ontariocountyny.gov/1133/Early-Intervention" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Early Intervention</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem196" data-pageid="196">
+		<div class="accordionNavItem">
+			<a href="/196/Environmental-Health" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Environmental Health</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2207" data-pageid="2207">
+		<div class="accordionNavItem">
+			<a href="/2207/Food-Resources" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Food Resources</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem197" data-pageid="197">
+		<div class="accordionNavItem">
+			<a href="/197/Health-Data" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Health Data</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Health Data Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="197">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1167" data-pageid="1167">
+			<div class="accordionNavItem">
+				<a href="http://www.health.ny.gov/vital_records/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Vital Records</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1168" data-pageid="1168">
+			<div class="accordionNavItem">
+				<a href="http://www.health.ny.gov/statistics/vital_statistics/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Vital Statistics</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem198" data-pageid="198">
+		<div class="accordionNavItem">
+			<a href="/198/Health-Information" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Health Information</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Health Information Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="198">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1769" data-pageid="1769">
+			<div class="accordionNavItem">
+				<a href="http://www.co.ontario.ny.us/226/Adults" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Adult Abuse</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem535" data-pageid="535">
+			<div class="accordionNavItem">
+				<a href="/535/Adult-Immunization" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Adult Immunization</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem536" data-pageid="536">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/asthma/default.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Asthma</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem537" data-pageid="537">
+			<div class="accordionNavItem">
+				<a href="https://www.aad.org/public/everyday-care/injured-skin/bites" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Bee Stings</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem538" data-pageid="538">
+			<div class="accordionNavItem">
+				<a href="/538/Blood-Donation" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Blood Donation</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem754" data-pageid="754">
+			<div class="accordionNavItem">
+				<a href="/754/Blue-Green-Algae" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Blue-Green Algae</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem539" data-pageid="539">
+			<div class="accordionNavItem">
+				<a href="/539/Brain-Injury" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Brain Injury</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem764" data-pageid="764">
+			<div class="accordionNavItem">
+				<a href="/764/Breastfeeding" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Breastfeeding Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="764">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1305" data-pageid="1305">
+			<div class="accordionNavItem">
+				<a href="/1305/Breastfeeding-Information" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding Information</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem969" data-pageid="969">
+			<div class="accordionNavItem">
+				<a href="/969/National-Breastfeeding-Month" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">National Breastfeeding Month</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1549" data-pageid="1549">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/community/pregnancy/breastfeeding/providers/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding Friendly Practice</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1550" data-pageid="1550">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/prevention/nutrition/cacfp/breastfeedingspon.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding Friendly Childcare</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1551" data-pageid="1551">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/community/pregnancy/breastfeeding/employers.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding Friendly Worksites</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Breastfeeding Friendly Worksites Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="1551">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1552" data-pageid="1552">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/community/pregnancy/breastfeeding/insurance_coverage.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Health Insurance Coverage of Lactation Support and</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1554" data-pageid="1554">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/community/pregnancy/breastfeeding/insurance_coverage.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Health Insurance Coverage of Lactation Support and</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1553" data-pageid="1553">
+			<div class="accordionNavItem">
+				<a href="https://www.health.ny.gov/community/pregnancy/breastfeeding/right_to_breastfeed.htm" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breastfeeding Friendly Community</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem544" data-pageid="544">
+			<div class="accordionNavItem">
+				<a href="/544/Carbon-Monoxide-Poisoning" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Carbon Monoxide Poisoning</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem546" data-pageid="546">
+			<div class="accordionNavItem">
+				<a href="/546/Child-Abuse" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Child Abuse</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Child Abuse Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="546">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem868" data-pageid="868">
+			<div class="accordionNavItem">
+				<a href="/868/Shaken-Baby-Syndrome" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Shaken Baby Syndrome</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem904" data-pageid="904">
+			<div class="accordionNavItem">
+				<a href="/904/Community-Health-Improvement-Plan" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Community Health Improvement Plan</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem634" data-pageid="634">
+			<div class="accordionNavItem">
+				<a href="/634/Diabetes" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Diabetes</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Diabetes Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="634">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1495" data-pageid="1495">
+			<div class="accordionNavItem">
+				<a href="/1495/Pre-Diabetes" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Pre-Diabetes</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1109" data-pageid="1109">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/vhf/ebola/index.html" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Ebola</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem547" data-pageid="547">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/ecoli/index.html" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">E. Coli</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem457" data-pageid="457">
+			<div class="accordionNavItem">
+				<a href="/457/Elder-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Elder Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1127" data-pageid="1127">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/non-polio-enterovirus/about/ev-d68.html" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Enterovirus D68</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem549" data-pageid="549">
+			<div class="accordionNavItem">
+				<a href="/549/Eye-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Eye Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem550" data-pageid="550">
+			<div class="accordionNavItem">
+				<a href="/550/Fall-Prevention" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Fall Prevention</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem559" data-pageid="559">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/foodsafety/foodborne-germs.html#:~:text=Salmonella%20can%20cause%20salmonellosis%20and,virus%2C%20Shigella%2C%20and%20Yersinia." target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Food-Associated Illness</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem553" data-pageid="553">
+			<div class="accordionNavItem">
+				<a href="/553/Gardasil---Cervical-Cancer-Vaccine" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Gardasil - Cervical Cancer Vaccine</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1119" data-pageid="1119">
+			<div class="accordionNavItem">
+				<a href="http://www.dec.ny.gov/animals/39809.html" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Giant Hogweed</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem458" data-pageid="458">
+			<div class="accordionNavItem">
+				<a href="/458/Health-Insurance" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Health Insurance</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Health Insurance Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="458">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem591" data-pageid="591">
+			<div class="accordionNavItem">
+				<a href="/591/Health-Insurance-Applications" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Health Insurance Applications</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem589" data-pageid="589">
+			<div class="accordionNavItem">
+				<a href="/589/Healthy-Lifestyles" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Healthy Lifestyles</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem555" data-pageid="555">
+			<div class="accordionNavItem">
+				<a href="/555/Heart-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Heart Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem556" data-pageid="556">
+			<div class="accordionNavItem">
+				<a href="/556/Heat-Exhaustion-or-Heat-Stroke" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Heat Exhaustion or Heat Stroke</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem557" data-pageid="557">
+			<div class="accordionNavItem">
+				<a href="http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001368/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Hemochromatosis</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem930" data-pageid="930">
+			<div class="accordionNavItem">
+				<a href="/930/Hypertension-High-blood-pressure" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Hypertension (High blood pressure)</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem862" data-pageid="862">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/hiv/basics/whatishiv.html#:~:text=HIV%20(human%20immunodeficiency%20virus)%20is,they%20have%20it%20for%20life." target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">HIV</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem905" data-pageid="905">
+			<div class="accordionNavItem">
+				<a href="/905/Human-Papilloma-Virus" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Human Papilloma Virus</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Human Papilloma Virus Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="905">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem907" data-pageid="907">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/3221" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">HPV by the Numbers</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem922" data-pageid="922">
+			<div class="accordionNavItem">
+				<a href="http://cceontario.org/agriculture/local-foods" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Local Food Guide: OC Cooperative Extension</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1131" data-pageid="1131">
+			<div class="accordionNavItem">
+				<a href="/1131/Influenza" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Influenza</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1742" data-pageid="1742">
+			<div class="accordionNavItem">
+				<a href="/1742/Lice" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lice</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem863" data-pageid="863">
+			<div class="accordionNavItem">
+				<a href="/863/Lyme-Disease" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lyme Disease</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem460" data-pageid="460">
+			<div class="accordionNavItem">
+				<a href="/460/Mens-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Men&#39;s Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem564" data-pageid="564">
+			<div class="accordionNavItem">
+				<a href="/564/Mental-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Mental Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem566" data-pageid="566">
+			<div class="accordionNavItem">
+				<a href="/566/Obesity-in-Childhood" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Obesity in Childhood</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem910" data-pageid="910">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/3246" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Ontario County Resource Guide</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem568" data-pageid="568">
+			<div class="accordionNavItem">
+				<a href="/568/Preterm-Labor" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Preterm Labor</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem570" data-pageid="570">
+			<div class="accordionNavItem">
+				<a href="/570/SARS" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">SARS</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem867" data-pageid="867">
+			<div class="accordionNavItem">
+				<a href="/800/Sexually-Transmitted-Diseases" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Sexually Transmitted Diseases</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem573" data-pageid="573">
+			<div class="accordionNavItem">
+				<a href="/573/Shingles-Immunization" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Shingles Immunization</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem574" data-pageid="574">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/sids/about/index.htm" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">SIDS</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem758" data-pageid="758">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/niosh/topics/skin/default.html" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Skin Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem575" data-pageid="575">
+			<div class="accordionNavItem">
+				<a href="/575/Stop-Smoking" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Stop Smoking</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem864" data-pageid="864">
+			<div class="accordionNavItem">
+				<a href="/864/Ticks" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Ticks</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem461" data-pageid="461">
+			<div class="accordionNavItem">
+				<a href="https://www.cdc.gov/women/index.htm" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Women&#39;s Health</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Women&#39;s Health Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="461">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem571" data-pageid="571">
+			<div class="accordionNavItem">
+				<a href="/461/Womens-Health" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Screening Tests for Women</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1320" data-pageid="1320">
+			<div class="accordionNavItem">
+				<a href="/1320/Well-Water" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Well Water</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem581" data-pageid="581">
+			<div class="accordionNavItem">
+				<a href="/581/Winter-Safety-Tips" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Winter Safety Tips</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1294" data-pageid="1294">
+			<div class="accordionNavItem">
+				<a href="/1294/Zika-Virus" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Zika Virus</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1590" data-pageid="1590">
+		<div class="accordionNavItem">
+			<a href="/1590/Healthcare-Provider-Quick-Link" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Healthcare Provider Quick Link</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1656" data-pageid="1656">
+		<div class="accordionNavItem">
+			<a href="/1656/Nourish-Your-Neighbor-NYN" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Nourish Your Neighbor (NYN)</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem779" data-pageid="779">
+		<div class="accordionNavItem">
+			<a href="/FormCenter/Public-Health-4" target="_blank" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Online Forms</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem917" data-pageid="917">
+		<div class="accordionNavItem">
+			<a href="/917/Ontario-County-Health-Collaborative" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Ontario County Health Collaborative</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Ontario County Health Collaborative Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="917">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1327" data-pageid="1327">
+			<div class="accordionNavItem">
+				<a href="/1327/Choose-Health-Ontario-Award" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Choose Health Ontario Award</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1324" data-pageid="1324">
+			<div class="accordionNavItem">
+				<a href="/1324/Finger-Lakes-Breastfeeding-Partnership" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Finger Lakes Breastfeeding Partnership</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem934" data-pageid="934">
+			<div class="accordionNavItem">
+				<a href="/calendar.aspx?CID=46" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Healthier Living in Ontario County</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem199" data-pageid="199">
+		<div class="accordionNavItem">
+			<a href="/199/Programs-Services" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Programs / Services</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Programs / Services Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="199">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem799" data-pageid="799">
+			<div class="accordionNavItem">
+				<a href="/799/Injury-Prevention" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Injury Prevention</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Injury Prevention Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="799">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem951" data-pageid="951">
+			<div class="accordionNavItem">
+				<a href="/951/Bicycle-Helmets-and-Safety" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Bicycle Helmets and Safety</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2097" data-pageid="2097">
+			<div class="accordionNavItem">
+				<a href="/2097/Lock-Talk" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lock &amp; Talk </span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem531" data-pageid="531">
+			<div class="accordionNavItem">
+				<a href="/531/Cancer-Services-Program" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Cancer Services Program</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Cancer Services Program Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="531">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem543" data-pageid="543">
+			<div class="accordionNavItem">
+				<a href="/543/Cancer-Screening-Tests" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Cancer Screening Tests</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem583" data-pageid="583">
+			<div class="accordionNavItem">
+				<a href="/583/Breast-Cancer" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Breast Cancer</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem545" data-pageid="545">
+			<div class="accordionNavItem">
+				<a href="/545/Cervical-Cancer" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Cervical Cancer</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem584" data-pageid="584">
+			<div class="accordionNavItem">
+				<a href="/584/Colorectal-Cancer" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Colorectal Cancer</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Colorectal Cancer Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="584">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem919" data-pageid="919">
+			<div class="accordionNavItem">
+				<a href="/919/Tests-for-Colorectal-Cancer" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Tests for Colorectal Cancer</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem532" data-pageid="532">
+			<div class="accordionNavItem">
+				<a href="/532/Childrens-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Children&#39;s Health</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Children&#39;s Health Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="532">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem632" data-pageid="632">
+			<div class="accordionNavItem">
+				<a href="/632/Children-with-Special-Needs-Program" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Children with Special Needs Program</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1203" data-pageid="1203">
+			<div class="accordionNavItem">
+				<a href="/1203/Oral-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Oral Health</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1132" data-pageid="1132">
+			<div class="accordionNavItem">
+				<a href="/1132/Children-With-Special-Needs-Program" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Children With Special Needs Program</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Children With Special Needs Program Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="1132">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1133" data-pageid="1133">
+			<div class="accordionNavItem">
+				<a href="/1133/Early-Intervention" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Early Intervention</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1134" data-pageid="1134">
+			<div class="accordionNavItem">
+				<a href="/1134/Preschool-Special-Education-Program" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Preschool Special Education Program</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem534" data-pageid="534">
+			<div class="accordionNavItem">
+				<a href="/534/Chronic-Diseases" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Chronic Diseases</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Chronic Diseases Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="534">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1138" data-pageid="1138">
+			<div class="accordionNavItem">
+				<a href="/1138/Eating-Healthy" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Eating Healthy</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1365" data-pageid="1365">
+			<div class="accordionNavItem">
+				<a href="/1365/Physical-Activity" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Physical Activity</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem533" data-pageid="533">
+			<div class="accordionNavItem">
+				<a href="/533/Communicable-Diseases" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Communicable Diseases</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Communicable Diseases Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="533">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem582" data-pageid="582">
+			<div class="accordionNavItem">
+				<a href="/582/AIDS---History" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">AIDS - History</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1802" data-pageid="1802">
+			<div class="accordionNavItem">
+				<a href="/1802/Coronavirus-COVID-19" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Coronavirus (COVID-19)</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Coronavirus (COVID-19) Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="1802">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1810" data-pageid="1810">
+			<div class="accordionNavItem">
+				<a href="/1810/Advice-to-Employers" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Advice to Employers</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1817" data-pageid="1817">
+			<div class="accordionNavItem">
+				<a href="/1817/COVID-19-Updates-and-Public-Messages" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">COVID-19 Updates and Public Messages</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1808" data-pageid="1808">
+			<div class="accordionNavItem">
+				<a href="/1808/Guidance-from-the-NYS-Dept-of-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Guidance from the NYS Dept of Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1843" data-pageid="1843">
+			<div class="accordionNavItem">
+				<a href="/1843/Past-Daily-Updates" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Past Daily Updates</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1804" data-pageid="1804">
+			<div class="accordionNavItem">
+				<a href="/1804/Prevention-Masks" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Prevention (Masks)</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1809" data-pageid="1809">
+			<div class="accordionNavItem">
+				<a href="/1809/Quarantine-Questions" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Quarantine Questions</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1813" data-pageid="1813">
+			<div class="accordionNavItem">
+				<a href="/1813/Resources" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Resources</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1806" data-pageid="1806">
+			<div class="accordionNavItem">
+				<a href="/1806/Social-Distancing" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Social Distancing</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1807" data-pageid="1807">
+			<div class="accordionNavItem">
+				<a href="/1807/Symptoms" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Symptoms&#160;</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1820" data-pageid="1820">
+			<div class="accordionNavItem">
+				<a href="/1820/Testing" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Testing</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1805" data-pageid="1805">
+			<div class="accordionNavItem">
+				<a href="/1805/Who-Is-At-Risk" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Who Is At Risk?</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1935" data-pageid="1935">
+			<div class="accordionNavItem">
+				<a href="/1935/COVID-19-Vaccine" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">COVID-19 Vaccine</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem551" data-pageid="551">
+			<div class="accordionNavItem">
+				<a href="/551/Flu-Influenza" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Flu (Influenza)</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem552" data-pageid="552">
+			<div class="accordionNavItem">
+				<a href="/552/Flu-Swine-Variant-H1N1" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Flu Swine-Variant (H1N1)</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem558" data-pageid="558">
+			<div class="accordionNavItem">
+				<a href="/558/HIV-AIDS-Prevention---New-Developments" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">HIV / AIDS Prevention - New Developments</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem886" data-pageid="886">
+			<div class="accordionNavItem">
+				<a href="/886/How-to-Report-a-Communicable-Disease" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">How to Report a Communicable Disease</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem569" data-pageid="569">
+			<div class="accordionNavItem">
+				<a href="/569/Rabies-Information" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rabies Information</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem579" data-pageid="579">
+			<div class="accordionNavItem">
+				<a href="/579/Tuberculosis" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Tuberculosis</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Tuberculosis Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="579">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1311" data-pageid="1311">
+			<div class="accordionNavItem">
+				<a href="/1311/TB-Tips" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">TB Tips</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1308" data-pageid="1308">
+			<div class="accordionNavItem">
+				<a href="/1308/Testing-for-Tuberculosis" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Testing for Tuberculosis</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem548" data-pageid="548">
+			<div class="accordionNavItem">
+				<a href="/548/Emergency-Preparedness" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Emergency Preparedness</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Emergency Preparedness Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="548">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1096" data-pageid="1096">
+			<div class="accordionNavItem">
+				<a href="/1096/Emergency-Preparedness-Month" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Emergency Preparedness Month</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1791" data-pageid="1791">
+			<div class="accordionNavItem">
+				<a href="/1791/Winter-Safety" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Winter Safety</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2071" data-pageid="2071">
+			<div class="accordionNavItem">
+				<a href="https://secure.hyper-reach.com/comsignup.jsp?id=11322" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Hyper-Reach Community Sign Up</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2072" data-pageid="2072">
+			<div class="accordionNavItem">
+				<a href="https://ontariocountyny.gov/548/Emergency-Preparedness" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Emergency Preparedness</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1310" data-pageid="1310">
+			<div class="accordionNavItem">
+				<a href="/1310/Family-Planning" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Family Planning</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem561" data-pageid="561">
+			<div class="accordionNavItem">
+				<a href="/561/Immunizations" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Immunizations</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Immunizations Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="561">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem842" data-pageid="842">
+			<div class="accordionNavItem">
+				<a href="/842/Infant-Immunization" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Infant Immunization</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2004" data-pageid="2004">
+			<div class="accordionNavItem">
+				<a href="/2004/Lead-Clean-up-Old-Geneva-Foundry-Site" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lead Clean-up, Old Geneva Foundry Site </span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem562" data-pageid="562">
+			<div class="accordionNavItem">
+				<a href="/562/Lead-Poisoning-Prevention" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lead Poisoning Prevention</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem927" data-pageid="927">
+			<div class="accordionNavItem">
+				<a href="/927/Maternal-Child-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Maternal Child Health</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem765" data-pageid="765">
+			<div class="accordionNavItem">
+				<a href="/765/Rabies" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rabies</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Rabies Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="765">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem766" data-pageid="766">
+			<div class="accordionNavItem">
+				<a href="/766/Rabies-in-Ontario-County" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rabies in Ontario County</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Rabies in Ontario County Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="766">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem822" data-pageid="822">
+			<div class="accordionNavItem">
+				<a href="/822/How-to-Catch-a-Bat" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">How to Catch a Bat</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem767" data-pageid="767">
+			<div class="accordionNavItem">
+				<a href="/767/Rabies-Vaccination-Clinics" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rabies Vaccination Clinics</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem793" data-pageid="793">
+			<div class="accordionNavItem">
+				<a href="/793/Reporting-Potential-Rabies-Exposures" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Reporting Potential Rabies Exposures</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Reporting Potential Rabies Exposures Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl3" style="display: none;" data-parent="793">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1309" data-pageid="1309">
+			<div class="accordionNavItem">
+				<a href="/1309/Dog-Bites" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Dog Bites</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+
+				</ol>
+		</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1970" data-pageid="1970">
+			<div class="accordionNavItem">
+				<a href="/1970/Resources" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Resources</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem800" data-pageid="800">
+			<div class="accordionNavItem">
+				<a href="/800/Sexually-Transmitted-Diseases" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Sexually Transmitted Diseases</span></a>
+					<a href="#" class="openAccordionNav accordionNavMenuItem" title="Expand Sexually Transmitted Diseases Submenu"></a>
+			</div>
+							<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" style="display: none;" data-parent="800">
+							<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1302" data-pageid="1302">
+			<div class="accordionNavItem">
+				<a href="/1302/Finger-Lakes-Sexual-Health-Coalition" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Finger Lakes Sexual Health Coalition</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem918" data-pageid="918">
+			<div class="accordionNavItem">
+				<a href="/918/How-to-Report-a-Sexually-Transmitted-Dis" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">How to Report a Sexually Transmitted Disease</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem928" data-pageid="928">
+			<div class="accordionNavItem">
+				<a href="/928/STD-Awareness-Month" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">STD Awareness Month</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2200" data-pageid="2200">
+		<div class="accordionNavItem">
+			<a href="/2200/Rabies-Prevention-Program" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Rabies Prevention Program</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2109" data-pageid="2109">
+		<div class="accordionNavItem">
+			<a href="https://ontariocountyny.gov/119/Stop-DWI" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Stop-DWI</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2003" data-pageid="2003">
+		<div class="accordionNavItem">
+			<a href="/2003/Substance-Use" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Substance Use</a>
+		</div>
+			</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2201" data-pageid="2201">
+		<div class="accordionNavItem">
+			<a href="/2201/Summer-Events" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Summer Events</a>
+				<a href="#" class="openAccordionNav accordionSecondaryNavItem" title="Expand Summer Events Submenu"></a>
+		</div>
+					<ol role="menu" aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" style="display: none;" data-parent="2201">
+						<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2205" data-pageid="2205">
+			<div class="accordionNavItem">
+				<a href="/2205/Hot-Weather-Ahead" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Hot Weather Ahead</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2211" data-pageid="2211">
+			<div class="accordionNavItem">
+				<a href="/2211/Stay-Protected" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Stay Protected</span></a>
+			</div>
+					</li>
+		<li role="menuitem" aria-haspopup="true" class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2203" data-pageid="2203">
+			<div class="accordionNavItem">
+				<a href="/2203/Summer-Meals" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Summer Meals</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li role="menuitem" aria-haspopup="true" class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2210" data-pageid="2210">
+		<div class="accordionNavItem">
+			<a href="/2210/Vaccination" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Vaccination</a>
+		</div>
+			</li>
+
+	</ol>
+
+
+	<script type="text/javascript">
+        $(document).ready(function () {
+            //setup menu manager properties for secondary menu
+            menuManager.isSideMenuEditable = false;
+		    menuManager.sideMenuMaxSubMenuLevels = 4;
+            menuManager.sideMenuHasCustomLinks = false;
+        });
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('*[id^="SideItem"]').each(function () {
+				var ids = $('[id="' + this.id + '"]');
+				if (ids.length > 1)
+					$.each(ids, function (index, value) {
+						value.id = value.id + '_' + index;
+					});
+			});
+
+			$('.hasAccordionChildren .openAccordionNav').click(function (e) {
+				e.preventDefault();
+				showHideAccordionMenuForSecondaryNav($(this));
+			});
+
+			$("#secondaryNav .grippy").each(function () {
+				menuManager.setupDraggableElement($(this), SIDE_MENU, '#secondaryNav');
+			});
+
+			$("#secondaryNav li").each(function () {
+				menuManager.setupDroppableAccordionElement($(this), SIDE_MENU);
+			});
+		});
+	</script>
+
+
+
+</nav><aside data-cpRole="contentContainer" id="sidebarContainer2TS">	<div id="ccac307248-e5cb-4ed5-b4e2-68acb0d836e6" data-containerid="ac307248-e5cb-4ed5-b4e2-68acb0d836e6" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+
+
+	</div>
+</aside>
+</div>
+</div></div>
+</div><!-- GBs --><div data-cpRole="structuralContainer" id="gbsContainerTS">
+<div class="siteWrap"><div data-cpRole="contentContainer" id="gbsTS">	<div id="cced113852-8ee3-4616-acba-a7783b972ae5" data-containerid="ed113852-8ee3-4616-acba-a7783b972ae5" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile" data-contentcontainerbreakpoint="35">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col8 first" style="" data-widgetcontainerid="4edb16df-b3ed-41d1-aac5-7eebd6c7091e">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last ida4da65ec-c23a-4b21-ab23-0c7b1b2ecec8" style="" data-widgetcontainerid="a4da65ec-c23a-4b21-ab23-0c7b1b2ecec8">	
+<div data-widget-id="9ae8d167-55d6-499e-8c32-f578d40673f2" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidget9ae8d167-55d6-499e-8c32-f578d40673f2" class="widget widgetGraphicLinks skin24 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:23em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">	
+			<div class="row   wide"><!--
+--><div class="col col1 first "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://ontariocony.portal.civicclerk.com/" target="_blank" class="fancyButton fancyButton761 "  aria-label="Agendas &amp; Minutes Opens in new window">
+		<span>
+			<span><span class="text">Agendas &amp; Minutes</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton761.fancyButton:link,.fancyButton761.fancyButton:visited, .fancyButton761div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41639');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton761.fancyButton:hover,.fancyButton761.fancyButton:focus,.fancyButton761.fancyButton:active,.fancyButton761.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41638');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton761.fancyButton:link > span,.fancyButton761.fancyButton:visited > span, .fancyButton761div.fancyButton > span{
+}
+.fancyButton761.fancyButton:hover > span,.fancyButton761.fancyButton:focus > span,.fancyButton761.fancyButton:active > span,.fancyButton761.fancyButton.hover > span{
+}
+.fancyButton761.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton761.fancyButton:hover .text,.fancyButton761.fancyButton:focus .text,.fancyButton761.fancyButton:active .text,.fancyButton761.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/714/OnCor" target="_self" class="fancyButton fancyButton762 " >
+		<span>
+			<span><span class="text">oncor</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton762.fancyButton:link,.fancyButton762.fancyButton:visited, .fancyButton762div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41643');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton762.fancyButton:hover,.fancyButton762.fancyButton:focus,.fancyButton762.fancyButton:active,.fancyButton762.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41642');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton762.fancyButton:link > span,.fancyButton762.fancyButton:visited > span, .fancyButton762div.fancyButton > span{
+}
+.fancyButton762.fancyButton:hover > span,.fancyButton762.fancyButton:focus > span,.fancyButton762.fancyButton:active > span,.fancyButton762.fancyButton.hover > span{
+}
+.fancyButton762.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton762.fancyButton:hover .text,.fancyButton762.fancyButton:focus .text,.fancyButton762.fancyButton:active .text,.fancyButton762.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col8" style="" data-widgetcontainerid="b84394cd-73d0-4a39-9733-ab20accad1b1">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last id588faa92-eeec-4876-ae6a-c9878070dadd" style="" data-widgetcontainerid="588faa92-eeec-4876-ae6a-c9878070dadd">	
+<div data-widget-id="b1bc5fc3-f914-4805-bfd0-5f0cde01c6c7" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidgetb1bc5fc3-f914-4805-bfd0-5f0cde01c6c7" class="widget widgetGraphicLinks skin24 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:23em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">	
+			<div class="row   wide"><!--
+--><div class="col col1 first "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://ontario-portal.mycivilservice.com/" target="_self" class="fancyButton fancyButton763 " >
+		<span>
+			<span><span class="text">Employment Portal</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton763.fancyButton:link,.fancyButton763.fancyButton:visited, .fancyButton763div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41641');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton763.fancyButton:hover,.fancyButton763.fancyButton:focus,.fancyButton763.fancyButton:active,.fancyButton763.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41640');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton763.fancyButton:link > span,.fancyButton763.fancyButton:visited > span, .fancyButton763div.fancyButton > span{
+}
+.fancyButton763.fancyButton:hover > span,.fancyButton763.fancyButton:focus > span,.fancyButton763.fancyButton:active > span,.fancyButton763.fancyButton.hover > span{
+}
+.fancyButton763.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton763.fancyButton:hover .text,.fancyButton763.fancyButton:focus .text,.fancyButton763.fancyButton:active .text,.fancyButton763.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://ontariocountyny.gov/209/Corrections" target="_self" class="fancyButton fancyButton764 " >
+		<span>
+			<span><span class="text">Jail</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton764.fancyButton:link,.fancyButton764.fancyButton:visited, .fancyButton764div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41645');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton764.fancyButton:hover,.fancyButton764.fancyButton:focus,.fancyButton764.fancyButton:active,.fancyButton764.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41644');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton764.fancyButton:link > span,.fancyButton764.fancyButton:visited > span, .fancyButton764div.fancyButton > span{
+}
+.fancyButton764.fancyButton:hover > span,.fancyButton764.fancyButton:focus > span,.fancyButton764.fancyButton:active > span,.fancyButton764.fancyButton.hover > span{
+}
+.fancyButton764.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton764.fancyButton:hover .text,.fancyButton764.fancyButton:focus .text,.fancyButton764.fancyButton:active .text,.fancyButton764.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col8 last" style="" data-widgetcontainerid="e8316328-a5c8-493f-a93e-d61ea79cd76d">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last id721f2d83-b45a-4daa-9022-a027f381f4d5" style="" data-widgetcontainerid="721f2d83-b45a-4daa-9022-a027f381f4d5">	
+<div data-widget-id="c5f9d0fd-4a68-43c6-91fb-c641c3518ff7" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidgetc5f9d0fd-4a68-43c6-91fb-c641c3518ff7" class="widget widgetGraphicLinks skin24 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:23em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">	
+			<div class="row   wide"><!--
+--><div class="col col1 first "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/940/Economic-Development" target="_self" class="fancyButton fancyButton765 " >
+		<span>
+			<span><span class="text">Economic Development</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton765.fancyButton:link,.fancyButton765.fancyButton:visited, .fancyButton765div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41637');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton765.fancyButton:hover,.fancyButton765.fancyButton:focus,.fancyButton765.fancyButton:active,.fancyButton765.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41636');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton765.fancyButton:link > span,.fancyButton765.fancyButton:visited > span, .fancyButton765div.fancyButton > span{
+}
+.fancyButton765.fancyButton:hover > span,.fancyButton765.fancyButton:focus > span,.fancyButton765.fancyButton:active > span,.fancyButton765.fancyButton.hover > span{
+}
+.fancyButton765.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton765.fancyButton:hover .text,.fancyButton765.fancyButton:focus .text,.fancyButton765.fancyButton:active .text,.fancyButton765.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://ontariocountyny.gov/96/Real-Property-Tax" target="_self" class="fancyButton fancyButton766 " >
+		<span>
+			<span><span class="text">Property Taxes</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton766.fancyButton:link,.fancyButton766.fancyButton:visited, .fancyButton766div.fancyButton{
+	padding-top: 120px;
+	background-image: url('/ImageRepository/Document?documentID=41647');
+	background-repeat: no-repeat;
+	background-position: center 10px ;
+transition: all .3s ease-in-out;}
+.fancyButton766.fancyButton:hover,.fancyButton766.fancyButton:focus,.fancyButton766.fancyButton:active,.fancyButton766.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=41646');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton766.fancyButton:link > span,.fancyButton766.fancyButton:visited > span, .fancyButton766div.fancyButton > span{
+}
+.fancyButton766.fancyButton:hover > span,.fancyButton766.fancyButton:focus > span,.fancyButton766.fancyButton:active > span,.fancyButton766.fancyButton.hover > span{
+}
+.fancyButton766.fancyButton .text{
+	color: rgb(15, 36, 95);
+	font-size: 1.35em;
+	font-family: "Antonio";
+	font-weight: 700;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+text-transform: uppercase;}
+.fancyButton766.fancyButton:hover .text,.fancyButton766.fancyButton:focus .text,.fancyButton766.fancyButton:active .text,.fancyButton766.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</div><!-- Calendar/Carousel --><!-- <div data-cpRole="structuralContainer" id="homeContainer1">
+    <div class="siteWrap2">
+      <div data-cpRole="contentContainer" id="homeContent1a"></div>
+    </div>
+  </div> --><!-- Footer --><footer data-cpRole="structuralContainer" id="footerContainerTS"><div class="inner">
+<div class="siteWrap"><div data-cpRole="contentContainer" id="upperFoterTS">	<div id="cc444ce132-0c37-49d6-870b-793bbe9f2c3c" data-containerid="444ce132-0c37-49d6-870b-793bbe9f2c3c" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile" data-contentcontainerbreakpoint="61">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col5 first" style="" data-widgetcontainerid="cb3fa0eb-fb68-422d-aed3-46500481dc66">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col5 first last id4a7273bc-3fb1-4829-bd88-8fc711a564ce" style="" data-widgetcontainerid="4a7273bc-3fb1-4829-bd88-8fc711a564ce">	
+    <div data-widget-id="2cb0084d-3f14-475d-8227-e3aa471019c3" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+
+
+
+	<section id="divInfoAdv2cb0084d-3f14-475d-8227-e3aa471019c3" class="widget widgetInfoAdvanced skin23 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header2cb0084d-3f14-475d-8227-e3aa471019c3">
+		<div class="">
+								</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">
+		<div class="row  wide">
+					<div class="col col1 first last">
+						<ol class="pageStyles semanticList">
+
+<li class="InfoAdvanced widgetItem fr-view">
+	<p><a href="/"><img src="/ImageRepository/Document?documentId=41313" class="fr-dib" alt="Ontario County NY Homepage"></a></p>
+</li>						</ol>
+					</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+
+	</div>
+
+	</section>
+
+
+
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('#divInfoAdv2cb0084d-3f14-475d-8227-e3aa471019c3 .InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));		
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col1" style="" data-widgetcontainerid="37b3aa71-3311-40cc-9e46-37ed50055d22">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col1 first last id58fd5420-4d50-46f3-8be3-c49d0e8e3ab8" style="" data-widgetcontainerid="58fd5420-4d50-46f3-8be3-c49d0e8e3ab8">	
+
+<div class="widget widgetSpacer" id="6c4bf5ae-59a8-41d6-802e-be24d957ad17"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col18 last" style="" data-widgetcontainerid="39e695ea-3f25-47ad-a469-9502e5332f7e">				
+	<div class="row nest first wide">
+	
+	<div class="inner col col18 first last ide4c1dc2f-70b0-4786-b597-399865a8bc00" style="" data-widgetcontainerid="e4c1dc2f-70b0-4786-b597-399865a8bc00">	
+    <div data-widget-id="9e90f783-4ade-4c6b-9ace-d3a2a77b19bf" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+
+
+
+	<section id="divInfoAdv9e90f783-4ade-4c6b-9ace-d3a2a77b19bf" class="widget widgetInfoAdvanced skin23 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header9e90f783-4ade-4c6b-9ace-d3a2a77b19bf">
+		<div class="">
+								</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">
+		<div class="row  wide">
+					<div class="col col1 first last">
+						<ol class="pageStyles semanticList">
+
+<li class="InfoAdvanced widgetItem fr-view">
+	<p>Ontario County, New York | 20 Ontario Street | Canandaigua, NY 14424 | Phone: <a href="tel:5853964451">585-396-4451</a> | <a href="/directory">Contact</a></p>
+</li>						</ol>
+					</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+
+	</div>
+
+	</section>
+
+
+
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('#divInfoAdv9e90f783-4ade-4c6b-9ace-d3a2a77b19bf .InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));		
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest last wide">
+	
+	<div class="inner col col17 first idefd2b4e3-39ce-46f6-8df1-9937ca8f4d9f" style="" data-widgetcontainerid="efd2b4e3-39ce-46f6-8df1-9937ca8f4d9f">	
+<div data-widget-id="0255cbe6-6494-4255-87c9-75fdb0a34470" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+	<style type="text/css">max-height: 15px;</style>
+
+<div id="graphicLinkWidget0255cbe6-6494-4255-87c9-75fdb0a34470" class="widget widgetGraphicLinks skin26 widgetOptionSet42 wide" data-elementqueryclasses='{"wide-narrow":"min-width:1em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid4 ">	
+			<div class="row autoWidths center wide"><!--
+--><div class="col col1 first "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/OntarioCountyNY" target="_self"  aria-label="Facebook graphic"><img src="/ImageRepository/Document?documentID=41302" 
+     class="graphicButtonLink" alt="Facebook" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=41302'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=41302'"
+     onfocus="this.src='/ImageRepository/Document?documentID=41302'" 
+	onblur="this.src='/ImageRepository/Document?documentID=41302'"> </a></div><!--
+--></div></div><!----><div class="col col1  "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="https://twitter.com/OntarioCountyNY" target="_self"  aria-label="X graphic"><img src="/ImageRepository/Document?documentID=41312" 
+     class="graphicButtonLink" alt="X" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=41312'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=41312'"
+     onfocus="this.src='/ImageRepository/Document?documentID=41312'" 
+	onblur="this.src='/ImageRepository/Document?documentID=41312'"> </a></div><!--
+--></div></div><!----><div class="col col1  "><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="https://www.instagram.com/ontario.county.ny/" target="_self"  aria-label="Instagram graphic"><img src="/ImageRepository/Document?documentID=41303" 
+     class="graphicButtonLink" alt="Instagram" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=41303'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=41303'"
+     onfocus="this.src='/ImageRepository/Document?documentID=41303'" 
+	onblur="this.src='/ImageRepository/Document?documentID=41303'"> </a></div><!--
+--></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="https://www.youtube.com/channel/UCu6fXmMaXc3Tu-ZTOxTNErg" target="_self"  aria-label="YouTube graphic"><img src="/ImageRepository/Document?documentID=41311" 
+     class="graphicButtonLink" alt="YouTube" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=41311'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=41311'"
+     onfocus="this.src='/ImageRepository/Document?documentID=41311'" 
+	onblur="this.src='/ImageRepository/Document?documentID=41311'"> </a></div><!--
+--></div></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+	<div class="inner col col1 last id00be7b44-3d90-4204-9610-286a9c9a6529" style="" data-widgetcontainerid="00be7b44-3d90-4204-9610-286a9c9a6529">	
+
+<div class="widget widgetSpacer" id="6993cdd7-0946-4c88-b4c6-88c5441c6c76"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div><div data-cpRole="contentContainer" id="lowerFooterTS">	<div id="cc5903ec54-f7e3-4808-9eaf-3695748ab359" data-containerid="5903ec54-f7e3-4808-9eaf-3695748ab359" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="a8afca0f-889a-44f7-b02f-f36b6f1d190f">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id1159e4f3-c494-4d01-be9a-0b8a04de9099" style="" data-widgetcontainerid="1159e4f3-c494-4d01-be9a-0b8a04de9099">	
+	<div data-widget-id="aceb00fd-1f5c-49f2-a4ed-a2af0d1beb36" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+
+ 
+
+
+	<section id="widgetQuicklinkaceb00fd-1f5c-49f2-a4ed-a2af0d1beb36" class="widget widgetQuickLinks skin23 widgetOptionSet39 narrow" data-modulewidgettype="quickLinks" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Quick Links">
+			<header class="widgetHeader" id="quickLinksHeaderaceb00fd-1f5c-49f2-a4ed-a2af0d1beb36">
+		<div class="">
+						</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid5 ">
+        <div class="row autoWidths center narrow">
+				<div class="col col1 first ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/sitemap.aspx" target="_self" >Site Map</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/mission" target="_self" >Mission, Vision & Core Values</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/accessibility" target="_self" >Accessibility</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/" target="_self" >Privacy</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  last">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/site/copyright" target="_self" >Copyright Notices</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+		</div>
+        
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+
+	</section>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div></div>
+</footer><!-- Powered By --><div data-cpRole="structuralContainer" id="poweredByContainerTS">
+<div class="siteWrap"><div data-cpRole="contentContainer" id="poweredByTS">	<div id="cce5bc422d-bc11-4e20-9ada-86c6d5e55f64" data-containerid="e5bc422d-bc11-4e20-9ada-86c6d5e55f64" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="62ae616f-e059-4e2e-9d07-b83ac117c61c">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idcd260a86-2514-422f-9c7e-a51a3be31311" style="" data-widgetcontainerid="cd260a86-2514-422f-9c7e-a51a3be31311">	
+ 
+	<div data-widget-id='47926ecc-64bd-42d5-b0b2-79247c5528bc' data-moduleName="customHtml" id='widgetCustomHtml47926ecc-64bd-42d5-b0b2-79247c5528bc' class="widget widgetCustomHtml skin27 narrow" >
+	<div class="widgetBody pageStyles" id="widgetBody47926ecc-64bd-42d5-b0b2-79247c5528bc">
+		<div id="customHtml47926ecc-64bd-42d5-b0b2-79247c5528bc"><div><style>
+  /* CP icon */
+  .cpBylineIconTS {
+    color: #fff;
+  }
+  /* CP Text */
+  .cpBylineTextTS,
+  .cpBylineTextTS a:link {
+    color: #fff;
+  }
+
+  .cpBylineTS {
+    text-align: center;
+  }
+  
+  .cpBylineIconTS {
+    fill: currentColor;
+    width: 39px;
+    height: 26px;
+    display: inline;
+    vertical-align: middle;
+  }
+</style>
+
+<div class="widgetItem cpBylineTS">
+  <span class="cpBylineTextTS">Government Websites by <a href="https://connect.civicplus.com/referral">CivicPlus&reg;</a></span>
+</div>
+</div></div>
+	</div>
+	</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</div>
+</div>
+
+		</div>
+	</div>
+</div>
+
+<link href="/745732998.css" rel="stylesheet" type="text/css" />
+
+<div tabindex="0"></div>
+<div id="SplashMessageWrapper" class="cp-Splash-wrapper">
+	<div role="dialog" aria-labelledby="cp-Splash-title" aria-describedby="editorContentDesc" aria-modal="true" tabindex="-1" id="SplashMessage" class="hidden cp-Splash cp-Splash--modal is-open">
+		<div class="cp-Splash-header">
+			<span class="cp-Splash-title" id="cp-Splash-title">Loading</span>
+			<button class="cp-Splash-Btn cp-Splash-close" aria-label="Close this modal" title="Close this window">
+				<svg id="iconClose" viewBox="0 0 25 25">
+					<polygon style="fill:currentcolor"
+							 points="18.806,6.98 18.075,6.248 12.532,11.792 6.989,6.248 6.257,6.98 11.786,12.508 6.212,18.084 6.943,18.815 12.532,13.224 18.12,18.815 18.851,18.084 13.277,12.508"></polygon>
+				</svg>
+			</button>
+		</div>
+		<div class="cp-Splash-body">
+			<div class="cp-Splash-Prose editorContent fr-view fr-element" id="editorContentDesc">
+				<!-- Content from the Froala Editor will go here. -->
+				Loading
+			</div>
+		</div>
+		<div class="cp-Splash-footer">
+			<button class="cp-Splash-Btn cp-Splash-Btn--NoShow">Do Not Show Again</button>
+			<button class="cp-Splash-Btn cp-Splash-Btn--Close">Close</button>
+		</div>
+	</div>
+</div>
+<div tabindex="0"></div>
+
+<script src="/Assets/Scripts/APIClient.js"></script>
+<script src="/Assets/Mystique/Shared/Scripts/Moment/Moment.min.js"></script>
+<script src="/Assets/Scripts/SplashModal/SplashModalRender.js"></script>
+<script>
+
+		$(document).ready(function () {
+			var filter = {
+				targetId: '101',
+				targetType: 1
+			}
+
+			new SplashModalRender().triggerRender(filter);
+		});
+</script>
+	
+	
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+
+	<script src="/854842676.js" type="text/javascript"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152930540-1"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'UA-152930540-1');
+
+</script>
+
+<!-- Fixed Nav Adjustment -->
+<script>
+  function getValueTS(elem, attr) {
+    var val = elem.css(attr);
+    if (val === undefined) return undefined;
+    var num = parseInt(val, 10);
+    if (num === NaN) return undefined;
+    return num;
+  }
+
+  function clampTS(number, min, max) {
+    return Math.min(Math.max(number, min), max);
+  }
+
+  function isPageEditingTS() {
+    return (
+      $("#doneEditing").length > 0 || // In live edit
+      typeof DesignCenter !== "undefined" // In theme manager
+    );
+  }
+
+  const bgColorRegexTS = /rgba\((\d+), (\d+), (\d+), (\d*\.?\d*)\)/;
+  function isTransparentTS(elem) {
+    const bg = elem.css('background-color');
+    if (typeof bg !== "string" || !bg.startsWith('rgba(')) return false;
+    const matchState = bg.match(bgColorRegexTS);
+    if (!matchState || matchState.length !== 5) return false;
+    const alpha = parseFloat(matchState[4], 10);
+    if (!(alpha >= 0 && alpha < 1)) return false;
+    return true;
+  }
+
+  function iterateLeftpads(cb) {
+    var containersTS = $("[class^='siteWrap'],[class*=' siteWrap']");
+    for (var i = 0; i < containersTS.length; i++) {
+      var containerTS = containersTS[i];
+      // Skip the body container and anything with data-skip-leftpad
+      if (
+        containerTS.id !== "bodyContainerTS" &&
+        containerTS.getAttribute('data-skip-leftpad') === null
+      ) {
+        cb(containerTS);
+      }
+    }
+  }
+
+  function iterateRightpads(cb) {
+    var containersTS = $("[class^='siteWrap'],[class*=' siteWrap']");
+    for (var i = 0; i < containersTS.length; i++) {
+      var containerTS = containersTS[i];
+      // Skip the body container and anything with data-skip-rightpad
+      if (
+        containerTS.id !== "bodyContainerTS" &&
+        containerTS.getAttribute('data-skip-rightpad') === null
+      ) {
+        cb(containerTS);
+      }
+    }
+  }
+
+  var anchor = $("#divToolbars");
+  var bodyContainerTS = $("#bodyContainerTS");
+
+  // Outer banner padding (push banner down)
+  var outerSizingTS = $("#bannerContainerTS");
+  // Inner banner padding (push banner content down) - Transparent header OR on attaching headers
+  var innerSizingTS = $("#bannerSizingTS");
+
+  var forceUnfixClassTS = "forceUnfixTS";
+
+  var fixedTopTS = $(".fixedTopTS");
+  var fixedBottomTS = $(".fixedBottomTS");
+  var fixedLeftTS = $(".fixedLeftTS");
+  var fixedRightTS = $(".fixedRightTS");
+
+  var initialTopTS;
+  var topAttachTS;
+  if (fixedTopTS && fixedTopTS.length === 1) {
+    initialTopTS = getValueTS(fixedTopTS, 'top');
+    var attachment = fixedTopTS.attr('data-attach');
+    if (attachment) topAttachTS = $("#" + attachment);
+    if (!topAttachTS || topAttachTS.length !== 1) topAttachTS = undefined;
+  }
+
+  function resizeAdjustmentTS() {
+    var editing = isPageEditingTS();
+
+    // Fixed top script
+    (function () {
+      if (!fixedTopTS || fixedTopTS.length !== 1 || initialTopTS === undefined) return;
+
+      if (editing) {
+        fixedTopTS[0].classList.add(forceUnfixClassTS);
+      } else {
+        fixedTopTS[0].classList.remove(forceUnfixClassTS);
+      }
+
+      var topPosition = fixedTopTS.css('position');
+      if (topPosition === 'fixed') {
+        if (topAttachTS) {
+          scrollAdjustmentTS();
+        } else {
+          var anchorHeight = anchor.outerHeight() - 2;
+          fixedTopTS.css('top', anchorHeight + initialTopTS);
+        }
+      } else {
+        fixedTopTS.css('top', initialTopTS);
+      }
+
+      if (topPosition === 'fixed' || topPosition === 'absolute') {
+        // Bump the banner content down
+        if (isTransparentTS(fixedTopTS)) {
+          innerSizingTS.css('padding-top', initialTopTS + fixedTopTS.outerHeight());
+          outerSizingTS.css('padding-top', '');
+
+          try {
+            window.Pages.onResizeHandlersExecute();
+          } catch (e) { }
+        } else {
+          outerSizingTS.css('padding-top', fixedTopTS.outerHeight() - 1);
+          innerSizingTS.css('padding-top', '');
+        }
+      } else {
+        innerSizingTS.css('padding-top', '');
+        outerSizingTS.css('padding-top', '');
+      }
+    })();
+
+    // Fixed bottom script
+    (function () {
+      if (!fixedBottomTS || fixedBottomTS.length === 0) return;
+
+      // If the widget has gone narrow, force unfix
+      if (editing || fixedBottomTS.outerHeight() > 200) {
+        fixedBottomTS[0].classList.add(forceUnfixClassTS);
+      } else {
+        fixedBottomTS[0].classList.remove(forceUnfixClassTS);
+      }
+
+      if (fixedBottomTS.css('position') === 'fixed') {
+        bodyContainerTS.css('padding-bottom', fixedBottomTS.outerHeight());
+      } else {
+        bodyContainerTS.css('padding-bottom', '');
+      }
+    })();
+
+    // Fixed left script
+    (function () {
+      if (!fixedLeftTS || fixedLeftTS.length === 0) return;
+
+      if (editing) {
+        fixedLeftTS[0].classList.add(forceUnfixClassTS);
+      } else {
+        fixedLeftTS[0].classList.remove(forceUnfixClassTS);
+      }
+
+      if (fixedLeftTS.css('position') === 'fixed') {
+        var anchorHeight = anchor.outerHeight() - 1;
+        fixedLeftTS.css('top', anchorHeight);
+        var leftBoundingTS = fixedLeftTS[0].getBoundingClientRect();
+        iterateLeftpads(function (containerTS) {
+          var containerBoundingTS = containerTS.getBoundingClientRect();
+          if (containerBoundingTS.left <= leftBoundingTS.right) {
+            $(containerTS).css('padding-left', leftBoundingTS.width + 16);
+          } else {
+            $(containerTS).css('padding-left', '');
+          }
+        });
+      } else {
+        fixedLeftTS.css('top', '');
+        iterateLeftpads(function (containerTS) {
+          $(containerTS).css('padding-left', '');
+        });
+      }
+    })();
+
+    // Fixed right script
+    (function () {
+      if (!fixedRightTS || fixedRightTS.length === 0) return;
+
+      if (editing) {
+        fixedRightTS[0].classList.add(forceUnfixClassTS);
+      } else {
+        fixedRightTS[0].classList.remove(forceUnfixClassTS);
+      }
+
+      if (fixedRightTS.css('position') === 'fixed') {
+        var anchorHeight = anchor.outerHeight() - 1;
+        fixedRightTS.css('top', anchorHeight);
+        var rightBoundingTS = fixedRightTS[0].getBoundingClientRect();
+        iterateRightpads(function (containerTS) {
+          var containerBoundingTS = containerTS.getBoundingClientRect();
+          if (containerBoundingTS.right >= rightBoundingTS.left) {
+            $(containerTS).css('padding-right', rightBoundingTS.width + 16);
+          }
+        });
+      } else {
+        fixedRightTS.css('top', '');
+        iterateRightpads(function (containerTS) {
+          $(containerTS).css('padding-right', '');
+        });
+      }
+    })();
+  }
+
+  function scrollAdjustmentTS() {
+    if (!fixedTopTS || fixedTopTS.length !== 1 || !topAttachTS || topAttachTS.length !== 1) return;
+    var topPosition = fixedTopTS.css('position');
+    if (topPosition === 'fixed' || topPosition === 'absolute') {
+      var anchorBounding = anchor[0].getBoundingClientRect();
+      var attachBounding = topAttachTS[0].getBoundingClientRect();
+      var scrollTop = $(window).scrollTop();
+
+      fixedTopTS.css('top', Math.max(anchorBounding.bottom - 1, attachBounding.bottom));
+    } else {
+      fixedTopTS.css('top', initialTopTS);
+    }
+  }
+
+  $(window).load(function () {
+    setTimeout(function () {
+      try {
+        resizeAdjustmentTS();
+      } catch (e) {
+        console.error(e);
+      }
+    }, 350);
+
+    $(window).scroll(function () {
+      try {
+        scrollAdjustmentTS();
+      } catch (e) {
+        console.error(e);
+      }
+    });
+
+    var adjustTimeoutTS;
+    $(window).resize(function () {
+      clearTimeout(adjustTimeoutTS);
+      adjustTimeoutTS = setTimeout(function () {
+        try {
+          resizeAdjustmentTS();
+        } catch (e) {
+          console.error(e);
+        }
+      }, 350);
+    });
+
+    $.when(window.Pages.angularToolbarComplete).done(function () {
+      try {
+        resizeAdjustmentTS();
+      } catch (e) {
+        console.error(e);
+      }
+    });
+  });
+</script>
+<!-- End Fixed Nav Adjustment -->
+
+<script>
+$(function() {
+    var header = $("#headerContainerTS");
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= (window.innerHeight)*0.25) {
+            header.addClass("topFixTS");
+        } else if (scroll <= 50) {
+header.removeClass("topFixTS");
+    }});
+});
+
+</script>
+
+<script>
+    //Escape
+    $('a.escape').click(function () {
+        var weatherWindow = window.open('https://weather.com/');
+        window.location = 'https://www.google.com/';
+    });
+</script>
+
+
+<!----------Google Translate (Mobile Friendly)--------->
+
+<style>
+  #google-translate-container {
+    float: right;
+    padding: 3px 5px 0px 0px;
+    position: fixed; 
+    bottom: 8px; 
+    left: 16px; 
+    z-index: 5;
+  }
+
+  .goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+    font-family: arial;
+    font-size: 10pt;
+    background-image: url("https://www.gstatic.com/images/branding/product/2x/translate_24dp.png");
+    background-position: 5px 5px;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    text-indent: 16px;
+    background-color: #fff;
+    color: #000 !important;
+  }
+
+  .goog-logo-link {
+    display: none !important;
+  }
+
+  .goog-te-gadget {
+    color: transparent !important;
+  }
+
+  .goog-te-gadget .goog-te-combo {
+    margin: 2px 0 !important;
+    border-radius: 15px !important;
+    }
+
+  .goog-te-combo{
+    border: 1px solid !important;
+    border-color: #bcc9d7 #96a3b1 #96a3b1 #bcc9d7 !important;
+    border-radius: 50px !important;
+    height:31px !important;
+    padding: 0 1px 0 .25rem !important;
+                width: 156px;
+  }
+
+  #launcher-wrapper {
+    bottom: 50px !important;
+  }
+  
+  .skiptranslate > span {
+position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;
+}
+
+</style>
+
+<div id="google-translate-container">
+  <div id="google_translate_element">
+  </div>
+</div>
+
+<script>
+
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element");
+    // begin accessibility compliance
+    $('img.goog-te-gadget-icon').attr('alt','Google Translate');
+    $('div#goog-gt-tt div.logo img').attr('alt','translate');
+    $('div#goog-gt-tt .original-text').css('text-align','left');
+    $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000');
+    $('.goog-te-combo').attr('aria-label','google translate languages');
+    $('svg.goog-te-spinner').attr('title','Google Translate Spinner');
+    $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000');
+  }
+
+  $(function() {
+    $.getScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
+  });
+
+</script>
+
+<!--------------End Google Translate----------------->
+
+<script type="text/javascript">!function(){var b=function(){window.__AudioEyeSiteHash = "ddc11e067d56c95714d42310f3d94dba"; var a=document.createElement("script");a.src="https://wsmcdn.audioeye.com/aem.js";a.type="text/javascript";a.setAttribute("async","");document.getElementsByTagName("body")[0].appendChild(a)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",b):window.attachEvent&&window.attachEvent("onload",b):b()}();</script>
+
+<style>
+/* This CSS is to move the Audio Eye button up just a smidge so it doesn't cover the ESC button on the VWA DHP */
+
+#ae_launcher.ae-cta-position-preset-right-lower {
+bottom: 52px;
+}
+</style>
+
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-P4QYGK98PW"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-P4QYGK98PW'); </script><!-- AudioEye --> <script type="text/javascript">!function(){var b=function(){window.__AudioEyeSiteHash="ddc11e067d56c95714d42310f3d94dba";var a=document.createElement("script");a.src="https://wsmcdn.audioeye.com/aem.js";a.type="text/javascript";a.setAttribute("async","");document.getElementsByTagName("body")[0].appendChild(a)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",b):window.attachEvent&&window.attachEvent("onload",b):b()}();</script> <!-- End AudioEye -->
+
+
+	<script type="text/javascript">
+		$(function () {
+			document.cookie = "responsiveGhost=0; path=/";
+		});
+		onOrLive($(window), function () {
+			$('body').addClass('doneLoading').removeClass('hideContent');
+
+			if ($('#404Content').length > 0)
+				$('div#bodyWrapper').css('padding', '0px');
+		}, 'load');
+	</script>
+
+	<noscript>
+		<style>
+			body.hideContent {
+				opacity: 1 !important;
+			}
+		</style>
+	</noscript>
+
+		
+<div style="display: none;">
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+
+		<symbol id="iconArrow--left" viewbox="0 0 25 25">
+			<title>Arrow Left</title>
+			<polygon style="fill:currentcolor" points="18.044,25 19.498,23.545 8.409,12.454 19.408,1.455 17.954,0 5.502,12.452"></polygon>
+		</symbol>
+
+		<symbol id="iconArrow--right" viewbox="0 0 25 25">
+			<title>Arrow Right</title>
+			<polygon style="fill:currentcolor" points="6.957,0 5.502,1.455 16.591,12.546 5.592,23.545 7.047,25 19.498,12.548"></polygon>
+		</symbol>
+
+	</svg>
+</div>
+	<script type="text/javascript">loadCSS('//fonts.googleapis.com/css?family=Antonio:500,600,700,regular|Maven+Pro:500,600,700,800,900,regular|Montserrat:200,200italic,500,500italic,600,600italic,700,700italic,800,800italic,900,italic,regular|Open+Sans:300,300italic,500,600,600italic,700,700italic,800,800italic,italic,regular|');</script>
+	
+
+	<div class="hidden activeWidgetSkinComponentsOnPageJson">[]</div>
+		<div style="display: none;">
+			<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+				<symbol id="iconSlideshowArrowLeft" viewBox="0 0 22.68 40">
+					<title>Slideshow Left Arrow</title>
+					<g>
+						<path style="fill:currentcolor;" d="M20,40a2.67,2.67,0,0,1-1.9-.79L.79,21.9a2.68,2.68,0,0,1,0-3.79L18.1.79a2.68,2.68,0,1,1,3.79,3.79L6.47,20,21.89,35.42A2.68,2.68,0,0,1,20,40Z"></path>
+					</g>
+				</symbol>
+				<symbol id="iconSlideshowArrowRight" viewBox="0 0 22.68 40">
+					<title>Slideshow Right Arrow</title>
+					<g>
+						<path style="fill:currentcolor;" d="M2.68,0a2.67,2.67,0,0,1,1.9.79L21.89,18.1a2.68,2.68,0,0,1,0,3.79L4.58,39.21A2.68,2.68,0,0,1,.79,35.42L16.21,20,.79,4.58A2.68,2.68,0,0,1,2.68,0Z"></path>
+					</g>
+				</symbol>
+			</svg>
+		</div>
+	
+	
+
+			<div id="root-picker-outlet"></div>
+</body>
+</html>

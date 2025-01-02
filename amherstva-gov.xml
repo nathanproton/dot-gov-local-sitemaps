@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://amherstva.gov/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
+<!-- generated-on='September 1, 2024 1:55 am' -->
+<sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
+		<loc>https://amherstva.gov/sitemap-misc.xml</loc>
+		<lastmod>2024-09-01T01:20:40+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://amherstva.gov/page-sitemap.xml</loc>
+		<lastmod>2024-08-30T18:00:02+00:00</lastmod>
+	</sitemap>
+</sitemapindex><!-- Request ID: 1aaa78a5d781806ab983a99fa45c3eb7; Queries for sitemap: 5; Total queries: 75; Seconds: 0.02; Memory for sitemap: 1KB; Total memory: 26MB -->

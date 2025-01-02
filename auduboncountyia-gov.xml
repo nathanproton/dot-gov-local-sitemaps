@@ -1,0 +1,372 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><title>
+	Audubon County
+</title><meta name="Description" /><link rel="apple-touch-icon" href="/images/apple-touch-icon-iphone.png" /><link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-ipad.png" /><link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-iphone4.png" /><link href="styles.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet" type="text/css" />
+    
+
+
+    <!--[if IE]>
+      <script src= "https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="/js/selectors.js"></script>
+
+    
+    <script>
+
+        var _gaq = _gaq || [];
+
+        _gaq.push(['_setAccount', 'UA-27975511-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    
+  <link href="css/fullcalendar.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+        function do_search() {
+            document.location = "/search-results/default.aspx?form=cse-search-box&t13n_langs=en&cx=" + document.getElementById('cx').value + '&cof=' + document.getElementById('cof').value + '&ie=' + document.getElementById('ie').value + '&sa=' + document.getElementById('sa').value + '&q=' + document.getElementById("q").value;
+            return false;
+        }
+    </script>
+<script type="text/javascript" src="/rotator/jquery.flexslider-min.js"></script></head>
+<body >
+    <form method="post" action="./" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjI0MTg4MzEPZBYCZg9kFgRmD2QWBAILDxYCHgdWaXNpYmxlaGQCDA8WBB4EVGV4dAWYBA0KICAgIDxzY3JpcHQ+DQoNCiAgICAgICAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KDQogICAgICAgIF9nYXEucHVzaChbJ19zZXRBY2NvdW50JywgJ1VBLTI3OTc1NTExLTEnXSk7DQogICAgICAgIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogICAgICAgIChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgICAgICAgICBnYS5zcmMgPSAoJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPyAnaHR0cHM6Ly9zc2wnIDogJ2h0dHA6Ly93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnOw0KICAgICAgICAgICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2EsIHMpOw0KICAgICAgICB9KSgpOw0KDQogICAgPC9zY3JpcHQ+DQogICAgHwBnZAIBD2QWAgIED2QWCgIBD2QWAmYPFgIfAGcWAmYPFgIeBXN0eWxlBRBtYXJnaW4tYm90dG9tOjA7FgICAQ8WBB4Dc3JjBSovd2VicmVzL0ltYWdlL0hvbWVwYWdlL2hvbWUtcGFnZS1pbWFnZS5qcGceA2FsdAUGVGlwdG9uZAIFD2QWAmYPFgIfAGcWAmYPZBYCAgEPFgIeC18hSXRlbUNvdW50AgoWFGYPZBYCAgEPFgIfAQU8PGltZyBjbGFzcz0ic2lkZV9iYW5uZXIiIHNyYz0iL3dlYnJlcy9JbWFnZS9lbGslMjBuaC5qcGciIC8+ZAIBD2QWAgIBDxYCHwEFVjxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvTW90dCUyMFNob3QlMjBLaW1iYWxsdG9uUm9jay00MTQzLS5qcGciIC8+ZAICD2QWAgIBDxYCHwEFsQE8aW1nIGNsYXNzPSJzaWRlX2Jhbm5lciIgc3JjPSIvd2VicmVzL0ltYWdlL01vdHQlMjBTaG90JTIwQXVkdWJvbkNvdW50eUJpa2VUcmFpbC03MDE4LmpwZyIgLz48ZGl2IGNsYXNzPSJyaWJib24iPm92ZXIgMjEgbWlsZXMgZm9yIGN5Y2xpc3QsIHdhbGtlcnMsIGFuZCBmYW1pbGllcyB0byBlbmpveSE8L2Rpdj5kAgMPZBYCAgEPFgIfAQV3PGltZyBjbGFzcz0ic2lkZV9iYW5uZXIiIHNyYz0iL3dlYnJlcy9JbWFnZS9BQyUyMHByaW50LmpwZyIgLz48ZGl2IGNsYXNzPSJyaWJib24iPlNjb3R0IFJvc3MgQXVkdWJvbiBDb3VudHkgUHJpbnQ8L2Rpdj5kAgQPZBYCAgEPFgIfAQWVATxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvbW90dCUyMHNob3QlMjBBdWR1Ym9uQ291bnR5RXhpcmFMaXR0bGVmaWVsZFJlY3JlYXRpb25BcmVhLTYwMjMtLkpQRyIgLz48ZGl2IGNsYXNzPSJyaWJib24iPktheWFraW5nPC9kaXY+ZAIFD2QWAgIBDxYCHwEFSTxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvbXVzaWMlMjBpbiUyMHBhcmslMjAyLmpwZyIgLz5kAgYPZBYCAgEPFgIfAQWaATxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvTW90dCUyMFNob3QlMjBBdWR1Ym9uQ291bnR5QXVkdWJvblBhcmstNDI1NS0uanBnIiAvPjxkaXYgY2xhc3M9InJpYmJvbiI+QmlyZCBtb3NhaWNzLCBKb2huIEphbWVzIEF1ZHVib248L2Rpdj5kAgcPZBYCAgEPFgIfAQVIPGltZyBjbGFzcz0ic2lkZV9iYW5uZXIiIHNyYz0iL3dlYnJlcy9JbWFnZS9Db3B5JTIwb2YlMjBJTUdfNTMwNy5qcGciIC8+ZAIID2QWAgIBDxYCHwEFvQE8YSBocmVmPSIvY2l0aWVzL2NpdHktb2Yta2ltYmFsbHRvbi9kZWZhdWx0LmFzcHgiPjxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvQXR0cmFjdGlvbnMvd2luZXMtdmluZXMuanBnIiAvPjxkaXYgY2xhc3M9InJpYmJvbiI+RGFuaXNoIENvdW50cnlzaWRlIFZpbmVzIGFuZCBXaW5lczwvZGl2PjwvYT5kAgkPZBYCAgEPFgIfAQWmATxhIGhyZWY9InRvdXJpc20vcGFya3MuYXNweCNhbGJlcnQiPjxpbWcgY2xhc3M9InNpZGVfYmFubmVyIiBzcmM9Ii93ZWJyZXMvSW1hZ2UvSG9tZXBhZ2UvYWxiZXJ0LmpwZyIgLz48ZGl2IGNsYXNzPSJyaWJib24iPkFsYmVydCAtIFRoZSBXb3JsZCdzIExhcmdlc3QgQnVsbDwvZGl2PjwvYT5kAgcPFgIfAWVkAgkPFgIfAQWmBjxoND5XZWxjb21lIHRvIEF1ZHVib24gQ291bnR5PC9oND48cD48L3A+PHA+QXVkdWJvbiBDb3VudHkgaGFzIGEgbG9uZyBoaXN0b3J5IHdpdGggYWdyaWN1bHR1cmUmbmJzcDthbmQgc2Vuc2Ugb2YgY29tbXVuaXR5LiBBdWR1Ym9uIENvdW50eSBpcyBsb2NhdGVkIGluIHNvdXRoIHdlc3QgSW93YSB3aXRoIGEgcG9wdWxhdGlvbiBvZiBhcHByb3hpbWF0ZWx5IDYsMTE5IHJlc2lkZW50cy4gTmFtZWQgZm9yIHRoZSBuYXR1cmFsaXN0IGFuZCBhcnRpc3QgSm9obiBKYW1lcyBBdWR1Ym9uLCBBdWR1Ym9uIENvdW50eSBjb25zaXN0cyBvZiBmaXZlIGluY29ycG9yYXRlZCB0b3duczsgQXVkdWJvbiwgQnJheXRvbiwgRXhpcmEsIEdyYXkgYW5kIEtpbWJhbGx0b24uIEF1ZHVib24gQ291bnR5IHdlbGNvbWVzIHlvdSB0byBjb21lIGV4cGxvcmUhPC9wPjxwPkF1ZHVib24gQ291bnR5IG9mZmVycyB0cmVtZW5kb3VzJm5ic3A7b3Bwb3J0dW5pdGllcyBmb3IgbmV3IGJ1c2luZXNzIGFuZCBidXNpbmVzcyBleHBhbnNpb24gdGhyb3VnaCBpdHMgYXZhaWxhYmlsaXR5IG9mIHNwYWNlLCBzdHJvbmcgd29ya2ZvcmNlIGFuZCBzdXBwb3J0IHNlcnZpY2VzPC9wPjxoMz48c3Ryb25nPlRoZSBDb3VudHkgT2ZmaWNlcyAoZXhjZXB0IFNoZXJpZmYpIHdpbGwgYmUgY2xvc2VkIE1vbmRheSwgU2VwdGVtYmVyIDIsIDIwMjQgaW4gb2JzZXJ2YW5jZSBvZiB0aGUgTGFib3IgRGF5IEhvbGlkYXkuJm5ic3A7Jm5ic3A7PC9zdHJvbmc+PC9oMz48cD48L3A+PGg0IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij48L2g0PjxwPjwvcD48cD48L3A+ZAILD2QWAmYPFgIfBQIIFhACAQ9kFgJmDxUHQy9ldmVudHMvYXVkdWJvbi1jb3VudHkvbmF0aGFuaWVsLWhhbWxpbi1tdXNldW0tdG91cnMtRDA4MzEyMDI0LmFzcHgKY2FsZW5kYXJfMQNBdWcCMzEdTmF0aGFuaWVsIEhhbWxpbiBNdXNldW0gVG91cnMOQXVkdWJvbiBDb3VudHkSMTI6MDAgUE0gLSA0OjAwIFBNZAICD2QWAmYPFQc0L2V2ZW50cy9hdWR1Ym9uL3Jvc2UtYXVndXN0LW1vdmllcy0yNC1EMDgzMTIwMjQuYXNweApjYWxlbmRhcl8zA0F1ZwIzMRVSb3NlIEF1Z3VzdCBNb3ZpZXMgMjQHQXVkdWJvbhE3OjAwIFBNIC0gOTowMCBQTWQCAw9kFgJmDxUHNC9ldmVudHMvYXVkdWJvbi9yb3NlLWF1Z3VzdC1tb3ZpZXMtMjQtRDA4MzEyMDI0LmFzcHgKY2FsZW5kYXJfMwNBdWcCMzEVUm9zZSBBdWd1c3QgTW92aWVzIDI0B0F1ZHVib24RNzowMCBQTSAtIDk6MDAgUE1kAgQPZBYCZg8VBzQvZXZlbnRzL2F1ZHVib24vcm9zZS1hdWd1c3QtbW92aWVzLTI0LUQwOTAxMjAyNC5hc3B4CmNhbGVuZGFyXzMDU2VwATEVUm9zZSBBdWd1c3QgTW92aWVzIDI0B0F1ZHVib24RNzowMCBQTSAtIDk6MDAgUE1kAgUPZBYCZg8VBzQvZXZlbnRzL2F1ZHVib24vcm9zZS1hdWd1c3QtbW92aWVzLTI0LUQwOTAxMjAyNC5hc3B4CmNhbGVuZGFyXzMDU2VwATEVUm9zZSBBdWd1c3QgTW92aWVzIDI0B0F1ZHVib24RNzowMCBQTSAtIDk6MDAgUE1kAgYPZBYCZg8VBzIvZXZlbnRzL2F1ZHVib24vZmFsbC1zdG9yeXRpbWUtMjAyNC1EMDkwNDIwMjQuYXNweApjYWxlbmRhcl8zA1NlcAE0E0ZhbGwgU3Rvcnl0aW1lIDIwMjQHQXVkdWJvbhMxMDozMCBBTSAtIDExOjMwIEFNZAIHD2QWAmYPFQcuL2V2ZW50cy9hdWR1Ym9uL2phenplcmNpc2UtMjAyNC1EMDkwNDIwMjQuYXNweApjYWxlbmRhcl8zA1NlcAE0D0phenplcmNpc2UgMjAyNAdBdWR1Ym9uETU6MzAgUE0gLSA2OjMwIFBNZAIID2QWAmYPFQc0L2V2ZW50cy9hdWR1Ym9uL3BpY2stdXAtYmFza2V0YmFsbC0yNC1EMDkwNDIwMjQuYXNweApjYWxlbmRhcl8zA1NlcAE0FlBpY2sgdXAgQmFza2V0YmFsbCAnMjQHQXVkdWJvbhE2OjMwIFBNIC0gODozMCBQTWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFCGN0bDAwJHNhaVIZbMCFbEuyWsHM4yuqY3FEd1yrLAbeAf/XI/dESxs=" />
+
+
+<script src="/ScriptResource.axd?d=FA-XS_DaHBYu1qbc9HWa4PomSYpeHf0_wafppqsjNxar0QPUSRfUPHQPobfXgFB9IEZL8WLp-YRLpBq3K54RKy7Cm-KcGdGIQkAviRaF3Mw78MVtAGmNOSkk6uFNtj8drh3axz9X3_b0_DmunJvRfdz0RMVBOYduXuDCp71zv7w1&amp;t=2e7d0aca" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPCTUKiC+INdyWLyOm81W9tyPXPcJrHN04N0h4PIqxwUbrWU2lBSlp+c+/7SgEd5O+ff6wSsipLq213tEaGr9aemWKFfZhAXVfURzBmm3Gisg==" />
+        
+        <input type="hidden" name="ctl00$ScriptManager1" id="ctl00_ScriptManager1" />
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl00_ScriptManager1", "ctl00$ScriptManager1");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+        <div class="red_header">
+            <div class="wrapper">
+                <div class="site_header">
+                    <a href="/" id="ctl00_aLogo" class="logo">
+                        <img src="images/logo-aubudon.png" id="ctl00_imgLogo" alt="Aubudon, Iowa" /></a>
+                    <nav class="nav_secondary clearfix">
+                        <ul>
+                            <li><span class="display_none_home"><a href="/">Home</a></span></li>
+							<li class="top_calendar_link"><a href="/economic-development/directory.aspx">Business Directory</a></li>
+                            <li class="top_calendar_link"><a href="/events/">Calendar</a></li>
+							<li class="top_calendar_link"><a href="/economic-development/news-report/">What's New</a></li>
+							<li class="top_calendar_link"><a href="/economic-development/contact-aced.aspx">Contact ACED</a></li>
+                            <li>
+                                <div id="ctl00_pnlButton">
+	
+                                    <div id="searchwrapper">
+                                        <input name="ctl00$cx" type="hidden" id="cx" value="016595516855609895267:p-5ryitw5hc" />
+                                        <input type="hidden" id="cof" name="cof" value="FORID:10" />
+                                        <input type="hidden" id="ie" name="ie" value="UTF-8" />
+                                        <input type="text" name="q" id="q" class="searchbox" value="" />
+                                        <input type="image" name="ctl00$sa" id="sa" alt="GO" class="searchbox_submit" name="sa" src="/images/search_icon.png" onclick="return do_search();" />
+                                    </div>
+                                
+</div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <!--/header-->
+            </div>
+            <!--/wrapper-->
+
+            <div class="white_header_bg">
+                <div class="wrapper">
+                    <nav class="nav_primary clearfix">
+                        <span class="btn nav_primary_btn"><span></span><span></span><span></span></span>
+                        <ul class="parent">
+						   
+						    <li><a href="/cities/default.aspx">Cities</a></li>
+							 <li><a href="/county-information/default.aspx">County Information</a></li>
+							   <li><a href="/tourism/default.aspx">Explore Audubon County</a></li>
+							  <li><a href="/economic-development/default.aspx">Economic Development</a></li>
+							   <li class="calendar_dropdown"><a href="/events/default.aspx">Calendar</a></li>
+							
+							<li class="menu-hide"><a href="/economic-development/directory.aspx">Business Directory</a></li>
+                            <li class="menu-hide"><a href="/events/">Calendar</a></li>
+							<li class="menu-hide"><a href="/economic-development/contact-aced.aspx">Contact ACED</a></li>
+                        
+                        </ul>
+                    </nav>
+                </div>
+                <!--/wrapper-->
+            </div>
+            <!--/white_header_bg-->
+
+            
+  <div class="gray_bg">
+    <div class="wrapper_rotator">
+      <div class="home_rotator">
+        <div class="home_rotator_content">
+          <h1>Where Dreams</h1>
+          <br/>
+          <h2>Take Flight</h2>
+        </div>
+        <div id="ctl00_cph_main_content_uclHeader_divPageBanner" class="page_banner" style="margin-bottom:0;">
+        <img src="/webres/Image/Homepage/home-page-image.jpg" id="ctl00_cph_main_content_uclHeader_imgOneImage" alt="Tipton" />
+    </div>
+
+
+
+      </div>
+      <!--/home rotator-->
+     
+    </div>
+    <!--/wrapper_rotator--> 
+  </div>
+  <!--/gray_bg-->  
+  <div class="white_bg">
+    <div class="main_wrapper"> 
+  
+       
+
+      <!--/home calendar--> 
+        
+        
+      <div class="group structure clearfix">
+        <section class="group_5of8 first">
+          <div class="inset">
+            
+
+    <script>
+        // Can also be used with $(document).ready()
+        $(document).ready(function () {
+            $('#ctl00_cph_main_content_spuBanner_dvFlexslider').flexslider({
+            animation: "slide"
+        });
+    });
+    </script>
+
+    <div id="ctl00_cph_main_content_spuBanner_dvFlexslider" class="flexslider">
+        <ul class="slides">
+            
+                    <li>
+                        <img class="side_banner" src="/webres/Image/elk%20nh.jpg" />
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/Mott%20Shot%20KimballtonRock-4143-.jpg" />
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/Mott%20Shot%20AudubonCountyBikeTrail-7018.jpg" /><div class="ribbon">over 21 miles for cyclist, walkers, and families to enjoy!</div>
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/AC%20print.jpg" /><div class="ribbon">Scott Ross Audubon County Print</div>
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/mott%20shot%20AudubonCountyExiraLittlefieldRecreationArea-6023-.JPG" /><div class="ribbon">Kayaking</div>
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/music%20in%20park%202.jpg" />
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/Mott%20Shot%20AudubonCountyAudubonPark-4255-.jpg" /><div class="ribbon">Bird mosaics, John James Audubon</div>
+                    </li>
+                
+                    <li>
+                        <img class="side_banner" src="/webres/Image/Copy%20of%20IMG_5307.jpg" />
+                    </li>
+                
+                    <li>
+                        <a href="/cities/city-of-kimballton/default.aspx"><img class="side_banner" src="/webres/Image/Attractions/wines-vines.jpg" /><div class="ribbon">Danish Countryside Vines and Wines</div></a>
+                    </li>
+                
+                    <li>
+                        <a href="tourism/parks.aspx#albert"><img class="side_banner" src="/webres/Image/Homepage/albert.jpg" /><div class="ribbon">Albert - The World's Largest Bull</div></a>
+                    </li>
+                
+        </ul>
+    </div>
+
+
+
+            
+              <!--  <div class="emergency-management"> <a href="http://entry.inspironlogistics.com/audubon_ia/wens.cfm" target="_blank"><img src="/images/emergency-management.jpg" alt="Emergency Management" /></a>
+            </div>
+         <div class="welcome_statement">
+                            <h4>Welcome to Tipton</h4>
+                            <p>
+                                </p>
+                        </div>--> 
+        <br><br>
+						
+						 <div class="group_100 first">
+                        <div>
+                            <h4>Welcome to Audubon County</h4><p></p><p>Audubon County has a long history with agriculture&nbsp;and sense of community. Audubon County is located in south west Iowa with a population of approximately 6,119 residents. Named for the naturalist and artist John James Audubon, Audubon County consists of five incorporated towns; Audubon, Brayton, Exira, Gray and Kimballton. Audubon County welcomes you to come explore!</p><p>Audubon County offers tremendous&nbsp;opportunities for new business and business expansion through its availability of space, strong workforce and support services</p><h3><strong>The County Offices (except Sheriff) will be closed Monday, September 2, 2024 in observance of the Labor Day Holiday.&nbsp;&nbsp;</strong></h3><p></p><h4 style="text-align: center;"></h4><p></p><p></p>
+                        </div>
+                    </div>
+						
+						
+                    </div>
+                </section>
+        <section class="group_3of8 last clearfix">
+            
+			  <div class="inset">
+			 
+        <h3>UPCOMING EVENTS</h3>
+        <ul class="events_feed">
+    
+        <li><a href="/events/audubon-county/nathaniel-hamlin-museum-tours-D08312024.aspx">
+            <div class="latest_date calendar_1">
+                <span>Aug</span>31</span>
+            </div>
+            <div class="event">
+               <strong> Nathaniel Hamlin Museum Tours</strong><br>
+               <small> Audubon County</small><br />
+                <span class="event_time">12:00 PM - 4:00 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/rose-august-movies-24-D08312024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Aug</span>31</span>
+            </div>
+            <div class="event">
+               <strong> Rose August Movies 24</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">7:00 PM - 9:00 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/rose-august-movies-24-D08312024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Aug</span>31</span>
+            </div>
+            <div class="event">
+               <strong> Rose August Movies 24</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">7:00 PM - 9:00 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/rose-august-movies-24-D09012024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Sep</span>1</span>
+            </div>
+            <div class="event">
+               <strong> Rose August Movies 24</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">7:00 PM - 9:00 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/rose-august-movies-24-D09012024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Sep</span>1</span>
+            </div>
+            <div class="event">
+               <strong> Rose August Movies 24</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">7:00 PM - 9:00 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/fall-storytime-2024-D09042024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Sep</span>4</span>
+            </div>
+            <div class="event">
+               <strong> Fall Storytime 2024</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">10:30 AM - 11:30 AM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/jazzercise-2024-D09042024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Sep</span>4</span>
+            </div>
+            <div class="event">
+               <strong> Jazzercise 2024</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">5:30 PM - 6:30 PM</span>
+            </div>
+        </a></li>
+    
+        <li><a href="/events/audubon/pick-up-basketball-24-D09042024.aspx">
+            <div class="latest_date calendar_3">
+                <span>Sep</span>4</span>
+            </div>
+            <div class="event">
+               <strong> Pick up Basketball '24</strong><br>
+               <small> Audubon</small><br />
+                <span class="event_time">6:30 PM - 8:30 PM</span>
+            </div>
+        </a></li>
+    
+        </ul>
+        <ul class="view_calendar">
+            <li><a href="/events/"><small>></small> View Calendar</a>
+            </li>
+        </ul>
+    
+
+
+
+
+
+
+
+
+
+
+    
+			     </div>
+        </section>
+        
+        
+      </div>
+    </div>
+    <!--/wrapper--> 
+  </div>
+  <!--/white_bg--> 
+
+           <div class="site_footer_wrapper">	  <div class="site_footer clearfix"> 
+		  
+			 <ul class="site_footer_nav">  	
+			 					<li><a href="/">Home</a></li>	
+					<li><a href="/economic-development/default.aspx">Economic Development</a></li>
+					<li><a href="/tourism/default.aspx">Explore Audubon County</a></li>
+					<li><a href="/county-information/default.aspx">County Information</a></li>				
+					<li><a href="/cities/default.aspx">Cities</a></li>
+					<li><a href="/economic-development/directory.aspx">Business Directory</a></li>
+					<li><a href="/events/">Calendar</a></li>	
+				    <li><a href="/economic-development/news-report/">What's New</a></li>
+				    <li><a href="http://entry.inspironlogistics.com/audubon_ia/wens.cfm" target="_blank">Emergency Management</a></li>
+					<li><a href="/economic-development/contact-aced.aspx">Contact ACED</a></li>			
+                </ul>
+                <div>
+                   <img src="/images/footer-logo.png">
+                </div>
+                <div class="copyright">
+                    <div class="inset">Copyright 2024 Audubon County</div>
+                </div>
+            </div></div>
+            <!--/footer-->
+        </div>
+        
+    </form>
+</body>
+</html>

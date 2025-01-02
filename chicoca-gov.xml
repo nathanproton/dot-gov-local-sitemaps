@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-FK2L77RB64"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-FK2L77RB64');
+        </script>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="format-detection" content="telephone=no">
+
+        <base href="https://chico.ca.us/" />
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name='catapult-flags' content='hidden-page;' />
+        <title>City of Chico - Site Search</title>
+        <!-- font awesome -->
+<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+<!-- jquery load -->
+<script type='text/javascript' language='javascript'>if (!window.jQuery) { document.write('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" integrity="sha256-rsPUGdUPBXgalvIj4YKJrrUlmLXbOb6Cp7cdxn1qeUc=" crossorigin="anonymous"><\/script>'); }</script>
+<script type='text/javascript' language='javascript'>try { $ = jQuery; } catch(ex) { }</script>
+<!-- fancybox load -->
+<script type='text/javascript' language='javascript'>if(!window.fancybox) { document.write('<script src="scripts/ccms-fancybox/jquery.fancybox.pack.js?date=2019.02.20.11.43"><\/script>'); }</script>
+<link href='scripts/ccms-fancybox/jquery.fancybox.css?date=2021.04.07.09.00' rel='stylesheet' type='text/css' />
+<!-- slick load -->
+<script type='text/javascript' language='javascript'>if(!window.slick) { document.write('<script src="scripts/ccms-slick/slick.js?date=20230928.1430"><\/script>'); }</script>
+<link href='scripts/ccms-slick/slick.css?date=2019.02.20.11.43' rel='stylesheet' type='text/css' />
+<link href='scripts/ccms-slick/slick-theme.css?date=2019.02.20.11.43' rel='stylesheet' type='text/css' />
+<!-- misc scripts -->
+<script language='javascript' src='scripts/freedom_web.js?v=2.24.40'></script>
+<link href='scripts/ccms-scripts/ccms-teleriktables.css?2019.02.20.11.43' rel='stylesheet' type='text/css' />
+<link href='scripts/ccms-scripts/ccms-editor-div.css?date=2020.06.11.14.30' rel='stylesheet' type='text/css' />
+<script language='javascript' src='scripts/ccms-scripts/ccms-catapultcms.js?2016.04.07.16.15'></script>
+<!-- fancybox loading for target='_ccmspopup' -->
+<script language='javascript' src='scripts/ccms-scripts/ccms-linkpopup.js?date=2020-05-04-15-55'></script>
+<!-- HTMLComponent scripts -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script crossorigin type="application/javascript" src="/scripts/react-column-component.js"></script>
+<!-- /HTMLComponent scripts -->
+
+
+        <!-- FAVICON -->
+        <link rel="shortcut icon" href="https://schoolmanager.s3.amazonaws.com/uploads/pictures/f1dcb5fd871042928b97d843492da36a/favicon.png">
+        <link rel="apple-touch-icon" href="https://schoolmanager.s3.amazonaws.com/uploads/pictures/f1dcb5fd871042928b97d843492da36a/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://schoolmanager.s3.amazonaws.com/uploads/pictures/f1dcb5fd871042928b97d843492da36a/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://schoolmanager.s3.amazonaws.com/uploads/pictures/f1dcb5fd871042928b97d843492da36a/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="167x167" href="https://schoolmanager.s3.amazonaws.com/uploads/pictures/f1dcb5fd871042928b97d843492da36a/touch-icon-ipad-retina.png">
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" type="text/css" href="scripts/bootstrap.min.css">
+
+        
+
+        <!-- Main Styles -->
+        <link rel="stylesheet" type="text/css" href="scripts/layout-sub-column.css">
+
+        <!-- Fixes Font Awesome Icons In The Editor -->
+        <link rel="stylesheet" href="scripts/font-awesome-6-css.css" media="all">
+
+        <!--Last Chance Overrides -->
+        <link rel="stylesheet" type="text/css" href="scripts/modify.css">
+
+    </head>
+    <body>
+        <div id="skiptocontent"><a href="#">skip to main content</a></div>
+        <div id="top"></div>
+
+        <header>
+                <div class="top-bar-header home-page">
+  <div class="top-bar">
+    <div class="container-fluid h-100">
+      <div class="top-bar-grid pb-3">
+        <div class="top-bar-logo-container d-none d-lg-block">
+          <a class="logo-link" href="#">
+            <img src="https://schoolmanager.s3.amazonaws.com/uploads/pictures/523f0e01e9d648268edeba42b1d92e24.png" class="main-logo img-fluid" alt="City of Chico">
+          </a>
+        </div>
+        <div class="top-bar-title-wrapper d-none d-lg-block">
+          <div class="top-bar-title">
+            <h1>
+              
+                City of Chico
+              
+            </h1>
+            <span class="top-bar-sub-title">
+              
+                
+              
+            </span>
+          </div>
+        </div>
+
+        <div class="all-top-bar-links top-bar-grid-loading">
+          <!-- Topbar Links -->
+          <div class="top-bar-link">
+                <div class="no-dropdown">
+                  <img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fhome.svg&caassetcolor=white" alt="" style="height: 16px;" />
+                  <a href="https://biz.catapultcms.com/utilities/SitePageForward.aspx?siteid=220&guid=a2bef405-d0bd-4e3b-b9c3-52a7188d9a31" target="_self">
+                    Home
+                  </a>
+                </div>
+              </div>
+
+          <!-- Schools dropdown Without Search -->
+          <div class="schools-dropdown-no-search top-bar-link">
+            <div class="dropdown schools-dropdown">
+              <i class="fa fa-graduation-cap fa-lg" aria-hidden="true"></i>
+              <a class="dropdown-toggle" href="#" role="button" id="schoolsNoSearchDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Schools
+              </a>
+              <div class="dropdown-menu dropdown-wrap" aria-labelledby="schoolsNoSearchDropdownMenuLink">
+                <a class="dropdown-item Other" href="https://chico.ca.us/" target="_blank">
+                      City of Chico
+                    </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Schools Dropdown With Search -->
+          <div class="schools-dropdown with-search top-bar-link d-none">
+            <div class="dropdown">
+              <i class="fa fa-school" aria-hidden="true"></i>
+              <a class="dropdown-toggle" href="#" role="button" id="schoolsDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="0,60">
+                Our Schools
+              </a>
+
+              <div class="dropdown-menu" aria-labelledby="schoolsDropdownMenuLink">
+                <div class="container">
+                  <div class="row row-cols-1 row-cols-lg-2">
+                    <div class="col">
+                      <form>
+                        <div class="mb-3">
+                          <div class="row">
+                            <div class="col find-a-school-text">
+                              <label for="findASchoolInput" class="form-label find-a-school-label">
+                                <span class="find-a-school">Find A School</span>
+                              </label>
+                              or
+                              <a href="Our-Schools" class="browse-schools-link"> Browse All
+                                Schools</a>
+                              <i class="fa-thin fa-arrow-right-long"></i>
+                            </div>
+                          </div>
+                          <div class="row g-0 find-a-school-input-row">
+                            <div class="col-9">
+                              <i class="fa-thin fa-magnifying-glass fa-lg find-a-school-icon"></i>
+                              <input type="text" class="form-control" id="findASchoolInput" placeholder="Search by School Name">
+                            </div>
+                            <div class="col-3">
+                              <button type="button" class="btn btn-primary find-a-school-submit" id="findASchoolSubmitButton" onclick="FindASchool()">Submit</button>
+                            </div>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                    <div class="col our-schools-quicklinks-column">
+                      <span class="our-schools-quicklinks-text">QUICK LINKS</span>
+                      <div class="our-schools-quicklinks">
+                        <ul class="fa-ul row row-cols-2 row-cols-xl-3 g-0">
+                          <li class="acc col our-schools-elementary"><span class="fa-li"><i class="fa fa-angle-right" aria-hidden="true"></i></span><a
+                              href="Our-Schools">Elementary
+                              Schools</a></li>
+                          <li class="acc col our-schools-middle"><span class="fa-li"><i class="fa fa-angle-right" aria-hidden="true"></i></span><a
+                              href="Our-Schools">Middle
+                              Schools</a></li>
+                          <li class="acc col our-schools-high"><span class="fa-li"><i class="fa fa-angle-right" aria-hidden="true"></i></span><a
+                              href="Our-Schools">High Schools</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Search -->
+          <div class="find-it-fast top-bar-link">
+            <div class="dropdown">
+              <i class="fa-solid fa-magnifying-glass fa-lg search-icon" aria-hidden="true"></i>
+              <a class="dropdown-toggle" href="#" role="button" id="findItFastDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="0,60">
+                Search
+              </a>
+
+              <div class="dropdown-menu" aria-labelledby="findItFastDropdownMenuLink">
+                <div class="container">
+                  <form id="searchField" action="Site-Search/index.html" method="get">
+                    <div class="find-it-fast-input-wrapper">
+                      <label class="find-it-fast-label">
+                        <span class="ada">Search Site</span>
+                        <i class="fa-thin fa-magnifying-glass fa-lg find-it-fast-icon"></i>
+                        <input class="form-control" id="findItFastInput" name="search_string" type="text" placeholder="Search Site">
+                      </label>
+                      <button type="submit" class="btn btn-primary find-it-fast-submit" id="finditFastSubmitButton"
+                        onclick="forms.freedom_search_form.referring_page_url.value=location.href;forms.freedom_search_form.submit();">Submit</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Translate dropdown -->
+          <div class="top-bar-link translate-top-bar-link">
+            <span class="d-none current-page-url">
+              https://chico.ca.us/Site-Search/
+            </span>
+            <div class="dropdown translate-dropdown">
+              <i class="fa-solid fa-earth-americas fa-lg" aria-hidden="true"></i>
+              <a class="dropdown-toggle" href="#" role="button" id="translateDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-display="static">
+                Translate
+              </a>
+              <div class="dropdown-menu dropdown-wrap" aria-labelledby="translateDropdownMenuLink">
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('zh-CN'); return false;">Chinese</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('nl'); return false;">Dutch</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:goHome(); return false;">English</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('fr'); return false;">French</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('de'); return false;">German</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('el'); return false;">Greek</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('it'); return false;">Italian</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('ja'); return false;">Japanese</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('ko'); return false;">Korean</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('pt'); return false;">Portuguese</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('ru'); return false;">Russian</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('es'); return false;">Spanish</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('vi'); return false;">Vietnamese</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('tl'); return false;">Tagalog</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('km'); return false;">Khmer</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('fa'); return false;">Farsi</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('hi'); return false;">Hindi</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('pa'); return false;">Punjabi</a>
+                <a class="dropdown-item" name="language" href="#" onclick="javascript:languageChange('uk'); return false;">Ukrainian</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quicklinks dropdown -->
+          <div class="top-bar-link quicklinks-top-bar-link">
+            <div class="dropdown quicklinks-dropdown">
+              <i class="fa-solid fa-link-horizontal fa-lg" aria-hidden="true"></i>
+              <a class="dropdown-toggle" href="#" role="button" id="quicklinksDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-display="static">
+                Quicklinks
+              </a>
+              <div class="dropdown-menu dropdown-wrap" aria-labelledby="quicklinksDropdownMenuLink">
+                <i class="fa fa-caret-up fa-3x" aria-hidden="true"></i>
+              </div>
+            </div>
+          </div>
+
+          <!-- Contrast Button -->
+          <div id="topbarContrastButton" class="topbar-contrast-button" tabindex="0">
+            <div class="contrast-button-circle"></div>
+            <div class="moon">
+              <i class="fa-thin fa-moon"></i>
+            </div>
+            <div class="contrast-button-text">Contrast Mode</div>
+            <div class="check">
+              <i class="fa-thin fa-check"></i>
+            </div>
+          </div>
+        </div>
+
+        <!------------ Navigation main-navigation Begin ------------>
+
+        <!-- Social Media For Nav -->
+        <div class="navigation-social d-none">
+          <div class="social-facebook" data-navigation-social="https://www.facebook.com/OfficialCityofChico">
+          </div>
+          <div class="social-twitter" data-navigation-social="https://twitter.com/ChicoCityof">
+          </div>
+          <div class="social-instagram" data-navigation-social="https://www.instagram.com/cityofchicoca">
+          </div>
+          <div class="social-linkedin" data-navigation-social="https://www.linkedin.com/company/city-of-chico">
+          </div>
+          <div class="social-youtube" data-navigation-social="https://www.youtube.com/channel/UCOKHvxgpk7uE35nYKsKhoRA">
+          </div>
+        </div>
+
+        <div class="navigation container">
+          <nav class="navbar navbar-expand-lg">
+            <div class="offcanvas offcanvas-start" id="mainNavigation">
+              <ul class="navbar-nav navbar-nav-scroll mb-2 mb-lg-0"><li class = "nav-item"><a class="nav-link" data-featured-photo="" data-page-icon="" data-page-tagline="" href="How-Can-We-Help/index.html" target="_self">How Can We Help?</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="How-Can-We-Help/Administrative-Citations/index.html" target="_self">Administrative Citations</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="How-Can-We-Help/Airport-Access-Gate-Card/index.html" target="_self">Airport Access Gate Card</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Animal-Services/index.html" target="_self">Animal License</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Building-Division/Building-Permit-Information/index.html" target="_self">Building Permit</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="How-Can-We-Help/Bicycle-License/index.html" target="_self">Bicycle License</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="How-Can-We-Help/Business-License/index.html" target="_self">Business License</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Code-Enforcement/index.html" target="_self">Code Enforcement Violation</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Connect-With-Us/Department-Directory/index.html" target="_self">Department Directory</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://www.governmentjobs.com/careers/chico" target="_blank">Employment</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://www.crywolfservices.com/chicoca/" target="_blank">False Alarm Fine</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://www.crywolfservices.com/chicoca/" target="_blank">False Alarm Fine</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="http://Chicoca.ethicspoint.com" target="_blank">Fraud, Abuse and Waste Reporting</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Code-Enforcement/index.html" target="_self">Graffiti</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/index.html" target="_self">Housing and Homelessness</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Finance/Parking-Violation/index.html" target="_self">Parking Ticket</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Parks-Recreation-and-Experience-the-Outdoors/Park-Trails/Trail-Gate--Facility-Status-and-Hours/index.html" target="_self">Park, Trail, Gate & Facility Status & Hours</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/index.html" target="_self">Police Department</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico.crimegraphics.com/2013/default.aspx" target="_blank">Police Arrests & Crime Map</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/index.html" target="_self">Police File Online Crime Report</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://cityofchicoca.nextrequest.com/" target="_blank">Public Records Requests</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Request-for-ProposalsQualifications/index.html" target="_self">RFPs/RFQs</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Public-Works/Operations--Maintenance/Streets--Right-Of-Way/index.html" target="_self">Road Maintenance Issue (Pothole/Sidewalk/Street Light)</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Security-Alarms/How-to-Register-an-Alarm/index.html" target="_self">Security Alarm (Residential/Commercial)</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Sewer-Services/Sewer-Service-Billing/index.html" target="_self">Sewer Bill</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Sewer-Services/Sewer--Storm-Drains/index.html" target="_self">Sewer/Storm Drain Issue</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Trash--Recycling/index.html" target="_self">Solid Waste and Recycling Missed Pick-Up</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Tree-Maintenance/index.html" target="_self">Street Trees Issues</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico.ca.us/Departments/Public-Works/Traffic-Engineering/index.html" target="_blank">Traffic/Sign Issue</a></li></ul></li><li class = "nav-item"><a class="nav-link" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/index.html" target="_self">Your Government</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Template-COUNCIL/index.html" target="_self">City Council Home</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Template-COUNCIL/Internal-Affairs-Committee/index.html" target="_self">Internal Affairs Committee</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Template-COUNCIL/City-Council-Directory/index.html" target="_self">City Council Directory</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Template-COUNCIL/Finance-Committee/index.html" target="_self">Finance Committee</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Chico-Urban-Area-Joint-Powers-Financing-Authority/index.html" target="_self">Chico Urban Area Joint Public Financing Authority</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/index.html" target="_self">Commissions</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Airport-Commission/index.html" target="_self">Airport Commission</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Airport-Commission/Airport-Minutes--Agendas/index.html" target="_self">Airport Minutes & Agendas</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Arts-Commission/index.html" target="_self">Arts Commission</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Arts-Commission/About-the-Arts-Commission/index.html" target="_self">About the Arts Commission</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Bidwell-Park--Playground-Commission/index.html" target="_self">Bidwell Park & Playground Commission</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Planning-Commission/index.html" target="_self">Planning Commission</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Planning-Commission/Architectural-Review-and-Historic-Preservation-Board/index.html" target="_self">Architectural Review and Historic Preservation Board</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/index.html" target="_self">Climate Action Commission</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/Residential-Electrification-Survey/index.html" target="_self">Residential Electrification Survey</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/Climate-Action-Plan-Update/index.html" target="_self">Climate Action Plan Update</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/Climate-Action-Resources/index.html" target="_self">Climate Action Resources</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/Climate-Reports/index.html" target="_self">Climate Reports</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/Commissions/Climate-Action-Commission/Meeting-Recordings/index.html" target="_self">Meeting Recordings</a></li></ul></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://codelibrary.amlegal.com/codes/chico/latest/overview" target="_blank">City Charter & Municipal Code</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico.maps.arcgis.com/apps/webappviewer/index.html?id=65c4f6c832e644da866c81c299a12a38" target="_blank">City Council District Map</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Connect-With-Us/Department-Directory/index.html" target="_self">Department Directory</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico-ca.granicus.com/ViewPublisher.php?view_id=2" target="_blank">Meeting Agendas, Minutes, Videos</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/index.html" target="_self">Other Local Committees</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Map-Advisory-Committee/index.html" target="_self">Map Advisory Committee</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Map-Advisory-Committee/Title-18R/index.html" target="_self">Title 18R</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Police-Community-Advisory-Board/index.html" target="_self">Police Community Advisory Board</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Zoning-Administrator/index.html" target="_self">Zoning Administrator</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Chico-Urban-Area-Joint-Powers-Financing-Authority/index.html" target="_self">Chico Urban Area Joint Powers Financing Authority</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Your-Government/OTHER-LOCAL-COMMITTEES/Local-Government-Committee/index.html" target="_self">Local Government Committee</a></li></ul></li></ul></li><li class = "nav-item"><a class="nav-link" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/index.html" target="_self">City Services</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/index.html" target="_self">Airport</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/index.html" target="_self">Airport Information</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Pilot-Information/index.html" target="_self">Pilot Information</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Directions--Parking/index.html" target="_self">Directions & Parking</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Aircraft-Hangar--Tie-Down-Information/index.html" target="_self">Aircraft Hangar & Tie-Down Information</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Air-Service-Development/index.html" target="_self">Air Service Development</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Air-Service-Development/Revenue-Guarantee-Fund/index.html" target="_self">Revenue Guarantee Fund</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport/Airport-Information/Business-at-Chico-Airport/index.html" target="_self">Business at Chico Airport</a></li></ul></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Animal-Services/index.html" target="_self">Animal Services</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Building-Division/index.html" target="_self">Building Division</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Code-Enforcement/index.html" target="_self">Code Enforcement</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/City-Managers-Office/Economic-Development/index.html" target="_self">Economic Development</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Emergency-Preparedness/index.html" target="_self">Emergency Disaster and Preparedness</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/index.html" target="_self">Fire Department</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Geographic-Information-Systems/index.html" target="_self">GIS (Geographic Information Systems)</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/index.html" target="_self">Housing & Homelessness</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Warming-and-Cooling-Center/index.html" target="_self">Warming and Cooling Center</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Shelter-Bed-Availability/index.html" target="_self">Shelter Bed Availability</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Alternative-Camping-Site/index.html" target="_self">Alternative Camping Site</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Outreach-and-Engagement-Process/index.html" target="_self">Outreach and Engagement Process</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Homeless-Services-Support-Fund/index.html" target="_self">Homeless Services Support Fund</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Housing--Homelessness/Shelter-Crisis-Plan/index.html" target="_self">Shelter Crisis Plan</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Parking-and-Transportation/index.html" target="_self">Parking and Transportation</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Parks-Recreation-and-Experience-the-Outdoors/index.html" target="_self">Parks</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Planning-Division/index.html" target="_self">Planning Division</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico.ca.us/City-Services/Public-Safety/Police-Department/index.html" target="_self">Police Department</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Trash--Recycling/index.html" target="_self">Recycling</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Public-Works/Operations--Maintenance/Streets--Right-Of-Way/index.html" target="_self">Road Maintenance</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Sewer-Services/Sewer--Storm-Drains/index.html" target="_self">Sewer and Storm Drain System</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Public-Works/Traffic-Engineering/index.html" target="_self">Traffic</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Trash--Recycling/index.html" target="_self">Trash & Recycling</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Public-Works/Operations--Maintenance/Street-Trees/index.html" target="_self">Tree Maintenance</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Weather--Air-Quality/index.html" target="_self">Weather & Air Quality</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/index.html" target="_self">Public Safety</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/index.html" target="_self">Fire Department</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Fire-Department-Contact-Us/index.html" target="_self">Fire Department (Contact Us)</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Operations/index.html" target="_self">Operations</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Emergency-Preparedness/index.html" target="_self">Emergency Preparedness</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Emergency-Preparedness/Division-of-Community-Risk-Reduction/index.html" target="_self">Division of Community Risk Reduction</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Emergency-Preparedness/Urban-Wildland-Interface/index.html" target="_self">Urban Wildland Interface</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Fire-Prevention--Life-Safety/index.html" target="_self">Fire Prevention & Life Safety</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Fire-Prevention--Life-Safety/Inspection-Reporting/index.html" target="_self">Inspection Reporting</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Forms--Documents/index.html" target="_self">Forms & Documents</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Office-of-the-Chief/index.html" target="_self">Office of the Chief</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Community-Wildfire-Protection-Plan-CWPP/index.html" target="_self">Community Wildfire Protection Plan (CWPP)</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/History-of-Chico-Fire/index.html" target="_self">History of Chico Fire</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Firefighter-Department-Photo-Gallery/index.html" target="_self">Firefighter Department Photo Gallery</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Active-911/index.html" target="_self">Active 911</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Follow-us-on-Facebook/index.html" target="_self">Follow us on Facebook</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Fire-Department/Frequently-Asked-Questions/index.html" target="_self">Frequently Asked Questions</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/index.html" target="_self">Police Department</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/2023-Annual-Report/index.html" target="_self">2023 Annual Report</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/ABC-Licenses/index.html" target="_self">ABC Licenses</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Annual-Military-Equipment-Use-Report/index.html" target="_self">Annual Military Equipment Use Report</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Arrests-and-Crime-Map/index.html" target="_self">Arrests and Crime Map</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://chico.maps.arcgis.com/apps/webappviewer/index.html?id=e1f65977a5944dcd8e857d7b24008c19" target="_self">Beat Map</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Forms--Documents/index.html" target="_self">Forms & Documents</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Frequently-Asked-Questions/index.html" target="_self">Frequently Asked Questions</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Identity-Theft/index.html" target="_self">Identity Theft</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Internet-Activity-for-a-13-Year-Old/index.html" target="_self">Internet Activity for a 13 Year Old</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="https://codelibrary.amlegal.com/codes/chico/latest/overview" target="_blank">Municipal Code</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Office-of-the-Chief/index.html" target="_self">Office of the Chief</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Connect-With-Us/Department-Directory/Police-Department/index.html" target="_self">Police Department Directory</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Police-Drone-Program/index.html" target="_self">Police Drone Program</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Police-Department-Online-Crime-Report/index.html" target="_self">Police Department Online Crime Report</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Police-Department-Press-Releases/index.html" target="_self">Police Department Press Releases</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Transparency/index.html" target="_self">Transparency</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Transparency/Trainings/index.html" target="_self">Trainings</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Transparency/AB-48---Use-of-Force/index.html" target="_self">AB 48 - Use of Force</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Transparency/Policies/index.html" target="_self">Policies</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/index.html" target="_self">Volunteer</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/Citizens-Police-Academy/index.html" target="_self">Citizens Police Academy</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/Chico-Police-Explorers/index.html" target="_self">Chico Police Explorers</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/Chico-Police-Internship-Program/index.html" target="_self">Chico Police Internship Program</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/Chico-Police-Chaplains/index.html" target="_self">Chico Police Chaplains</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Volunteer/Volunteers-in-Police-Service/index.html" target="_self">Volunteers in Police Service</a></li></ul></li></ul></li></ul></li></ul></li><li class = "nav-item"><a class="nav-link" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/index.html" target="_self">Business and Development</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/Community-Development/Building-Division/Building-Inspection-Information/index.html" target="_self">Building Inspections</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Business-Licenses/index.html" target="_self">Business Licenses</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Departments/City-Managers-Office/Economic-Development/index.html" target="_self">Economic Development</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Security-Alarms/index.html" target="_self">Security Alarms</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Shop-Local/index.html" target="_self">Shop Local</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Business-and-Development/Request-for-ProposalsQualifications/index.html" target="_self">Request for Proposals/Qualifications</a></li></ul></li><li class = "nav-item"><a class="nav-link" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/index.html" target="_self">Our Community</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/index.html" target="_self">About Chico</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Parks-Recreation-and-Experience-the-Outdoors/index.html" target="_self">Parks, Recreation, and Experience the Outdoors</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Press-Releases/index.html" target="_self">Press Releases</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Press-Releases/City-of-Chico-Press-Releases/index.html" target="_self">City of Chico Press Releases</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Public-Safety/Police-Department/Police-Department-Press-Releases/index.html" target="_self">Police Department</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Travel-and-Tourism/index.html" target="_self">Travel and Tourism</a><ul class="dropdown-menu"><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Travel-and-Tourism/Train-Service/index.html" target="_self">Train Service</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Travel-and-Tourism/Bus-Service/index.html" target="_self">Bus Service</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Travel-and-Tourism/Bike-Trails/index.html" target="_self">Bike Trails</a></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="City-Services/Airport--/index.html" target="_self">Airport</a></li></ul></li><li><a class="dropdown-item" data-featured-photo="" data-page-icon="" data-page-tagline="" href="Our-Community/Film-Production/index.html" target="_self">Film Production</a></li></ul></li></ul>
+            </div>
+          </nav>
+        </div>
+
+        <!------------ Navigation main-navigation End ------------>
+
+      </div>
+
+      <div class="top-bar-mobile-grid d-lg-none">
+        <div class="top-bar-logo-container">
+          <a class="logo-link" href="#">
+            <img src="https://schoolmanager.s3.amazonaws.com/uploads/pictures/523f0e01e9d648268edeba42b1d92e24.png" class="main-logo img-fluid" alt="City of Chico">
+          </a>
+        </div>
+        <div class="top-bar-title-wrapper">
+          <div class="top-bar-title">
+            <h1>
+              
+                City of Chico
+              
+            </h1>
+            <span class="top-bar-sub-title d-none d-md-block">
+              
+                
+              
+            </span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+        </header>
+        <main class="pt-0">
+                <a id="mainContent"></a>
+                <div class="subpage-main-content my-md-4 container pb-5">
+  <div class="row">
+    <div class="col-12 col-md-8 col-lg-9 content-area-main-column">
+      <div class="row">
+        <div class="col">
+          <div class="page-title">
+            <div class="pageTitle">
+              <div class="superscript">
+                <div class="breadcrumbs-super">
+                  <ul><li><a href="index.html" target="_self">Home</a></li>&nbsp;<i class="fa fa-fw fa-angle-right"></i>&nbsp;<li class="breadcrumbs-link-cp"><a href="Site-Search/index.html" target="_self">Site Search</a></li></ul>
+                </div>
+              </div>
+              <div class="pagename">
+                <h2>Site Search</h2>
+              </div>
+            </div>
+            <span class="description page-desc">
+              
+            </span>
+            <div class="row d-none" id="content-area-row-main">
+              <div class="content-area-column" id="content-area-main">
+                
+              </div>
+            </div>
+            <div class="row content-area-row" id="content-area-row-1" data-content-area-row="1">
+              <div class="content-area-column" id="content-area-row-1-column-1" style="order: 0; width: 0%; flex: 1 0 0%;">
+                <div id='93e643d7faf740c2882ebec4713303ec' class='ccms-contentelement ccms-contentelement-UnrestrictedCode ccms-contentarea-row-1-column-1 ccms-contentelement-0' data-uniquename='93e643d7faf740c2882ebec4713303ec'>
+      <style>
+.header-search-field {
+    background-color: #fff;
+    background-image: none;
+    border-color: #999;
+    border-radius: 7px 0 0 7px;
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    box-sizing: border-box;
+    color: #53585c;
+    float: left;
+    font: 14px/21px "PT Sans",sans-serif;
+    height: 35px;
+    margin:0;
+    padding: 0 7px;
+    vertical-align: top;
+    width: 164px;
+}
+.header-search-button {
+    box-sizing: border-box;
+    color: #555;
+    height: 35px;
+    margin: 0;
+    vertical-align: top;
+}
+</style>
+<script language='javascript' src='scripts/freedom_site_search.js'></script>
+
+<script language='javascript'>
+<!--
+
+if(keys)
+{
+	if(results_flag == 'true')
+	{
+	  document.writeln('<div><b>Searched Using:</b>&nbsp;&nbsp;' + search_string + '</div>');
+
+	  document.writeln('<div class="search_cont_content"><form name="freedom_search_form" method="get" action="Site-Search/index.html">');
+	  document.writeln('<input name="search_string" type="text" class="header-search-field" value="' + search_string + '" title="' + search_string + '" />');
+	  document.writeln('<input src="images/header-search-button.png" class="header-search-button" alt="Search" title="Search" value="Search" name="submit" onClick="forms.freedom_search_form.referring_page_url.value=location.href;forms.freedom_search_form.submit();" border="0" type="image">');
+	  document.writeln('<input name="referring_page_url" value="" type="hidden"></form></div>');
+
+	  document.writeln('<ul class="search_results">');
+
+
+	  for(count = 0;count < results_array.length;count++)
+	  {
+		document.writeln('<li>');
+		document.writeln('<a href="' + results_array[count] + '">' + results_title_array[count] + '</a>');
+		document.writeln('<div>' + results_array[count] + '</div>');
+		document.writeln('</li>');
+	  }
+
+	  document.writeln('</ul>');
+
+	  if(results_array.length > 5)
+	  {
+	  document.writeln('<div class="search_cont_content"><form name="freedom_search_form" method="get" action="Site-Search/index.html">');
+	  document.writeln('<input name="search_string" type="text" class="header-search-field" value="' + search_string + '" title="' + search_string + '" />');
+	  document.writeln('<input src="images/header-search-button.png" class="header-search-button" alt="Search" title="Search" value="Search" name="submit" onClick="forms.freedom_search_form.referring_page_url.value=location.href;forms.freedom_search_form.submit();" border="0" type="image">');
+	  document.writeln('<input name="referring_page_url" value="" type="hidden"></form></div>');
+
+	  }
+
+	}
+	else
+	{
+	  document.writeln('<div class="search_cont_content"><form name="freedom_search_form" method="get" action="Site-Search/index.html">');
+	  document.writeln('<input name="search_string" type="text" class="header-search-field" value="' + search_string + '" title="' + search_string + '" />');
+	  document.writeln('<input src="images/header-search-button.png" class="header-search-button" alt="Search" title="Search" value="Search" name="submit" onClick="forms.freedom_search_form.referring_page_url.value=location.href;forms.freedom_search_form.submit();" border="0" type="image">');
+	  document.writeln('<input name="referring_page_url" value="" type="hidden"></form></div>');
+	  
+	  document.writeln('<ul class="search_results">');
+	  document.writeln('<li>');
+	  document.writeln("<b>No Results Returned For:&nbsp;&nbsp;</b><i>" + search_string + "</i><br><br><br>");
+	  document.writeln('</li>');
+	  document.writeln('</ul>');
+	}
+}
+else
+{
+	// content if going to page with no search string
+	  document.writeln('<div class="search_cont_content"><form name="freedom_search_form" method="get" action="Site-Search/index.html">');
+	  document.writeln('<input name="search_string" type="text" class="header-search-field" value="Site Search..." title="Site Search..." />');
+	  document.writeln('<input src="images/header-search-button.png" class="header-search-button" alt="Search" title="Search" value="Search" name="submit" onClick="forms.freedom_search_form.referring_page_url.value=location.href;forms.freedom_search_form.submit();" border="0" type="image">');
+	  document.writeln('<input name="referring_page_url" value="" type="hidden"></form></div>');
+}
+
+	// DEBUG WHEN NEEEDED
+//	  for(count = 0;count < message_array.length;count++)
+//	  {
+//	  	alert("message_array[" + count + "] => [" + message_array[count] + "]");
+//	  }
+	// END DEBUG
+
+//-->
+</script>
+      </div>
+              </div>
+              <div class="content-area-column d-none" id="content-area-row-1-column-2" style="order: 25; width: 0%; flex: 1 0 0%;">
+                
+              </div>
+              <div class="content-area-column d-none" id="content-area-row-1-column-3" style="order: 50; width: 0%; flex: 1 0 0%;">
+                
+              </div>
+              <div class="content-area-column d-none" id="content-area-row-1-column-4" style="order: 75; width: 0%; flex: 1 0 0%;">
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row content-area-row" id="content-area-row-2" data-content-area-row="2">
+        <div class="content-area-column" id="content-area-row-2-column-1" style="order: 0; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column" id="content-area-row-2-column-2" style="order: 25; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column d-none" id="content-area-row-2-column-3" style="order: 50; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column d-none" id="content-area-row-2-column-4" style="order: 75; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+      </div>
+      <div class="row content-area-row" id="content-area-row-3" data-content-area-row="3">
+        <div class="content-area-column" id="content-area-row-3-column-1" style="order: 0; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column d-none" id="content-area-row-3-column-2" style="order: 25; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column d-none" id="content-area-row-3-column-3" style="order: 50; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+        <div class="content-area-column d-none" id="content-area-row-3-column-4" style="order: 75; width: 0%; flex: 1 0 0%;">
+          
+        </div>
+      </div>
+    </div>
+    <div class="d-none">
+      <div id='f991f904a5724745b0d1fa0daf9cfbfe' class='ccms-contentelement ccms-contentelement-HTMLComponent ccms-contentarea-react-column-component ccms-contentelement-0 react-column-component ReactUIActive' data-uniquename='f991f904a5724745b0d1fa0daf9cfbfe'><div id="reactColumnComponent"></div>
+<input type='hidden' class='ccms-react-column-component-field-0 react-column-config' value='[{"columnId":"content-area-row-1-column-1","columnOrder":"0","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column"},{"columnId":"content-area-row-1-column-2","columnOrder":"25","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-1-column-3","columnOrder":"50","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-1-column-4","columnOrder":"75","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-2-column-1","columnOrder":"0","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column"},{"columnId":"content-area-row-2-column-2","columnOrder":"25","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-2-column-3","columnOrder":"50","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column"},{"columnId":"content-area-row-2-column-4","columnOrder":"75","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-3-column-1","columnOrder":"0","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column"},{"columnId":"content-area-row-3-column-2","columnOrder":"25","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-3-column-3","columnOrder":"50","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"},{"columnId":"content-area-row-3-column-4","columnOrder":"75","columnWidth":"0%","columnFlex":"1 0 0%","columnClassName":"content-area-column d-none"}]' />
+<input type='hidden' class='ccms-react-column-component-field-1 react-sidenav-visible' value='false' />
+<input type='hidden' class='ccms-react-column-component-field-2 react-sidenav-location' value='"right"' />
+<input type='hidden' class='ccms-react-column-component-field-3 react-sidenav-level' value='' />
+<input type='hidden' class='ccms-react-column-component-field-4 react-department-banner-visible' value='' />
+<input type='hidden' class='ccms-react-column-component-field-5 react-department-banner-url' value='' />
+<input type='hidden' class='ccms-react-column-component-field-6 react-department-banner-guid' value='freedompicture://' />
+<input type='hidden' class='ccms-react-column-component-field-7 react-department-banner-guid-persistent' value='' />
+<input type='hidden' class='ccms-react-column-component-field-8 react-department-banner-title-visible' value='' />
+<input type='hidden' class='ccms-react-column-component-field-9 react-department-banner-title' value='' />
+<input type='hidden' class='ccms-react-column-component-field-10 react-department-breadcrumbs-visible' value='' />
+</div>
+    </div>
+    <div id="layoutSelectButton" class="layout-select-button d-none"></div>
+
+    <!-- ---------- E-Side Nav Twin Rivers Begin ---------- -->
+    <div class="col-12 col-md-4 col-lg-3 sidenav">
+      <ul></ul>
+        <div>
+          
+        </div>
+    </div>
+    <!-- ---------- E-Side Nav Twin Rivers Begin End ---------- -->
+  </div>
+</div>
+
+
+<div class="ccmsBannerSide col-12 col-lg-1 order-lg-first d-lg-none">
+  <div class="row g-0"><div class="col-12 high-traffic-icon-column">
+		<a class="card" href="http://chico-ca.granicus.com/ViewPublisher.php?view_id=2" target="_blank">
+		  <div class="image-container">
+			<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fgavel.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+		  </div>
+		  <div class="card-body">
+			<p class="card-text banner-link-text">
+			  Current Agendas
+			</p>
+		  </div>
+		</a>
+	  </div><div class="col-12 high-traffic-icon-column">
+		<a class="card" href="City-Services/Sewer-Services/Sewer-Service-Billing/index.html" target="_self">
+		  <div class="image-container">
+			<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fcircle-dollar-to-slot.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+		  </div>
+		  <div class="card-body">
+			<p class="card-text banner-link-text">
+			  Make Sewer Payment
+			</p>
+		  </div>
+		</a>
+	  </div><div class="col-12 high-traffic-icon-column">
+		<a class="card" href="Connect-With-Us/Department-Directory/index.html" target="_self">
+		  <div class="image-container">
+			<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fusers.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+		  </div>
+		  <div class="card-body">
+			<p class="card-text banner-link-text">
+			  Departments
+			</p>
+		  </div>
+		</a>
+	  </div><div class="col-12 high-traffic-icon-column">
+		<a class="card" href="Our-Community/Press-Releases/index.html" target="_self">
+		  <div class="image-container">
+			<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffar%2fbell-on.svg&caassetcolor=" class="img-fluid" alt="..." aria-hidden="true">
+		  </div>
+		  <div class="card-body">
+			<p class="card-text banner-link-text">
+			  Press Releases
+			</p>
+		  </div>
+		</a>
+	  </div></div>
+</div>
+
+<div class="container-fluid high-traffic-icon-wrapper d-none d-lg-block">
+  <div class="row g-0"><div class="col-12 col-md-6 col-lg-3">
+		<a class="card" href="http://chico-ca.granicus.com/ViewPublisher.php?view_id=2" target="_blank">
+		  <div class="row g-0">
+			<div class="col-4">
+			  <div class="image-container">
+				<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fgavel.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+			  </div>
+			</div>
+			<div class="col-8">
+			  <div class="card-body">
+				<p class="card-text banner-link-text">
+				  Current Agendas
+				</p>
+			  </div>
+			</div>
+		  </div>
+		  <div class="learnMore"><span>Learn More </span><i class="fa-light fa-arrow-right"><span class="ada">arrow</span></i></div>
+		</a>
+	  </div><div class="col-12 col-md-6 col-lg-3">
+		<a class="card" href="City-Services/Sewer-Services/Sewer-Service-Billing/index.html" target="_self">
+		  <div class="row g-0">
+			<div class="col-4">
+			  <div class="image-container">
+				<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fcircle-dollar-to-slot.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+			  </div>
+			</div>
+			<div class="col-8">
+			  <div class="card-body">
+				<p class="card-text banner-link-text">
+				  Make Sewer Payment
+				</p>
+			  </div>
+			</div>
+		  </div>
+		  <div class="learnMore"><span>Learn More </span><i class="fa-light fa-arrow-right"><span class="ada">arrow</span></i></div>
+		</a>
+	  </div><div class="col-12 col-md-6 col-lg-3">
+		<a class="card" href="Connect-With-Us/Department-Directory/index.html" target="_self">
+		  <div class="row g-0">
+			<div class="col-4">
+			  <div class="image-container">
+				<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffas%2fusers.svg&caassetcolor=white" class="img-fluid" alt="..." aria-hidden="true">
+			  </div>
+			</div>
+			<div class="col-8">
+			  <div class="card-body">
+				<p class="card-text banner-link-text">
+				  Departments
+				</p>
+			  </div>
+			</div>
+		  </div>
+		  <div class="learnMore"><span>Learn More </span><i class="fa-light fa-arrow-right"><span class="ada">arrow</span></i></div>
+		</a>
+	  </div><div class="col-12 col-md-6 col-lg-3">
+		<a class="card" href="Our-Community/Press-Releases/index.html" target="_self">
+		  <div class="row g-0">
+			<div class="col-4">
+			  <div class="image-container">
+				<img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffar%2fbell-on.svg&caassetcolor=" class="img-fluid" alt="..." aria-hidden="true">
+			  </div>
+			</div>
+			<div class="col-8">
+			  <div class="card-body">
+				<p class="card-text banner-link-text">
+				  Press Releases
+				</p>
+			  </div>
+			</div>
+		  </div>
+		  <div class="learnMore"><span>Learn More </span><i class="fa-light fa-arrow-right"><span class="ada">arrow</span></i></div>
+		</a>
+	  </div></div>
+</div>
+
+
+
+                <!-- Below Footer HTML -->
+                <script id="alwayson_chatbot_script" src="https://app.alwayson.ai/embed/chatbot.js?id=56db36c3-924b-47b5-afa6-c4cba92fdbc9" type="text/javascript" crossorigin defer async></script>
+
+        </main>
+        <footer>
+                <!-- ---------- Footer E-footer-TwinRivers ---------- -->
+<div id="footer">
+
+  <!--Mobile Footer-->
+  <div class="mobile-footer container pt-5 d-lg-none">
+    <!--Logo-->
+    <div class="row">
+      <div class="col-12 text-center">
+        <img class="footer-logo img-fluid" src="https://schoolmanager.s3.amazonaws.com/uploads/pictures/dc9eda0d3da04626ab2a8b41c6ea14df.png" alt="City of Chico">
+      </div>
+    </div>
+    <!--/Logo-->
+
+    <!--Buttons Directions & Call-->
+    <div class="row my-3">
+      <div class="col-6">
+        <!--Get Directions-->
+        <a href="http://maps.google.com/maps?q=411%20Main%20Street%2C%20%20Chico%2C%20CA%2095928" class="footer-btn get-direction">
+          Get Directions
+          <i class="fa-light fa-diamond-turn-right ml-1"></i>
+        </a>
+      </div>
+      <div class="col-6">
+        <!--Call Us-->
+        <a href="tel:15308967200" class="footer-btn call-us">
+          Call Us
+          <i class="fal fa-phone-rotary ml-1"></i>
+        </a>
+      </div>
+    </div>
+    <!--/Buttons Directions & Call-->
+
+    <!--Accordian-->
+    <div class="row mt-5">
+      <div class="col-12">
+
+        <div class="accordion accordion-flush mb-4" id="accordionFlush">
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="flush-districtInfo">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                Contact Us
+              </button>
+            </h3>
+            <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-districtInfo" data-bs-parent="#accordionFlush">
+              <div class="accordion-body">
+                <div>
+                  
+                    411 Main Street
+                  
+                </div>
+                <div>
+                   Chico,
+                  CA
+                  95928
+                </div>
+                <div class="mt-2">
+                  <small>For general information:</small>
+                </div>
+                <div>
+                  <strong>Front Office</strong>
+                </div>
+                <a class="front-office-phone" href="tel:15308967200">
+                  (530) 896-7200
+                </a>
+                <div class="front-office-phone footer-fax">
+                  (530) 895-4656 (Fax)
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/accordion-item-->
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="flush-quickLinks">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseQuickLinks" aria-expanded="false"
+                aria-controls="flush-collapseQuickLinks">
+                Quicklinks
+              </button>
+            </h3>
+            <div id="flush-collapseQuickLinks" class="accordion-collapse collapse" aria-labelledby="flush-quickLinks" data-bs-parent="#accordionFlush">
+              <div class="accordion-body">
+                <div class="schoolResources">
+                  <ul class="quicklinks"></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/accordion-item-->
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="flush-schoolResources">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSchoolResources" aria-expanded="false"
+                aria-controls="flush-collapseSchoolResources">
+                City Resources
+              </button>
+            </h3>
+            <div id="flush-collapseSchoolResources" class="accordion-collapse collapse" aria-labelledby="flush-schoolResources" data-bs-parent="#accordionFlush">
+              <div class="accordion-body">
+                <div class="schoolResources">
+                  <ul class="resource-list"><li>
+                        <a href="https://chico.ca.us/Connect-With-Us/Department-Directory/index.html" target="_blank">
+                          Contact Us
+                        </a>
+                      </li><li>
+                        <a href="https://chico.ca.us/Your-Government/City-Council-Directory/index.html" target="_blank">
+                          Message City Councilmember
+                        </a>
+                      </li><li>
+                        <a href="https://chico.ca.us/Departments/Public-Works/Operations--Maintenance/Streets--Right-Of-Way/index.html" target="_blank">
+                          Report a Street Issue
+                        </a>
+                      </li></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/accordion-item-->
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="flush-connected">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
+                aria-controls="flush-collapseThree">
+                Stay Connected
+              </button>
+            </h3>
+            <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-connected" data-bs-parent="#accordionFlush">
+              <div class="accordion-body">
+                <div class="footer-social-icons mb-2">
+                  <a class="social-facebook" href="https://www.facebook.com/OfficialCityofChico" target="_blank">
+                    <i class="fa-brands fa-facebook-square fa-3x" aria-hidden="true"></i><span class="ada">Facebook</span>
+                  </a>
+                  <a class="social-twitter" href="https://twitter.com/ChicoCityof" target="_blank">
+                    <i class="fa-brands fa-square-x-twitter fa-3x" aria-hidden="true"></i><span class="ada">X</span>
+                  </a>
+                  <a class="social-instagram" href="https://www.instagram.com/cityofchicoca" target="_blank">
+                    <i class="fa-brands fa-instagram fa-3x" aria-hidden="true"></i><span class="ada">Instagram</span>
+                  </a>
+                  <a class="social-linkedin" href="https://www.linkedin.com/company/city-of-chico" target="_blank">
+                    <i class="fa-brands fa-linkedin-in fa-3x" aria-hidden="true"></i><span class="ada">Linkedin</span>
+                  </a>
+                  <a class="social-youtube" href="https://www.youtube.com/channel/UCOKHvxgpk7uE35nYKsKhoRA" target="_blank">
+                    <i class="fa-brands fa-youtube fa-3x" aria-hidden="true"></i><span class="ada">Youtube</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/accordion-item-->
+        </div>
+        <!--/accordion-flush-->
+
+      </div>
+    </div>
+    <!--/Accordian-->
+
+  </div>
+  <!--/Mobile Footer-->
+
+  <!--Desktop Footer-->
+  <div class="desktop-footer container py-5 d-none d-lg-block">
+
+    <div class="row pt-5">
+      <div class="col-4">
+        <h3>Contact Us<i class="fa-solid fa-map-location-dot"></i></h3>
+        <a class="contact-address my-2" href="http://maps.google.com/maps?q=411%20Main%20Street%2C%20%20Chico%2C%20CA%2095928" target="_blank">
+          <i class="fa-regular fa-map-location-dot"></i>
+          <div class="address">
+            <div>
+              
+                411 Main Street
+              
+            </div>
+            <div>
+               Chico,
+              CA
+              95928
+            </div>
+          </div>
+        </a>
+        <a class="contact-phone my-2" href="tel:15308967200">
+          <i class="fa-regular fa-mobile-button"></i>
+          <div class="front-office-phone">
+            (530) 896-7200
+          </div>
+        </a>
+        <div class="contact-phone my-2 footer-fax">
+          <i class="fa-regular fa-fax"></i>
+          <div class="front-office-phone">
+            (530) 895-4656 (Fax)
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-xl-5">
+        <h3>
+          Quicklinks<i class="fa-regular fa-arrow-up-right-from-square"></i>
+        </h3>
+        <ul class="quicklinks"></ul>
+      </div>
+      <div class="col-lg-4 col-xl-3">
+        <ul class="resource-list"><li>
+              <a href="https://chico.ca.us/Connect-With-Us/Department-Directory/index.html" target="_blank">
+                <span class="resourceIcon">
+                  <img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffa-thin%2flink.svg&caassetcolor=white" alt="" />
+                  <i class="fa-solid fa-arrow-right"></i>
+                </span>
+                Contact Us
+              </a>
+            </li><li>
+              <a href="https://chico.ca.us/Your-Government/City-Council-Directory/index.html" target="_blank">
+                <span class="resourceIcon">
+                  <img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffa-thin%2flink.svg&caassetcolor=white" alt="" />
+                  <i class="fa-solid fa-arrow-right"></i>
+                </span>
+                Message City Councilmember
+              </a>
+            </li><li>
+              <a href="https://chico.ca.us/Departments/Public-Works/Operations--Maintenance/Streets--Right-Of-Way/index.html" target="_blank">
+                <span class="resourceIcon">
+                  <img src="https://schoolmanager.catapultcms.com/utilities/GetAssetIcon.ashx?cas3key=assets%2ficons%2ffa-thin%2flink.svg&caassetcolor=white" alt="" />
+                  <i class="fa-solid fa-arrow-right"></i>
+                </span>
+                Report a Street Issue
+              </a>
+            </li></ul>
+      </div>
+    </div>
+    <div class="row py-5">
+      <div class="col-4">
+        <img class="footer-logo img-fluid" src="https://schoolmanager.s3.amazonaws.com/uploads/pictures/dc9eda0d3da04626ab2a8b41c6ea14df.png" alt="City of Chico">
+      </div>
+      <div class="col-8 social-section">
+        <h3>Follow
+          
+            City of Chico
+          
+          <i class="fa-regular fa-rss"></i>
+        </h3>
+        <div class="footer-social-icons mb-2">
+          <a class="social-facebook" href="https://www.facebook.com/OfficialCityofChico" target="_blank">
+            <i class="fa-brands fa-facebook-square fa-3x" aria-hidden="true"></i><span class="ada">Facebook</span>
+          </a>
+          <a class="social-twitter" href="https://twitter.com/ChicoCityof" target="_blank">
+            <i class="fa-brands fa-square-x-twitter fa-3x" aria-hidden="true"></i><span class="ada">X</span>
+          </a>
+          <a class="social-instagram" href="https://www.instagram.com/cityofchicoca" target="_blank">
+            <i class="fa-brands fa-instagram fa-3x" aria-hidden="true"></i><span class="ada">Instagram</span>
+          </a>
+          <a class="social-linkedin" href="https://www.linkedin.com/company/city-of-chico" target="_blank">
+            <i class="fa-brands fa-linkedin-in fa-3x" aria-hidden="true"></i><span class="ada">Linkedin</span>
+          </a>
+          <a class="social-youtube" href="https://www.youtube.com/channel/UCOKHvxgpk7uE35nYKsKhoRA" target="_blank">
+            <i class="fa-brands fa-youtube fa-3x" aria-hidden="true"></i><span class="ada">Youtube</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <!--/ Desktop Footer-->
+
+
+</div>
+<!--/footer-container-->
+
+<div class="sub-footer py-3">
+  <div class="container">
+    <div class="row g-0">
+      <div class="col-12 col-md-5 col-xl-4 order-md-last text-xl-end">
+        <a class="non-discrimination d-lg-inline-block mx-2" href="" target="_blank">
+          <i class="fa-solid fa-scale-balanced me-1"></i>
+          Non-Discrimination Policy
+        </a>
+
+        <div class="contrast-toggle d-lg-inline-block mx-2">
+          <i class="fa-thin fa-circle-half-stroke"></i>
+          <button type="button" class="contrast-reg" id="resetContrastSubFooter">Reset Contrast</button>
+          <button type="button" class="contrast-high" id="highContrastSubFooter">High Contrast</button>
+        </div>
+
+        <a class="alphabet d-lg-inline-block mx-2" href="A-Z/">
+          <i class="fa-regular fa-sitemap me-1"></i>
+          A-Z Site Map
+        </a>
+      </div>
+
+      <div class="col-12 col-md-7 col-xl-8 order-md-first">
+        <div class="mt-1 d-lg-inline-block copyright-statement">Copyright &copy;
+          2023
+          City of Chico. All rights reserved.
+        </div>
+        <div class="d-lg-inline-block">
+          Website developed by
+          <a href="http://www.catapultk12.com/">CatapultCMS®</a> &
+          <a href="http://www.catapultemergencymanagement.com/">EMS®</a> |
+          <a href="https://biz.catapultcms.com/Login.aspx"><strong>Web Admin</strong></a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+          <!-- Below Footer HTML -->
+          <script id="alwayson_chatbot_script" src="https://app.alwayson.ai/embed/chatbot.js?id=56db36c3-924b-47b5-afa6-c4cba92fdbc9" type="text/javascript" crossorigin defer async></script>
+
+
+        </footer>
+
+    <!-- Family Scripts -->
+    <script src="scripts/main-javascript-variables.js"></script>
+    <script src="scripts/main-global-scripts.js"></script>
+    <script src="scripts/bootstrap.bundle.min.js"></script>
+    <!-- <script src="scripts/dotdotdot.js"></script> -->
+
+    <!-- Stripe Scripts -->
+    <script src="scripts/E-topbar-TwinRivers.js"></script>
+<script src="scripts/main-navigation-variables.js"></script>
+<script src="scripts/main-navigation.js"></script>
+<script src="scripts/D-side-nav-ElkGrove.js"></script>
+<script src="scripts/E-content-schoolinfo.js"></script>
+<script type="module" src="scripts/react-column-component.js"></script>
+<script src="scripts/main-hightraffic-ChicoUSD.js"></script>
+<script src="scripts/E-footer-TwinRivers.js"></script> 
+<script src="scripts/main-subfooter.js"></script>
+
+    <!-- Font Awesome 6 Kit -->
+    <!-- This is here and not in the header so that it loads after the announcements loads font awesome 4 -->
+    <script src="https://kit.fontawesome.com/b9fb9cbfea.js" crossorigin="anonymous"></script>
+
+    </body>
+
+</html>

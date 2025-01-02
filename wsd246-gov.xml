@@ -1,0 +1,1610 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" >
+    <head>
+        <meta charset="UTF-8" />
+        <title>Welcome to Wenatchee Public Schools! | Wenatchee</title>
+
+        <!-- METADATA -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta  property="og:type" content="website" />
+<meta  property="og:url" content="https://www.wenatcheeschools.org/" />
+<meta  property="og:title" content="Welcome to Wenatchee Public Schools!" />
+<meta  name="twitter:card" content="summary" />
+<meta  name="twitter:title" content="Welcome to Wenatchee Public Schools!" />
+<meta  name="campussuite:tenant" content="3059" />
+<meta  name="campussuite:site" content="37804" />
+<meta  name="campussuite:department" content="37804" />
+<meta  name="campussuite:theme" content="1572570" />
+<meta  name="campussuite:outer_layout" content="1572999" />
+<meta  name="campussuite:inner_layout" content="1594373" />
+<meta  name="campussuite:module" content="page" />
+<meta  name="campussuite:content" content="1705461" />
+
+        <!-- BASE -->
+        
+        <!-- FAVICONS -->
+        			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/37804/53769a03-3b0a-11e6-b537-22000bd8490f/favicon/144" />
+			<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/37804/53769a03-3b0a-11e6-b537-22000bd8490f/favicon/114" />
+			<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/37804/53769a03-3b0a-11e6-b537-22000bd8490f/favicon/72" />
+			<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/37804/53769a03-3b0a-11e6-b537-22000bd8490f/favicon/57" />
+			<link rel="icon" type="image/png" sizes="16x16" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/37804/53769a03-3b0a-11e6-b537-22000bd8490f/favicon/16" />
+        
+        <!-- FONTS -->
+<link  rel="stylesheet" type="text/css" href="https://cdn.campussuite.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+        <!-- STYLES -->
+
+        <link type="text/css" rel="stylesheet" href="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/1572570/cef810e6-09c1-11ed-b0fe-02679c9b5d8d/compiled/mingz?v=1661517172" />
+
+        <!-- HEAD SCRIPTS -->
+        <script>
+            window.CAMPUSSUITE = {
+    "environment": "prod",
+    "tenant": {
+        "id": 3059,
+        "uid": "7610d33a-0c90-11e6-b537-22000bd8490f",
+        "slug": "wenatcheeschools"
+    },
+    "dashboard": "app.campussuite.com",
+    "container": 37804
+};
+        </script>
+        <!--[if lt IE 9]>
+            <script src="https://cdn.campussuite.com/html5shiv/3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.campussuite.com/respond/1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+        <script src="https://cdn.campussuite.com/sugar/1.4.1/release/sugar.min.js"></script>
+        <script src="https://cdn.campussuite.com/headjs/1.0.3/dist/1.0.0/head.min.js"></script>
+        <script src="https://cdn.campussuite.com/jquery2/2.2.4/dist/jquery.min.js"></script>
+        <script src="https://cdn.campussuite.com/jquery-migrate/1.4.1/dist/jquery-migrate.min.js"></script>
+        <script src="https://cdn.campussuite.com/match-height/0.7.0/dist/jquery.matchHeight-min.js"></script>
+        <script src="https://cdn.campussuite.com/clipboardjs/2.0.4/dist/clipboard.js"></script>
+<script type="text/javascript" src="https://app.campussuite.com/bundles/cmscore/campussuite.js"></script>
+<meta name="google-translate-customization" content="11c4b5879da25b77-4b908d68ffc20b06-g77308e3db6daf2ec-18" />
+  
+  <script type="text/javascript">
+    var _monsido = _monsido || [];
+    _monsido.push(['_setDomainToken', 'o14qU1KkOx-Z968AM9M3uQ']);
+    _monsido.push(['_withStatistics', 'true']);
+  </script>
+  <script src="//cdn.monsido.com/tool/javascripts/monsido.js"></script>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSSZ8R27CV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NSSZ8R27CV');
+</script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55399540-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55399540-1');
+</script>
+
+<script type="text/javascript">
+    (function (window, document, $, undefined) {
+        $(function () {
+            $('.googtrans-trigger a').on('click', function (e) {
+                window.location.href = (window.location.pathname + window.location.search + $(this).attr('href'));
+                window.location.reload(true);
+                return false;
+            });
+        });
+    })(window, document, jQuery);
+</script>
+
+    </head>
+
+    <body class="alert-top">
+
+        <!-- TOP SCRIPTS -->
+
+
+
+        <!-- CONTENT -->
+        <div class="root">
+                        <!--Brixton-Header A-->
+
+<!--Skip Navigation-->
+<div class="skip-to-content"><a href="#main">Skip to Main Content</a></div><!--Begin Wrapper-->
+<div class="wrapper">
+
+    <!--Alert Banner-->
+    <div data-cms-widget="widgets/AlertBanner/AlertBanner" id="cms-widget-45dd4bb1-6901-4ee1-9b3e-4c92ce48cdaf">
+                </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.css"
+    ],
+    "scripts": [
+        "https:\/\/cdn.campussuite.com\/bootstrap\/3.4.1\/dist\/js\/bootstrap.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.playback.js"
+    ],
+    "plugin": "AlertBanner",
+    "pluginId": "cms-widget-45dd4bb1-6901-4ee1-9b3e-4c92ce48cdaf",
+    "pluginOptions": {
+        "autoplay": true,
+        "speed": 5000,
+        "loop": true
+    }
+});
+    </script>
+
+
+    <!--Begin Header A-->
+    <header class="header" id="cs-header">
+
+		<div class="content-overlay">
+			<button class="cs-menu-close" type="button" aria-label="Close main menu">
+				<span></span>
+			</button>
+		</div>
+
+		<div class="header-row">
+			<div class="header-logo"><div data-cms-widget="widgets/Image/Image" id="cms-widget-f92638d7-1188-4c67-8eeb-a58db834c2ce" class="logo">
+            <div class="">
+            <a href="/">
+        <img
+        class="
+            cs-img
+            img-responsive
+                                "
+        src="/files/WSD%20Logos%20(NEW)/WSD-horizontal-logo-small-RGB.png?mask=1"
+        alt="Wenatchee School District"
+    />
+    </a>    
+    </div>
+    </div>
+</div>
+
+			<button class="cs-menu-toggle" aria-label="Main menu" aria-expanded="false">
+				<span class="sr-only">Open main menu</span>
+			</button>
+
+			<div class="drawer">
+				<div class="header-nav"><div data-cms-widget="widgets/SharedContent/SharedContent" id="cms-widget-5da20086-e2b0-4f32-96ec-8b7d90b249c6">
+            <div data-cms-widget="widgets/MegaMenu/MegaMenu" id="cms-widget-95792b90-b443-4d9d-b1d4-859147bae85a">
+            <nav class="cs-main-menu" role="navigation" aria-label="Main navigation">
+    <ul class="cs-mmenu-items">
+                                    <li class="cs-mmenu-li cs-mmenu-dd-mega doubletap">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href="/about" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">About</span>
+                        </a>
+                                                    <button class="cs-mmenu-li-caret" aria-expanded="false">
+                                <span class="sr-only">Show sub menu for About</span>
+                            </button>
+                                            </div>
+                                                    <div class="cs-mmenu-dd-container" role="region" aria-expanded="false" data-editor-region-inline>
+                                <div data-cms-widget="widgets/Row/Row" id="cms-widget-6914b50b-1a87-49d2-9e44-3ba977e11393">
+            <div class="row">
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-49de84ca-97ed-4e66-a358-306f65b40969" class="dd-menu">
+            <ul>
+	<li><a aria-label="About Menu - School Board" href="/board">School Board</a></li>
+	<li><a href="/about/mission">Mission</a></li>
+	<li><a href="/about/superintendent">Superintendent</a></li>
+	<li><a href="/about/leadership-team">Leadership Team</a></li>
+	<li><a href="/strategicplan" title="Strategic Plan (opens in new window)">Strategic Plan</a></li>
+	<li><a href="/files/boundary%20map/WSD_Boundary_Maps.pdf" target="_blank">District Boundaries</a></li>
+	<li><a href="http://reportcard.ospi.k12.wa.us/summary.aspx?groupLevel=District&amp;schoolId=30&amp;reportLevel=District&amp;orgLinkId=30&amp;yrs=2016-17&amp;year=2016-17" target="_blank" title="OSPI Report Card (opens in new window)">OSPI Report Card</a></li>
+</ul>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-3897b7b1-13e1-42aa-91cd-47d1d8553d08" class="dd-menu">
+            <ul>
+	<li><a href="https://www.wenatcheeschools.org/about/organizational-chart">Organizational Chart</a></li>
+	<li><a href="/about/public-records-request">Public Records Request</a></li>
+	<li><a href="/district-calendars">District Calendars</a></li>
+	<li><a href="/about/news" title="District News - Main Menu link">District News</a></li>
+	<li><a href="https://wenatcheeschools.sjc1.qualtrics.com/jfe/form/SV_ewVeaqvfclNMfSB" title="Feedback/Comments - Main menu">Feedback/Comments</a></li>
+	<li><a href="/about/contact" title="Contact - Main Menu link">Contact</a></li>
+	<li><a href="/awards-and-recognitions">Awards &amp; Recognition</a></li>
+</ul>
+
+    </div>
+
+        </div>
+    </div>
+    </div>
+
+                            </div>
+                                        </li>
+                                                <li class="cs-mmenu-li cs-mmenu-dd-none">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href=" /parents" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">Parents</span>
+                        </a>
+                                            </div>
+                                        </li>
+                                                <li class="cs-mmenu-li cs-mmenu-dd-mega doubletap">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href="/our-schools" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">Schools</span>
+                        </a>
+                                                    <button class="cs-mmenu-li-caret" aria-expanded="false">
+                                <span class="sr-only">Show sub menu for Schools</span>
+                            </button>
+                                            </div>
+                                                    <div class="cs-mmenu-dd-container" role="region" aria-expanded="false" data-editor-region-inline>
+                                <div data-cms-widget="widgets/Row/Row" id="cms-widget-edc3d579-5035-4ff4-9e6f-afb776f534ba">
+            <div class="row">
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-a1be9c08-e060-4b26-9af2-5f304396cd02" class="dd-menu">
+            <ul>
+	<li><a href="/cp">Castle Rock Early Childhood Learning Center</a></li>
+	<li><a href="/fms">Foothills Middle School</a></li>
+	<li><a href="/nb">John Newbery Elementary</a></li>
+	<li><a href="/lc">Lewis &amp; Clark Elementary</a></li>
+	<li><a href="/lin">Lincoln Elementary</a></li>
+	<li><a href="/mv">Mission View Elementary</a></li>
+</ul>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-cdd107b9-4cf2-411a-929d-8b7cfff36f2e" class="dd-menu">
+            <ul>
+	<li><a href="/oms">Orchard Middle School</a></li>
+	<li><a href="/pio">Pioneer Middle School</a></li>
+	<li><a href="/ss">Sunnyslope Elementary</a></li>
+	<li><a href="/val">Valley Academy of Learning</a></li>
+	<li><a href="/wa">Washington Elementary</a></li>
+	<li><a href="/whs">Wenatchee High School</a></li>
+	<li><a href="/wvtsc">Wenatchee Valley Technical Skills Center</a></li>
+	<li><a href="/wshs">WestSide High School</a></li>
+</ul>
+
+    </div>
+
+        </div>
+    </div>
+    </div>
+
+                            </div>
+                                        </li>
+                                                <li class="cs-mmenu-li cs-mmenu-dd-mega doubletap">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href="/departments" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">Departments</span>
+                        </a>
+                                                    <button class="cs-mmenu-li-caret" aria-expanded="false">
+                                <span class="sr-only">Show sub menu for Departments</span>
+                            </button>
+                                            </div>
+                                                    <div class="cs-mmenu-dd-container" role="region" aria-expanded="false" data-editor-region-inline>
+                                <div data-cms-widget="widgets/Row/Row" id="cms-widget-62da0188-32cc-4752-bc97-19152d6a7e0b">
+            <div class="row">
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-395bb397-b898-4ae0-bf5e-4f7e86d91429" class="dd-menu">
+            <ul>
+	<li><a href="/after-school-program/index">After School Program</a></li>
+	<li><a href="https://www.wenatcheepanthers.com/" target="_blank">Athletics</a></li>
+	<li><a href="/communications">Communications</a></li>
+	<li><a href="/whs/career-tech/">Career and Technical Education (CTE)</a></li>
+	<li><a href="/earlychildhood/index">Early Childhood Programs</a></li>
+	<li><a href="/facilities">Facilities and Capital Projects</a></li>
+	<li><a href="/finance">Finance</a></li>
+</ul>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-0eed196c-6482-4009-8caf-494efce5d82b" class="dd-menu">
+            <ul>
+	<li><a href="/hicap">Highly Capable (HiCap)</a></li>
+	<li><a href="/hr">Human Resources &amp; Payroll</a></li>
+	<li><a href="/curriculum">Learning &amp; Teaching</a></li>
+	<li><a href="/maintenance">Maintenance and Operations</a></li>
+	<li><a href="/nurses-student-health">Nurses/Student Health</a></li>
+	<li><a href="/food-services">Nutrition Services</a></li>
+	<li><a href="/safety-security">Safety and Security</a></li>
+</ul>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-2197ff84-86f5-4e90-bfdc-b243bb178fa0" class="dd-menu">
+            <ul>
+	<li><a href="/special-education">Special Education</a></li>
+	<li><a href="/special-programs">Special Programs</a></li>
+	<li><a href="/student-support-services">Student Services</a></li>
+	<li><a href="/student-records/forms">Student Records</a></li>
+	<li><a href="/technology/index">Technology</a></li>
+	<li><a href="/transportation">Transportation</a></li>
+	<li><a href="/maintenance/warehouse">Warehouse</a></li>
+</ul>
+
+    </div>
+
+        </div>
+    </div>
+    </div>
+
+                            </div>
+                                        </li>
+                                                <li class="cs-mmenu-li cs-mmenu-dd-basic cs-mmenu-dd-left doubletap">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href="http://www.wenatcheeschools.org/board" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">Board</span>
+                        </a>
+                                                    <button class="cs-mmenu-li-caret" aria-expanded="false">
+                                <span class="sr-only">Show sub menu for Board</span>
+                            </button>
+                                            </div>
+                                                    <div class="cs-mmenu-dd-container" role="region" aria-expanded="false" data-editor-region-inline>
+                                <div data-cms-widget="widgets/Html/Html" id="cms-widget-66ce4ec3-d45d-4916-88c1-0494f325a0b7" class="dd-menu">
+            <ul>
+	<li><a href="/board/board-meetings">Board Meetings</a></li>
+	<li><a href="/board/community-conversations">Community Conversations</a></li>
+	<li><a href="/board/district-based-school-board-elections">District-Based School Board Elections</a></li>
+	<li><a href="/board/index">Meet the Board</a></li>
+	<li><a href="/board/board-visits-itineraries">School Visitations</a></li>
+	<li><a href="/board/school-board-vision">School Board Vision</a></li>
+	<li><a href="/strategicplan">Strategic Plan</a></li>
+	<li><a href="/superintendent-search/index">Superintendent Search</a></li>
+	<li><a href="/board/policies-and-procedures">Policies and Procedures</a></li>
+	<li><a href="/board/people" title="Contact - School Board - Main Menu link">Contact</a></li>
+</ul>
+
+    </div>
+
+                            </div>
+                                        </li>
+                                                <li class="cs-mmenu-li cs-mmenu-dd-none">
+                    <div class="cs-mmenu-li-item">
+                        <a class="cs-mmenu-li-item-link" href="https://sites.google.com/wenatcheeschools.org/wsdstaffintranet/" target="_blank" aria-expanded="false">
+                            <span class="cs-mmenu-li-item-text">Staff Portal</span>
+                        </a>
+                                            </div>
+                                        </li>
+                        </ul>
+</nav>    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [],
+    "scripts": [
+        "https:\/\/cdn.campussuite.com\/jquery-doubletaptogo\/3.0.2\/dist\/jquery.dcd.doubletaptogo.min.js"
+    ],
+    "plugin": "MegaMenu",
+    "pluginId": "cms-widget-95792b90-b443-4d9d-b1d4-859147bae85a",
+    "pluginOptions": {}
+});
+    </script>
+
+    </div>
+</div>
+				<div class="header-utils">
+					<div class="header-utils-wrap">
+						<div class="header-utility-nav"><div data-cms-widget="widgets/SharedContent/SharedContent" id="cms-widget-7b073eb1-55fe-4e16-a994-66100555d505">
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-b6053d84-85d0-4210-a869-c4f0557994e2" class="header-utility-links">
+            <ul>
+	<li><a aria-label="Utility - Calendar" href="/district-calendars">Calendar</a></li>
+	<li><a aria-label="Utility - Contact Us" href="/about/contact">Contact Us</a></li>
+	<li><a href="/">District</a></li>
+	<li><a href="http://wenatchee.tedk12.com/hire/index.aspx" target="_blank">Employment</a></li>
+	<li><a href="/about/directory">WSD Directory</a></li>
+</ul>
+
+    </div>
+
+    </div>
+
+
+<div data-cms-widget="widgets/GoogleTranslate/GoogleTranslate" id="cms-widget-85cd6c1f-9768-4192-a18f-4b0c5bb47364">
+            <div class="google-translate" id="google_translate_element"></div>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                    }, 'google_translate_element');
+
+            }
+</script>
+    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [],
+    "scripts": [
+        "https:\/\/translate.google.com\/translate_a\/element.js?cb=googleTranslateElementInit"
+    ],
+    "plugin": null,
+    "pluginId": "cms-widget-85cd6c1f-9768-4192-a18f-4b0c5bb47364",
+    "pluginOptions": {}
+});
+    </script>
+</div>
+						<div class="header-search"><div data-cms-widget="widgets/SharedContent/SharedContent" id="cms-widget-9742f606-39f6-4ff8-b0e8-165cf002a636">
+            <div data-cms-widget="widgets/HtmlSource/HtmlSource" id="cms-widget-1a958025-9330-40d0-90df-d10dafbad496" class="header-search-box">
+            <form action="/search-results">
+        <label for="hd-search" class="sr-only">Website Search</label>
+        <input type="hidden" value="006645776196159356012:iuuseb02kny" name="cx">
+        <input type="hidden" value="FORID:9" name="cof">
+        <input type="hidden" value="UTF-8" name="ie">
+        <input class="header-search-input" id="hd-search" type="text" placeholder="Search site..." name="q" title="Search" value="">
+        <button class="header-search-btn" type="submit" aria-label="Search">
+            <em class="fa fa-search" aria-hidden="true" title="Search this site"></em>
+        </button>
+</form>    </div>
+
+    </div>
+</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+    </header>
+    <!--End Header-->
+
+	<div class="page">
+		<!--Begin Inner-->
+		<main id="main">
+			<div data-cms-widget="widgets/Zone/Zone" id="cms-widget-a235e411-91da-434b-b618-13ec5ec17d62" class="content-zone">
+                <div data-cms-widget="widgets/Zone/Zone" id="cms-widget-58a32ced-fb84-45f9-9bfb-ac8144a4a468" class="content-zone">
+                <div data-cms-widget="widgets/OwlSlider/OwlSlider" id="cms-widget-eb1a7c42-2249-4f26-b474-559f59ab4ec5" class="mb-sm">
+            <div class="cs-owl-slider cs-slider-w-playback">
+	<div class="csw cs-owl-slides owl-carousel">
+		<div class="cs-owl-slide">
+					<img src="/files/Web%20Slider%2023-24/Pioneer%206th%20grade%20girls.png?mask=1" alt="Welcome back. You belong! " />
+						<div class="cs-owl-slide-wrap">
+								<div class="cs-owl-slide-container">
+									<div class="cs-owl-slide-content cs-owl-slide-content-left">
+										<div class="cs-owl-slide-title">
+												Welcome back. You belong! 
+											</div>
+										<div class="cs-owl-slide-body">
+																									<p>In the Wenatchee School District we&#39;re committed to ensuring all of our students are seen, valued, feel safe and know they belong.</p>
+
+																							</div>
+										<div class="cs-owl-slide-footer">
+												<a class="cs-owl-slide-btn" href="https://www.wenatcheeschools.org/strategicplan" target="_blank" >Learn about our strategic plan and promise</a>
+											</div>
+										</div>
+								</div>
+							</div>
+						</div>
+
+			<div class="cs-owl-slide">
+					<img src="/files/Web%20Slider%2023-24/School%20Zone%20Slider.png?mask=1" alt="Slow Down in School Zones" />
+						<div class="cs-owl-slide-wrap">
+								<div class="cs-owl-slide-container">
+									<div class="cs-owl-slide-content cs-owl-slide-content-left">
+										<div class="cs-owl-slide-title">
+												Slow Down in School Zones
+											</div>
+										<div class="cs-owl-slide-body">
+																									<p>To emphasize the importance of traffic safety in school zones, the Wenatchee School District is partnering with the Wenatchee Police Department&#39;s traffic unit to conduct emphasis patrols during the first few weeks of the school year.</p>
+
+																							</div>
+										<div class="cs-owl-slide-footer">
+												<a class="cs-owl-slide-btn" href="https://www.wenatcheeschools.org/news/1794428/wenatchee-school-district-wenatchee-pd-and-city-join-forces-for-back-to-school-traffic-safety" target="_blank" >Learn more</a>
+											</div>
+										</div>
+								</div>
+							</div>
+						</div>
+
+			<div class="cs-owl-slide">
+					<img src="/files/Web%20Slider%2023-24/Sports%20Spectacular%202024%20Flyer%20_Final.png?mask=1" alt="Wenatchee Youth Sports Spectacular (K-8)" />
+						<div class="cs-owl-slide-wrap">
+								<div class="cs-owl-slide-container">
+									<div class="cs-owl-slide-content cs-owl-slide-content-left">
+										<div class="cs-owl-slide-title">
+												Wenatchee Youth Sports Spectacular (K-8)
+											</div>
+										<div class="cs-owl-slide-body">
+																									<p>Discover a variety of community youth sports and activity opportunities for kids in grades K-8 at this fun, festive, and family-friendly event. Get excited for Fall athletics and activities, and find out how your child can get in the game! Sports and activity booths&nbsp;*&nbsp;Music * Food Trucks&nbsp;*&nbsp;WHS Athletes and Coaches * Panther Merchandise * CVCH Physicals&nbsp;*&nbsp;Family Financial Assistance Info</p>
+
+<p><strong>September 11, 2024<br />
+6-8 PM<br />
+Wenatchee Apple Bowl&nbsp;</strong></p>
+
+																							</div>
+										<div class="cs-owl-slide-footer">
+												<a class="cs-owl-slide-btn" href="https://www.wenatcheepanthers.com/sports-spectacular-" target="_blank" >Learn more </a>
+											</div>
+										</div>
+								</div>
+							</div>
+						</div>
+
+			<div class="cs-owl-slide">
+					<img src="/files/Web%20Slider%2023-24/Charlie%20and%20the%20Chocolate%20Factory.png?mask=1" alt="All-District Musical Auditions" />
+						<div class="cs-owl-slide-wrap">
+								<div class="cs-owl-slide-container">
+									<div class="cs-owl-slide-content cs-owl-slide-content-left">
+										<div class="cs-owl-slide-title">
+												All-District Musical Auditions
+											</div>
+										<div class="cs-owl-slide-body">
+																									<p>Students in grades 2-12 are invited to audition for a tasty treat of a show! Roald Dahl&#39;s Charlie and the Chocolate Factory is based on the famous novel of the same name. Auditions take place September 9th - 13th after school in the WHS Auditorium.</p>
+
+																							</div>
+										<div class="cs-owl-slide-footer">
+												<a class="cs-owl-slide-btn" href="https://www.wenatcheeschools.org/whs/theater" target="_blank" >Get grade level audition dates and info </a>
+											</div>
+										</div>
+								</div>
+							</div>
+						</div>
+
+			</div>
+		<div id="cms-widget-eb1a7c42-2249-4f26-b474-559f59ab4ec5-dots" class="cs-owl-slider-dots owl-dots"></div>
+	</div>
+    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.css"
+    ],
+    "scripts": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.playback.js"
+    ],
+    "plugin": "OwlSlider",
+    "pluginId": "cms-widget-eb1a7c42-2249-4f26-b474-559f59ab4ec5",
+    "pluginOptions": {
+        "transition": "fade",
+        "transitionSpeed": 250,
+        "navigation": true,
+        "pagination": true,
+        "paginationNumbers": false,
+        "paginationSpeed": 5000,
+        "autoplay": true,
+        "pauseOnHover": true,
+        "autoHeight": false
+    }
+});
+    </script>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-eb223bf2-7b85-4d36-8d35-4cc734f0a89a" class="section section-condensed section-carousel bg-gray-light">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/Row/Row" id="cms-widget-75932a9e-83ce-427a-85a0-d977d07e4064">
+            <div class="row">
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-4d6c8044-48d6-4cdd-af27-911c7e4215e1">
+            <h1>The Wenatchee School District</h1>
+
+<p>Wenatchee School District&rsquo;s students, teachers, and staff reflect the diversity and richness of Wenatchee. Through high-quality instruction, social-emotional support, and career-connected learning, we are helping each and every student achieve success and tap into their limitless potential.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-3                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/IconGroup/IconGroup" id="cms-widget-d453111a-6aa5-4403-ae87-2f612e275e35" class="quick-links">
+            <ul class="csw
+    cs-icon-group-stacked
+    cs-icon-sm
+    cs-icon-left
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-primary
+
+    ">
+
+    <li class="cs-icon-wrap">
+    <a href="/student-support-services/student-registration" >
+                    <em class="cs-icon fa fa-user-plus" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">Student Registration</span> <span class="sr-only"></span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://www.smore.com/u/wenatcheeschooldistrict" >
+                    <em class="cs-icon fa fa-newspaper-o" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">Newsletters</span> <span class="sr-only"></span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://wenatchee-wa.safeschoolsalert.com/" target="_blank" >
+                    <em class="cs-icon fa fa-shield" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">Report a Safety Concern</span> <span class="sr-only">(opens in new window)</span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://sites.google.com/wenatcheeschools.org/remote" >
+                    <em class="cs-icon fa fa-question-circle" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">Tech Support</span> <span class="sr-only"></span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://nwcustomapparelstore.com/wenatchee_school_district/shop/home" >
+                    <em class="cs-icon fa fa-shopping-cart" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">WSD Gear Store</span> <span class="sr-only"></span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://www.wenatcheeschools.org/hr/employee-g-e-m-award" >
+                    <em class="cs-icon fa fa-trophy" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">GEM Awards</span> <span class="sr-only"></span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://app.peachjar.com/flyers/all/districts/50020/" >
+                    <em class="cs-icon fa fa-envelope-open" aria-hidden="true"></em>
+            
+            <span class="cs-icon-text">Peachjar Digital Flyers</span> <span class="sr-only"></span>
+            </a>
+    </li>
+    </ul>
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-3                                    
+        " data-editor-region-inline>
+            
+        </div>
+    </div>
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-ac03a6c9-c0d9-4a37-b436-0df2dfaa8318" class="section section-condensed section-carousel">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/ModuleCalendarOwlCarousel/ModuleCalendarOwlCarousel" id="cms-widget-5b54c04e-58a5-4e51-84e7-6087ee8dc3be">
+            <div class="csmw cs-owl-carousel cs-calendar-carousel">
+            <div class="cs-widget-header">
+            <div class="cs-widget-header-heading">
+                <h2 class="cs-widget-header-title">Upcoming Events</h2>
+        </div>
+            </div>
+                <div class="cs-owl-carousel-list owl-carousel">
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 2
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6080820/labor-day-no-school">Labor Day (No School)</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-all-day">
+		        <p class="meta-event-type">All Day Event</p>
+                    </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 3
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6461698/special-education-para-job-fair">Special Education Para Job Fair</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">3:00 PM</span>
+                            </span>
+                            <span class="meta-event-separator">-</span>
+                            <span class="meta-event-end">
+                                                                    <span class="meta-event-time">7:00 PM</span>
+                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 10
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6176129/interagency-meeting">Interagency Meeting</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">10:30 AM</span>
+                            </span>
+                            <span class="meta-event-separator">-</span>
+                            <span class="meta-event-end">
+                                                                    <span class="meta-event-time">12:00 PM</span>
+                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 10
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6242123/board-meeting-clone">Board Meeting</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">6:00 PM</span>
+                            </span>
+                                    <span class="meta-event-end">
+                                                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 11
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6108194/youth-sports-spectacular">Youth Sports Spectacular</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">6:00 PM</span>
+                            </span>
+                            <span class="meta-event-separator">-</span>
+                            <span class="meta-event-end">
+                                                                    <span class="meta-event-time">8:00 PM</span>
+                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 16
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6242157/board-workshop-clone">Board Workshop</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">1:00 PM</span>
+                            </span>
+                                    <span class="meta-event-end">
+                                                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							September 24
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6242124/board-meeting-clone">Board Meeting</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">6:00 PM</span>
+                            </span>
+                                    <span class="meta-event-end">
+                                                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                            <div class="cs-owl-carousel-li">
+                    <div class="cs-owl-carousel-li-heading">
+					
+						<div class="date-day">
+							October 8
+						</div>
+					
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar/6176130/interagency-meeting-clone">Interagency Meeting</a>
+                        </h3>
+
+                                                                                        
+
+
+
+
+
+<div class="cs-li-default-meta cs-li-meta-default">
+		<p class="meta-event-datetime">
+                    <span class="meta-event-start">
+                                                                    <span class="meta-event-time">10:30 AM</span>
+                            </span>
+                            <span class="meta-event-separator">-</span>
+                            <span class="meta-event-end">
+                                                                    <span class="meta-event-time">12:00 PM</span>
+                            </span>
+            </p>
+		                </div>
+                            
+					</div>
+                                    </div>
+                    </div>
+        <div id="cms-widget-5b54c04e-58a5-4e51-84e7-6087ee8dc3be-dots" class="cs-owl-carousel-dots owl-dots"></div>
+		            <div class="csw-footer cs-owl-carousel-footer">
+                            <a href="https://www.wenatcheeschools.org/district-calendars/calendar" class="csw-view-more">View All Events </a>
+                                </div>
+    
+    <script>
+    (function (window, document, $, undefined) {
+        $(function () {
+            $('#cms-widget-5b54c04e-58a5-4e51-84e7-6087ee8dc3be').on('click', '.meta-event-attachment-link', function (e) {
+                var $target = $(e.currentTarget);
+                var p = $.ajax({
+                    url: $target.attr('data-ajax'),
+                });
+                p.done(function (resp) {
+                    $(resp)
+                        .appendTo($('body'))
+                        .modal({
+                            show: false
+                        })
+                        .on('show.bs.modal', function () {
+                            $(this).css('display', 'block');
+                            var $d = $(this).find('.modal-dialog'),
+                                o = ($(window).height() - $d.height()) / 2,
+                                bm = parseInt($d.css('marginBottom'), 10);
+                            o = Math.max(o, bm);
+                            $d.css('margin-top', o);
+                        })
+                        .on('hidden.bs.modal', function () {
+                            $(this).remove();
+                        })
+                        .modal('show');
+                });
+                e.preventDefault();
+            });
+        });
+    })(window, document, jQuery);
+</script>
+
+</div>
+    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.css"
+    ],
+    "scripts": [
+        "https:\/\/cdn.campussuite.com\/bootstrap\/3.4.1\/dist\/js\/bootstrap.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.playback.js"
+    ],
+    "plugin": "ModuleCalendarOwlCarousel",
+    "pluginId": "cms-widget-5b54c04e-58a5-4e51-84e7-6087ee8dc3be",
+    "pluginOptions": {
+        "autoplay": true,
+        "speed": 5000,
+        "loop": true,
+        "spacing": 40,
+        "navigation": true,
+        "dots": true,
+        "autoWidth": false,
+        "itemsMobile": 1,
+        "itemsTablet": 2,
+        "itemsDesktop": 3,
+        "itemsLargeDesktop": 3
+    }
+});
+    </script>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-51f1e3d5-5ae2-47d1-a3e9-b5162e875196" class="section section-carousel" style="background-image: url('/files/Theme/theme%20files/Wenatchee-pattern-01.png'); background-size: cover; background-repeat: no-repeat; background-position: top left;">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/ModuleNewsOwlCarousel/ModuleNewsOwlCarousel" id="cms-widget-a3ad601a-f539-4f93-9fb3-6be241f157e5">
+            <div class="csmw cs-owl-carousel cs-news-carousel">
+            <div class="cs-widget-header">
+            <div class="cs-widget-header-heading">
+                <h2 class="cs-widget-header-title">In The News</h2>
+        </div>
+            </div>
+                <div class="cs-owl-carousel-list owl-carousel">
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2840461/251c35ea-6723-11ef-8996-02b1d8f33087/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://www.wenatcheeworld.com/education/bilingual-bicultural-how-wenatchees-dual-language-programs-are-transforming-education/article_56fe403a-6642-11ef-81f9-bfc5118cb493.html', true);"
+                                onkeypress="return Campussuite.Tools.jslink('https://www.wenatcheeworld.com/education/bilingual-bicultural-how-wenatchees-dual-language-programs-are-transforming-education/article_56fe403a-6642-11ef-81f9-bfc5118cb493.html', true);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeworld.com/education/bilingual-bicultural-how-wenatchees-dual-language-programs-are-transforming-education/article_56fe403a-6642-11ef-81f9-bfc5118cb493.html" target="_blank">Bilingual &amp; Bicultural: How Wenatchee&#039;s dual language programs are transforming education</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">August 30, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                                            </div>
+                    
+                </div>
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2834830/4fd9cdec-6039-11ef-bc26-0a58a9feac02/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1794428/wenatchee-school-district-wenatchee-pd-and-city-join-forces-for-back-to-school-traffic-safety', false);"
+                                onkeypress="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1794428/wenatchee-school-district-wenatchee-pd-and-city-join-forces-for-back-to-school-traffic-safety', false);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/news/1794428/wenatchee-school-district-wenatchee-pd-and-city-join-forces-for-back-to-school-traffic-safety">Wenatchee School District, Wenatchee PD, and City Join Forces for Back-to-School Traffic Safety</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">August 21, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                        <p>As students return to classrooms across the Wenatchee School District, ensuring their s...</p>
+                                                                                </div>
+                    
+                </div>
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2828712/f500c42e-58d7-11ef-acdc-0a58a9feac02/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://drive.google.com/file/d/1NOyCvqqCqRHqGUeHjTHK357JFnjhgpNJ/view', true);"
+                                onkeypress="return Campussuite.Tools.jslink('https://drive.google.com/file/d/1NOyCvqqCqRHqGUeHjTHK357JFnjhgpNJ/view', true);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://drive.google.com/file/d/1NOyCvqqCqRHqGUeHjTHK357JFnjhgpNJ/view" target="_blank">Back-to-School Guide</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">August 12, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                                            </div>
+                    
+                </div>
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2456520/12fb8c1e-14f8-11ed-8142-0ad82355fb35/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1793385/budget-public-hearing-august-13-at-6-pm', false);"
+                                onkeypress="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1793385/budget-public-hearing-august-13-at-6-pm', false);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/news/1793385/budget-public-hearing-august-13-at-6-pm">Budget Public Hearing August 13 at 6 PM</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">July 30, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                        <p>The Wenatchee School Board of Directors will hold a budget hearing on August 13, 2024 c...</p>
+                                                                                </div>
+                    
+                </div>
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2801252/2d6cc158-2284-11ef-869f-0e5b1cee5b47/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1791072/officer-edgar-barajas-is-wsd-s-newest-school-resource-officer', false);"
+                                onkeypress="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1791072/officer-edgar-barajas-is-wsd-s-newest-school-resource-officer', false);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/news/1791072/officer-edgar-barajas-is-wsd-s-newest-school-resource-officer">Officer Edgar Barajas is WSD’s Newest School Resource Officer</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">June 4, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                        <p>Next school year, Wenatchee Police Officer Edgar Barajas will join the Wenatchee School...</p>
+                                                                                </div>
+                    
+                </div>
+                            <div class="cs-owl-carousel-li">
+                                            <div class="cs-owl-carousel-li-img">
+                            <img
+                                src="https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2800987/cec4ecce-21fd-11ef-85da-0afffe12773f/optimizations/524288"
+                                onclick="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1791017/free-summer-meals-for-kids', false);"
+                                onkeypress="return Campussuite.Tools.jslink('https://www.wenatcheeschools.org/news/1791017/free-summer-meals-for-kids', false);"
+                                tabindex="-1"
+                                alt=""
+                            />
+                        </div>
+                                        <div class="cs-owl-carousel-li-heading">
+                        <h3 class="cs-owl-carousel-li-title">
+                            <a href="https://www.wenatcheeschools.org/news/1791017/free-summer-meals-for-kids">Free Summer Meals</a>
+                        </h3>
+                                                    <div class="cs-owl-carousel-li-meta">
+                                <span class="cs-owl-carousel-li-date">June 3, 2024</span>
+                            </div>
+                                            </div>
+
+                                            <div class="cs-owl-carousel-li-body">
+                                                                                        <p>Wenatchee School District is sponsoring free breakfast and lunch for any child ages 18 ...</p>
+                                                                                </div>
+                    
+                </div>
+                    </div>
+		<div id="cms-widget-a3ad601a-f539-4f93-9fb3-6be241f157e5-dots" class="cs-owl-carousel-dots owl-dots"></div>
+		            <div class="csw-footer cs-owl-carousel-footer">
+                            <a href="https://www.wenatcheeschools.org/news" class="csw-view-more">View All News</a>
+                                </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.css"
+    ],
+    "scripts": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.playback.js"
+    ],
+    "plugin": "ModuleNewsOwlCarousel",
+    "pluginId": "cms-widget-a3ad601a-f539-4f93-9fb3-6be241f157e5",
+    "pluginOptions": {
+        "autoplay": true,
+        "speed": 5000,
+        "loop": true,
+        "spacing": 40,
+        "navigation": true,
+        "dots": true,
+        "autoWidth": false,
+        "itemsMobile": 1,
+        "itemsTablet": 2,
+        "itemsDesktop": 3,
+        "itemsLargeDesktop": 3
+    }
+});
+    </script>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-1a6cd13e-1fab-47e7-894a-117aa1771eed" class="section section-overlay bg-primary" style="background-image: url('/files/Theme/theme%20files/stats-bg.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-e3905910-10d4-4fb6-8913-b4e3a6d1ba0a" class="section-header mb-md">
+            <h2>Why it matters</h2>
+
+<p>Students come to our schools with different lived experiences, starting points, and needs. We believe every student has limitless potential and deserves an education that will help them reach their academic and career goals&mdash;whatever they may be. That&rsquo;s why we&rsquo;re working hard to make WSD a place everyone&nbsp;knows they belong and has what they need to succeed. &nbsp;</p>
+
+    </div>
+
+
+<div data-cms-widget="widgets/OwlCarouselEditable/OwlCarouselEditable" id="cms-widget-12858646-ed25-4f41-b9ac-2cf9efbbc21f" class="stats">
+            <div class="csw cs-owl-carousel">
+                <div class="cs-owl-carousel-list owl-carousel">
+                            <div class="cs-owl-carousel-li" data-editor-region-inline>
+                        <div data-cms-widget="widgets/Icon/Icon" id="cms-widget-8e19380e-3163-4c9e-92de-798df597af8b" class="stat-icon">
+            <div class="csw cs-icon-wrap
+    cs-icon-xxl
+    cs-icon-center
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-default
+    
+    ">
+
+                        <em class="cs-icon fa fa-heart" aria-hidden="true" title="Campus lorem ipsum dolor" ></em>
+        
+        <span class="sr-only">Campus lorem ipsum dolor </span>
+        </div>    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-8be8552f-56c6-4613-9419-a2bc5594faf3" class="stat-body">
+            <p class="large">893</p>
+
+<p>Exceptional educators, including full- and part-time certified and classified employees, who take pride in serving our students and community</p>
+
+    </div>
+
+                    </div>                            <div class="cs-owl-carousel-li" data-editor-region-inline>
+                        <div data-cms-widget="widgets/Icon/Icon" id="cms-widget-52084e7c-2012-4b50-8dba-171aaac996d0" class="stat-icon">
+            <div class="csw cs-icon-wrap
+    cs-icon-xxl
+    cs-icon-center
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-default
+    
+    ">
+
+                        <em class="cs-icon fa fa-child" aria-hidden="true" title="Graduation lorem ipsum dolor" ></em>
+        
+        <span class="sr-only">Graduation lorem ipsum dolor </span>
+        </div>    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-a6501b46-661a-42f0-9e0b-4c41a7cef33f" class="stat-body">
+            <p class="large">6,700</p>
+
+<p>Students who are 53 percent LatinX, 43 percent white, and 4 percent from other cultural and racial backgrounds.</p>
+
+    </div>
+
+                    </div>                            <div class="cs-owl-carousel-li" data-editor-region-inline>
+                        <div data-cms-widget="widgets/Icon/Icon" id="cms-widget-542cf0e3-f1c4-423f-a98f-9d6c62518304" class="stat-icon">
+            <div class="csw cs-icon-wrap
+    cs-icon-xxl
+    cs-icon-center
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-default
+    
+    ">
+
+                        <em class="cs-icon fa fa-university" aria-hidden="true" title="Campus lorem ipsum dolor" ></em>
+        
+        <span class="sr-only">Campus lorem ipsum dolor </span>
+        </div>    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-1c9294d5-d1cb-4ef6-80cf-74ecbd2d73f0" class="stat-body">
+            <p class="large">16</p>
+
+<p>One early childhood learning center, seven elementary schools, three middle schools, one comprehensive high school, one alternative high school, a K-8 alternative parent partnership school, a technical skills center and a 18-21 transitions program.</p>
+
+    </div>
+
+                    </div>                            <div class="cs-owl-carousel-li" data-editor-region-inline>
+                        <div data-cms-widget="widgets/Icon/Icon" id="cms-widget-3324951f-576d-48d6-bfce-f00ee2751db4" class="stat-icon">
+            <div class="csw cs-icon-wrap
+    cs-icon-xxl
+    cs-icon-center
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-default
+    
+    ">
+
+                        <em class="cs-icon fa fa-graduation-cap" aria-hidden="true" title="All-star lorem ipsum dolor" ></em>
+        
+        <span class="sr-only">All-star lorem ipsum dolor </span>
+        </div>    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-d42cef6e-5c4e-404b-8660-9e7757898561" class="stat-body">
+            <p class="large">6</p>
+
+<p><a href="https://www.wenatcheeschools.org/strategicplan" target="_blank">Six big learning outcomes</a> for students to&nbsp;fulfill their potential, and graduate&mdash;ready to pursue vocational training, college, or a career.</p>
+
+    </div>
+
+                    </div>                    </div>
+    	</div>
+    </div>
+    <script type="text/javascript">
+        Campussuite.Widgets.run({
+    "styles": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.css"
+    ],
+    "scripts": [
+        "\/ui\/overrides\/owl-carousel\/owl.carousel.min.js",
+        "\/ui\/overrides\/owl-carousel\/owl.playback.js"
+    ],
+    "plugin": "OwlCarouselEditable",
+    "pluginId": "cms-widget-12858646-ed25-4f41-b9ac-2cf9efbbc21f",
+    "pluginOptions": {
+        "autoplay": false,
+        "speed": 5000,
+        "loop": false,
+        "spacing": 40,
+        "navigation": false,
+        "dots": false,
+        "autoWidth": false,
+        "itemsMobile": 1,
+        "itemsTablet": 2,
+        "itemsDesktop": 4,
+        "itemsLargeDesktop": 4
+    }
+});
+    </script>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-62c7157f-7de2-47e7-97e3-e633579eb2da" class="section section-blocks">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/Block/Block" id="cms-widget-b2f116e7-b264-4b80-aa59-dd2dab466340" class="row">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Block/Block" id="cms-widget-9ba2342d-45bc-43ea-b52c-e3dbf94a226f" class="col-sm-6 col-md-4">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-81c4d721-9c62-495e-b6e5-51b398e4efc1" class="block bg-secondary" style="background-image: url('/files/Theme/theme%20files/cta%20images/cta1.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+            <p><a href="https://wenatcheeschools.sjc1.qualtrics.com/jfe/form/SV_06s99bJr2xFhL5Y" target="_blank">Volunteer</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-15a5ce1f-44b9-4734-b43b-2967f1bac8be" class="col-sm-6 col-md-4">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-ec835372-def5-4c58-8993-3031c3222c6e" class="block bg-secondary" style="background-image: url('/files/Theme/theme%20files/cta%20images/cta3.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+            <p><a href="https://wenatchee.tedk12.com/hire/index.aspx" target="_blank">Employment</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-921a0f1b-8beb-48e4-ab4f-c0b0eb462009" class="col-sm-6 col-sm-push-6 col-md-4 col-md-push-0">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-36d218d1-ba79-4ff8-8374-f8384ebac09f" class="block bg-secondary" style="background-image: url('/files/Theme/theme%20files/cta%20images/cta4.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+            <p><a href="/finance/online-payments">Payments/Donations</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-d3bc3612-8243-4179-b24e-449d57169096" class="col-sm-6 col-sm-pull-6 col-md-4 col-md-pull-0">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-a8e90d54-55c9-4836-b1fa-ae57254eb790" class="block bg-secondary">
+            <p><a href="/student-support-services/update-contact-information">Update Contact Info</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-ea443bde-b8b1-4acf-85c3-9c36f43dfdba" class="col-sm-6 col-md-4">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-55725797-a7a5-4a12-8d2b-903948fbcb6a" class="block bg-secondary" style="background-image: url('/themes/Brixton/images/block-3-600x427.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+            <p><a href="/strategicplan">Strategic Plan</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+
+<div data-cms-widget="widgets/Block/Block" id="cms-widget-8c8bd0ab-618c-42d7-afa5-1bdf3ea32d5d" class="col-sm-6 col-md-4">
+                        <div data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-b9f9941d-f910-48cb-86b8-5dd2361449f3" class="block bg-secondary" style="background-image: url('/files/Theme/theme%20files/cta%20images/cta2.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+            <p><a href="/board/board-meetings">Board Meetings</a></p>
+
+    </div>
+
+        </div>
+        </div>
+
+        </div>
+        </div>
+
+        </div>
+        </div>
+
+    </div>
+
+    </div>
+
+			<!--Acrobat Reader DC Link-->
+			<p class="sr-only">This site provides information using PDF, visit this link to <a href="https://get.adobe.com/reader/" title="Download link opens in new window" target="_blank" tabindex="-1">download the Adobe Acrobat Reader DC software</a>.</p></main>
+		<!--End Inner-->
+    </div>
+
+    <!--Begin Footer A-->
+    <footer class="footer">
+        <div data-cms-widget="widgets/Block/Block" id="cms-widget-e342d487-2180-4fb7-bee9-b4b22eb63af5" class="footer-main">
+                        <div class="container" data-editor-region-inline>
+            <div data-cms-widget="widgets/SharedContent/SharedContent" id="cms-widget-1abb4f1a-24bc-4221-a77c-f323c0a52d35">
+            <div data-cms-widget="widgets/Row/Row" id="cms-widget-82eaff61-c052-4489-802f-70addfe92060">
+            <div class="row">
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Image/Image" id="cms-widget-046aa443-5f41-4143-9223-b453d25c9470" class="footer-logo">
+            <div class="">
+        <img
+        class="
+            cs-img
+            img-responsive
+                                "
+        src="/files/Theme/theme%20files/2022/logo-footer.png"
+        alt="School Crest"
+    />
+        
+    </div>
+    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-756a4d47-057d-4f86-8e0b-26684dbf225a" class="footer-location">
+            <h5 class="h5">Wenatchee School District</h5>
+
+<p>235 Sunset Avenue<br />
+Wenatchee, WA 98801</p>
+
+<p>Phone: 509.663.8161<br />
+Fax: 509.663.3082</p>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Row/Row" id="cms-widget-11b44439-b96a-4b55-ad73-e1b6240af2d0">
+            <div class="row">
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-b23511ac-de6d-4f9e-86f1-25f18ac299f4" class="footer-menu">
+            <ul>
+	<li><a aria-label="Footer2 - About" href="/about">About</a></li>
+	<li><a aria-label="Footer2 - Parents" href="/parents">Parents</a></li>
+	<li><a aria-label="Footer2 - Schools" href="/our-schools">Schools</a></li>
+	<li><a aria-label="Footer2 - Departments" href="/departments">Departments</a></li>
+	<li><a aria-label="Footer2 - Board" href="/board">Board</a></li>
+	<li><a aria-label="Footer2 - Staff" href="https://sites.google.com/wenatcheeschools.org/wsdstaffintranet/" target="_blank">Staff</a></li>
+</ul>
+
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-6                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/Html/Html" id="cms-widget-37f646e3-c2b6-4a6a-8717-5c99a3c07c31" class="footer-menu">
+            <ul>
+	<li><a href="/legal-disclaimer">Web Disclaimer/Non-Discrimination Statement</a></li>
+	<li><a href="/privacy-policy">Privacy Policy</a></li>
+	<li><a href="/submit-ada-concern">Submit ADA Concern</a></li>
+	<li><a href="https://docs.google.com/forms/d/1rSDgK_Ti8FDDjrqDG5RMXsuIIDX48TIgFpZBa-Nn7SE/viewform?ts=5ff8a6dd&amp;gxids=7628&amp;edit_requested=true" target="_blank">Request Sign Language Services</a></li>
+	<li><a aria-label="Footer - Feedback" href="https://wenatcheeschools.sjc1.qualtrics.com/jfe/form/SV_ewVeaqvfclNMfSB" target="_blank">Feedback</a></li>
+</ul>
+
+    </div>
+
+        </div>
+    </div>
+    </div>
+
+        </div>
+            <div class="
+                                    col-md-4                                    
+        " data-editor-region-inline>
+            <div data-cms-widget="widgets/IconGroup/IconGroup" id="cms-widget-affb5a56-d56d-4e61-bcb7-62331d75c44d" class="footer-social">
+            <ul class="csw
+    cs-icon-group
+    cs-icon-sm
+    cs-icon-left
+    cs-icon-default
+    cs-icon-bg-default
+    cs-icon-text-default
+
+    ">
+
+    <li class="cs-icon-wrap">
+    <a href="https://facebook.com/pages/Wenatchee-School-District-246/125750924103694" >
+                    <em class="cs-icon fa fa-facebook" aria-hidden="true"></em>
+            
+            <span class="sr-only">Follow us on Facebook </span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://twitter.com/WenatcheeSD" >
+                    <em class="cs-icon fa fa-twitter" aria-hidden="true"></em>
+            
+            <span class="sr-only">Follow us on Twitter </span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="https://www.instagram.com/wenatcheeschools/" >
+                    <em class="cs-icon fa fa-instagram" aria-hidden="true"></em>
+            
+            <span class="sr-only">Follow us on Instagram </span>
+            </a>
+    </li>
+        <li class="cs-icon-wrap">
+    <a href="http://www.youtube.com/user/WSDCommunications" >
+                    <em class="cs-icon fa fa-youtube-play" aria-hidden="true"></em>
+            
+            <span class="sr-only">Follow us on YouTube </span>
+            </a>
+    </li>
+    </ul>
+    </div>
+
+
+<div data-cms-widget="widgets/Html/Html" id="cms-widget-22303177-6037-47ec-890a-7e8180833c54">
+            <p><a href="https://washingtonstatereportcard.ospi.k12.wa.us/" target="_blank">OSPI&#39;s Washington State Report Card Dashboard</a>&nbsp;</p>
+
+    </div>
+
+
+<div data-cms-widget="widgets/Button/Button" id="cms-widget-4dccd6ff-b373-45a3-a2a0-0bffcaad65dc">
+            <div class="cs-button-wrap ">
+    <a class="cs-btn cs-btn-sm cs-btn-secondary"
+		href="https://wenatchee-wa.safeschoolsalert.com/"
+       	target="_blank" >
+        <span>Report a Safety Concern</span>
+    </a>
+</div>
+    </div>
+
+        </div>
+    </div>
+    </div>
+
+    </div>
+
+        </div>
+        </div>
+
+        
+							<div class="ada-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a class="ada-footer__logo" href="https://www.schoolnow.com" target="_blank" title="SchoolNow website link">
+                    <span class="sr-only">SchoolNow, a web platform for schools</span>
+                </a>
+                <ul class="ada-footer__links">
+                    <li><a href="/ada-policy" role="button">Website accessibility policy</a></li>
+                    <li><a href="/privacy-policy" role="button">Privacy policy</a></li>
+                    <li><a href="/site-map" role="button">Site map</a></li>
+                    <li><a href="/submit-ada-concern" role="button">Report accessibility issue</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    </footer>
+    <!--End Footer A-->
+    
+</div>
+<!--End Wrapper-->
+        </div>
+
+        <!-- BOTTOM SCRIPTS -->
+<script type="text/javascript" src="https://app.campussuite.com/themes/Brixton/scripts/brixton.js"></script>
+
+
+        <!-- CUSTOM SCRIPTS -->
+
+
+
+    </body>
+
+</html>
+
+<!-- DEBUGGING -->
+<!--
+-->

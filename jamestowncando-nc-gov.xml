@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+                <base href="https://www.jamestown-nc.gov" target="_self" />
+        <title>Town Of Jamestown | Welcome To Jamestown</title>
+        <meta name='tags' content="jamestown, town, parks, nc, north carolina, utilities, parks, recreation, government, events, towns in nc" />
+        <meta name="description" content="Welcome to Jamestown, located in the heart of North Carolina. We have lots of amenities and happenings for the whole family" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="icon" type="image/png" href="https://www.jamestown-nc.gov/img/favicon.png" />
+        <!-- Load JQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+        <!-- Load JQuery UI -->
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <!-- Mobile Compatibility -->
+        <script src='https://storage.googleapis.com/dbc-next/cdn/touchpunch/jquery.ui.touch-punch.min.js'></script>
+        <!-- Load Font Awesome -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/v4-shims.css" />
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:200,400,400i,500,600,700,700i,800,900" rel="stylesheet" />
+        <!-- Default Core Stylesheet -->
+        <link href='css/custom-style.css' rel='stylesheet' type='text/css' />
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Poppins:300,400,400i,500,700,700i,800" rel="stylesheet">
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TH7GWLK');</script>
+        <!-- End Google Tag Manager -->
+    </head><body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TH7GWLK"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="SiteHeader" class="home-navigation container-fluid" style="/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#211313+0,190c0c+100&1+0,0+100 */
+background: -moz-linear-gradient(top,  rgba(33,19,19,1) 0%, rgba(25,12,12,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(33,19,19,1) 0%,rgba(25,12,12,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(33,19,19,1) 0%,rgba(25,12,12,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#211313', endColorstr='#00190c0c',GradientType=0 ); /* IE6-9 */">
+        <div class="container">
+    <div id="headerLogo" class="row">
+        <div id="siteLogo" class="col-xs-12 col-sm-6">
+            <a href="/" title="Town of Jamestown" class="hidden-xs">
+              <img alt="Town of Jamestown" src="/img/logo.png" width="337" >
+            </a>
+        </div>
+        <div id="siteContact" class="col-xs-12 col-sm-6 text-right">
+            <p>301 E. Main Street,   Jamestown, North Carolina 27282</p>
+            <p>Hours Of Operation: 8:30AM-5:00PM</p>
+            <p>Emergency After Hours Number: 336.454.1218</p>
+            <p>(336) 454-1138 <a href="https://www.facebook.com/JamestownNC/" target="_blank" title="On Facebook"><i class="fa fa-facebook-f"></i></a> | <a href="/contact/"><i class="fa fa-envelope" aria-hidden="true"></i></a></p>
+        </div>
+    </div>
+    <nav class="navbar navbar-default">
+        <div class="navbar-header hidden-sm hidden-md hidden-lg">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navigation" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a href="/" title="Town of Jamestown" class="navbar-brand">
+                <img alt="Town of Jamestown" src="/img/logo.png" width="150" >
+            </a>
+        </div>
+        <div class="collapse navbar-collapse" id="primary-navigation">
+            <ul class="nav navbar-nav">
+                <li><a href="#" title="Our Events">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Government</a>
+                    <ul class="dropdown-menu multi-column columns-3">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="nav-multi-column-holder border-right">
+                                    <ul class="multi-column-dropdown">
+                                        <li class="nav-sub-cat">Public Services</li>
+                                        <li><a href="/my-government/public-information-requests" title="Public Information Requests">Public Information Requests</a></li>
+                                        <li><a href="/my-government/sanitation-and-recycling" title="Sanitation & Recycling">Sanitation & Recycling</a></li>
+                                        <li><a href="/my-government/town-services" title="Town Services">Town Services</a></li>
+                                        <li><a href="/resources/WaterandSewerServiceInformation4-09.pdf" title="Water & Sewer Services" target="_blank">Water & Sewer Services</a></li>
+					<li><a href="https://storage.googleapis.com/dbc-jcity/files/pdf/AnnualDrinkingWaterQualityReport-1719344346.pdf" title="Annual Water & Quality Report" target="_blank">Annual Water & Quality Report</a></li>
+                                        <li><a href="/my-government/utility-right-of-way-and-easement-management" title="Utility Right Of Way / Easement">Utility Right Of Way / Easement</a></li>
+                                        <li><a href="/my-government/fat-free-sewers" title="Fat Free Sewers">Fat Free Sewers</a></li>
+                                        <li><a href="/my-government/storm-water-education" title="Storm Water Education">Storm Water Education</a></li>
+                                        <li><a href="/my-government/report-street-lights-out" title="Report Street Lights Out">Report Street Lights Out</a></li>
+                                    </ul>
+                                    <ul class="multi-column-dropdown">
+                                        <li class="nav-sub-cat">Local Government</li>
+                                        <li><a href="/my-government/council-members" title="Public Information Requests">Council Members</a></li>
+                                        <li><a href="/my-government/meeting-minutes-and-schedules" title="Public Information Requests">Meeting Minutes & Schedules</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="nav-multi-column-holder">
+                                    <ul class="multi-column-dropdown">
+                                        <li class="nav-sub-cat">Departments</li>
+                                        <li><a href="/my-government/administration" title="Administration">Administration</a></li>
+                                        <li><a href="/my-government/finance-department" title="Finance Department">Finance Department</a></li>
+                                        <li><a href="/my-government/parks-and-recreation" title="Parks & Recreation">Parks & Recreation</a></li>
+                                        <li><a href="/my-government/planning-zoning" title="Planning / Zoning">Planning / Zoning</a></li>
+                                        <li><a href="/my-government/public-safety" title="Public Safety">Public Safety</a></li>
+                                        <li><a href="/my-government/public-services/" title="Public Services">Public Services</a></li>
+                                        <li><a href="/my-government/utility-billing-and-collections" title="Utility Billing / Collections">Utility Billing / Collections</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" title="News & Notcies">News & Notices</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/news-and-notices/town-news" title="Town of Jamestown Town News">Town News</a></li>
+                        <li><a href="/news-and-notices/employment-opportunities" title="Employment Opportunities">Employment Opportunities</a></li>
+                        <li><a href="/news-and-notices/jamestown-newsletter" title="Jamestown Newsletter">Jamestown Newsletter</a></li>
+                    </ul>
+                </li>
+                <li><a href="/event/" title="About Us">Events</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" title="Town Services">Town Services</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/town-services/zoning-standards" title="Zoning Standards">Zoning Standards</a></li>
+                        <li><a href="/town-services/history" title="The Town of Jamestown History">History</a></li>
+                        <li><a href="https://storage.googleapis.com/dbc-jcity/files/pdf/Rates202425Approved-1720019412.pdf" title="Town Rates & Fees" target="_blank">Town Rates & Fees</a></li>
+                    </ul>
+                </li>
+                <li><a href="/downloads/">Downloads</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" title="Useful Links"><strong>I Want To...</strong></a>
+                    <ul class="dropdown-menu">
+			<li><a href="https://jamestownnc.myrec.com/info/default.aspx" target="_blank">Reserve A Facility</a></li>
+                        <li><a href="/town-services/zoning-standards" title="Zoning Standards">Zoning Standards</a></li>
+                        <li><a href="/town-services/history" title="The Town of Jamestown History">History</a></li>
+                        <li><a href="https://storage.googleapis.com/dbc-jcity/files/pdf/Rates202425Approved-1720019412.pdf" title="Town Rates & Fees" target="_blank">Town Rates & Fees</a></li>
+                        <li><a href="/my-government/report-street-lights-out" title="Report Street Lights Out">Report Street Lights Out</a></li>
+                        <li><a href="/news-and-notices/jamestown-newsletter" title="Jamestown Newsletter">Jamestown Newsletter</a></li>
+                        <li><a href="https://pay.billingdoc.net/finalpayonline54/index.php?c=BMS003" title="Pay Utility Bill Online" target="_blank"><strong>Pay Utility Bill</strong></a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+    </div><div id="homeHero" class="container-fluid">
+    <div class="container">
+        <div class="row">
+        </div>
+    </div>
+    <div class="video-container">
+        <video autoplay loop muted>
+            <source src="/img/HeroNoLogo.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+<div id="homeCTA" class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div id="homeCTA-container" class="gradientBG">
+                    <div class="row">
+                        <a href="https://pay.billingdoc.net/finalpayonline54/index.php?c=BMS003" target="_blank" title="Pay your utility bill online with Utility Pay." class="col-xs-12 col-sm-6 col-md-3 text-center homeCTA-item">
+                            <h2 class="text-uppercase">Utility Pay</h2>
+                            <hr />
+                            <p>Pay Your Bills Online</p>
+                        </a>
+                        <a href="https://jamestownnc.myrec.com/" target="_blank" title="Parks & Recreation -  The Town Of Jamestown" class="col-xs-12 col-sm-6 col-md-3 text-center homeCTA-item">
+                            <h2 class="text-uppercase">Parks & Rec</h2>
+                            <hr />
+                            <p>Activities & Registration</p>
+                        </a>
+                        <a href="/my-government/meeting-minutes-and-schedules" title="Meeting Minutes & Packets" class="col-xs-12 col-sm-6 col-md-3 text-center homeCTA-item">
+                            <h2 class="text-uppercase">Meetings</h2>
+                            <hr />
+                            <p>View Meeting Minutes & Packets</p>
+                        </a>
+                        <a href="/news-and-notices/town-news" title="Pay your utility bill online with Utility Pay." class="col-xs-12 col-sm-6 col-md-3 text-center homeCTA-item">
+                            <h2 class="text-uppercase">Town News</h2>
+                            <hr />
+                            <p>Stay Up To Date</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content-section container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-8">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" frameborder="0"  src="https://www.youtube.com/embed/4IkIcmXuJcg?showtitle=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="homepageOffsite">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-4 text-center">
+                            <a href="http://www.jamestownpubliclibrary.com/" title="Visit the Jamestown Public Library Website" target="_blank" class="offsiteItem offsiteItem-one">
+                                <h3>Jamestown Library</h3>
+                            </a>
+                            <br />
+                        </div>
+                        <div class="col-xs-12 col-md-4 text-center">
+                            <a href="https://jamestownparkgolf.com/" title="Visit the Jamestown Park & Golf Website" target="_blank" class="offsiteItem offsiteItem-two">
+                                <h3>Jamestown Park & Golf</h3>
+                            </a>
+                            <br />
+                        </div>
+                        <div class="col-xs-12 col-md-4 text-center">
+                            <a href="https://www.mendenhallhomeplace.com/" title="Visit the Jamestown Mendenhall Homeplace Website" target="_blank" class="offsiteItem offsiteItem-three">
+                                <h3>Mendenhall Homeplace</h3>
+                            </a>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                                <div id='calendar' style='background-color:white;'></div>
+                <script src='https://storage.googleapis.com/dbc-next/cdn/vendor/moment/moment/min/moment.min.js'></script>
+                <script src="https://storage.googleapis.com/dbc-next/cdn/vendor/fullcalendar/fullcalendar/dist/fullcalendar.min.js"></script>
+                <link href='https://storage.googleapis.com/dbc-next/cdn/vendor/fullcalendar/fullcalendar/dist/fullcalendar.min.css' rel='stylesheet' />
+                <link href='https://storage.googleapis.com/dbc-next/cdn/vendor/fullcalendar/fullcalendar/dist/fullcalendar.print.min.css' rel='stylesheet' media='print' />
+                <script>
+
+                    $(document).ready(function() {
+
+                            $('#calendar').fullCalendar({
+                                    defaultDate: '2024-08-31',
+                                    editable: false,
+                                    eventLimit: true, // allow "more" link when too many events
+                                    events: [
+                                                            {
+                                            title: 'September Planning Board Canceled',
+                                            start: '2024-08-23',
+                                            end: '2024-09-10',
+                                            backgroundColor: '#337ab7',
+                                            url: 'event/view/september-planning-board-canceled'
+                                        },
+                                                            {
+                                            title: 'Labor Day 2024',
+                                            start: '2024-09-02',
+                                            end: '2024-09-02',
+                                            backgroundColor: '#337ab7',
+                                            url: 'event/view/labor-day-2024'
+                                        },
+                                                            {
+                                            title: 'Music in the Park Sept 2024',
+                                            start: '2024-09-06',
+                                            end: '2024-09-06',
+                                            backgroundColor: '#337ab7',
+                                            url: 'event/view/music-in-the-park-sept-2024'
+                                        },
+                                                            {
+                                            title: 'Music in the Park Oct 2024',
+                                            start: '2024-10-04',
+                                            end: '2024-10-04',
+                                            backgroundColor: '#337ab7',
+                                            url: 'event/view/music-in-the-park-oct-2024'
+                                        },
+                                                        ]
+                            });
+                    });
+
+                </script>
+                                <a class="agenda-view" href="event/view/september-planning-board-canceled" title="September Planning Board Canceled">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-3">
+                                <div class="agenda-date text-center">
+                                    <h3>23<br/>Aug</h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-9">
+                                <div class="agenda-title">
+                                    <h3>September Planning Board Canceled</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                <a class="agenda-view" href="event/view/labor-day-2024" title="Labor Day 2024">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-3">
+                                <div class="agenda-date text-center">
+                                    <h3>02<br/>Sep</h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-9">
+                                <div class="agenda-title">
+                                    <h3>Labor Day 2024</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                <a class="agenda-view" href="event/view/music-in-the-park-sept-2024" title="Music in the Park Sept 2024">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-3">
+                                <div class="agenda-date text-center">
+                                    <h3>06<br/>Sep</h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-9">
+                                <div class="agenda-title">
+                                    <h3>Music in the Park Sept 2024</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                <a class="agenda-view" href="event/view/music-in-the-park-oct-2024" title="Music in the Park Oct 2024">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-3">
+                                <div class="agenda-date text-center">
+                                    <h3>04<br/>Oct</h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-9">
+                                <div class="agenda-title">
+                                    <h3>Music in the Park Oct 2024</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                
+                <a class="agenda-view agendaCTA" href="/event" title="View all events for The Town Of Jamestown">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <div>
+                                View All Events
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 text-white">
+                <div class="site-logo">
+                    <img src="/img/logo.png">
+                </div>
+                <div class="site-copyright">
+                    <small>&copy; 2024 Town of Jamestown</small>
+                </div>
+                <div class="site-address">
+                    <small>301 E. Main Street, Jamestown, North Carolina 27282</small>
+                </div>
+                <div class="site-phone">
+                    <small>(P) (336) 454-1138</small>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6 text-right">
+                <div class="dbcnext-credit">
+                    <img src="/img/logo-dbcn.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+<script src="https://storage.googleapis.com/dbc-next/cdn/ckeditor/ckeditor.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $(".core-text").each(function(){
+            var editorSize = $(this).attr("editor-size");
+            if ( (typeof editorSize == "undefined") || (editorSize == "full") ) {
+            CKEDITOR.config.toolbar = [
+		{ name: 'clipboard', items: [ 'Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', '-', 'Undo', 'Redo' ] },
+		{ name: 'editing', items: [ 'Scayt' ] },
+		{ name: 'links', items: [ 'Link', 'Unlink', 'Anchor' ] },
+		{ name: 'insert', items: [ 'Image', 'Table', 'HorizontalRule', 'SpecialChar' ] },
+		{ name: 'tools', items: [ 'Maximize' ] },
+		{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock'  ] },
+                { name: 'jsplus', items:['jsplus_bootstrap_show_blocks','jsplus_bootstrap_icons','jsplus_bootstrap_alert','jsplus_bootstrap_block_conf','jsplus_bootstrap_row_add_up','jsplus_bootstrap_templates','jsplus_bootstrap_row_add_down','jsplus_bootstrap_col_move_left','jsplus_bootstrap_col_move_right',' jsplus_bootstrap_row_move_up','jsplus_bootstrap_row_move_down','jsplus_bootstrap_delete_col','jsplus_bootstrap_delete_row'] },
+		{ name: 'basicstyles', items: [ 'Font','FontSize', 'Bold', 'Italic', 'Strike', '-', 'Format', 'RemoveFormat' ] },
+		{ name: 'document', items: [ 'Sourcedialog' , 'BGColor', 'TextColor' ] },
+		{ name: 'about', items: [ 'About' ] }
+                ];
+            } else if (editorSize == "small") {
+            CKEDITOR.config.toolbar = [
+		{ name: 'clipboard', items: [ 'Cut', 'Copy', 'Paste', 'PasteText', '-', 'Undo', 'Redo' ] },
+		{ name: 'links', items: [ 'Link', 'Unlink', 'Anchor' ] },
+		{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock'  ] },
+		{ name: 'basicstyles', items: [ 'Font','FontSize', 'Bold', 'Italic', 'Strike', '-', 'Format', 'RemoveFormat' ] },
+                ];
+            } else {
+                console.log("Invalid core-text editor size specified: "  + editorSize + ". 'full' or 'small' are valid.");
+            }
+            CKEDITOR.replace(this);
+        });
+    });
+</script>
+
+<script type='text/javascript' src='https://storage.googleapis.com/dbc-next/cdn/vendor/moment/moment/moment.js' charset="UTF-8"></script>
+<script type="text/javascript" src="https://storage.googleapis.com/dbc-next/cdn/vendor/eonasdan/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js" charset="UTF-8"></script>
+<link href="https://storage.googleapis.com/dbc-next/cdn/vendor/eonasdan/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+
+<img id="submit-form-spinner-hidden-core" src="https://storage.googleapis.com/dbc-next/cdn/img/loading_spinner.gif" style="display:none;width:15px;height:15px;"/>
+
+<script>
+
+// A function to format text to look like a phone number
+$(document).ready(function(){
+    $(".core-phone").on('keyup', function(evt){
+        $(this).val(phoneFormat($(this).val()));
+    });
+});
+
+// Add Number formatters.
+$(document).ready(function(){
+    $(".core-dollar").on('keyup', function(evt){
+        $(this).val(formatCurrency($(this).val(), "$", 3));
+    });
+});
+
+// Add Number formatters.
+$(document).ready(function(){
+    $(".core-money").on('keyup', function(evt){
+        $(this).val(formatCurrency($(this).val(), "$", 3, true));
+    });
+});
+
+
+// Add date-time pickers.
+$(document).ready(function(){
+    $(".core-time").each(function(){
+        formatDateTime(this);
+    });
+});
+
+// Add character limit inputs
+$(document).ready(function(){
+    $(".core-input-limit").each(function(){
+        formatInputLimit(this);
+    });
+});
+
+
+// Prepare permalinks.
+$(document).ready(function(){
+   $(".core-permalink-source").blur(function(){
+    var newLink = convertNameToPermalink($(this).val());
+    var id = $(this).attr("target");
+    $(id).val(newLink);
+    // Fire the change event.
+    $(id).trigger("change");
+   });
+});
+
+
+// Filter our IE and non-IE elements
+$(document).ready(function(){
+  var ua = navigator.userAgent;
+  var match = /\b(MSIE |Trident.*?rv:|Edge\/)(\d+)/.exec(ua);
+  if (match) {
+     $(".core-non-ie-use-only").remove();
+  } else {
+     $(".core-ie-use-only").remove();
+  }
+});
+
+function convertNameToPermalink(name) {
+    return name.toLowerCase().replace(/[^a-z0-9\s\d]/g, "").replace(/\s/g, "-").replace(/-+/g, "-").replace(/-$/g, "").replace(/^-/g,"");
+}
+
+// Checking unique values.
+$(document).ready(function(){
+   var needMessageBlockFlag;
+   $(".core-unique-value").each(function(){
+        needMessageBlockFlag = true;
+        var property = $(this).attr('property');
+        // Check each sibling element to see if there's a message block.
+        $(this).siblings().each(function(){
+            if ($(this).hasClass("attribute-status-container")) {
+                needMessageBlockFlag = false;
+            }
+        });
+        // Check to see if we need to add a message block.
+        if (needMessageBlockFlag) {
+             // Add a message block.
+             $("<div id='" + property + "-error-message' class='attribute-status-container'></div>").insertAfter(this);
+        }
+        // Register a listener for checking unique attributes..
+        $(this).on('change', function(){
+             var model = $(this).attr('model');
+             checkExistingAttributeValue(property, model);
+        });
+   });
+
+});
+
+
+function formatDateTime(e) {
+   var displayOption = $(e).attr("display");
+   var displayFormat = "";
+   var displayStepping = $(e).attr("stepping");
+   switch(displayOption) {
+       case 'date':
+           displayFormat = "MMM D, YYYY";
+           break;
+       case 'time':
+           displayFormat = "h:mm A";
+           break;
+       case 'datetime':
+       default:
+           displayFormat = "MMM D, YYYY h:mm A";
+           break;
+   }
+   if (typeof displayStepping == "undefined") {
+       displayStepping = 15;
+   }
+    $(e).datetimepicker({
+        format: displayFormat,
+        stepping: displayStepping
+    });
+    if ($(e).attr("id") == "start_date") {
+        $(e).on("dp.hide",function(evt){
+            var startDate = $(this).data("DateTimePicker").date();
+            $("#end_date").data("DateTimePicker").minDate(startDate);
+        });
+    }
+}
+
+function formatCurrency(number, currencySymbol, grouping, decimal) {
+    var stringNumber = String(number).replace(/\D/g,'');
+    if (stringNumber == "") {
+        return currencySymbol + "0";
+    }
+    var numberInt = parseInt(stringNumber, 10);
+    var decimalInt = 0;
+    if (decimal) {
+       decimalInt = numberInt % 100;
+       numberInt = Math.floor(numberInt/100);
+    }
+    stringNumber = String(numberInt);
+    // Reverse the string.
+    stringNumber = stringNumber.split("").reverse().join("");
+    // Get the length.
+    var stringLength = stringNumber.length;
+    var thousandCount = (stringLength > grouping ? Math.floor(stringLength/grouping) : 0);
+        // Remove 1 from the count if the string length is exactly a multiple of 3 to avoid $,323,323
+        thousandCount = ( (stringLength % grouping) == 0 && (thousandCount != 0) ? thousandCount -1 : thousandCount );
+    var beginIndex = 0;
+    var endIndex = 3;
+    var markerCount = 1;
+    var formattedString = "";
+    while (markerCount <= thousandCount) {
+        formattedString+= stringNumber.substring(beginIndex, endIndex) + ",";
+        beginIndex+= grouping;
+        endIndex+= grouping;
+        markerCount++;
+    }
+    formattedString+= stringNumber.substring(beginIndex);
+    // Make sure there's at least a 0 if the string is empty.
+    formattedString = (formattedString.length == 0 ? "0" : formattedString);
+    // Reverse the whole number again and add the dollar sign.
+    formattedString = currencySymbol + formattedString.split("").reverse().join("");
+    // Add the decimal number.
+    if (decimal) {
+        var decimalString = "";
+        if (decimalInt < 1) {
+            decimalString = "00";
+        } else if (decimalInt < 10) {
+            decimalString = "0" + String(decimalInt);
+        } else {
+            decimalString = String(decimalInt);
+        }
+        formattedString =  formattedString + "." + decimalString;
+    }
+    return formattedString;
+}
+
+function formatInputLimit(target) {
+    // Grab the limit
+    var limit = $(target).data("limit");
+    // Add the counter.
+    $(target).after("<div class='attribute-status-container'>Character Count <span class='character-count'>1</span> of <span class='max-count'>1</span></div>");
+    var countContainer = $(target).next();
+    // Initialize the max length.
+    $(countContainer).find(".max-count").html(limit);
+    // Initialize the current count.
+    checkInputLimit(target, countContainer, limit);
+    $(target).on("keyup",function(){
+        checkInputLimit(target, countContainer, limit);
+    });
+}
+
+function checkInputLimit(targetContainer, countContainer, limit) {
+    var charLength = $(targetContainer).val().length;
+    $(countContainer).find(".character-count").html(charLength);
+    if (charLength > limit) {
+        $(countContainer).css("color", "red");
+    } else {
+        $(countContainer).css("color", "green");
+    }
+}
+
+
+// =========================== FORM FUNCTIONS =============================
+
+// Retreive a form token.
+function getToken() {
+    return "310ac7dbab8c1b311383a5729fef22a3";
+}
+
+// Process forms before submitting.
+function processForm(thisForm) {
+    if (typeof thisForm == "undefined") {
+        thisForm = "form";
+    }
+    disableSubmitButton($(thisForm).find("button[type='submit']").first());
+    // Add the token.
+    var token = getToken();
+    var tokenInput = "<input type='hidden' name='form_token' value='"+ token +"' />";
+    var timeInput = "<input type='hidden' name='time_token' value='1725155928' />";
+    $("form").append(tokenInput);
+    $("form").append(timeInput);
+    // Convert any date-times to unix date-times.
+    processTimeFormats();
+    return true;
+}
+
+function disableSubmitButton(button) {
+    var buttWidth = $(button).width();
+    $(button).css({'min-width':buttWidth});
+    $(button).attr("disabled", true);
+    $(button).html($("#submit-form-spinner-hidden-core").css({display:"inline-block", 'margin-left':'auto', 'margin-right':'auto'}));
+}
+
+function processTimeFormats() {
+    $(".core-time").each(function(){
+        if ($(this).attr("display") != "time") {
+            var unixTime = Date.parse($(this).val())/1000;
+            $(this).val(unixTime);
+        }
+    });
+}
+
+function phoneFormat(input) {
+    // Strip all characters from the input except digits
+    input = input.replace(/\D/g, '');
+    // Trim the remaining input to ten characters, to preserve phone number format
+    input = input.substring(0, 10);
+    // Based upon the length of the string, we add formatting as necessary
+    var size = input.length;
+    if (size == 0) {
+        input = input;
+    } else if (size < 4) {
+        input = '(' + input;
+    } else if (size < 7) {
+        input = '(' + input.substring(0, 3) + ') ' + input.substring(3, 6);
+    } else {
+        input = '(' + input.substring(0, 3) + ') ' + input.substring(3, 6) + '-' + input.substring(6, 10);
+    }
+    return input;
+}
+
+function loadErrors() {
+    // Send the AJAX Request.
+    var formToken = getToken();
+    var sendData = {form_token: formToken, time_token: '1725155928'};
+    $.ajax({
+        url: "error/a_retrieve",
+        type: "POST",
+        data: sendData,
+        success: function (data, textStatus, jqXHR) {
+            var errors = JSON.parse(data);
+            $(errors).each(function () {
+                $("#error_messages").append(this);
+            });
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.log(textStatus);
+        }
+    });
+}
+
+
+function sendAjaxRequest(url, sendData, callback) {
+    sendData.form_token = getToken();
+    sendData.time_token = '1725155928';
+    $.ajax({
+        url: url,
+        type: "POST",
+        data: sendData,
+        success: function (data, textStatus, jqXHR) {
+            callback(JSON.parse(data));
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.log(textStatus);
+        }
+    });
+}
+
+// Add new rows of child and parent forms.
+function addObjectRow(relation) {
+    // Grab the last element in this list.
+    var thisChildGroup = $("[relation='" + relation + "']").last();
+    var oldIndex = $(thisChildGroup).attr("index");
+    var classes = $(thisChildGroup).attr('class');
+    // Increment the index value.
+    var newIndex = parseInt(oldIndex) + 1;
+    // Clone the block and create a new child group.
+    var newGroup = copyObject(thisChildGroup);
+    // Updates the new groups index.
+    $(newGroup).attr('index', newIndex);
+    // Iterate over the new group and updates the indexes.
+    var allChildren = $(newGroup).find("*");
+    $(allChildren).each(function(){
+        // Update the index.
+        var oldName = $(this).attr("name");
+        if (typeof oldName !== "undefined") {
+            var newName = oldName.replace("[" + oldIndex + "]", "[" + newIndex + "]");
+            $(this).attr("name", newName);
+            // Clear out the values.
+            if ($(this).attr("type") !== "hidden" && $(this).attr("type") !== "checkbox") {
+                $(this).val("");
+            } else if ($(this).attr("name").includes("[action]")) {
+                $(this).val("create");
+            }
+        }
+        $(this).attr("disabled", false);
+        // For time-date pickers, attach new listeners.
+        if ($(this).hasClass("core-time")) {
+            formatDateTime(this);
+        }
+    });
+    $(newGroup).find("span.increment").text(newIndex);
+    $(newGroup).find(".remove-field-row").attr("onclick","removeObjectRow('" + relation +"'," + newIndex + ")");
+    // Make the group visible and enabled if necessary.
+    $(newGroup).css("display", "block").attr("disabled", false);
+    $(thisChildGroup).after(newGroup);
+    // Fire an event now that it's done.
+    var event = document.createEvent("Event");
+    event.target = newGroup;
+    event.initEvent("childCloneEvent", true, true);
+    newGroup.dispatchEvent(event);
+}
+
+
+function copyObject(o) {
+    if ($(o).contents().length == 0) {
+        if ($(o).hasClass("core-time")) {
+            return $(o).get(0).cloneNode(false);
+        }
+        return $(o).get(0).cloneNode(true);
+    }
+    // Has children. Clone this.
+    var newNode = $(o).get(0).cloneNode(false);
+    $(o).contents().each(function(){
+        newNode.append(copyObject(this));
+    });
+    return newNode;
+}
+
+function removeObjectRow(relation, index) {
+    $("[relation='" + relation + "'][index='" + index + "']").remove();
+ }
+
+function updateIndexMarkers(element, index) {
+    var newIndex = "[" + index + "]";
+    var thisId = $(element).attr("id");
+    if (thisId) {
+        $(element).attr("id", thisId + "_" + index);
+   }
+    var oldName = $(element).attr("name");
+    if ( oldName) {
+        var newName = oldName.replace("[0]",newIndex);
+        $(element).attr("name",newName);
+    }
+}
+
+function removeOptionRow(element){
+    // Hide row and change process type to remove.
+    $("#" + element).remove();
+}
+
+function removeCurrentOptionRow(childElement){
+    // Hide row and change process type to remove.
+    $("#" + childElement).css("display", "none");
+    $("#" + childElement).find(".child-form-input").each(function(){
+        var oldName = $(this).attr("name");
+        // Change from update to remove
+        var newName = oldName.replace("update","remove");
+        $(this).attr("name",newName);
+    });
+}
+
+function checkExistingAttributeValue(attribute, className) {
+    var value = $("#" + attribute).val();
+    var model_uuid = $("#" + attribute).parents("form").children("input[name='uuid']").val();
+    checkExistingValue(attribute, value, className, model_uuid, displayAttributeValueExists);
+}
+
+
+function displayAttributeValueExists(result, attribute, value, returnData) {
+    var icon = "<i class='fa fa-check-circle-o' aria-hidden='true'></i> ";
+    $("#" + attribute + "-error-message").empty();
+    $("#" + attribute + "-error-message").removeClass('return-message-success');
+    $("#" + attribute + "-error-message").removeClass('return-messsage-failure');
+    $("#" + attribute + "-error-message").append(icon + " " + returnData.message);
+    if (result) {
+        $("#" + attribute + "-error-message").addClass('return-message-success');
+        return true;
+    } else {
+        $("#" + attribute + "-error-message").addClass('return-messsage-failure');
+        $("#" + attribute).attr("pattern", "^(?!" + value + "$).*");
+        icon = "<i class='fa fa-exclamation-triangle' aria-hidden='true'></i>";
+        return false;
+    }
+}
+
+
+function checkExistingValue(attribute, value, className, model_uuid, callBackFunction) {
+    if (typeof model_uuid == "undefined") {
+        model_uuid = "none";
+    }
+    // Send the AJAX Request.
+    var formToken = getToken();
+    var sendData = {form_token: formToken, model_attribute: attribute, model_value: value, model_class: className, uuid: model_uuid};
+    sendData.time_token = '1725155928';
+    $.ajax({
+        url: "error/a-check-existing",
+        type: "POST",
+        data: sendData,
+        success: function (data, textStatus, jqXHR) {
+            var returnData = JSON.parse(data);
+            if (returnData.status == 'available') {
+                $("#" + attribute).trigger("existing:success");
+                callBackFunction(true, attribute, value, returnData);
+            } else {
+                $("#" + attribute).trigger("existing:fail");
+                callBackFunction(false, attribute, value, returnData);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.log(textStatus);
+        }
+    });
+}
+
+ function updateIndex(propertyName, model, parentUuid, sortedArray) {
+    var formToken = getToken();
+    var sendData = {form_token: formToken, parent_uuid: parentUuid, property: propertyName, sort_array: sortedArray};
+    sendData.time_token = '1725155928';
+    $.ajax({
+        url: model + "/a-sort-index",
+        type: "POST",
+        data: sendData,
+        success: function (data, textStatus, jqXHR) {
+            var returnData = JSON.parse(data);
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.log(textStatus);
+        }
+    });
+ }
+
+
+function facebookLogin() {
+    FB.login(loginCallBack, {
+        scope: 'public_profile, email, user_location, user_birthday, user_actions.music',
+        response_type: 'token'});
+}
+
+function generatePassword(len, id, secondId) {
+    if (typeof len == "undefined") {
+        len = 8;
+    }
+    charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    while (!numFlag || !capFlag || !lowerFlag) {
+        pass = "";
+        var numFlag = false;
+        var capFlag = false;
+        var lowerFlag = false;
+        for (var i = 0, n = charset.length; i < len; ++i) {
+            char = charset.charAt(Math.floor(Math.random() * n));
+            if (!isNaN(char * 1)) {
+                numFlag = true;
+            } else if (char == char.toUpperCase()) {
+                capFlag = true;
+            } else if (char == char.toLowerCase()) {
+                lowerFlag = true;
+            }
+            pass+= char;
+        }
+    }
+    $("#" + id).css("font-family","courier");
+    $("#" + id).attr("type", "text");
+    $("#" + id).val(pass);
+    if (typeof secondId !== "undefined") {
+        $("#" + secondId).css("font-family","courier");
+        $("#" + secondId).attr("type", "text");
+        $("#" + secondId).val(pass);
+        $("#" + secondId).attr("pattern", pass)
+    }
+}
+
+function getDbcNextCookieDecoder(cname){
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+
+function setDbcNextCookie(cname, cvalue, hours) {
+    var d = new Date();
+    d.setTime(d.getTime() + (hours * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+
+function setVerifyEmailPattern() {
+    var pass = $("#email").val();
+    $("#email-verify").attr("pattern", pass);
+    verifyEmail();
+}
+
+function verifyEmail() {
+    var pass = $("#email").val();
+    var vpass = $("#email-verify").val();
+    if (pass !== vpass) {
+        $("#verify-email-error-message").css('display','block');
+        $("#verify-email-success-message").css('display', 'none');
+        return false;
+    } else {
+        $("#verify-email-error-message").css('display','none');
+        $("#verify-email-success-message").css('display', 'block');
+        return true;
+    }
+}
+
+</script>
+
+<style>
+.return-message-success{
+    color:green;
+}
+
+.return-messsage-failure{
+    color:red;
+}
+
+.attribute-status-container{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.btn-custom-color-1{
+    background-color: #31BCE3;
+    box-shadow: 2px 2px 2px #888888;
+    color: white;
+}
+
+input:required:invalid, input:focus:invalid {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAT1JREFUeNpi/P//PwMpgImBRMACY/x7/uDX39sXt/67cMoDyOVgMjBjYFbV/8kkqcCBrIER5KS/967s+rmkXxzI5wJiRSBm/v8P7NTfHHFFl5mVdIzhGv4+u///x+xmuAlcdXPB9KeqeLgYd3bDU2ZpRRmwH4DOeAI07QXIRKipYPD35184/nn17CO4p/+cOfjl76+/X4GYAYThGn7/g+Mfh/ZZwjUA/aABpJVhpv6+dQUjZP78Z0YEK7OezS2gwltg64GmfTu6i+HL+mUMP34wgvGvL78ZOEysf8M1sGgZvQIqfA1SDAL8iUUMPIFRQLf+AmMQ4DQ0vYYSrL9vXDz2sq9LFsiX4dLRA0t8OX0SHKzi5bXf2HUMBVA0gN356N7p7xdOS3w5fAgcfNxWtn+BJi9gVVBOQfYPQIABABvRq3BwGT3OAAAAAElFTkSuQmCC);
+    background-position: right top;
+    background-repeat: no-repeat;
+    -moz-box-shadow: none;
+}
+
+input:required:valid {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZZJREFUeNpi/P//PwMpgImBRMAy58QshrNPTzP8+vOLIUInisFQyYjhz98/DB9/fmT48/+35v7H+8KNhE2+WclZd+G0gZmJmYGThUNz1fUVMZtvbWT59eUXG9wGZIWMUPj993eJ5VeWxuy8veM/CzPL3yfvH/9H0QBSBDYZyOVm4mGYfn6q4cory5lYmFh+MrEwM/76/YsR7mk2ZjbWP///WP37/y8cqIDhx58fjvtu7XV6//ndT34G/v8FasUsDjKO/+A2PP3wpGLd+TVsfOz8XH6KAT+nHpokcu7h6d9q/BoMxToVbBYqlt9///+1GO4/WVdpXqY/zMqXn13/+vTjI9mj94/y//v9/3e9ZRObvYbDT0Y2xnm///x+wsfHB3GSGLf41jb3rv0O8nbcR66d+HPvxf2/+YZFTHaqjl8YWBnm/vv37yly5LL8+vuLgYuVa3uf/4T/Kd8SnSTZpb6FGUXwcvJxbAPKP2VkZESNOBDx8+9PBm4OwR1TwmYwcfzjsBUQFLjOxs52A2YyKysrXANAgAEA7buhysQuIREAAAAASUVORK5CYII=);
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+
+.form_error_alert{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    margin-top: 3px;
+    padding:2px;
+    padding-left: 5px;
+}
+
+.related-object-form{
+    border-top: 1px solid lightgray;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.remove-field-row{
+    margin-top: 30px;
+}
+</style>
+

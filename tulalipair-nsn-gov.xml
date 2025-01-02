@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Tulalip Air Quality Program</title>
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252" />
+<link rel="File-List" href="includes/filelist.xml" />
+<link rel="stylesheet" type="text/css" href="includes/style.css" />
+</head>
+
+<body style="background-image:url(images/shadow_side.gif);">
+	<span id="side_left">
+		<img width="184" height="128" src="images/picture_tulalip_bay.jpg" />
+		<br /><br />
+	<img border="0" width="168" height="336" src="images/menu.gif" usemap="#menu" />
+	</span>
+	<span id="side_right_top" style="background-image:url(images/header_blue.gif);">
+		<h1>Tulalip Air Quality Program</h1> 
+		<h2>Protecting Tulalip’s Air Quality, Human Health and the Environment</h2>
+	</span>
+	<span id="side_right_bottom" style="background-color:#FFF; background-image:url(images/shadow_header.gif);">
+		<br /><br /><br /><br /><br />
+		<h2 class="side_right_bottom">Home</h2>
+		<img width="561" height="4" src="images/rule_horz_top.gif">
+		<br />
+		<span id="text_body">
+			<p><span style="font-size:1.2em; font-weight:bold;">W</span>elcome to the Tulalip Tribes’ Air Quality web site.  
+			We hope you will find all of the information you are looking for concerning Tulalip’s Air 
+			Quality Protection program.</p>
+  			<p><span style="font-size:1.2em; font-weight:bold;">T</span>he Tulalip Reservation is rich in natural resources. 
+			These resources are an integral part of the quality of life enjoyed by all Reservation 
+			residents. The Tribal membership is directly dependent on these resources for their cultural, 
+			economic and ultimate survival as a distinct Indian community. These resources must be 
+			managed, maintained and enhanced where possible, to insure continuous future benefits and the 
+			preservation of the essential Indian character of the Reservation.</p>
+  			<p><span style="font-size:1.2em; font-weight:bold;">T</span>he ultimate resource necessary to support all life 
+			is the air and atmosphere. There is no practical means of isolating the air of one community 
+			from that of another, therefore all communities are responsible for the protection and 
+			co-management of this resource. It is the mission of Tulalip’s Air Quality Protection Program 
+			to protect this resource.</p>
+		</span>
+		<br />
+		<img width="561" height="4" src="images/rule_horz_top.gif">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+			<tr>
+				<td width="45%" valign="middle">
+					<strong>To contact us:</strong>
+					<br /><br />
+					Tulalip Tribes Dept. of Environment<br />
+					7615 Totem Beach Road<br />
+					Tulalip, WA 98071<br />
+					(360)651-4480<br />
+				</td>
+				<td align="center"><img width="2" height="115" src="images/rule_vert.gif"></td>
+				<td width="45%"></td>
+			</tr>
+		</table>
+		<img width="561" height="4" src="images/rule_horz_top.gif">
+	</span>
+	<map name="menu">
+	  <area shape="rect" coords="20,2,164,32" href="index.htm" />
+	  <area shape="rect" coords="20,36,164,66" href="about.htm" />
+	  <area shape="rect" coords="20,70,164,98" href="air_quality_now.htm" />
+	  <area shape="rect" coords="20,103,164,133" href="outdoor_burning.htm" />
+	  <area shape="rect" coords="20,137,164,166" href="burn_ban_information.htm" />
+	  <area shape="rect" coords="20,170,164,199" href="indoor_air_quality.htm" />
+	  <area shape="rect" coords="20,204,164,233" href="contact.htm" />
+	  <area shape="rect" coords="20,238,164,267" href="links.htm" />
+	  <area shape="rect" coords="20,271,164,300" href="enforcement.htm" />
+	  <area shape="rect" coords="20,305,164,335" href="wood_smoke.htm" />
+	</map>
+	
+<span id="logo">
+	<img width="126" height="84" src="images/logo_tulalip_tribes.jpg" />
+</span>
+
+</body>
+</html>

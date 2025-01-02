@@ -1,0 +1,583 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <umbraco:Item field="secureRedirect" runat="server"></umbraco:Item>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+    <meta name="description" content="Learn about how to register to vote and cast your ballot, and how the election process works." />
+    <meta name="title" content="Elections & Voting" />
+    <meta name="keywords" content="Secretary of State, Minnesota, SOS Home" />
+    <meta name="robots" content="System.String[]" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta property="og:url" content="http://www.sos.mn.gov/elections-voting/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Office of the State Of Minnesota Secretary of State" />
+    <meta property="og:description" content="Office of the State Of Minnesota Secretary of State" />
+    
+    
+    <title>Minnesota Secretary Of State - Elections & Voting</title>
+    <script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10297240712040816.js" data-dtconfig="rid=RID_-50329541|rpid=-1717609496|domain=mn.gov|reportUrl=/rb_bf57499lsp|app=38a5a49feef30904|cuc=ss6bhnrn|mel=100000|expw=1|featureHash=ICA7NVfqrux|dpvc=1|lastModification=1724862232039|postfix=ss6bhnrn|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_ICA7NVfqrux_10297240712040816.js"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.1/jquery.validate.unobtrusive.min.js"></script>
+
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/owl.carousel.css" type="text/css" />
+    <link rel="stylesheet" href="/css/owl.theme.css" type="text/css" />
+
+    
+        <link href="/css/StyleOverrides.css" rel="stylesheet" />
+
+
+    
+
+<link rel="shortcut icon" href="https://commoncontent.sos.state.mn.us/images/mn-favicon/favicon.ico" type="image/x-icon" />
+
+   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900"/>
+   <link rel="stylesheet" type="text/css" href="https://commoncontent.sos.state.mn.us/stylesheets/mn-sos-bundle.min.css"/>
+
+    
+    <link href="/css/AccessibilityOverrides.css" rel="stylesheet" />
+
+
+</head>
+<body>
+
+    <!--HEADER-->
+    <a id="skippy" class="sr-only sr-only-focusable" href="#main-content"><div class="container"><span class="skiplink-text">Skip to main content</span></div></a>
+<header id="header-site">
+    
+    <div class="container-fluid trim-mn-seal">
+        <div class="header-block">
+            <div class="menu-button-label">MENU</div>
+            <div>
+                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+        <div class="header-block logo">
+            <a href="https://www.sos.state.mn.us" title="Minnesota Secretary Of State Home Page"><span class="text-style-1">Office Of</span> The Minnesota<br>Secretary Of State <span class="text-style-1">Steve Simon</span></a>
+        </div>
+        <div class="header-block-search">
+            <div class="form-horizontal search-field-inline">
+                <label class="search-label col-xs-4" for="search-box">search</label>
+                <input class="col-xs-6" id="search-box" name="search-box" type="search" autocomplete="off">
+                <a id="site-search-btn" class="col-xs-1 header-search-btn text-left" data-search-url="https://www.sos.state.mn.us/search-results-master/?search-box="><span class="btn-label sr-only">search</span></a>
+            </div>
+        </div>
+    </div>
+</header>
+    <!-- NAVIGATION -->
+    <nav class="navbar-collapse bs-navbar-collapse collapse mn-accordion" id="nav-site" aria-expanded="false" role="navigation" aria-label="Main menu">
+    <ul class="sm item-menu nav navbar-nav" id="menu-site" role="menubar">
+        <li>
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/home" class="item-link single-line" title="MN Secretary Of State Home Page"><em class="mn-icon icon-home"></em> Home<br />&nbsp;</a>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/elections-voting/" class="item-link" title="Elections & Voting"><em class="mn-icon icon-checkbox2"></em>Elections &amp; <br>Voting</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/register-to-vote" title="Register to Vote"> Register to Vote</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/election-day-voting" title="Election Day Voting"> Election Day Voting</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/other-ways-to-vote" title="Other Ways to Vote"> Other Ways to Vote</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot" title="What&#39;s on My Ballot?"> What's on My Ballot?</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/election-results" title="Election Results"> Election Results</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/find-county-election-office/" title="Find County Election Office">Find County Election Office</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections"> Secure and Fair Elections</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/get-involved" title="Get Involved!"> Get Involved!</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/how-elections-work" title="How Elections Work"> How Elections Work</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/" title="More Elections and Voting">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/election-administration-campaigns/" class="item-link" title="Election Administration"><em class="mn-icon icon-ballotbox"></em>Election <br>Administration</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/become-a-candidate/" title="Become a Candidate"> Become a Candidate</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/campaigning/" title="Campaigning"> Campaigning </a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/" title="Data &amp; Maps"> Data & Maps</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/election-administration/" title="Election Administration"> Election Administration</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/" title="Elections Calendar"> Elections Calendar</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/" title="More Elections Administration">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/business-liens" class="item-link" title="Business & Liens"><em class="mn-icon icon-briefcase"></em>Business <br>&amp; Liens</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://mblsportal.sos.state.mn.us/Business/Search" title="Business Filings Online"> Business Filings Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/SearchUCC" title="UCC / Tax Liens Online"> UCC / Tax Liens Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/SearchCNS" title="CNS Liens Online"> CNS Liens Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/Subscriptions" title="Online Subscriptions"> Online Subscriptions</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/ucc-cns-tax-liens-help/" title="UCC, CNS &amp; Tax Liens Help"> UCC, CNS & Tax Liens Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/ucc-tax-cns-forms-fees/" title="UCC, Tax &amp; CNS Forms &amp; Fees"> UCC, Tax & CNS Forms & Fees</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/start-a-business/how-to-start-a-business-in-minnesota/" title="Start a Business"> Start a  Business</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/business-help/" title="Business Help"> Business  Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/business-forms-fees/" title="Business Forms &amp; Fees"> Business Forms  &amp; Fees</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/" title="More Business Forms &amp; Fees">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/notary-apostille/" class="item-link" title="Notary &amp; Apostille"><i class="mn-icon icon-feather"></i>Notary &amp; <br>Apostille</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://notary.sos.state.mn.us/search/searchfornotary" title="Find a Notary">Find a Notary</a></li>
+                            <li><a href="https://notary.sos.state.mn.us/account/login" title="Existing Notaries">Existing Notaries</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/become-a-notary/" title="Become a Notary"> Become a Notary</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-training-supplies/" title="Notary Training &amp; Supplies">Notary Training & Supplies</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-help/" title="Notary Help"> Notary Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-forms/" title="Notary Forms"> Notary Forms</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/apostille-authentication/" title="Apostille Authentication">Apostille Authentication</a></li>
+                            <li><a href="https://apostille.sos.state.mn.us/search" title="Apostille Verification">Apostille Verification</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/" title="More Apostille and Authentication">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/study-abroad/" class="item-link" title="Study Abroad"><em class="mn-icon icon-globe"></em>Study <br>Abroad</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/international-exchange-organizations-in-minnesota/" title="International Exchange Organizations in Minnesota"> International Exchange Organizations in Minnesota</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/college-university-study-abroad-safety/" title="College &amp; University Study Abroad Safety"> College & University Study Abroad Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/high-school-study-abroad-safety/" title="High School Study Abroad Safety"> High School Study Abroad Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/international-safety-resources/" title="International Safety Resources"> International Safety Resources</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/hosting-studying-abroad/" title="Hosting &amp; Studying Abroad"> Hosting &amp; Studying Abroad</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/" title="More Study Abroad Information">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/boards-commissions/" class="item-link" title="Boards & Commissions"><em class="mn-icon icon-people"></em>Boards &amp; <br>Commissions</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Position/" title="Open Positions"> Open Positions</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Agency/" title="Boards & Commissins"> Boards & Commissions</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/AppointingAuthority/" title="Appointing Authorities"> Appointing Authorities</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Member" title="Members"> Members</a></li>
+                            <li><a href="https://www.sos.state.mn.us/boards-commissions/help-how-tos/" title="Help & How To"> Help & How To</a></li>
+                            <li><a href="https://www.sos.state.mn.us/boards-commissions/" title="More Boards and Commissions Information">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/safe-at-home/" class="item-link" title="Safe At Home"><em class="mn-icon icon-shield"></em>Safe at <br>Home</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/about-safe-at-home/" title="About Safe at Home"> About Safe at Home</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/enroll-in-safe-at-home/" title="Enroll in Safe at Home"> Enroll in Safe at Home</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/resources-for-safety/" title="Resources for Safety"> Resources for Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/application-assistants/" title="Application Assistants"> Application Assistants</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/safe-at-home-news/" title="Safe at Home News"> Safe at Home News</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/safe-at-home-outreach/" title="Safe at Home Outreach"> Safe at Home Outreach</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/" title="More Safe at Home">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/about-minnesota/" class="item-link" title="Learn About Minnesota"><em class="mn-icon icon-mn"></em>About <br>Minnesota</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-in-profile/" title="Minnesota in Profile"> Minnesota in Profile</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-government/" title="Minnesota Government"> Minnesota Government</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/state-symbols/" title="State Symbols"> State Symbols</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/get-a-blue-book/" title="Get a Blue Book!"> Get a Blue Book!</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-veterans/" title="Minnesota Veterans"> Minnesota Veterans</a></li>
+                            <li><a href="https://officialdocuments.sos.state.mn.us/" title="Official Documents"> Official Documents</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/" title="More About Minnesota">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/about-the-office/" class="item-link" title="About the Office"><em class="mn-icon icon-head"></em>About the <br />Office</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/about-the-office/" title="About the Office"> About  the Office</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/office-initiatives/" title="Office Initiatives"> Office Initiatives</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/around-minnesota/" title="Around Minnesota"> Around Minnesota</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/news-room/" title="News Room"> News Room</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/rulemaking-data-practice/" title="Rulemaking &amp; Data Practice"> Rulemaking & Data Practice</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/" title="More About the Office">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</nav>
+
+
+    <!-- BANNER SECTION -->
+<div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 bg-banner positioning-electionsandvoting" style="background: url('https://commoncontent.sos.state.mn.us/images/Banner-Voters-at-booths.jpg'); background-position:  ; background-size: cover; background-repeat: no-repeat;">
+                    <div class="row">
+                        <div class="col-sm-5 col-lg-4 col-sm-12">
+                            <h1 class="banner-heading-landing">Elections &amp; Voting</h1>
+                        </div>
+<div class="col-sm-7 col-lg-8 language-bar">
+        <ul class="list-languages">
+                <li><a href="https://www.sos.state.mn.us/elections-voting/spanish" aria-label="Spanish" lang="es">Español</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/hmong" aria-label="Hmoob" lang="hmn">Hmoob</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/somali" aria-label="Soomaali" lang="so">Soomaali</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/vietnamese" aria-label="Vietnamese" lang="vi">Tiếng Việt</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/russian" aria-label="Russian" lang="ru">Pусский</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/chinese" aria-label="Chinese" lang="zh">中文</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/lao" aria-label="Lao" lang="lo">ພາສາລາວ</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/oromo" aria-label="Afaan Oromo" lang="om">Afaan Oromo</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/khmer" aria-label="Khmer" lang="km">ខ្មែរ</a> </li>
+                <li><a href="https://www.sos.state.mn.us/elections-voting/amharic" aria-label="Amharic" lang="am">አማርኛ</a> </li>
+        </ul>
+    </div>                    </div>
+                            <div class="row banner-msg-box ">
+                                <div class="col-sm-8 banner-msg"><p><a href="https://electionresults.sos.mn.gov/20240813">View State Primary results</a></p></div>
+                                <div class="col-sm-4">
+                                    <a href="/election-administration-campaigns/become-a-candidate/search-candidate-filings/" class="mn-box-arrow mn-box-rel" target="_blank">Search Candidate Filings</a>
+                                    }
+                                </div>
+                            </div>
+                </div>
+
+            </div>
+        </div>
+    
+	
+	<a id="main-content" name="main-content" tabindex="-1"></a>
+    
+	<!-- MULTI COLUMN LAYOUT - GRAY BACKGROUND - USING 4 COLUMNS -->
+	<div>
+        <div class="container-fluid spacer-2 landinglist">
+                    <div class= "col-sm-3 landinglist-grey">
+
+  
+                            
+                           
+                            <h2 class="landinglist-head"><a href="/elections-voting/register-to-vote/"><i class="mn-icon icon-clipboard2"></i>Register To Vote</a></h2>
+                           
+								<div><p style="text-align: center;"><br /><a data-id="2143" data-udi="umb://document/8191766165614a148ea9f4cc03d8508e" href="/elections-voting/register-to-vote/register-online/" title="Register online">Register to vote online,</a><br /><a data-id="2143" href="/elections-voting/register-to-vote/check-my-registration/" title="Check my registration">check your registration</a>, and <a data-id="1173" href="/elections-voting/register-to-vote/" title="Register To Vote">more...</a></p></div>
+                    </div>
+                    <div class= "col-sm-3 landinglist-grey">
+
+  
+                            
+                           
+                            <h2 class="landinglist-head"><a href="/elections-voting/election-day-voting/"><i class="mn-icon icon-ballotbox"></i>Election Day Voting</a></h2>
+                           
+								<div><p style="text-align: center;"> <br />Election Day is November 5<br /><a data-id="1572" href="/elections-voting/election-day-voting/where-do-i-vote/" title="Where do I vote?">Find where you vote</a>, <br /><a data-id="1180" href="/elections-voting/election-day-voting/voting-hours/" title="Voting hours">voting hours</a> and <a data-id="1174" href="/elections-voting/election-day-voting/" title="Election Day Voting">more...</a></p></div>
+                    </div>
+                    <div class= "col-sm-3 landinglist-grey">
+
+  
+                            
+                           
+                            <h2 class="landinglist-head"><a href="/elections-voting/other-ways-to-vote/"><i class="mn-icon icon-envelop"></i>Other Ways To Vote</a></h2>
+                           
+								<div><p style="text-align: center;"><br /><a data-id="3193" href="/elections-voting/other-ways-to-vote/vote-early-by-mail/" title="Vote early by mail">Vote by mail</a>, <a data-id="2101" href="/elections-voting/other-ways-to-vote/vote-early-in-person/" title="Vote early in person">vote in person</a>, or while in the <a data-id="1184" href="/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/" title="Vote from military or abroad">military or overseas</a>. <br /><a data-udi="umb://document/e4cf157db0144f30aaeda050ff8980d9" href="/elections-voting/other-ways-to-vote/track-your-ballot/" title="Track your ballot">Track your absentee ballot</a> and <a data-id="2750" href="/elections-voting/find-county-election-office/" title="Find County Election Office">find your county election office</a>.</p></div>
+                    </div>
+                    <div class= "col-sm-3 landinglist-grey">
+
+  
+                            
+                           
+                            <h2 class="landinglist-head"><a href="/elections-voting/whats-on-my-ballot/"><i class="mn-icon icon-file-text"></i>What&#39;s On My Ballot?</a></h2>
+                           
+								<div><p style="text-align: center;"><br />View your <a data-id="1739" data-udi="umb://document/e90ebb9925a144938c03a9f9f915861b" href="/elections-voting/whats-on-my-ballot/get-a-sample-ballot/" title="Get a sample ballot" data-anchor="#">sample ballot</a>, <br /><a data-udi="umb://document/4ba52002ab3c46398e490830ef87da75" href="/elections-voting/whats-on-my-ballot/search-candidate-filings/" title="Search candidate filings">search candidate filings</a>, and <a data-id="1182" href="/elections-voting/whats-on-my-ballot/" title="What's On My Ballot?">more...</a></p></div>
+                    </div>
+        </div>
+    </div>
+
+	<!-- TWO COLUMN GRID LAYOUT -->
+	<div class="mediumblue-back">
+        <div class="container">
+            <div class="row">
+              
+                            <div class="col-sm-6 horizontal-line vertical-line">
+                                <div class="mn-facts">
+                                    <!--<div>
+                                        TMA remove link per Lizzie <strong><a href="/elections-voting/election-results/" title="Election Results">Election Results</a></strong>
+
+                                    </div>-->
+                                    <p style="text-align: center;"><a data-id="2471" href="/elections-voting/election-results/" title="Election Results">ELECTION RESULTS</a><br />View <a data-id="2471" href="/elections-voting/election-results/" title="Election Results">election results </a>for recent and past elections. Find other elections data in <a data-id="1668" href="/election-administration-campaigns/data-maps/" title="Data &amp; Maps">data &amp; maps</a>.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 horizontal-line vertical-line">
+                                <div class="mn-facts">
+                                    <!--<div>
+                                        TMA remove link per Lizzie <strong><a href="/elections-voting/get-involved/" title="Get Involved!">Get Involved!</a></strong>
+
+                                    </div>-->
+                                    <p style="text-align: center;"><a data-id="1201" href="/elections-voting/get-involved/">GET INVOLVED<br /></a><span>Participate in a nonpartisan voter education program, sign up to be an election judge and more!</span></p>
+                                </div>
+                            </div>
+                
+            </div>
+        </div>
+    </div>
+
+	<!-- PICTURE BEHIND SECTION-->
+	<div class="container-fluid">
+		<div class="row banner-half photobehind" style="background-image: url('https://commoncontent.sos.state.mn.us/images/Flags-ScottHenderson-Altered.jpg');">
+                <div class="col-sm-6 half-wrap">
+                    <div class="half-content">
+                        <h2>How Elections Work</h2>
+                        <p><p>Ever wonder how you could become a candidate? How are political parties formed? What is a caucus? <a data-id="1200" href="/elections-voting/how-elections-work/" title="How Elections Work">Find out here!</a></p></p>
+                    </div>
+                </div>
+            </div>
+	</div>
+	<!-- ONE COLUMN SECTION -->
+	<div class="mediumblue-back">
+                <div class="container">
+                    <div class="row col-md-12">
+                        <div class="col-sm-8 mn-facts">
+                            <div><p>Minnesota is committed to protecting and strengthening the security and fairness of our elections process.</p></div>
+                        </div>
+
+                            <br />
+                            <div class="">
+                                <div class="">
+                                        <div class="col-sm-3 col-buttons">
+                                            <ul class="list-links icons-style-2">
+
+                                                    <li>
+                                                        <a href="/elections-voting/secure-and-fair-elections/"><span class="mn-icon-wrap mn-icon icon-download"><span class="mn-font">Secure and Fair Elections</span></span></a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+    <!--START FOOTER-->
+    <footer id="footer-site">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Elections &amp; Administration</h3>
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Elections Phone Numbers</span><br>
+                    Metro Area: <a href="tel:651-215-1440" title="Call Us">651-215-1440</a><br>
+                    Greater MN: <a href="tel:1-877-600-8683" title="Call Us">1-877-600-VOTE (8683)</a><br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                
+                    <p class="item-contact ">
+                    <i class="mn-icon icon-clock"></i>
+                    <span> Hours: 9:00 a.m. to 4:00 p.m. </span>
+                
+                </p>
+                
+                
+
+                <p class="item-contact"><i class="mn-icon icon-envelop"></i><span>Email:<a href="mailto:secretary.state@state.mn.us"> secretary.state@state.mn.us</a></span></p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Elections &amp; Administration Address</span><br>
+                    <a href="https://maps.app.goo.gl/PZqseUX4S1dhW4D17" title="Get Directions" aria-label=" Get directions to Elections and Administration"> Get Directions</a><br>
+                    Veterans Service Building, Suite 210<br>
+                    20 W 12th Street<br>
+                    Saint Paul, MN 55155
+                </p>
+                <p class="item-contact" style="font-style: italic;">
+                    The Veterans Service Building has limited public access. Those who need to conduct business with the elections or administration division in person should make arrangements ahead of time by email or phone.
+                </p>
+
+            </div>
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Safe At Home</h3>
+
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Safe At Home Phone Numbers</span><br />
+                    <span>Minnesota’s address confidentiality program</span>
+                    Metro Area: <a href="tel:651-201-1399" title="Call Us">651-201-1399</a><br>
+                    Greater MN: <a href="tel:1-866-723-3035" title="Call Us">1-866-723-3035</a><br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                <p class="item-contact"><i class="mn-icon icon-clock"></i><span> Hours: 8:00 a.m. to 3:30 p.m.</span></p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-envelop"></i><span>
+                        <a href="https://www.sos.state.mn.us/safe-at-home/about-safe-at-home/contact-safe-at-home/" title="Contact Us">  Contact Safe at Home</a>
+                    </span>
+                </p>
+
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Safe At Home Mailing Address</span><br>
+                    PO Box 17370<br>
+                    Saint Paul, MN 55117-0370
+                </p>
+
+            </div>
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Business Services</h3>
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Business Services Phone Numbers</span><br>
+                    Metro Area: <a href="tel:651-296-2803" title="Call Us">651-296-2803</a><br>
+                    Greater MN: <a href="tel:1-877-551-6767" title="Call Us">1-877-551-6767</a><br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-clock"></i><span>Phone Hours: 9:00 a.m. to 4:00 p.m.</span>
+                </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-clock"></i><span>In-Person Appointment Hours: 8:00 a.m. to 4:00 p.m.</span>
+                </p>
+                
+            <p class="item-contact">
+                <span><a href="https://outlook.office365.com/owa/calendar/OSSAppointments@mn365.onmicrosoft.com/bookings/" title="Schedule an appointment" window="_new">Schedule an appointment</a><span class="sr-only">with Business Services</span></span>
+                <span><br /> <br /><i>Appointments take place at our First National Bank Building location.</i></span>
+            </p>
+            <p class="item-contact">
+                <i class="mn-icon icon-envelop"></i><span>Email:<a href="mailto:business.services@state.mn.us"> business.services@state.mn.us</a></span><br />
+                <i class="mn-icon icon-envelop"></i><span>Apostille Email:<a href="mailto:apostille.oss@state.mn.us"> apostille.oss@state.mn.us</a></span><br />
+                <i class="mn-icon icon-envelop"></i><span>UCC Email:<a href="mailto:ucc.dept@state.mn.us"> ucc.dept@state.mn.us</a></span><br />
+                <i class="mn-icon icon-envelop"></i><span>Notary Email:<a href="mailto:notary.sos@state.mn.us"> notary.sos@state.mn.us</a></span>
+            </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Business Services Address</span><br>
+                    <a href="https://www.google.com/maps/dir//First+National+Bank+Building,+332+Minnesota+St,+St+Paul,+MN+55101/@44.9468333,-93.1609286,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f7d54e5eeb2777:0x3a0e0919b65a61a0!2m2!1d-93.0908888!2d44.9468547" title="Get Directions" aria-label=" Get directions to Business services"> Get Directions</a><br>
+                    First National Bank Building <br />
+                    332 Minnesota Street, Suite N201 <br />
+                    Saint Paul, MN 55101
+
+                </p>
+            </div>
+        </div><!-- /.row -->
+    </div>
+</footer>
+
+<!-- /.site-contact-info -->
+<div class="site-copyright" style="text-align: left">
+    <div class="container-fluid">
+        <div class="col-md-4 text-left">
+            <span>&copy; 2024 Office of the Minnesota Secretary of State</span>
+            <span> - <a href="https://www.sos.state.mn.us/about-the-office/about-the-office/web-site-terms-and-conditions-of-use" title="Terms &amp; Conditions"> Terms & Conditions</a></span>
+        </div>
+        <div class="col-md-4 text-center">
+            <span>The Office of the Secretary of State is an equal opportunity employer</span>
+        </div>
+        <div class="col-md-4">
+            <div class="social-block">
+                <div class="links-social" style="float:right">
+                    <a href="https://www.facebook.com/MNSteveSimon" class="mn-icon icon-facebook2" rel="nofollow" title="Steve Simon on Facebook. Like Us!"><span class="sr-only">Steve Simon on Facebook. Like Us!</span></a>
+                    <a href="https://twitter.com/mnsecofstate" class="mn-icon icon-twitter" rel="nofollow" title="Steve Simon on Twitter. Follow Us!"><span class="sr-only">Steve Simon on Twitter. Follow Us!</span></a>
+                    <a href="https://www.youtube.com/channel/UClVwrWOudd8bRWylSIRCOog" class="mn-icon icon-youtube3" rel="nofollow" title="Steve Simon on YouTube. Follow Us!"><span class="sr-only">Steve Simon on YouTube. Follow Us!</span></a>
+                </div>
+                <div style="float:right">
+                    <a href="https://public.govdelivery.com/accounts/MNSOS/subscriber/new" title="Subscribe for email updates!"> <i class="mn-icon icon-envelop"></i> Subscribe for email updates!</a>
+                </div>
+                <div>
+                    <a href="https://www.sos.state.mn.us/about-the-office/about-the-office/vulnerability-disclosure-program/">Vulnerability Disclosure</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.site-copyright -->
+    <!-- JavaScript
+    ================================================== -->
+    
+    <script src="/javascript/bootstrap.min.js"></script>
+    <script src="/javascript/specialScripts.js"></script>
+
+    <!--OWL CAROUSEL SCRIPT-->
+    <script src="/javascript/owl.carousel.js"></script>
+
+        <script src="https://commoncontent.sos.state.mn.us/javascript/bootstrap-datepicker.min.js"></script>
+    <script src="https://commoncontent.sos.state.mn.us/javascript/mn-app.min.js"></script>
+
+
+</body>
+</html>

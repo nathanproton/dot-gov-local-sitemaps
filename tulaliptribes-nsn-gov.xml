@@ -1,0 +1,699 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="/Scripts/_gtm.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+            <title>The Tulalip Tribes || Home</title>
+        <meta name="description" content="The Tulalip Tribes offers high quality government goods and services to its members and the Tribal Community, business, gaming and much more. – Home" />
+        <meta name="keywords" content="Tulalip, Tulalip Tribes, government, goods, services, businesses, jobs, housing, food, shelter, Snohomish, Snoqualmie, Skykomish, health, courts, police, fire, departments, Board of Directors, history, culture, community, education, members, children, elders – Home" />
+
+    <script src="/bundles/jsModernizr?v=DssFQY9VtwDXJXcpOwCrU61dufuCgT1guCFyAaJjFy41"></script>
+
+    <link href="/bundles/cssBootstrap?v=OabpuwAAbu37-t9GngNtxc_xcbHI0bZ2G31DChxGGDs1" rel="stylesheet"/>
+
+    <link href="/bundles/cssCustom?v=L0M9AwVtCaIT5r6lBYP7Ihlun1Y2EcVfH88L1jvkJCU1" rel="stylesheet"/>
+
+    <link href="/bundles/cssResponsive?v=ew7e8mGet7bv7ZUNn5I_h5JFfxZPCe-VGIRKUOEpijQ1" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="/bundles/jsJquery?v=7IERIJYTfBAtDsFzxVdc0aqqVsBR_YFa5cuGYupsXLA1"></script>
+
+    <script src="/bundles/jsCustom?v=ajKCP_dbwV34_ANB3Ify_5J_gYRRZNBmOgFRWYDHTpw1"></script>
+
+    <script src="/bundles/jsBootstrap?v=Oc3oElIQXBjzi_Nkfie8xhBB3fz3pgTXbYJ4QieEBTA1"></script>
+
+    <script src="/bundles/jsJqueryval?v=AHj7zYS7t9XtHqg9runN9MsB9j8jFn8TyjFAEJ6VQXk1"></script>
+
+    <script src="/bundles/jsCookie?v=r7KFwrf_pEoi2UDZv0LUxMgmkJc8U3uLbSF28-acDYU1"></script>
+
+    <link rel="icon" href="/Content/Images/icons/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/Content/Images/icons/favicon-16x16.png" type="image/x-icon" sizes="16x16" />
+<link rel="icon" href="/Content/Images/icons/favicon-32x32.png" type="image/x-icon" sizes="32x32" />
+<link rel="icon" href="/Content/Images/icons/favicon-96x96.png" type="image/x-icon" sizes="96x96" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-precomposed.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-57x57.png" sizes="57x57" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-60x60.png" sizes="60x60" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon-precomposed" href="/Content/Images/icons/apple-icon-180x180.png" sizes="180x180" />
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="/Content/Images/icons/ms-icon-70x70.png" />
+<meta name="msapplication-TileImage" content="/Content/Images/icons/ms-icon-144x144.png" />
+<meta name="msapplication-TileImage" content="/Content/Images/icons/ms-icon-150x150.png" />
+<meta name="msapplication-TileImage" content="/Content/Images/icons/ms-icon-310x310.png" />
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/Content/Images/icons/android-icon-192x192.png" sizes="192x192">
+</head>
+<body>
+    <div class="sticky-top">
+                <nav class="navbar sticky-top navbar-dark theme-white-blue Home" id="top-nav">
+            <div class="container">
+                <ul class="nav navbar-nav list-inline">
+                    <li class="list-inline-item">
+                        <div class="d-none d-md-flex float-left">
+                            <a class="plr-1 pl-0" target="_blank" href="https://iamtulalip.com">iAmTULALIP</a>
+                        </div>
+                        <div id="top-search-container" class="plr-1">
+                            <div class="d-inline-block">
+                                <span class="search-label"></span>
+                                <span class="input-group-addon search-open">
+                                    <i class="fa fa-search text-white" aria-hidden="true"></i>
+                                </span>
+                            </div>
+                            <div class="search-form-wrapper">
+                                <form class="navbar-form navbar-right">
+                                    <form class="form-group">
+    <input type="text" class="q top-nav-search-box" placeholder="Search" title="Enter a search term" required maxlength="40" />
+    <input type="image" class="search-icon top-nav-search-icon" alt="SearchIcon" src="/Content/images/SearchIcon-BlueBkgd.svg" />
+</form>
+<script src="/Scripts/search-control.js"></script>
+                                </form>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav list-inline flex-direction-unset m-sm-0">
+                    <li class="list-inline-item phone-container">
+                        <i class="fa fa-phone pr-1"></i>
+                        <a href="tel:3607164000">360-716-4000</a>
+                    </li>
+                    <li class="list-inline-item d-none d-md-inline">
+                        <a href="https://www.facebook.com/TulalipNews/" target="_blank"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li class="list-inline-item d-none d-md-inline">
+                        <a href="https://twitter.com/tulalipnews" target="_blank"><img src="/Content/Images/icons/x-social-media-black-icon-20x20-20240306.png" alt="TTT on twitter" class="social-icon-xtwitter" /></a>
+                    </li>
+                    <li class="list-inline-item d-none d-md-inline">
+                        <a href="https://www.instagram.com/tulalipnews/" target="_blank"><i class="fa fa-instagram"></i></a>
+                    </li>
+                    <li class="list-inline-item desktopOnlineBillPayBtn ml-25 w-175">
+                        <a href="/Dept/Finance" target="_self"><img src="/Content/Images/OnlineBillPay-Button.png" class="w-100 d-block" /></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="z-index-3 theme-white-blue">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark theme-white-blue" id="main-nav">
+                    <a class="navbar-brand" href="/">
+                        <img src="/Content/Images/Tulalip-Tribes-Logo.svg" alt="Logo for The Tulalip Tribes" class="z-index-111" />
+                    </a>
+                    <div class="list-inline-item mobileOnlineBillPayBtn ml-25 w-175">
+                        <a href="/Dept/Finance" target="_self"><img src="/Content/Images/OnlineBillPay-Button.png" class="w-100 d-block" /></a>
+                    </div>
+                    <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        <div class="text-white">Menu</div>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item dropdown">
+                                        <a href="/WhoWeAre" class="nav-link dropdown-toggle nav-whoweare" role="button" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false" target="_self">Who We Are</a>
+                                        <div class="container">
+                                            <div class="dropdown-menu nav-whoweare">
+                                                                <a class="second-tier nav-link" href="/WhoWeAre" target="_self">Who We Are</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/AboutUs" target="_self">About Us</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/History" target="_self">History</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/Heritage" target="_self">Heritage</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/LandAcknowledgement" target="_self">Land Acknowledgement</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/MissionVisionAndValues" target="_self">Mission, Vision and Values</a>
+                                                                <a class="second-tier nav-link" href="/WhoWeAre/Sovereignty" target="_self">Sovereignty</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a href="/Gov" class="nav-link dropdown-toggle nav-government" role="button" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false" target="_self">Government</a>
+                                        <div class="container">
+                                            <div class="dropdown-menu nav-government">
+                                                                <a class="second-tier nav-link" href="/Gov" target="_self">Government</a>
+                                                                <a class="second-tier nav-link" href="/Gov/BoardOfDirectors" target="_self">Board of Directors</a>
+                                                                <a class="second-tier nav-link" href="/Gov/Leadership" target="_self">Leadership</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a href="/Visitors" class="nav-link dropdown-toggle nav-visitors" role="button" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false" target="_self">Visitors</a>
+                                        <div class="container">
+                                            <div class="dropdown-menu nav-visitors">
+                                                                <a class="second-tier nav-link" href="/Visitors" target="_self">Visitors</a>
+                                                                <a class="second-tier nav-link" href="https://careers.tulaliptribes-nsn.gov" target="_blank">Careers</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/CharitableContributions" target="_self">Charitable Contributions</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/EconomicDevelopment" target="_self">Economic Development</a>
+                                                                <a class="second-tier nav-link" href="/Dept/HCC" target="_self">Hibulb Cultural Center</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/Environment" target="_self">Environment</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Planning" target="_self">Permitting</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/RequestsForProposal" target="_self">Requests for Proposal</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/TLD" target="_self">Tax and Licensing Division</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a href="/Residents" class="nav-link dropdown-toggle nav-residents" role="button" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false" target="_self">Residents</a>
+                                        <div class="container">
+                                            <div class="dropdown-menu nav-residents">
+                                                                <a class="second-tier nav-link" href="/Residents" target="_self">Residents</a>
+                                                                <a class="second-tier nav-link" href="/Residents/BoysAndGirlsClub" target="_self">Boys and Girls Club</a>
+                                                                <a class="second-tier nav-link" href="/Residents/FormsAndPublications" target="_self">Forms and Publications</a>
+                                                                <a class="second-tier nav-link" href="/Residents/HeritageSchool" target="_self">Heritage School</a>
+                                                                <a class="second-tier nav-link" href="/Residents/PolicyReview" target="_self">Policy Review</a>
+                                                                <a class="second-tier nav-link" href="/Residents/PublicNotices" target="_self">Public Notices</a>
+                                                                <a class="second-tier nav-link" href="/Residents/Services" target="_self">Services</a>
+                                                                <a class="second-tier nav-link" href="/Residents/TulalipPoliceAndFire" target="_self">Tulalip Police and Fire</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipTransit" target="_self">Tulalip Transit</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a href="/Dept" class="nav-link dropdown-toggle nav-departments" role="button" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false" target="_self">Departments</a>
+                                        <div class="container">
+                                            <div class="dropdown-menu card-columns nav-departments">
+                                                                <a class="second-tier nav-link" href="/Dept/AssetsAndRealEstate" target="_self">Assets And Real Estate </a>
+                                                                <a class="second-tier nav-link" href="/Dept/bedachelh" target="_self">beda?chelh</a>
+                                                                <a class="second-tier nav-link" href="/Dept/BJTELA" target="_self">BJTELA</a>
+                                                                <a class="second-tier nav-link" href="/Dept/CaregiverProgram" target="_self">Caregiver Program</a>
+                                                                <a class="second-tier nav-link" href="/Dept/CDACD" target="_self">CDACD</a>
+                                                                <a class="second-tier nav-link" href="/Dept/ChildSupportEnforcement" target="_self">Child Support Enforcement</a>
+                                                                <a class="second-tier nav-link" href="/Dept/ChildrensAdvocacyCenter" target="_self">Children's Advocacy Center</a>
+                                                                <a class="second-tier nav-link" href="/Dept/CodeEnforcement" target="_self">Code Enforcement</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Compliance" target="_self">Compliance</a>
+                                                                <a class="second-tier nav-link" href="/Dept/ComprehensiveRecoverySolutions" target="_self">Comprehensive Recovery Solutions</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Construction" target="_self">Construction</a>
+                                                            <a class="second-tier nav-link" href="/Dept/ComprehensivePlanUpdate" target="_self">Comprehensive Plan Update</a>
+                                                                <a class="second-tier nav-link" href="/Dept/CustodialMaintenance" target="_self">Custodial Maintenance</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TTTCustomerService" target="_self">Customer Service (Tribal Gov)</a>
+                                                                <a class="second-tier nav-link" href="/Dept/DocumentManagementServices" target="_self">Document Management Services</a>
+                                                                <a class="second-tier nav-link" href="/Dept/EducationDivision" target="_self">Education Division</a>
+                                                                <a class="second-tier nav-link" href="/Dept/ElderServices" target="_self">Elder Services</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Elections" target="_self">Elections</a>
+                                                                <a class="second-tier nav-link" href="/Dept/EmergencyManagement" target="_self">Emergency Management</a>
+                                                                <a class="second-tier nav-link" href="https://careers.tulaliptribes-nsn.gov/" target="_blank">Employment</a>
+                                                                <a class="second-tier nav-link" href="/Dept/EmployeeBenefits" target="_self">Employee Benefits</a>
+                                                                <a class="second-tier nav-link" href="/Events" target="_self">Events</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Enrollment" target="_self">Enrollment</a>
+                                                                <a class="second-tier nav-link" href="/Dept/FamilyAdvocacy" target="_self">Family Advocacy</a>
+                                                                <a class="second-tier nav-link" href="/Dept/FamilyHaven" target="_self">Family Haven</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Finance" target="_self">Finance</a>
+                                                                <a class="second-tier nav-link" href="/Dept/FleetManagement" target="_self">Fleet Management</a>
+                                                                <a class="second-tier nav-link" href="/Dept/FuneralServices" target="_self">Funeral Services</a>
+                                                                <a class="second-tier nav-link" href="/Dept/GrantsAndSelfGovernance" target="_self">Grants and Self Governance</a>
+                                                                <a class="second-tier nav-link" href="/Dept/HealthAndSafety" target="_self">Health and Safety</a>
+                                                                <a class="second-tier nav-link" href="/Dept/HigherEducation" target="_self">Higher Education</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Housing" target="_self">Housing</a>
+                                                                <a class="second-tier nav-link" href="/Dept/LegacyOfHealing" target="_self">Legacy of Healing: Advocacy Center</a>
+                                                                <a class="second-tier nav-link" href="/Dept/LegalReservationAttorney" target="_self">Legal / Reservation Attorney</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Lushootseed" target="_self">Lushootseed</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Marina" target="_self">Marina</a>
+                                                                <a class="second-tier nav-link" href="/Dept/MediaAndMarketing" target="_self">Media and Marketing</a>
+                                                                <a class="second-tier nav-link" href="/Dept/MinorTrustAccounts" target="_self">Minor Trust Accounts</a>
+                                                                <a class="second-tier nav-link" href="/Dept/NaturalResources" target="_self">Natural Resources</a>
+                                                                <a class="second-tier nav-link" href="/Dept/PalletShelter" target="_self">Pallet Shelter</a>
+                                                            <a class="second-tier nav-link" href="/Dept/Planning" target="_self">Planning</a>
+                                                                <a class="second-tier nav-link" href="/Dept/Procurement" target="_self">Procurement</a>
+                                                                <a class="second-tier nav-link" href="/Dept/PublicWorks" target="_self">Public Works</a>
+                                                                <a class="second-tier nav-link" href="/Dept/RecoveryResourceCenter" target="_self">Recovery Resource Center</a>
+                                                                <a class="second-tier nav-link" href="/Dept/RetirementCenter" target="_self">Retirement Center</a>
+                                                                <a class="second-tier nav-link" href="/Dept/SeniorCenter" target="_self">Senior Center</a>
+                                                                <a class="second-tier nav-link" href="/Dept/SocialServices" target="_self">Social Services</a>
+                                                                <a class="second-tier nav-link" href="/Dept/SolidWasteAndRecycling" target="_self">Solid Waste and Recycling</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TANF" target="_self">TANF</a>
+                                                                <a class="second-tier nav-link" href="/Visitors/TLD" target="_self">Tax and Licensing Division</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TERO" target="_self">TERO</a>
+                                                                <a class="second-tier nav-link" href="/Dept/tikupihali" target="_self">ti kupihali</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TransitionUnits" target="_self">Transition Units</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TreatyRightsAndGovernmentAffairs" target="_self">Treaty Rights and Government Affairs</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TribalCourt" target="_self">Tribal Court</a>
+                                                            <a class="second-tier nav-link" href="/Dept/TDS" target="_self">Tulalip Data Services</a>
+                                                                <a class="second-tier nav-link" href="/Dept/THS" target="_self">Tulalip Health System</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipPolice" target="_self">Tulalip Police</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipTransit" target="_self">Tulalip Transit</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipTribalGamingAgency" target="_self">Tulalip Tribal Gaming Agency</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipUtilities" target="_self">Utilities</a>
+                                                                <a class="second-tier nav-link" href="/Dept/TulalipVeterans" target="_self">Veterans</a>
+                                                                <a class="second-tier nav-link" href="/Dept/VillageOfHope" target="_self">Village Of Hope</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                        </ul>
+                    </div>
+                </nav> <!-- navbar-collapse -->
+            </div>
+        </div>
+
+    </div>
+    <header class="Home">
+        <div class="circularWhale"><img src="/Content/Images/tulalip-whale-circular-371px-high.png" /></div>
+        <div class="header-area" href="/">
+            <iframe id="homeVimeo" src="https://player.vimeo.com/video/982777528?autoplay=1&loop=1&muted=1&controls=0"></iframe>
+<div id="homeVimeoText">
+<img src="/Content/Images/Tulalip Tribes logo white.svg" />
+<p>
+The Tulalip Tribes is a federally recognized tribe<br> and successors in interest to the Snohomish,<br> Snoqualmie, Skykomish, and other allied tribes and<br> bands that signed the 1855 Treaty of Point Elliott.
+</p>
+</div>        </div>
+        <div class="header-space"></div>
+        	    <nav id="QuickLinks">
+		    <div class="row">
+			        <div id="set0" class="row tile active m-0">
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-0">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="/Dept/TreatyRightsAndGovernmentAffairs" target="_self">
+						            <img src="/Content/Images/tiles/TreatyRights.png" alt="Tulalip Tribes Treaty Rights" />
+						            <h3>Treaty Rights</h3>
+					            </a>
+				            </div>
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-1">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="https://careers.tulaliptribes-nsn.gov/" target="_self">
+						            <img src="/Content/Images/tiles/CareersatTulalip.png" alt="Tulalip Tribes Careers at Tulalip" />
+						            <h3>Careers at Tulalip</h3>
+					            </a>
+				            </div>
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-2">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="/PressRoom" target="_self">
+						            <img src="/Content/Images/tiles/PressRoom.png" alt="Tulalip Tribes Press Room" />
+						            <h3>Press Room</h3>
+					            </a>
+				            </div>
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-3">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="/Gov/BoardOfDirectors" target="_self">
+						            <img src="/Content/Images/tiles/BoardofDirectors.png" alt="Tulalip Tribes Board of Directors" />
+						            <h3>Board of Directors</h3>
+					            </a>
+				            </div>
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-4">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="/Events" target="_self">
+						            <img src="/Content/Images/tiles/Events.png" alt="Tulalip Tribes Events" />
+						            <h3>Events</h3>
+					            </a>
+				            </div>
+				            <div class="col col-6 col-sm-4 col-lg-2 ql" id="quicklinks-5">
+					            <div class="slide slide1">
+					            </div>
+					            <div class="slide slide2">
+					            </div>
+					            <div class="slide slide3">
+					            </div>
+					            <a class="img" href="/Dept/ComprehensivePlanUpdate" target="_self">
+						            <img src="/Content/Images/tiles/ComprehensivePlanUpdate.png" alt="Tulalip Tribes Comprehensive Plan Update" />
+						            <h3>Comprehensive Plan Update</h3>
+					            </a>
+				            </div>
+			        </div>
+		    </div>
+	    </nav>
+
+
+        
+        
+    </header>
+                    <div class="z-index-2 bg-white logoBackground">
+                        <div class="container">
+                            <div class="body-content row">
+                                <div class="col col-12">
+                                    	<section class="Home webPageSection row">
+		<div class="left-column col">
+				<div class="left-column-section">					
+									</div>
+				<div class="left-column-section">					
+    <div class="hasContactForm " data-name="">False</div>
+    <div class=" " >
+                            <div class="" ><h1 class="color-tulalip-red">We are Tulalip</h1></div>                    
+                    <div class="image-left" >
+                                                    <img src="/Base/File/TTT-Home-BodyImage" alt="Tulalip tribal members" />
+                    </div>
+                    <div class="" ><p>We are the Tulalip (pronounced Tuh’-lay-lup) Tribes, direct descendants of and the successors in interest to the Snohomish, Snoqualmie, Skykomish, and other allied bands signatory to the 1855 Treaty of Point Elliott. We agreed to cede title to our ancestral lands as signatories, which expanded to the top of the Cascade Mountains, north to Vancouver Island, and south to Oregon. In return, the treaty reserved the Tulalip Indian Reservation as our permanent homeland over which we have retained inherent sovereign jurisdiction.</p>
+ 
+
+<p>Our status as a sovereign government maintains our right to self-govern as a “nation within a nation.” Including the inherent right as a government to raise revenue for our community. 92% of our services are funded from tribal hard dollars. These services included tribal member general welfare, family and senior housing, education, health, dental, and mental health services. It also includes law enforcement, fire protection, infrastructure improvements, and economic growth. Our tribal population is over 5,100 and growing, with 2,700 members residing on the 22,000 acres Tulalip Indian Reservation. We are located north of Everett and the Snohomish River and west of Marysville, Washington.</p></div>                    
+                    <div class="" >For more information, please explore our website and read the <a href="/Content/Documents/Tulalip-Visitors-Guide/Guide.html" target="_blank">Tulalip Visitors Guide</a>.</div>                    
+                    <div class="" ><br />
+To view the Tulalip Tribes timeline, please open the PDF link below:
+<br /></div>                    
+                        <div>
+                            <a class="iconPDF ml-2 "  href="/Base/File/TTT-Tulalip-Timeline-Mural-20230509" target="_blank">
+                                <img class="mb-1" src="/Content/images/icons/pdf.png" alt="pdf" />
+                            </a>
+                            <a class=""  href="/Base/File/TTT-Tulalip-Timeline-Mural-20230509" target="_blank">
+                                Tulalip Tribes Timeline
+                            </a>
+                        </div>
+                    <div class="construction" ><h2>Videos</h2></div>                    
+
+
+<div class="clear-floats"></div>
+    <div class="container position-relative mt-xs-40 h-260">
+        <div id="vimeoCarousel">
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/709156843"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-MMIP-TN-263x169" alt="MMIP Awareness Week video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">MMIP Awareness Week</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/752311218"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-SalmonBake-TN-263x169" alt="Sharing Tulalip Culture with ATNI video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Sharing Tulalip Culture with ATNI</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/726189347"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-ClamBake-TN-263x169" alt="Passing the Knowledge with Ray Fryberg video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Passing the Knowledge with Ray Fryberg</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/384097931"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-Opportunity-TN-263x169" alt="Opportunity video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Opportunity</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/389290188"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-Village-TN-263x169" alt="Village video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Village</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764178"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-NeighborhoodPride" alt="Neighborhood Pride video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Neighborhood</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764249"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-NRQwulooltTreePlanting" alt="NR-Qwuloolt-Tree-Planting-Final video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Tree Planting</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764263"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-PilchuckDamRemoval" alt="Pilchuck-Dam-Removal-Preview video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Dam Removal</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764063"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-SpeeBiDah" alt="Spee Bi Dah video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Spee-Bi-Dah</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764111"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-StockAssessmentLab" alt="Stock-Assessment-Laboratory video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Stock Lab</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/355161879"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-UnityMural-TN-263x169" alt="Unity Mural video thumbnail" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Unity Mural</p>
+                            </a>
+                        </div>
+                        <div class="vimeo col col-12 col-sm-6 col-lg-3 m-0 mr-auto pl-0">
+                            <a data-toggle="modal"
+                               data-src="https://player.vimeo.com/video/332764131"
+                               data-target="#videoModal"
+                               class="vimeo-url">
+                                <div class="Vimeo-Image-Wrapper position-relative">
+                                    <span class="fa fa-play-circle-o m-auto"></span>
+                                    <img src="/Base/File/TTT-Home-VideoPoster-TulalipTVSizzle" alt="Tulalip-TV-Sizzle video" class="d-block mx-auto" />
+                                </div>
+                                <p class="widget-title">Tulalip TV</p>
+                            </a>
+                        </div>
+        </div>
+        <a class="carousel-control-prev" href="#vimeoControls" role="button" data-slide="prev">
+            <span class="fa fa-angle-left text-xl" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#vimeoControls" role="button" data-slide="next">
+            <span class="fa fa-angle-right text-xl" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="/Scripts/slick.min.js"></script>
+<script src="/Scripts/vimeo-carousel-init.js"></script>									</div>
+		</div>
+	</section>
+	<div class="clearfix"></div>
+
+                                        <div class="hasContactForm " data-name="">False</div>
+    <div class=" " >
+&nbsp;                            <div class="" ></div>                    
+    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+<footer id="footer">
+    <div class="container pt-40">
+        <div class="row multi-row-clearfix">
+                        <div class="col-12 col-md-3 widget dark footerLogo">
+                            <h5 class="widget-title line-bottom">Contact</h5>
+<div class="row text-left"> 
+  <div class="col-12"> 
+    <i class="fa fa-map-marker fa-lg vertical-align-top mt-1"></i> 
+    <p>6406 Marine Drive<br>Tulalip, Washington 98271</p> 
+  </div> 
+
+  <div class="col-12"> 
+    <i class="fa fa-phone fa-lg"></i> 
+    <p><a href="tel:3607164511">360-716-4000</a></p> 
+  </div> 
+
+  <div class="col-12"> 
+    <i class="fa fa-envelope-o fa-lg"></i> 
+    <p><a href="/Contact" target="_self">Contact Us</a></p> 
+  </div> 
+</div>
+                        </div>
+                        <div class="col-12 col-md-3 widget dark">
+                            <h5 class="widget-title line-bottom">Stay Informed</h5>
+                            <i class="fa fa-newspaper-o"></i>
+                            <p class="position-absolute"><a href="https://www.tulalipnews.com" target="_blank">Tulalip News</a></p>
+                            
+                            <br />
+                            <br />
+                            <div class="clearfix"></div>
+
+                            <div class="spacer2">
+                                <i class="fa fa-list-alt"></i>
+                                <p class="position-absolute pl-2">
+                                    <a href="https://tulaliptribes.us18.list-manage.com/subscribe?u=4eab484b7d505b0bd36a9ae51&id=e49b757220" target="_blank">
+                                        Join Our Email List - Sign up today for Tulalip Tribes’ event updates, community information and important dates.
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="clearfix"></div>
+                            
+                            <div>
+                                <i class="fa fa-mobile fa-lg"></i>
+                                <p class="position-absolute pl-2">
+                                    <a href="https://formstax.co/1ed7b85b" target="_blank">
+                                        Sign Up for Text Alerts
+                                    </a></p>
+                            </div>
+                            <div class="clearfix"></div>
+
+                            <div>
+                                <i class="fa fa-tv"></i>
+                                <p class="mt-4 watchTulalipTv">
+                                    <a href="https://www.tulaliptv.com/" target="_blank">
+                                        Watch Tulalip TV
+                                    </a>
+                                </p>
+                            </div>
+                            
+                        </div>
+                        <div class="col-12 col-md-3 widget dark footerLogo">
+                            <h5 class="widget-title line-bottom">Useful Links</h5>
+<ul id="usefulLinks" class="list-border list theme-colored angle-double-right">
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.hibulbculturalcenter.org/" target="_blank">Hibulb Cultural Center</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="https://www.tulaliptribalpolice.org/" target="_blank">Tulalip Police Department</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.tulalipfoundation.org/" target="_blank">Tulalip Foundation</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.quilcedacreekcasino.com/" target="_blank">Quil Ceda Creek Casino</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.quilcedavillage.org/" target="_blank">Quil Ceda Village</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.codepublishing.com/WA/Tulalip/" target="_blank">Tribal Codes</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="http://www.tulalipbingo.com/" target="_blank">Tulalip Bingo & Slots</a></li>
+
+<li><i class="fa fa-link vertical-align-top mt-1 pr-4"></i><a href="https://www.tulalipresortcasino.com" target="_blank">Tulalip Resort Casino</a></li>
+</ul>
+                        </div>
+                        <div class="col-12 col-md-3 widget dark footerLogo">
+                            <h5 class="widget-title line-bottom">Hours</h5>
+<i class="fa fa-clock-o vertical-align-top mt-1"></i>
+<p>Monday – Friday:<br />
+	8:00 AM – 4:30 PM<br /><br />
+
+	Saturday, Sunday:<br />
+	Closed</p>
+                        </div>
+        </div>
+    </div>
+    <div class="footer-nav theme-dk-blue p-20">
+    <div class="row text-center">
+            <div class="col-12 text-center">
+                <nav class="footer-bottom-nav">
+                                <a href="/Contact" class=" nav-item" target="_self">Contact</a>
+                                    <div class="d-inline"> | </div>
+                                <a href="/Directions" class=" nav-item" target="_self">Directions</a>
+                                    <div class="d-inline"> | </div>
+                                <a href="/Privacy" class=" nav-item" target="_self">Privacy</a>
+                                    <div class="d-inline"> | </div>
+                                <a href="/SiteMap" class=" nav-item" target="_self">Site Map</a>
+                                    <div class="d-inline"> | </div>
+                                <a href="/Terms" class=" nav-item" target="_self">Terms</a>
+                </nav>
+            </div>
+
+    </div>
+    <div class="row text-center">
+        <div class="col-12">
+            <p class="text-white font-11 m-0">Copyright &copy; 2016 &mdash; 2024 Tulalip Tribes. All Rights Reserved.</p>
+            <div class="ftEnvironment">
+                PROD3-20240831-1907
+            </div>
+        </div>
+    </div>
+</div>
+
+</footer>
+<a class="scrollToTop" href="#">
+    <i class="fa fa-angle-up"></i>
+</a>
+    
+
+
+    
+    
+</body>
+</html>

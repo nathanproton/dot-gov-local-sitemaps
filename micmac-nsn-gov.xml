@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en" class="theme_bg san-antonio_theme luna_theme unknown-os" ng-app="themeApp" >
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>Mi'kmaq Nation | Presque Isle, ME</title>
+
+    <!-- preconnecting / preloading -->
+    <link rel="preconnect" as="style" id="jquery-ui-css-preload" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" crossorigin/>
+    <!-- end of preconnecting / preloading -->
+
+    <!-- links to styles -->
+    <link rel="stylesheet" id="jquery-ui-css"  href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" type="text/css" media="all" />
+
+
+    <!-- from beacon-easton theme definition front_actions() -->
+    <link rel="preconnect" id="Source-Sans-Pro-css-preconnect" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" />
+<link rel="stylesheet" id="Source-Sans-Pro-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" type="text/css" media="all"/>
+<link rel="stylesheet" id="theme-css" href="https://micmac-nsn.gov/cms_websites/css/dist/beacon-theme_san-antonio/theme.css?ver=1" type="text/css" media="all and (min-width:0px)"/>
+<link rel="stylesheet" id="customize-css" href="https://micmac-nsn.gov/cms_websites/cms_theme_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- from _the_list -->
+
+    <!-- general links to JS for all themes-->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.validate.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js?ver=248_11"></script> -->
+    <!-- from current/wp-content/themes/tsm-theme-1/plugins/_the_list/_the_list.php -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://micmac-nsn.gov/wp-content/themes/beacon-easton/js/nwmatcher.js"></script> -->
+    <!-- <script type="text/javascript" src="https://micmac-nsn.gov/wp-content/themes/beacon-easton/js/modernizr-custom-11917.js"></script> -->
+
+    <script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/shared/external/scripts.min.js"></script>
+
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/tools/AdminBarAnalytics/js/external-tracking.min.js"></script>
+<link rel="shortcut icon" sizes="16x16 32x32 64x64" href="/files/2021/07/Mirmac_Logo.png?w=196&h=196&zc=0">
+<meta property="og:image" content="/files/2020/08/1596565634045_landscape_dl.jpg"/>
+<meta property="og:image" content="/files/2020/08/a_mowiomi-022_1.jpg"/>
+<meta property="og:image" content="/files/shutterstock/2020/12/1608062198596_shutterstock_176115341_1608062150_e192d40bd764a2ed3cf4d94b2983cf85a2.jpg"/>
+<meta property="og:image" content="/files/shutterstock/2020/12/1608062186309_shutterstock_393657721_1608062120_e11162342d10891f47014c85cc430a349b.jpg"/>
+<meta property="og:image" content="/files/shutterstock/2020/12/1608062208915_shutterstock_380382487_1608062089_e1e167ccbe0a7bdb86e69045f66b6f47ad.jpg"/>
+<meta property="og:image" content="/files/2020/08/a_mawiomi1.jpg"/>
+<meta property="og:title" content="Mi'kmaq Nation | Presque Isle, ME"/>
+<meta property="og:site_name" content="Mi'kmaq Nation"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://micmac-nsn.gov"/>
+<meta property="og:description" content="The Mi'kmaq Nation is a Federally Recognized Tribal Nation located in Aroostook County in Northern Maine. Regionally, the Mi'kmaq Nation is composed of seven districts with 29 bands and a population of approximately 30,000."/>
+<meta name="description" itemprop="description" content="The Mi'kmaq Nation is a Federally Recognized Tribal Nation located in Aroostook County in Northern Maine. Regionally, the Mi'kmaq Nation is composed of seven districts with 29 bands and a population of approximately 30,000." />
+<link rel="canonical" href="https://micmac-nsn.gov" />
+<link rel="stylesheet" id="custom-css-css" href="https://micmac-nsn.gov/cms_websites/cms_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<script>
+jQuery("document").ready(function($){
+   
+     var nav = $('#access');
+   
+     $(window).scroll(function () {
+          if ($(this).scrollTop() > 155) {
+               nav.addClass('menu-stick');
+          } else {
+               nav.removeClass('menu-stick');
+          }
+     });
+});
+</script>
+
+
+<script>
+jQuery("document").ready(function($){
+     var nav = $('#the_header');
+     $(window).scroll(function () {
+          if ($(this).scrollTop() > 125) {
+               nav.addClass('menu-fade');
+          } else {
+               nav.removeClass('menu-fade');
+          }
+     });
+});
+</script>
+
+<script>
+jQuery(document).ready(function(){
+   jQuery(
+     ".header_share_wrap.dropdown-list"
+   ).prepend(
+     "<div id='header-cta'><a href='https://www.youtube.com/@mikmaqnationmaine/videos' target='_blank'>Find us on YouTube</a></div>"
+   );
+});
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+    var b2b = {
+        'isTestingUser' : 0,
+        'tag':'248_11',
+        'theme': 'beacon-theme_san-antonio',
+        'blog_id': '',
+        'website_id': 31999,
+        'CID':'', // later
+        'gaId':'UA-177857664-92',
+        'page_type': '',
+        'isPage': '',
+        'post_id': '360596',
+        'home_url':'https://micmac-nsn.gov',
+        'admin_url':'',
+        'plugins_url':'',
+        'basename':'index.php',
+        'isMobile':0,
+        'isTablet':0,
+        'isFrontPage': 1,
+        'isPost':0,
+        'isSuperAdmin':0,
+        'isBeacon':1,
+        'isB2Badmin':0,
+        'hasStore':0,
+        'primary_menu': 0 ,
+        'qstr':[],
+        'containerClasses':{},
+        'post_password_required':0,
+        'onFly':0
+    };
+//]]>
+</script>
+    <script type="text/javascript">
+				window.b2b = window.b2b || {};
+				window.b2b.GA = {"accounts":["UA-177857664-92","UA-26792682-1"]};
+		</script>
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-177857664-92']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_setCampaignCookieTimeout', 0]);
+
+    _gaq.push(['_trackPageview']);
+
+    _gaq.push(['_setAccount', 'UA-26792682-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+        <!-- Master Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-PF8RFHR03F"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PF8RFHR03F');
+        </script>
+
+
+            <!-- Ga4 Script-->
+            <!-- Elapsed Time: 0.0025391578674316s -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-BKHZRXQVQT"></script>
+            <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-BKHZRXQVQT'); </script>
+
+
+        <!-- Custom CTC & CTD events -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                document.querySelectorAll("a[href^='tel']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'call_click');
+                    });
+                });
+                document.querySelectorAll("a[href^='https://maps.google.com/maps']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'directions_click');
+                    });
+                });
+            }, false);
+        </script>
+
+</head>
+<body class=" home page page-id-360596 page-template-default ve-iframe beacon r2 unknown">
+
+<div id="wrapper" class="beacon_wrapper">
+<div class="mobile_share_wrap modal_wrap">
+    <div class="modal_content share_icons">
+        <h3 class="modal_title">Follow Us <a href="#" class="modal_close close-share">x</a></h3>
+        <div class="share_icons_list_wrap modal_list_wrap">
+            <div class="share_icons_list modal_list">
+<a href='tel:+1-207-764-1972' class='phone' data-icon='A' title='(207) 764-1972'></a>
+<ul class="social-media-links"><li class="facebook"><a href="http://www.facebook.com/MicmacsBGCA/" title="Facebook" target="_blank" ></a></li></ul>            </div>
+        </div>
+    </div>
+</div>
+<div id="the_header">
+
+    <div class="header_share_wrap dropdown-list">
+        <a href='tel:+1-207-764-1972' class='phone' data-icon='A' title='(207) 764-1972'></a>
+                <ul class="share_list"><span class="share_title">Follow Us</span>
+            <ul class="share_icons">
+
+                <ul class="social-media-links"><li class="facebook"><a href="http://www.facebook.com/MicmacsBGCA/" title="Facebook" target="_blank" ></a></li></ul>
+            </ul>
+        </ul>
+            </div>
+
+    <div class="header_color">
+        
+<div id='_the_logo' class='_is_plugin header-logo' slug='_the_logo' data-extra-args='{"section":"header"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-header"><div  class="logo-slot pct100 slot_0 slot-type-image align-left"><a class="ve_no_url" href="https://micmac-nsn.gov" title="Mi'kmaq Nation" rel="home"><img  src="/files/2022/03/blacKLog.png" /></a></div></div><div data-numslots="1" class="logo-variation logo-variation-mobile"><div  class="logo-slot pct100 slot_0 slot-type-image align-left"><a class="ve_no_url" href="https://micmac-nsn.gov" title="Mi'kmaq Nation" rel="home"><img  src="/files/2022/03/blacKLog.png" /></a></div></div>
+</h2></div>        <div class="sa-mobile-triggers">
+                        <a href="#" class="trigger share-trigger"><span class="trigger-icon">!</span><span class="trigger-label">Follow Us</span></a>
+                         <a href="#" class="trigger sa-menu-trigger"><span class="trigger-icon">a</span><span class="trigger-label">Menu</span></a>
+        </div>
+
+        <div class="menu-wrap">
+            <div class="mobile-menu">
+                <span class="close-menu close-trigger">x</span>
+                <div id="access" class="original_access">
+                    <div class="menu align-right">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-378899 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-360596" id="menu-item-378899"><a href="https://micmac-nsn.gov/">Home</a></li><li class=" menu-item menu-item-has-children menu-item-379524 menu-item-object-custom menu-item-type-custom " id="menu-item-379524"><a href="#">Micmac Health</a><ul class="sub-menu"><li class=" menu-item menu-item-385732 menu-item-object-page menu-item-type-post_type " id="menu-item-385732"><a href="https://micmac-nsn.gov/micmac-family-health-services/">Mi'kmaq Nation Health Department</a></li><li class=" menu-item menu-item-379520 menu-item-object-page menu-item-type-post_type " id="menu-item-379520"><a href="https://micmac-nsn.gov/Clinic/">Clinic</a></li><li class=" menu-item menu-item-379731 menu-item-object-page menu-item-type-post_type " id="menu-item-379731"><a href="https://micmac-nsn.gov/purchased-referred-care/">Purchased Referred Care</a></li><li class=" menu-item menu-item-379521 menu-item-object-page menu-item-type-post_type " id="menu-item-379521"><a href="https://micmac-nsn.gov/community-health/">Community Health</a></li><li class=" menu-item menu-item-379523 menu-item-object-page menu-item-type-post_type " id="menu-item-379523"><a href="https://micmac-nsn.gov/behavorial-health/">Behavorial Health</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379539 menu-item-object-custom menu-item-type-custom " id="menu-item-379539"><a href="#">Mi'kmaq Nation</a><ul class="sub-menu"><li class=" menu-item menu-item-379531 menu-item-object-page menu-item-type-post_type " id="menu-item-379531"><a href="https://micmac-nsn.gov/administration/">Administration</a></li><li class=" menu-item menu-item-379533 menu-item-object-page menu-item-type-post_type " id="menu-item-379533"><a href="https://micmac-nsn.gov/education/">Education</a></li><li class=" menu-item menu-item-379562 menu-item-object-page menu-item-type-post_type " id="menu-item-379562"><a href="https://micmac-nsn.gov/headstart/">Headstart</a></li><li class=" menu-item menu-item-379534 menu-item-object-page menu-item-type-post_type " id="menu-item-379534"><a href="https://micmac-nsn.gov/social-services/">Community Support Services</a></li><li class=" menu-item menu-item-396919 menu-item-object-page menu-item-type-post_type " id="menu-item-396919"><a href="https://micmac-nsn.gov/emergency-risk-management/">Risk Management</a></li><li class=" menu-item menu-item-379535 menu-item-object-page menu-item-type-post_type " id="menu-item-379535"><a href="https://micmac-nsn.gov/cultural-program/">Cultural Program</a></li><li class=" menu-item menu-item-379944 menu-item-object-page menu-item-type-post_type " id="menu-item-379944"><a href="https://micmac-nsn.gov/environmental/">Environmental</a></li><li class=" menu-item menu-item-379536 menu-item-object-page menu-item-type-post_type " id="menu-item-379536"><a href="https://micmac-nsn.gov/hunting-fishing/">Hunting & Fishing</a></li><li class=" menu-item menu-item-379522 menu-item-object-page menu-item-type-post_type " id="menu-item-379522"><a href="https://micmac-nsn.gov/youth/">Youth</a></li><li class=" menu-item menu-item-379537 menu-item-object-page menu-item-type-post_type " id="menu-item-379537"><a href="https://micmac-nsn.gov/child-family-services/">Child & Family Services</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379684 menu-item-object-custom menu-item-type-custom " id="menu-item-379684"><a href="#">About</a><ul class="sub-menu"><li class=" menu-item menu-item-379557 menu-item-object-page menu-item-type-post_type " id="menu-item-379557"><a href="https://micmac-nsn.gov/about-our-logo/">About Us</a></li><li class=" menu-item menu-item-379554 menu-item-object-page menu-item-type-post_type " id="menu-item-379554"><a href="https://micmac-nsn.gov/location/">Location</a></li><li class=" menu-item menu-item-379556 menu-item-object-page menu-item-type-post_type " id="menu-item-379556"><a href="https://micmac-nsn.gov/tribal-government/">Tribal Government</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379685 menu-item-object-custom menu-item-type-custom " id="menu-item-379685"><a href="#">Community</a><ul class="sub-menu"><li class=" menu-item menu-item-379563 menu-item-object-page menu-item-type-post_type " id="menu-item-379563"><a href="https://micmac-nsn.gov/museum/">Museum</a></li><li class=" menu-item menu-item-379559 menu-item-object-page menu-item-type-post_type " id="menu-item-379559"><a href="https://micmac-nsn.gov/mawiomi/">Mawiomi</a></li><li class=" menu-item menu-item-379564 menu-item-object-page menu-item-type-post_type " id="menu-item-379564"><a href="https://micmac-nsn.gov/tribal-land/">Tribal Land</a></li><li class=" menu-item menu-item-556795 menu-item-object-page menu-item-type-post_type " id="menu-item-556795"><a href="https://micmac-nsn.gov/community-cultural-celebration/">Community Events & Celebrations</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379686 menu-item-object-custom menu-item-type-custom " id="menu-item-379686"><a href="#">Resources</a><ul class="sub-menu"><li class=" menu-item menu-item-621860 menu-item-object-custom menu-item-type-custom " id="menu-item-621860"><a href="/files/2021/12/holiday_list_2022.jpg">Holiday List</a></li><li class=" menu-item menu-item-379561 menu-item-object-page menu-item-type-post_type " id="menu-item-379561"><a href="https://micmac-nsn.gov/housing/">Housing</a></li><li class=" menu-item menu-item-379560 menu-item-object-page menu-item-type-post_type " id="menu-item-379560"><a href="https://micmac-nsn.gov/membership/">Membership</a></li><li class=" menu-item menu-item-379558 menu-item-object-page menu-item-type-post_type " id="menu-item-379558"><a href="https://micmac-nsn.gov/job-opportunities/">Job Opportunities</a></li><li class=" menu-item menu-item-379566 menu-item-object-page menu-item-type-post_type " id="menu-item-379566"><a href="https://micmac-nsn.gov/legal/">Legal</a></li><li class=" menu-item menu-item-659918 menu-item-object-page menu-item-type-post_type " id="menu-item-659918"><a href="https://micmac-nsn.gov/reports/">Reports</a></li><li class=" menu-item menu-item-659919 menu-item-object-page menu-item-type-post_type " id="menu-item-659919"><a href="https://micmac-nsn.gov/storymap-journals/">StoryMap Journals & Teacher Resources</a></li><li class=" menu-item menu-item-379567 menu-item-object-page menu-item-type-post_type " id="menu-item-379567"><a href="https://micmac-nsn.gov/recommended-links/">Recommended Links</a></li></ul>
+                        </li><li class=" menu-item menu-item-389817 menu-item-object-custom menu-item-type-custom " id="menu-item-389817"><a href="https://mfhs.doxy.me" target="_blank">Telehealth</a></li><li class=" menu-item menu-item-820413 menu-item-object-page menu-item-type-post_type " id="menu-item-820413"><a href="https://micmac-nsn.gov/public-notices/">Public Notices</a></li></ul>
+        </div>                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- closed id="the_header" -->
+
+    <div id="container" class="">
+
+<div class="mobile-abovepost "><ul class="phones"><li class="primary tsi-phone "><a href="tel:(207) 764-1972" data-icon="A" title="(207) 764-1972"><span><b></b> (207) 764-1972</span></a></li></ul><ul class="addresses"><li class="primary tsi-address "><a href="https://maps.google.com/maps?daddr=8 Northern Road, Presque Isle, ME 04769" data-icon="M" title="https://maps.google.com/maps?daddr=8 Northern Road, Presque Isle, ME 04769" target="_blank">Directions</a></li></ul></div>
+<div class='full_width_content section_content content_bg wrp_color_bg'><div class='section w1060'><!-- Start block beacon_article_3 -->
+<!-- article_3 new RENDER -->
+<div id='article-a3-1' class='list_block type_article a3 column_amt_1 img-widescreen_16_9 large not_well tsidesign_dl'>
+<div class='item_1 the_list_item center hero yes_image yes_heads no_link no_desc '  style="background-image:url('/files/2020/08/1596565634045_landscape_dl.jpg?&a=t');"><div class='the_list_B Bb' ></div><div class='the_list_wrap'>
+                        <div class='the_list_text'>
+<div class='the_list_item_heads'>
+<H1 class='the_list_item_headline hds_color'><img class="dl-logo" src="/files/2022/03/whitelog.png" ><br>Located in Presque Isle Maine</H1>
+<h3 class='the_list_item_subheadline hds_color'>Federally Recognized November 26, 1991</h3></div>
+</div>
+<div class='banner_bkg'></div><div class='banner_bkg'></div>
+</div></div>
+</div>
+<!-- end of article_3 new RENDER --><!-- End block --><!-- Start block beacon_article_2 -->
+<!-- article_2 new RENDER -->
+ <div id='section_2' class='list_block type_article a2 column_amt_3 square_1_1 small not_well '>
+
+<div class='item_1 the_list_item center not_hero no_image no_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_action'><a href='tel:2077641972' target='_blank' class='accent_color_bg accent_txt_color'>Call for General Inquiries</a></div>
+</div></div>
+<div class='item_2 the_list_item center not_hero no_image no_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_action'><a href='tel:2077641792' target='_blank' class='accent_color_bg accent_txt_color'>Call Health Department/Clinic</a></div>
+</div></div>
+<div class='item_3 the_list_item center not_hero no_image no_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_action'><a href='/files/2022/06/2022-Public-involvement-1.docx' target='_blank' class='accent_color_bg accent_txt_color'>2022 Public Involvement</a></div>
+</div></div>
+<div class='item_4 the_list_item center not_hero no_image no_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_action'><a href='https://micmac-nsn.gov/job-opportunities/' target='_blank' class='accent_color_bg accent_txt_color'>Job Opportunities</a></div>
+</div></div></div>
+<!-- end of article_2 new RENDER --><!-- End block --><!-- Start block beacon_article_2 -->
+<!-- article_2 new RENDER -->
+ <div id='section_3' class='list_block type_article a2 column_amt_4 square_1_1 small xsmall well tsidesign_feature'>
+
+<div class='item_1 the_list_item center not_hero no_image yes_heads yes_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'>Health Department</h3></div>
+<div class='the_list_item_desc txt_color'><p>Health department 207-764-7219<br>Health Clinic 207-764-1792<br>Fax 207-769-7409<br>Medical Records Fax # 207-769-7409<br><br><strong>Office Hours:</strong><br>Monday and Wednesday 8:00 AM-4:00 PM ET<br>Tuesday and Thursday 8:00 AM -6:00 PM ET<br>Friday 8:00AM-Noon<br>Closed all Federal and Tribal Holidays</p></div>
+
+</div></div>
+<div class='item_2 the_list_item center not_hero no_image yes_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'>Mi&#39;kmaq Nation Behavioral Health Services</h3>
+<h3 class='the_list_item_subheadline hds_color'>Direct Line: 207-764-4756</h3></div>
+
+</div></div>
+<div class='item_3 the_list_item center not_hero no_image yes_heads yes_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'>Health Clinic</h3></div>
+<div class='the_list_item_desc txt_color'><p>Health Clinic 207-764-1792<br>Fax 207-769-7409<br>Medical Records Fax # 207-769-7409<br><br><strong>Office Hours:</strong><br>Monday and Wednesday 8:00 AM-4:00 PM ET<br>Tuesday and Thursday 8:00 AM -6:00 PM ET<br>Friday 8:00AM-Noon<br>Closed all Federal and Tribal Holidays</p></div>
+
+</div></div>
+<div class='item_4 the_list_item center not_hero no_image yes_heads yes_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'>Tribal Administration and Government</h3></div>
+<div class='the_list_item_desc txt_color'><p>Tribal Administration and Government 207-764-1972<br>Health Clinic 207-764-1792<br>Health department 207-764-7219</p></div>
+
+</div></div></div>
+<!-- end of article_2 new RENDER --><!-- End block --><!-- Start block beacon_article -->
+<!-- article new RENDER -->
+<div id='section_4' class='list_block type_article a1 column_amt_2 no_sizing medium not_well tsidesign_content'>
+
+<div class='item_1 the_list_item center not_hero no_image no_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_desc txt_color'><p>Like other tribes of Maine, the Micmac, continue to produce a variety of traditional baskets made of splint ash wood, birch bark and split cedar. The Micmac are recognized as excellent producers of porcupine quill on birch bark boxes and wooden flowers of strips of maple, cedar and white birch.</p></div>
+
+</div></div>
+<div class='item_2 the_list_item center not_hero yes_image no_heads no_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_image'><a  data-title=""><img alt=""  data-src='' data-lazy-load-img-src='/files/2020/08/a_mowiomi-022_1.jpg?&a=t' border='0' class='item_image beacon-lazy-load' src='https://micmac-nsn.gov/cms_websites/img/lazy-load-placeholder.png'></a></div>
+<div class='the_list_item_heads'></div>
+
+</div></div>
+</div>
+<!-- end of article new RENDER --><!-- End block --><!-- Start block beacon_article -->
+<!-- article new RENDER -->
+<div id='section_5' class='list_block type_article a1 column_amt_2 widescreen_16_9 medium not_well tsidesign_split'>
+
+<div class='item_1 the_list_item center not_hero no_image yes_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_subheadline hds_color'>Introduction</h3></div>
+<div class='the_list_item_desc txt_color'><p>The majority of the 1489 + members of the Mi&#39;kmaq Nation live within Aroostook County, located in Northern Maine. As far as we know, from time immemorial the Micmacs have occupied the lands south and east of the Gulf of Saint Lawrence, the Maritime Provinces and other regions along the Atlantic Seaboard of Northeastern America.  The Micmac Nation, today, is composed of seven districts with 29 bands and a population of approximately 30 thousand.</p></div>
+
+</div></div>
+<div class='item_2 the_list_item center not_hero no_image no_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_desc txt_color'><p>The Micmac language is an Algonquin one, related to that of the Micmacs&#39; southern neighbors, the Maliseets, Passamaquoddy, Penobscot and Abenaki. All these northeastern tribes are culturally and linguistically related.  Collectively, this group is called the "Wabanaki", which means "People of the Daybreak", or "Dawn land People"  (wabun meaning "light" or "white", aki meaning "earth").</p></div>
+
+</div></div>
+</div>
+<!-- end of article new RENDER --><!-- End block --><!-- Start block beacon_article_2 -->
+<!-- article_2 new RENDER -->
+ <div id='section_6' class='list_block type_article a2 column_amt_3 img-widescreen_2-4_1 small not_well '>
+
+<div class='item_1 the_list_item center not_hero yes_image yes_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_image'><a  data-title="Health"><a href='http://micmac-nsn.gov/Clinic/' target='_blank'><img alt="Health" data-image-src='shutterstock' data-src='' data-lazy-load-img-src='/files/shutterstock/2020/12/1608062198596_shutterstock_176115341_1608062150_e192d40bd764a2ed3cf4d94b2983cf85a2.jpg?w=324&h=135&a=t' border='0' class='item_image beacon-lazy-load' src='https://micmac-nsn.gov/cms_websites/img/lazy-load-placeholder.png'></a></a></div>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'><a href='http://micmac-nsn.gov/Clinic/' target='_blank'>Health</a></h3></div>
+<div class='the_list_item_action'><a href='http://micmac-nsn.gov/Clinic/' target='_blank' class='accent_color_bg accent_txt_color'>Learn More</a></div>
+</div></div>
+<div class='item_2 the_list_item center not_hero yes_image yes_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_image'><a  data-title="Membership"><a href='http://micmac-nsn.gov/membership/' target='_blank'><img alt="Membership" data-image-src='shutterstock' data-src='' data-lazy-load-img-src='/files/shutterstock/2020/12/1608062186309_shutterstock_393657721_1608062120_e11162342d10891f47014c85cc430a349b.jpg?w=324&h=135&a=t' border='0' class='item_image beacon-lazy-load' src='https://micmac-nsn.gov/cms_websites/img/lazy-load-placeholder.png'></a></a></div>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'><a href='http://micmac-nsn.gov/membership/' target='_blank'>Membership</a></h3></div>
+<div class='the_list_item_action'><a href='http://micmac-nsn.gov/membership/' target='_blank' class='accent_color_bg accent_txt_color'>Learn More</a></div>
+</div></div>
+<div class='item_3 the_list_item center not_hero yes_image yes_heads no_desc'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_image'><a  data-title="Job Opportunities"><a href='http://micmac-nsn.gov/job-opportunities/' target='_blank'><img alt="Job Opportunities" data-image-src='shutterstock' data-src='' data-lazy-load-img-src='/files/shutterstock/2020/12/1608062208915_shutterstock_380382487_1608062089_e1e167ccbe0a7bdb86e69045f66b6f47ad.jpg?w=324&h=135&a=t' border='0' class='item_image beacon-lazy-load' src='https://micmac-nsn.gov/cms_websites/img/lazy-load-placeholder.png'></a></a></div>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'><a href='http://micmac-nsn.gov/job-opportunities/' target='_blank'>Job Opportunities</a></h3></div>
+<div class='the_list_item_action'><a href='http://micmac-nsn.gov/job-opportunities/' target='_blank' class='accent_color_bg accent_txt_color'>Learn More</a></div>
+</div></div></div>
+<!-- end of article_2 new RENDER --><!-- End block --><!-- Start block beacon_article -->
+<!-- article new RENDER -->
+<div id='section_7' class='list_block type_article a1 column_amt_2 no_sizing medium not_well tsidesign_content2'>
+
+<div class='item_1 the_list_item center not_hero yes_image no_heads no_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_image'><a  data-title=""><img alt=""  data-src='' data-lazy-load-img-src='/files/2020/08/a_mawiomi1.jpg?&a=t' border='0' class='item_image beacon-lazy-load' src='https://micmac-nsn.gov/cms_websites/img/lazy-load-placeholder.png'></a></div>
+<div class='the_list_item_heads'></div>
+
+</div></div>
+<div class='item_2 the_list_item center not_hero no_image no_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_desc txt_color'><p>On November 26, 1991 after complex legal maneuvering and political lobbying the Mi&#39;kmaq Nation finally achieved Federal Recognition with the passage of the Mi&#39;kmaq Nation Settlement Act.  This act provided the Community with acknowledgment of its tribal status in the United States.  Mi&#39;kmaq Nation have succeeded in rejuvenating a part of the Micmac Nation.</p></div>
+
+</div></div>
+</div>
+<!-- end of article new RENDER --><!-- End block --><!-- Start block beacon_article -->
+<!-- article new RENDER -->
+<div id='section_8' class='list_block type_article a1 column_amt_1 square_1_1 large not_well tsidesign_center'>
+
+<div class='item_1 the_list_item center hero no_image yes_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'><a href='https://www.google.com/maps?ll=46.696954,-68.033523&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=8+Northern+Rd+Presque+Isle,+ME+04769' target='_blank'>Mi&#39;kmaq Nation</a></h3></div>
+<div class='the_list_item_desc txt_color'><p>Health Department: <a href="tel:+1207-764-7219">207-764-7219</a> <br>Tribal Administrative: <a href="tel:+1207-764-1972">207-764-1972</a> <br>Micmac Clinic: <a href="tel:+1207-764-1702">207-764-1702</a> <br><br>Tribal Administration:<br>7 Northern Road<br>Presque Isle, Maine 04769<br><br>Clinic/Health Department:<br>8 Northern Road<br>Presque Isle, ME 04769</p></div>
+<div class='the_list_item_action'><a href='https://www.google.com/maps?ll=46.696954,-68.033523&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=8+Northern+Rd+Presque+Isle,+ME+04769' target='_blank' class='accent_color_bg accent_txt_color'>Find Us</a></div>
+</div></div>
+</div>
+<!-- end of article new RENDER --><!-- End block --><!-- Start block beacon_article -->
+<!-- article new RENDER -->
+<div id='section_9' class='list_block type_article a1 column_amt_2 square_1_1 medium not_well tsidesign_split'>
+
+<div class='item_1 the_list_item center not_hero no_image yes_heads no_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'>
+<h3 class='the_list_item_headline hds_color'>Mi&#39;&#39;kmaq Nation MISSION STATEMENT</h3></div>
+
+</div></div>
+<div class='item_2 the_list_item center not_hero no_image no_heads yes_desc' lang='en'>
+                    <div class='the_list_wrap'>
+<div class='the_list_item_heads'></div>
+<div class='the_list_item_desc txt_color'><p><p><em><strong>Integrity</strong></em>-I shall think and act with honesty and in the best interest of our community, co-workers and the tribe.<br><br><em><strong>Collaboration</strong></em>-I shall work with the people we serve, each other (co-workers) and external customers to offer the highest quality service.<br><br><em><strong>Accountability</strong></em>-I shall maintain the highest standards and follow through on our grants/awards and goals.<br><br><em><strong>Respect</strong></em>-I shall treat our community, co-workers with courtesy, kindness while maintaining their dignity and respecting their individual opinions.<br><br><em><strong>Excellence</strong></em>-I shall try to constantly improve our knowledge and skills in the pursuit of quality of services to our co-workers the community and tribe.</p></p></div>
+
+</div></div>
+</div>
+<!-- end of article new RENDER --><!-- End block --></div></div></div> <!-- closed div id="container" -->
+<div id="the_footer">
+    <div class="footer">
+        <div class="section w988">
+            <div class="list_block type_article column_amt_4 small">
+                <!-- Start of composite --><div rel="1" class="widget the_list_item ftr_txt_color tsI_footer_tmpl_cls"><div class="menu-footer-menu-container">
+            <ul id="menu-primary-menu" rel="dennis" class="menu"><li class=" menu-item menu-item-378899 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-360596" id="menu-item-378899"><a href="https://micmac-nsn.gov/">Home</a></li><li class=" menu-item menu-item-has-children menu-item-379524 menu-item-object-custom menu-item-type-custom " id="menu-item-379524"><a href="#">Micmac Health</a><ul class="sub-menu"><li class=" menu-item menu-item-385732 menu-item-object-page menu-item-type-post_type " id="menu-item-385732"><a href="https://micmac-nsn.gov/micmac-family-health-services/">Mi'kmaq Nation Health Department</a></li><li class=" menu-item menu-item-379520 menu-item-object-page menu-item-type-post_type " id="menu-item-379520"><a href="https://micmac-nsn.gov/Clinic/">Clinic</a></li><li class=" menu-item menu-item-379731 menu-item-object-page menu-item-type-post_type " id="menu-item-379731"><a href="https://micmac-nsn.gov/purchased-referred-care/">Purchased Referred Care</a></li><li class=" menu-item menu-item-379521 menu-item-object-page menu-item-type-post_type " id="menu-item-379521"><a href="https://micmac-nsn.gov/community-health/">Community Health</a></li><li class=" menu-item menu-item-379523 menu-item-object-page menu-item-type-post_type " id="menu-item-379523"><a href="https://micmac-nsn.gov/behavorial-health/">Behavorial Health</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379539 menu-item-object-custom menu-item-type-custom " id="menu-item-379539"><a href="#">Mi'kmaq Nation</a><ul class="sub-menu"><li class=" menu-item menu-item-379531 menu-item-object-page menu-item-type-post_type " id="menu-item-379531"><a href="https://micmac-nsn.gov/administration/">Administration</a></li><li class=" menu-item menu-item-379533 menu-item-object-page menu-item-type-post_type " id="menu-item-379533"><a href="https://micmac-nsn.gov/education/">Education</a></li><li class=" menu-item menu-item-379562 menu-item-object-page menu-item-type-post_type " id="menu-item-379562"><a href="https://micmac-nsn.gov/headstart/">Headstart</a></li><li class=" menu-item menu-item-379534 menu-item-object-page menu-item-type-post_type " id="menu-item-379534"><a href="https://micmac-nsn.gov/social-services/">Community Support Services</a></li><li class=" menu-item menu-item-396919 menu-item-object-page menu-item-type-post_type " id="menu-item-396919"><a href="https://micmac-nsn.gov/emergency-risk-management/">Risk Management</a></li><li class=" menu-item menu-item-379535 menu-item-object-page menu-item-type-post_type " id="menu-item-379535"><a href="https://micmac-nsn.gov/cultural-program/">Cultural Program</a></li><li class=" menu-item menu-item-379944 menu-item-object-page menu-item-type-post_type " id="menu-item-379944"><a href="https://micmac-nsn.gov/environmental/">Environmental</a></li><li class=" menu-item menu-item-379536 menu-item-object-page menu-item-type-post_type " id="menu-item-379536"><a href="https://micmac-nsn.gov/hunting-fishing/">Hunting & Fishing</a></li><li class=" menu-item menu-item-379522 menu-item-object-page menu-item-type-post_type " id="menu-item-379522"><a href="https://micmac-nsn.gov/youth/">Youth</a></li><li class=" menu-item menu-item-379537 menu-item-object-page menu-item-type-post_type " id="menu-item-379537"><a href="https://micmac-nsn.gov/child-family-services/">Child & Family Services</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379684 menu-item-object-custom menu-item-type-custom " id="menu-item-379684"><a href="#">About</a><ul class="sub-menu"><li class=" menu-item menu-item-379557 menu-item-object-page menu-item-type-post_type " id="menu-item-379557"><a href="https://micmac-nsn.gov/about-our-logo/">About Us</a></li><li class=" menu-item menu-item-379554 menu-item-object-page menu-item-type-post_type " id="menu-item-379554"><a href="https://micmac-nsn.gov/location/">Location</a></li><li class=" menu-item menu-item-379556 menu-item-object-page menu-item-type-post_type " id="menu-item-379556"><a href="https://micmac-nsn.gov/tribal-government/">Tribal Government</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379685 menu-item-object-custom menu-item-type-custom " id="menu-item-379685"><a href="#">Community</a><ul class="sub-menu"><li class=" menu-item menu-item-379563 menu-item-object-page menu-item-type-post_type " id="menu-item-379563"><a href="https://micmac-nsn.gov/museum/">Museum</a></li><li class=" menu-item menu-item-379559 menu-item-object-page menu-item-type-post_type " id="menu-item-379559"><a href="https://micmac-nsn.gov/mawiomi/">Mawiomi</a></li><li class=" menu-item menu-item-379564 menu-item-object-page menu-item-type-post_type " id="menu-item-379564"><a href="https://micmac-nsn.gov/tribal-land/">Tribal Land</a></li><li class=" menu-item menu-item-556795 menu-item-object-page menu-item-type-post_type " id="menu-item-556795"><a href="https://micmac-nsn.gov/community-cultural-celebration/">Community Events & Celebrations</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-379686 menu-item-object-custom menu-item-type-custom " id="menu-item-379686"><a href="#">Resources</a><ul class="sub-menu"><li class=" menu-item menu-item-621860 menu-item-object-custom menu-item-type-custom " id="menu-item-621860"><a href="/files/2021/12/holiday_list_2022.jpg">Holiday List</a></li><li class=" menu-item menu-item-379561 menu-item-object-page menu-item-type-post_type " id="menu-item-379561"><a href="https://micmac-nsn.gov/housing/">Housing</a></li><li class=" menu-item menu-item-379560 menu-item-object-page menu-item-type-post_type " id="menu-item-379560"><a href="https://micmac-nsn.gov/membership/">Membership</a></li><li class=" menu-item menu-item-379558 menu-item-object-page menu-item-type-post_type " id="menu-item-379558"><a href="https://micmac-nsn.gov/job-opportunities/">Job Opportunities</a></li><li class=" menu-item menu-item-379566 menu-item-object-page menu-item-type-post_type " id="menu-item-379566"><a href="https://micmac-nsn.gov/legal/">Legal</a></li><li class=" menu-item menu-item-659918 menu-item-object-page menu-item-type-post_type " id="menu-item-659918"><a href="https://micmac-nsn.gov/reports/">Reports</a></li><li class=" menu-item menu-item-659919 menu-item-object-page menu-item-type-post_type " id="menu-item-659919"><a href="https://micmac-nsn.gov/storymap-journals/">StoryMap Journals & Teacher Resources</a></li><li class=" menu-item menu-item-379567 menu-item-object-page menu-item-type-post_type " id="menu-item-379567"><a href="https://micmac-nsn.gov/recommended-links/">Recommended Links</a></li></ul>
+                        </li><li class=" menu-item menu-item-389817 menu-item-object-custom menu-item-type-custom " id="menu-item-389817"><a href="https://mfhs.doxy.me" target="_blank">Telehealth</a></li><li class=" menu-item menu-item-820413 menu-item-object-page menu-item-type-post_type " id="menu-item-820413"><a href="https://micmac-nsn.gov/public-notices/">Public Notices</a></li></ul>
+        </div></div>
+<!-- End of composite -->            </div>
+        </div>
+    </div><!-- closed class="footer" -->
+    <div class="footer_brand">
+        
+<div id='_the_logo' class='_is_plugin footer-logo' slug='_the_logo' data-extra-args='{"section":"footer"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-footer"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://micmac-nsn.gov" title="Mi'kmaq Nation" rel="home"><img  src="/files/2022/03/blacKLog.png" /></a></div></div>
+</h2></div>    </div><!-- closed class="footer_brand" -->
+    <div class="footer">
+        
+<div id="_the_copyright">
+    <div class="copy">
+        <ul rel="1">
+            <li>Copyright &copy; 2024 Mi'kmaq Nation, all rights reserved.</li>
+            <li><span class='footer-street-address footer-address'>8 Northern Road, &nbsp;</span><span class='footer-city-state-zip-address footer-address'><span>Presque Isle</span>,&nbsp;<span>ME</span>&nbsp;<span>04769</span>&nbsp;&nbsp;</span>
+            <span class='footer-phone-address footer-address'>
+                (207) 764-1972
+            </span>
+            </li>
+        </ul>
+    </div>
+</div>
+    </div><!-- closed class="footer" with copyright-->
+</div> <!-- closed class="the_footer" -->
+
+
+</div><!-- closed class="mobile-wrapper" -->
+</div><!-- closed class="beacon_wrapper" -->
+<div id="_the_embeded_below_mods" slug="">
+                <div id="_the_embeded_below_mods_wrapper"></div>
+                <div id="_the_embeded_below_mods_btn" class="_is_embeded"></div>
+            </div>
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/shared/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/beacon-easton/theme-plugins-min.js"></script>
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/beacon-theme_san-antonio/theme-min.js"></script>
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/shared/internal/beacon-lazy-load.min.js"></script>
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/js/dist/beacon-easton/theme-menu-horizontal-v1.min.js"></script>
+
+<script type="text/javascript" src="https://micmac-nsn.gov/cms_websites/tools/GAEventTracking/js/scripts.min.js"></script><script>
+jQuery(document).ready(function(){
+$('.footer_brand').before('<div class="ftr-link"><a href="/privacy-policy/" >Privacy Policy</a></div>')
+  ;});
+</script>
+
+</body></html>

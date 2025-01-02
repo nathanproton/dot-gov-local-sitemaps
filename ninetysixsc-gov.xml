@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://townofninetysix.sc.gov/" />
+<link rel="shortlink" href="https://townofninetysix.sc.gov/" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style>
+html:root {
+--header_title_text_color: #610800;
+--header_menu_text_color: #610800;
+--header_background_color: #eed5a4;
+--header_search_text_color: #595959;
+--header_search_text_outline_color: #eed5a4;
+--header_search_button_text_color: #610800;
+--header_search_button_bg_color: #f2f2f2;
+--header_search_button_outline_color: #eed5a4;
+--header_callout_outline_color: #eed5a4;
+--header_callout_button_text: #610800;
+--header_callout_button_bg: #eed5a4;
+--header_callout_button_outline: #000000;
+--footer_background_color: #eed5a4;
+--footer_text_color: #610800;
+--footer_text_link_color: #8c0c00;
+}
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" type="text/css" />
+<link rel="icon" href="/profiles/contrib/acquia_cms/acquia_cms.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://townofninetysix.sc.gov/" />
+
+    <title>Home | Ninety Six, Town of</title>
+    <link rel="shortcut icon" href="/themes/custom/ngpsb/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/collapsiblock/theme/dist/collapsiblock.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/background-color-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/text-color-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/padding-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/margin-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/border-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_styles/css/bs_example_classes/text-alignment-classes.css?siumfd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?siumfd" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/node.css?siumfd" />
+<link rel="stylesheet" media="all" href="/themes/custom/ngpsb/css/style.css?siumfd" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,500;0,700;1,500;1,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/fonts/monserrat_lato.css?siumfd" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Montserrat:400,700" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css?siumfd" />
+<link rel="stylesheet" media="all" href="/sites/townofninetysix/files/asset_injector/css/accessgov_injector-192b7b42f450c3536ea3afdf3eb8b25e.css?siumfd" />
+<link rel="stylesheet" media="all" href="/sites/townofninetysix/files/asset_injector/css/region_top-d8c381d69c8010f073c88ffadf379f68.css?siumfd" />
+<link rel="stylesheet" media="all" href="/sites/townofninetysix/files/asset_injector/css/site_custom_css-2bfe4ebe2edf43095691eb4f1c0855b7.css?siumfd" />
+<link rel="stylesheet" media="all" href="/sites/townofninetysix/files/asset_injector/css/temp_override_for_items_that_should_move_to_template_css_-0921b7105433d4bf5f750c68bd81b940.css?siumfd" />
+
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/sites/townofninetysix/files/asset_injector/js/menu-9c184b61f31e0684d1dddc17a53bf556.js?siumfd"></script>
+
+  </head>
+  <body class="layout-no-sidebars has-featured-top page-node-121 path-frontpage node--type-page">
+  <script>document.body.className += ' js-loading ';</script>
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+    <div id="page">
+        <header id="header" class="header" role="banner" aria-label="Site header">
+                          <nav class="navbar py-lg-1 navbar-expand-lg" id="navbar-main">
+                                    <div class="container">
+                      
+
+                        <div id="scgovlogo" class="header-logo-block">
+                            <div class="content">
+                                <div class="clearfix text-formatted">
+                                    <p>
+                                        <a class="header-logo-link" href="/">
+                                            <img alt="Home" class="header-logo-image" src="/themes/custom/ngpsb/images/scgov-logo-white.svg">
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                                                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon" style="background-image: url(data:image/svg+xml,%3csvg\ xmlns=\'http://www.w3.org/2000/svg\'\ viewBox=\'0\ 0\ 30\ 30\'%3e%3cpath\ stroke=\'%23610800\'\ stroke-linecap=\'round\'\ stroke-miterlimit=\'10\'\ stroke-width=\'3\'\ d=\'M4\ 7h22M4\ 15h22M4\ 23h22\'/%3e%3c/svg%3e) !important;"></span></button>
+                          <div class="collapse navbar-collapse justify-content-end" id="CollapsingNavbar">
+                                                                  <nav role="navigation" aria-labelledby="block-ngpsb-mainnavigation-menu" id="block-ngpsb-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-ngpsb-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+              <ul class="clearfix nav navbar-nav">
+                                                      <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/about-96" class="nav-link dropdown-toggle menu-depth-0 nav-link--about-96" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/401">About 96</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/demographics" class="menu-depth-1 nav-link--demographics" data-drupal-link-system-path="node/406">Demographics</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/discover-96" class="menu-depth-1 nav-link--discover-96" data-drupal-link-system-path="node/326">Discover 96</a>
+              </li>
+                            <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/local-history" class="dropdown-toggle menu-depth-1 nav-link--local-history" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/411">Local History</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/african-american-heritage" class="menu-depth-2 nav-link--african-american-heritage" data-drupal-link-system-path="node/416">African American Heritage</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/famous-residents" class="menu-depth-2 nav-link--famous-residents" data-drupal-link-system-path="node/471">Famous Residents</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/historical-society" class="menu-depth-2 nav-link--historical-society" data-drupal-link-system-path="node/476">Historical Society</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/time-capsule" class="menu-depth-2 nav-link--time-capsule" data-drupal-link-system-path="node/541">Time Capsule</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/events-0" class="nav-link dropdown-toggle menu-depth-0 nav-link--events-0" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/586">Events</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/events-and-closures" class="menu-depth-1 nav-link--events-and-closures" data-drupal-link-system-path="node/616">Events and Closures</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/2023-christmas-parade" class="menu-depth-1 nav-link-__023-christmas-parade" data-drupal-link-system-path="node/511">Christmas Parade</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/masquerade-park" class="menu-depth-1 nav-link--masquerade-park" data-drupal-link-system-path="node/516">Masquerade In the Park</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/sc-festival-stars" class="menu-depth-1 nav-link--sc-festival-stars" data-drupal-link-system-path="node/281">SC Festival of Stars</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/business" class="nav-link dropdown-toggle menu-depth-0 nav-link--business" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/296">Business</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/business-licenses" class="menu-depth-1 nav-link--business-licenses" data-drupal-link-system-path="node/311">Business Licenses</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/business-listing" class="menu-depth-1 nav-link--business-listing" data-drupal-link-system-path="node/316">Business Listing</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/starting-new-business" class="menu-depth-1 nav-link--starting-new-business" data-drupal-link-system-path="node/301">Starting a New Business</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/government" class="nav-link dropdown-toggle menu-depth-0 nav-link--government" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/356">Government</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/council" class="menu-depth-1 nav-link--council" data-drupal-link-system-path="node/361">Council</a>
+              </li>
+                            <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/departments" class="dropdown-toggle menu-depth-1 nav-link--departments" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/366">Departments</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/ninety-six-fire-department" class="menu-depth-2 nav-link--ninety-six-fire-department" data-drupal-link-system-path="node/501">Fire Department</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/police" class="menu-depth-2 nav-link--police" data-drupal-link-system-path="node/371">Police Department</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/streets-and-sanitation" class="menu-depth-2 nav-link--streets-and-sanitation" data-drupal-link-system-path="node/496">Streets and Sanitation</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/tourism" class="menu-depth-2 nav-link--tourism" data-drupal-link-system-path="node/506">Tourism</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                            <li class="dropdown-item">
+                          <a href="/minutes-and-agendas" class="menu-depth-1 nav-link--minutes-and-agendas" data-drupal-link-system-path="node/536">Minutes and Agendas</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/streets-sanitation-vacancy" class="menu-depth-1 nav-link--streets-sanitation-vacancy" data-drupal-link-system-path="node/606">Job Postings</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/residents" class="nav-link dropdown-toggle menu-depth-0 nav-link--residents" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/276">Residents</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/moving-96" class="menu-depth-1 nav-link--moving-96" data-drupal-link-system-path="node/291">Moving to 96</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/parks" class="menu-depth-1 nav-link--parks" data-drupal-link-system-path="node/286">Parks</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/visitors" class="nav-link dropdown-toggle menu-depth-0 nav-link--visitors" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/321">Visitors</a>
+                                    <ul class="dropdown-menu">
+                                <li class="dropdown-item">
+                          <a href="/accommodations" class="menu-depth-1 nav-link--accommodations" data-drupal-link-system-path="node/336">Accommodations</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/attractions" class="menu-depth-1 nav-link--attractions" data-drupal-link-system-path="node/341">Attractions</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/geocaching" class="menu-depth-1 nav-link--geocaching" data-drupal-link-system-path="node/351">Geocaching</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/golf" class="menu-depth-1 nav-link--golf" data-drupal-link-system-path="node/561">Golf</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/outdoor-activities" class="menu-depth-1 nav-link--outdoor-activities" data-drupal-link-system-path="node/346">Outdoor Activities</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/parks" class="menu-depth-1 nav-link--parks" data-drupal-link-system-path="node/286">Parks</a>
+              </li>
+                            <li class="dropdown-item">
+                          <a href="/landmarks-and-places-interest" class="menu-depth-1 nav-link--landmarks-and-places-interest" data-drupal-link-system-path="node/331">Places of Interest</a>
+              </li>
+        </ul>
+
+  
+                        </li>
+                                                  <li class="nav-item menu-item--expanded">
+                          <a href="/contact-96" class="nav-link menu-depth-0 nav-link--contact-96" data-drupal-link-system-path="node/566">Contact 96</a>
+              </li>
+        </ul>
+
+  
+
+
+  </nav>
+
+
+                                                                                              </div>
+                                                                                    </div>
+                                </nav>
+                                  </header>
+                                                
+
+
+
+    
+    
+
+  <div class="featured-top">
+    <aside class="featured-top__inner section container clearfix" role="complementary">
+
+              <div class="container featured-top-hero-content">
+          <div class="align-content-start align-items-start mb-3 row text-start">
+            <section class="row region region-featured-top">
+              <div class="hero-sc-icon">
+                <svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M5.30414 5.19278L3.33634 6.22326L5.02739 7.66355L6.93231 9.28599L7.20044 10.1583L7.29984 10.4817L7.52841 10.7311L11.0819 14.6084L10.783 15.3511L11.4783 16.0518L13.4659 18.0552L16.3335 23.6812L17.2025 25.386L18.6505 24.1351L26.8648 17.0395L27.1889 16.7595L27.3163 16.3506L27.7568 14.937L29.9872 12.9874L31.1869 11.9386L30.0677 10.8044L24.6859 5.35072L24.2655 4.92468L23.6672 4.90512L19.0335 4.75365L18.1042 3.4309L17.6823 2.83042L16.9493 2.79496L10.8877 2.50175L10.4806 2.48206L10.1194 2.67118L5.30414 5.19278Z" fill="#610800" stroke="white" stroke-width="3"/>
+                </svg>
+              </div>
+                <a href="/" title="Home" rel="home" class="navbar-brand">
+          <img src="/sites/townofninetysix/files/welcome.png" alt="Home" class="img-fluid d-inline-block align-top" />
+        <span class="ml-2 d-none d-md-inline"></span>
+  </a>
+<div id="block-ngpsb-homepagesearch" class="block-content-adhoc_html block block-block-content block-block-content0b7e44e2-01d4-407e-ad6c-1814ecf9fa8c">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="searchInnerContainer">
+<div><input class="searchBox" data-keywords="Find a Job,Pay a Traffic Ticket,Taxes,Start a Business,Purchase a Hunting or Fishing License" id="SearchBar" name="query" placeholder="Looking for Something?" type="text" value="" /><button class="searchButton btn btn-primary ms-lg-3" id="HomeSearchbtn"><span>Search</span></button></div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+            </section>
+          </div>
+        </div>
+      
+
+
+            <div class="featured-top-hero-image" style="background: url(https://townofninetysix.sc.gov/sites/townofninetysix/files/styles/hero_image/public/2024-02/backgrnd.png?itok=ewRlLJTy);">
+      
+        
+        
+      </div>
+
+    </aside>
+  </div>
+
+                            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+            
+                <div id="main" class="container  ">
+                    <div class="row row-offcanvas row-offcanvas-left clearfix">
+               
+                        <main class="main-content col order-first" id="content" role="main">
+                            <section class="section">
+                                <a id="main-content" tabindex="-1"></a>
+                                  <div data-drupal-messages-fallback class="hidden"></div><div id="block-ngpsb-homepagespotlightcards" class="block-content-spotlight_cards block block-block-content block-block-content9caddc86-b9b2-4a39-8eb5-98e8beb7f6f1">
+  
+    
+      <div class="content">
+      
+      <div class="field field--name-field-spotlight-cards field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+  <div class="paragraph paragraph--type--spotlight-cards paragraph--view-mode--default">
+    
+    
+              <a href="https://sc-ninety-six-portal.govpossible.com/">
+            
+            <div class="field field--name-field-spotlight-background field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/townofninetysix/files/styles/coh_x_large/public/2024-02/wtg-splash-1.jpg?itok=ZMdqc8L1" width="465" height="275" alt="" class="image-style-coh-x-large" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+       </a>
+            <div class="field field--name-field-spotlight-link field--type-link field--label-hidden field__item">
+              <a href="https://sc-ninety-six-portal.govpossible.com/">Business License Online Renewal</a>
+           </div>
+        <a href="https://sc-ninety-six-portal.govpossible.com/">
+          <div class="spotlight-text">
+            
+            <div class="field field--name-field-spotlight-description field--type-string-long field--label-hidden field__item">Pay for Business License Renewal Online<br />
+<br />
+You must have the &#039;Online Access Code&#039; from your renewal letter</div>
+      
+                      </div>
+        </a>
+      
+        
+  </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+<div id="block-ngpsb-homepageservicescallout" class="block-content-featured_cta block block-block-content block-block-content8d19c046-890b-4742-969f-107344026537">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-featured-cta field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--featured-cta paragraph--view-mode--default">
+          <div class="container">
+      <div class="d-flex align-items-center row" role="alert">
+        <div class="col-lg-8">
+            <p class="">
+            <div class="field field--name-field-cta-description field--type-string-long field--label-hidden field__item">Ninety Six in the News!<br />
+Carolina Camera visits Ninety Six</div>
+      </p>
+        </div>
+        <div class="col-lg-auto ms-auto mr-3"> <a href="https://youtu.be/Y6yShQXVaIo" class="btn btn-primary">Watch Video</a>
+        </div>
+      </div>
+      </div>
+            </div>
+</div>
+      
+    </div>
+  </div>
+<div id="block-ngpsb-highlighedservicesblock" class="block-content-highlight_cards block block-block-content block-block-contentfcdeb314-1064-4075-8ffa-e176b5d0fc1a">
+  
+    
+      <div class="content">
+      
+  
+<div class="field field--name-field-highlight-para field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="col-lg-6 field__item">  <div class="paragraph paragraph--type--service-highlights paragraph--view-mode--default">
+    <a href="/Town-Council-Calendar">
+
+<div class="highlightTitle">
+    
+            <div class="field field--name-field-highlight-background field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/townofninetysix/files/2024-02/642de723dd5a431d2a99974b_google-calendar-2.png" width="3840" height="2160" alt="Town Council Calendar" />
+
+</div>
+      
+    <span class="linkTitle">Town Council Calendar</span>
+
+
+  </div>
+    
+            <div class="field field--name-field-highlight-description field--type-string-long field--label-hidden field__item">Stay current on scheduled Council Meetings, Workshops and Holidays!</div>
+      
+
+
+</a>
+
+      </div>
+
+</div>
+      <div class="col-lg-6 field__item">  <div class="paragraph paragraph--type--service-highlights paragraph--view-mode--default">
+    <a href="https://www.dnr.sc.gov/licensing.html">
+
+<div class="highlightTitle">
+    
+            <div class="field field--name-field-highlight-background field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/townofninetysix/files/2022-08/fishing.jpg" width="509" height="339" alt="Person fishing" />
+
+</div>
+      
+    <span class="linkTitle">SC DNR</span>
+
+
+  </div>
+    
+            <div class="field field--name-field-highlight-description field--type-string-long field--label-hidden field__item">Life&#039;s Better Outdoors</div>
+      
+
+
+</a>
+
+      </div>
+
+</div>
+  </div>
+
+    </div>
+  </div>
+
+
+<article class="node node--type-page node--promoted node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    <div  class="container layout-builder-container">  
+  <div  class="layout row no-gutters layout-builder__layout">
+    
+                        <div  class="col-12">
+          
+        </div>
+                                                                                                                                                                                              
+  </div>
+
+</div>
+  </div>
+</article>
+
+
+                            </section>
+                        </main>
+                                            </div>
+                </div>
+                    </div>
+        <footer class="site-footer pt-5 pt-lg-5">
+                            <div class="container">
+                                            <div class="site-footer__top clearfix">
+                              <section class="row region region-footer-first">
+    <div id="block-ngpsb-contact" class="footer-col-4 footer-contact-logo block-content-adhoc_html block block-block-content block-block-contentac50e60b-0e32-4782-b9df-b8eb0b21fe84">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>Ninety Six&nbsp;Town Hall</strong><br />
+120 Main Street NW<br />
+Ninety Six, SC 29666<br />
+(864) 543-2200</p>
+</div>
+      
+    </div>
+  </div>
+<div id="block-footermiddlelogo" class="footer-col-4 text-about block-content-adhoc_html block block-block-content block-block-contentaf73effe-56b7-420b-b3f7-64820af68991">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="96 Logo" data-entity-type="file" data-entity-uuid="19c76c6d-01e5-437f-9305-8db20ef504b8" src="/sites/townofninetysix/files/Documents/Images/96-logo_0.jpg" width="200" height="200" loading="lazy"></p>
+</div>
+      
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-ngpsb-footerresources-menu" id="block-ngpsb-footerresources" class="footer-col-4 text-right block block-menu navigation menu--footer-resources">
+            
+  <h2 class="visually-hidden" id="block-ngpsb-footerresources-menu">SC.Gov</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/events" class="nav-link nav-link--events" data-drupal-link-system-path="node/581">Events</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://sc.gov/" target="_blank" class="nav-link nav-link-https--scgov-" title="Find answers to your questions and engage with SC.GOV support.">SC.Gov Home</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://sc.gov/policies" target="_blank" class="nav-link nav-link-https--scgov-policies" title="View and search a list of South Carolina government agencies.">SC.Gov Policies</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                              <section class="row region region-footer-second">
+    <div id="block-ngpsb-disclaimer" class="block-content-adhoc_html block block-block-content block-block-contentebaa4225-9255-41d8-bef7-d5408f0a8fab">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="text-align-center fs-6 lh-sm"><em>Disclaimer</em></p>
+<p class="text-align-center fs-6 lh-sm"><small>THE LANGUAGE USED IN THIS DOCUMENT DOES NOT CREATE AN EMPLOYMENT CONTRACT BETWEEN THE EMPLOYEE AND THE AGENCY. THIS DOCUMENT DOES NOT CREATE ANY CONTRACTUAL RIGHTS OR ENTITLEMENTS. THE AGENCY RESERVES THE RIGHT TO REVISE THE CONTENT OF THIS DOCUMENT, IN WHOLE OR IN PART. NO PROMISES OR ASSURANCES, WHETHER WRITTEN OR ORAL, WHICH ARE CONTRARY TO OR INCONSISTENT WITH THE TERMS OF THIS PARAGRAPH CREATE ANY CONTRACT OF EMPLOYMENT.</small></p>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+                            
+                        </div>
+                                    </div>
+            
+            <hr>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-sm col-xs-12">
+                        <a class="text-white" href="https://sc.gov" title="SC.GOV portal">
+                            SC.GOV Home
+                        </a>
+                    </div>
+                    <div class="col-sm col-xs-12">
+                        <a class="text-white" href="https://sc.gov/policies">
+                            SC.GOV Policies
+                        </a>
+                    </div>
+                    <div class="col-sm col-xs-12">
+                        <a class="text-white" href="https://sc.gov/help-center" title="SC.GOV Help Center">
+                            Help Center
+                        </a>
+                    </div>
+                    <div class="col-sm col-xs-12">
+                        <a class="text-white" href="https://appengine.egov.com/apps/sc/contactus" title="Contact SC.GOV Support">
+                            Contact SC.GOV
+                        </a>
+                    </div>
+                    <div class="col-sm col-xs-12">
+                        <a class="text-white" href="https://get.adobe.com/reader/" target="_blank">
+                            Download Adobe Reader
+                        </a>
+                    </div>
+                    <div>
+                        Copyright ©
+                        <script type="text/javascript">
+                            var dteNow = new Date();
+                            var intYear = dteNow.getFullYear();
+                            document.write(intYear);
+                        </script>
+                        State of South Carolina
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/121","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"cohesion":{"currentAdminTheme":"claro","front_end_settings":{"global_js":{"matchHeight":1,"parallax_scrolling":1,"cohMatchHeights":1}},"google_map_api_key":"","google_map_api_key_geo":null,"animate_on_view_mobile":"DISABLED","add_animation_classes":"DISABLED","responsive_grid_settings":{"gridType":"desktop-first","columns":12,"breakpoints":{"xl":{"width":1400,"innerGutter":30,"outerGutter":30,"widthType":"fixed","previewColumns":12,"label":"Television","class":"coh-icon-television","iconHex":"F26C","boxedWidth":1340},"lg":{"width":1170,"innerGutter":30,"outerGutter":30,"widthType":"fixed","previewColumns":12,"label":"Desktop","class":"coh-icon-desktop","iconHex":"F108","boxedWidth":1110},"md":{"width":1024,"innerGutter":30,"outerGutter":30,"widthType":"fixed","previewColumns":12,"label":"Laptop","class":"coh-icon-laptop","iconHex":"F109","boxedWidth":964},"sm":{"width":768,"innerGutter":30,"outerGutter":30,"widthType":"fixed","previewColumns":12,"label":"Tablet","class":"coh-icon-tablet","iconHex":"F10A","boxedWidth":708},"ps":{"width":565,"innerGutter":30,"outerGutter":30,"widthType":"fixed","previewColumns":12,"label":"Mobile landscape","class":"coh-icon-mobile-landscape","iconHex":"E91E","boxedWidth":505},"xs":{"width":320,"innerGutter":20,"outerGutter":20,"widthType":"fluid","mobilePlaceholderWidth":320,"mobilePlaceholderType":"fluid","previewColumns":12,"label":"Mobile","class":"coh-icon-mobile","iconHex":"F10B","boxedWidth":280}}},"use_dx8":false,"sidebar_view_style":"thumbnails","log_dx8_error":false,"error_url":"\/cohesionapi\/logger\/jserrors","dx8_content_paths":[["settings","content"],["settings","content","text"],["settings","markerInfo","text"],["settings","title"],["markup","prefix"],["markup","suffix"],["markup","attributes",["value"]],["hideNoData","hideData"],["hideNoData","hideData","text"]]},"collapsiblock":{"active_pages":false,"slide_speed":200,"cookie_lifetime":null},"user":{"uid":0,"permissionsHash":"f71ba9221c3998b5fed82b9eacb34ff050c5ac6936a384c1e43160f581bd36b9"},"entity":{"id":"121"}}</script>
+<script src="/themes/custom/ngpsb/js/popper.min.js?v=0.9.5"></script>
+<script src="/themes/custom/ngpsb/js/bootstrap.min.js?v=0.9.5"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.7"></script>
+<script src="/core/misc/drupal.js?v=10.2.7"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.7"></script>
+<script src="/themes/custom/ngpsb/js/barrio.js?v=0.9.5"></script>
+<script src="/themes/custom/ngpsb/js/custom.js?v=0.9.5"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
+<script src="/modules/contrib/collapsiblock/theme/dist/collapsiblock.js?siumfd" type="module"></script>
+
+  </body>
+</html>

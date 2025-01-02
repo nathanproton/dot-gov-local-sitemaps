@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title"
+	      content="Benton - Official Website">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://bentonwi.us/xmlrpc.php">
+	<title>Benton &#8211; Official Website</title><link rel="preload" data-rocket-preload as="image" href="https://bentonwi.us/wp-content/uploads/2018/12/cropped-fullsizeoutput_7588.jpeg" fetchpriority="high">
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bentonwi.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=1a9b93df83ddc599a2f754ddceb9a69c"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='tw-alerts-styles-css' href='https://bentonwi.us/wp-content/plugins/tw-alerts/assets/css/tw-alerts-style.css?ver=1a9b93df83ddc599a2f754ddceb9a69c' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://bentonwi.us/wp-includes/css/dist/block-library/style.min.css?ver=1a9b93df83ddc599a2f754ddceb9a69c' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='yui3-css' href='https://bentonwi.us/wp-content/plugins/bb-plugin/css/yui3.css?ver=2.8.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-slideshow-css' href='https://bentonwi.us/wp-content/plugins/bb-plugin/css/fl-slideshow.min.css?ver=2.8.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-6-css' href='https://bentonwi.us/wp-content/uploads/bb-plugin/cache/6-layout.css?ver=d47f6e1ab8df41b027c23938091ccec3' type='text/css' media='all' />
+<link rel='stylesheet' id='heygov-site-css' href='https://bentonwi.us/wp-content/plugins/heygov/assets/css/heygov-site.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twd-subscriber-notification-css' href='https://bentonwi.us/wp-content/plugins/tw-subscriber-notifications/assets/css/twd-subscriber-notification.css?ver=1a9b93df83ddc599a2f754ddceb9a69c' type='text/css' media='all' />
+<link rel='stylesheet' id='meeting-site-css-css' href='https://bentonwi.us/wp-content/plugins/twd-meeting-repository/assets/css/twd-meeting-style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='datetime-css-css' href='https://bentonwi.us/wp-content/plugins/twd-meeting-repository/assets/vendor/accdc/calendar-styles.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='understrap-styles-css' href='https://bentonwi.us/wp-content/themes/tw-new-york-super-template/css/theme.min.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://bentonwi.us/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css?ver=4.3.16' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css' href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-v4-shim-css' href='https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.3' type='text/css' media='all' />
+<style id='bfa-font-awesome-v4-shim-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');
+				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+			}
+		
+</style>
+<script type="text/javascript" src="https://bentonwi.us/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/tw-alerts/assets/js/tw-alerts-left-js.js?ver=1a9b93df83ddc599a2f754ddceb9a69c" id="tw-alerts-left-js-js"></script>
+<script type="text/javascript" id="vuejs-js-extra">
+/* <![CDATA[ */
+var TwMeetingRepo = {"apiUrl":"https:\/\/bentonwi.us\/wp-json\/","twRepoVisibleFields":{"meeting_date":1,"agenda":1,"agenda_packet":0,"meeting_minutes":1,"audio":0,"video":0,"additional_documents":0,"notes":1},"perPage":"10"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue@2.5.22/dist/vue.min.js?ver=2.5.22" id="vuejs-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/twd-meeting-repository/assets/vendor/accdc/Acc.DC.API.js?ver=2.0.1" id="datetimejs-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/twd-meeting-repository/assets/vendor/accdc/calendar_generator.js?ver=2.0.1" id="datetime-calendar-js-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/twd-meeting-repository/assets/js/jquery.mask.min.js?ver=2.0.1" id="jquery-mask-js-js"></script>
+<link rel="https://api.w.org/" href="https://bentonwi.us/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://bentonwi.us/wp-json/wp/v2/pages/6" /><link rel="canonical" href="https://bentonwi.us/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://bentonwi.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbentonwi.us%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://bentonwi.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbentonwi.us%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-JS9H57TPT1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-JS9H57TPT1');
+		</script>
+
+	
+	<style id="tw-custom-css" type="text/css">
+	@media (min-width: 992px) {
+	  html {
+	    font-size: 14px;
+	  }
+	  body {
+	    color: #383838;
+	    	      font-size: 17px;
+	    	  }
+
+	  
+	  	}
+
+	@media (max-width: 991px) {
+	  html {
+	    font-size: 15px;
+	  }
+	  body {
+	    color: #383838;
+	    	  }
+
+	  
+	  	}
+
+	@media (max-width: 767px) {
+	  html {
+	    font-size: 15px;
+	  }
+	  body {
+	    color: #383838;
+	    	  }
+
+	  
+	  	}
+
+  .homepage-intro {
+    background-attachment: initial;
+		background-position-x: center;
+		background-position-y: center;
+  }
+
+		.homepage-menu {
+		background-color: #ffffff;
+					background: -moz-linear-gradient(top, #ffffff, #e3f2e5);
+			background: -webkit-linear-gradient(top, #ffffff, #e3f2e5);
+			background: linear-gradient(to bottom, #ffffff, #e3f2e5);
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e3f2e5',GradientType=0 );
+			}
+
+      .homepage-intro {
+      background-image: url(https://bentonwi.us/wp-content/uploads/2018/12/cropped-fullsizeoutput_7588.jpeg);
+    }
+  
+  .header-main, .homepage-intro {
+    background-color: #004c1e;
+  }
+
+  .header-main:before, .homepage-intro:before {
+    opacity: 0;
+  }
+
+	@media (min-width:768px) {
+	  .header-main .navbar-nav .nav-link {
+	    font-size: 1rem;
+	  }
+	}
+
+  h1, h2, h3, h4, h5, h6,
+  th, dt, strong, a {
+    color: #004c1e;
+  }
+  a:hover, .homepage-events .events-calendar .event-item .entry-meta {
+    color: #758e6c;
+  }
+
+  .header-main .menu-show,
+  .header-main .logo .navbar-brand,
+  .header-main .navbar-nav .nav-link,
+  .homepage-intro .city-badge .navbar-brand,
+  .homepage-intro .homepage-widgets .widget,
+  .homepage-intro .homepage-widgets .widget .widget-title,
+  .homepage-intro .homepage-widgets .widget_tw-weather .nav .nav-link,
+  .homepage-intro .homepage-widgets .widget_tw-weather .today {
+    color: #blank;
+  }
+
+  .header-main .header-widgets .widget_search input {
+    color: #ffffff;
+  }
+
+  .header-main .header-widgets .widget,
+  .header-main .header-widgets .widget_search input:focus {
+    background-color: #ffffff;
+  }
+
+  .btn-primary {
+    border-color: #758e6c;
+  }
+  .homepage-posts .posts-navigation li.active, .btn-primary {
+    background-color: #758e6c;
+  }
+  </style>
+
+  
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e3f2e5; }
+</style>
+	<link rel="icon" href="https://bentonwi.us/wp-content/uploads/2016/11/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://bentonwi.us/wp-content/uploads/2016/11/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bentonwi.us/wp-content/uploads/2016/11/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://bentonwi.us/wp-content/uploads/2016/11/cropped-favicon-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+html, body {
+	overflow-x: hidden; 
+	max-width: 100%; 
+}
+.menu-position-top .homepage-intro {
+min-height: 520px;
+}
+#main-menu{
+	width: 100vw;
+}
+
+@media (max-width: 1520px){
+	#main-menu{
+  display: block;
+	width: 79vw;	
+}	
+}
+
+@media portrait, (max-width: 991px){
+	#main-menu{
+	width: 50vw;
+}
+}
+
+@media portrait, (max-width: 825px){
+	body{
+		width: 100vw;
+	}
+	#homepage-nav{
+		width: 100vw;
+	 overflow-x: scroll;
+	}
+}
+@media (max-width: 767px){
+.homepage-intro .city-badge .navbar-brand {
+    font-size: 5.0rem;}
+}
+		</style>
+		<style id="kirki-inline-styles">.homepage-menu a{color:#004c1e;}.homepage-posts{background-color:#ffffff;}.homepage-posts article{background-color:#adb4a0;}.homepage-posts h3{color:#004c1e;}.homepage-events{background-color:#f7f7f7;}.homepage-events .events-calendar{background-color:#e3f2e5;}.homepage-events h3{color:#004c1e;}.footer-main{background:#e3f2e5;}</style></head>
+
+<body class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-6 custom-background hide-logo-initial menu-position-top fl-builder fl-builder-2-8-3-5">
+
+	<header class="header-main header-solid-color">
+
+    <div class="container">
+
+      <div class="header-container">
+
+        <button class="menu-show btn btn-link hidden-lg-up"><i class="fa fa-bars"></i> Menu</button>
+
+        <div class="logo">
+                      <a class="navbar-brand custom-logo-link" rel="home" href="https://bentonwi.us/" title="Benton">Benton</a>
+                  </div>
+
+        <div id="exCollapsingNavbar" class="navbar-toggleable-md exCollapsingNavbar"><ul id="main-menu" class="nav navbar-nav clearfix"><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item nav-item menu-item-42 active"><a title="Home" href="https://bentonwi.us/" class="nav-link">Home</a></li>
+<li id="menu-item-7855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-7855 dropdown"><a title="In a Nutshell" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">In a Nutshell <span class="caret"></span></a>
+<ul class=" dropdown-menu" role="menu">
+	<li id="menu-item-8941" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8941"><a title="Benton Organizations" href="https://bentonwi.us/benton-organizations/" class="nav-link">Benton Organizations</a></li>
+	<li id="menu-item-8951" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8951"><a title="History" href="https://bentonwi.us/history/" class="nav-link">History</a></li>
+	<li id="menu-item-8961" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8961"><a title="Gallery" href="https://bentonwi.us/photo-gallery/" class="nav-link">Gallery</a></li>
+	<li id="menu-item-8973" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8973"><a title="Visit Benton" href="https://bentonwi.us/visit-benton/" class="nav-link">Visit Benton</a></li>
+</ul>
+</li>
+<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-930 dropdown"><a title="Government" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Government <span class="caret"></span></a>
+<ul class=" dropdown-menu" role="menu">
+	<li id="menu-item-8942" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8942"><a title="Budget" href="https://bentonwi.us/budget/" class="nav-link">Budget</a></li>
+	<li id="menu-item-9016" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-9016"><a title="Calendar" href="https://bentonwi.us/calendar-2/" class="nav-link">Calendar</a></li>
+	<li id="menu-item-7858" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-7858"><a title="Election Information" href="https://bentonwi.us/election-information/" class="nav-link">Election Information</a></li>
+	<li id="menu-item-8949" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8949"><a title="Employee Directory" href="https://bentonwi.us/employee-directory/" class="nav-link">Employee Directory</a></li>
+	<li id="menu-item-8997" class="menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-8997"><a title="Ordinances" target="_blank" href="https://ecode360.com/BE3082" class="nav-link">Ordinances</a></li>
+	<li id="menu-item-10637" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-10637"><a title="Police" href="https://bentonwi.us/police/" class="nav-link">Police</a></li>
+	<li id="menu-item-8967" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8967"><a title="Tax and Assessment" href="https://bentonwi.us/tax-and-assessment/" class="nav-link">Tax and Assessment</a></li>
+	<li id="menu-item-8956" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8956"><a title="Online Tax Payments" href="https://bentonwi.us/online-tax-payments/" class="nav-link">Online Tax Payments</a></li>
+	<li id="menu-item-8968" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8968"><a title="Tax Assessment Cards" href="https://bentonwi.us/tax-assessment-cards/" class="nav-link">Tax Assessment Cards</a></li>
+	<li id="menu-item-8971" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8971"><a title="Village Board" href="https://bentonwi.us/village-board/" class="nav-link">Village Board</a></li>
+</ul>
+</li>
+<li id="menu-item-8945" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8945"><a title="Committees" href="https://bentonwi.us/committees/" class="nav-link">Committees</a></li>
+<li id="menu-item-8938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item menu-item-8938 dropdown"><a title="Community" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Community <span class="caret"></span></a>
+<ul class=" dropdown-menu" role="menu">
+	<li id="menu-item-9823" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-9823"><a title="Benton Businesses" href="https://bentonwi.us/benton-businesses/" class="nav-link">Benton Businesses</a></li>
+	<li id="menu-item-8940" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8940"><a title="Benton Community Development Corporation" href="https://bentonwi.us/benton-community-development-corporation/" class="nav-link">Benton Community Development Corporation</a></li>
+	<li id="menu-item-9594" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-9594"><a title="Benton Community Fund" href="https://bentonwi.us/benton-community-fund/" class="nav-link">Benton Community Fund</a></li>
+	<li id="menu-item-8939" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8939"><a title="Benton Business Incubator" href="https://bentonwi.us/benton-business-incubator/" class="nav-link">Benton Business Incubator</a></li>
+	<li id="menu-item-8944" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8944"><a title="Churches" href="https://bentonwi.us/churches/" class="nav-link">Churches</a></li>
+	<li id="menu-item-7859" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-7859"><a title="Frequently Asked Questions" href="https://bentonwi.us/frequently-asked-questions/" class="nav-link">Frequently Asked Questions</a></li>
+	<li id="menu-item-8966" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8966"><a title="Education" href="https://bentonwi.us/education/" class="nav-link">Education</a></li>
+	<li id="menu-item-8948" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8948"><a title="Emergency Services" href="https://bentonwi.us/emergency-services/" class="nav-link">Emergency Services</a></li>
+	<li id="menu-item-8950" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8950"><a title="Garbage &amp; Recycling Services" href="https://bentonwi.us/garbage-pickup-recycling-services/" class="nav-link">Garbage &#038; Recycling Services</a></li>
+	<li id="menu-item-8953" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8953"><a title="Museums" href="https://bentonwi.us/museums/" class="nav-link">Museums</a></li>
+	<li id="menu-item-8957" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8957"><a title="Parking" href="https://bentonwi.us/parking/" class="nav-link">Parking</a></li>
+	<li id="menu-item-8958" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8958"><a title="Parks and Recreation" href="https://bentonwi.us/parks-and-recreation/" class="nav-link">Parks and Recreation</a></li>
+	<li id="menu-item-8963" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8963"><a title="Public Library" href="https://bentonwi.us/public-library/" class="nav-link">Public Library</a></li>
+	<li id="menu-item-8965" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8965"><a title="Relocation Resources" href="https://bentonwi.us/relocation-resources/" class="nav-link">Relocation Resources</a></li>
+	<li id="menu-item-8969" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8969"><a title="Utilities and Billing" href="https://bentonwi.us/utilities-and-billing/" class="nav-link">Utilities and Billing</a></li>
+</ul>
+</li>
+<li id="menu-item-10108" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-10108"><a title="Library, Museum, Community Center" href="https://bentonwi.us/benton-library-museum-community-center/" class="nav-link">Library, Museum, Community Center</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-37"><a title="Contact Us" href="https://bentonwi.us/contact-us/" class="nav-link">Contact Us</a></li>
+</ul></div>
+        
+      </div>
+
+    </div>
+
+  </header>
+
+      <section class="homepage-intro">
+      <div class="container" >
+
+        <div class="city-badge clearfix text-center">
+                      <a class="navbar-brand" rel="home" href="https://bentonwi.us/" title="Benton">Benton</a>
+                  </div>
+
+        
+      </div>
+    </section>
+  
+  <div class="hfeed site" id="page">
+
+
+
+  
+    <div class="homepage-menu clearfix"><ul id="homepage-nav" class="nav homepage-nav container"><li id="menu-item-933" class="  menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-933"><a title="Agendas &#038; Minutes" href="https://bentonwi.us/agendas-minutes/" class="nav-link"><span class="fa fa-list-alt"></span>&nbsp;Agendas &#038; Minutes</a></li>
+<li id="menu-item-7889" class="  menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-7889"><a title="Forms &#038; Permits" href="https://bentonwi.us/forms-permits/" class="nav-link"><span class="fa fa-paperclip"></span>&nbsp;Forms &#038; Permits</a></li>
+<li id="menu-item-10813" class="  menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-10813"><a title="Calendar" href="https://bentonwi.us/calendar-2/" class="nav-link"><span class="fa fa-calendar-alt"></span>&nbsp;Calendar</a></li>
+<li id="menu-item-9061" class="  menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-9061"><a title="Ordinances" target="_blank" href="https://ecode360.com/BE3082" class="nav-link"><span class="fa fa-folder"></span>&nbsp;Ordinances</a></li>
+<li id="menu-item-8051" class="  menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-8051"><a title="Online Payments" href="https://bentonwi.us/online-payments/" class="nav-link"><span class="fa fa-credit-card"></span>&nbsp;Online Payments</a></li>
+</ul></div>
+  
+
+      <section class="content-fl">
+              <article class="post-6 page type-page status-publish hentry" id="post-6">
+
+  
+  <div class="entry-wrap">
+
+  	<header class="entry-header">
+  		<h2 class="entry-title">Home</h2>  	</header><!-- .entry-header -->
+
+  	<div class="entry-content">
+
+  		<div class="fl-builder-content fl-builder-content-6 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="6"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-58d953bb2e306 fl-row-default-height fl-row-align-center" data-node="58d953bb2e306">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5c13ed0958d42" data-node="5c13ed0958d42">
+			<div class="fl-col fl-node-5c13ed0958df1" data-node="5c13ed0958df1">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-slideshow fl-node-5c13ed3949556" data-node="5c13ed3949556">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-slideshow-container"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-callout fl-node-5c13ed0958ca8" data-node="5c13ed0958ca8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-has-photo fl-callout-photo-above-title">
+		<div class="fl-callout-content">
+		<h3 class="fl-callout-title"><span class="fl-callout-title-text">In A Nutshell</span></h3><div class="fl-callout-text-wrap"><div class="fl-callout-text"><p>Benton is a small, friendly community nestled in the beautiful, serene Southwest Wisconsin countryside. It lies in the heart of America’s dairy land, with its gently rolling hills, lazy streams, and fertile soil. Steeped in the rich traditions and culture of the early lead miners, it owes its very existence to the mining industry. While our treasure was initially found in the many lead mines that once dotted the region, Benton’s treasure today lies in its people–people with good, small-town values; people who have a strong, rural work ethic; and people who genuinely care about their neighbors and about their community.</p>
+<p>You have an open invitation to come and visit the quiet, safe haven of Benton. Stay a while . . . get to know us. It won’t take long for you to see what makes Benton a very special place–a place we’re proud to call home.</p>
+</div></div>	</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-5c2f8323d9126" data-node="5c2f8323d9126">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5c1a5bedd0072" data-node="5c1a5bedd0072">
+			<div class="fl-col fl-node-fpuhdzqvie09 fl-col-small" data-node="fpuhdzqvie09">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5c1aa4e94ab32" data-node="5c1aa4e94ab32">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h3 id="Location" style="text-align: center;">Location and Population</h3>
+<p>&nbsp;</p>
+<p><a href="https://bentonwi.us/wp-content/uploads/2018/12/benton-sign-w-flowers.jpg"><img decoding="async" class="size-full wp-image-7959 alignleft" src="https://bentonwi.us/wp-content/uploads/2018/12/benton-sign-w-flowers.jpg" alt="" width="200" height="133" /></a>Benton—with a population of 1007—lies in the very southwest corner of Wisconsin, just a stone’s throw from both Iowa and Illinois. This Lafayette County village is bordered on all sides by open land and farm fields. The Fever River meanders past the eastern boundaries of the village and flows to Galena, Illinois, where it empties into the Mississippi.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-8tb4kad2ujmg fl-col-small" data-node="8tb4kad2ujmg">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-fniakw6pt4ls" data-node="fniakw6pt4ls">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-rmb6afn8wlq1" data-node="rmb6afn8wlq1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-widget fl-node-5c1aa3dfd60f2" data-node="5c1aa3dfd60f2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_tw-weather"><h2 class="widgettitle">Weather in Village of Benton</h2>
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs d-none" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active" data-toggle="tab" href="#today-66d31d6196ae3" role="tab">Today</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#week-66d31d6196ae3" role="tab">Week</a>
+        </li>
+                  <li class="nav-item">
+            <a class="nav-link" href="https://bentonwi.us/weather-in-your-area/">Detailed</a>
+          </li>
+              </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content">
+        <div class="tab-pane active show" id="today-66d31d6196ae3" role="tabpanel" aria-expanded="true">
+          <a href="https://bentonwi.us/weather-in-your-area/" class="today" title="Sunny">              <canvas width="10" height="10" class="icon-weather" data-icon="clear-day"></canvas>
+              61°F
+              </a>        </div>
+        <div class="tab-pane" id="week-66d31d6196ae3" role="tabpanel" aria-expanded="false">
+          <ul class="week">
+                          <li>
+                                  Today
+                
+                <canvas class="icon-weather" data-icon="clear-night"></canvas>
+                82°F
+              </li>
+                          <li>
+                                  Sat                
+                <canvas class="icon-weather" data-icon="clear-night"></canvas>
+                75°F
+              </li>
+                          <li>
+                                  Sun                
+                <canvas class="icon-weather" data-icon="clear-night"></canvas>
+                73°F
+              </li>
+                          <li>
+                                  Mon                
+                <canvas class="icon-weather" data-icon="partly-cloudy-night"></canvas>
+                75°F
+              </li>
+                          <li>
+                                  Tue                
+                <canvas class="icon-weather" data-icon="partly-cloudy-night"></canvas>
+                81°F
+              </li>
+                          <li>
+                                  Wed                
+                <canvas class="icon-weather" data-icon="partly-cloudy-night"></canvas>
+                82°F
+              </li>
+                          <li>
+                                  Thu                
+                <canvas class="icon-weather" data-icon="rain"></canvas>
+                72°F
+              </li>
+                      </ul>
+        </div>
+      </div>
+
+      <script>
+        jQuery(function($) {
+
+          $('.widget_tw-weather:not(.has-skycons), .tw-weather-table:not(.has-skycons)').each(function() {
+            $(this).addClass('has-skycons');
+            var skycons;
+
+            $(this).find('.icon-weather').each(function() {
+              var icon = $(this),
+                parent = icon.parent(),
+                fontSize = parent.css('font-size');
+
+              if (!skycons) {
+                skycons = new Skycons({
+                  color: parent.css('color')
+                });
+              }
+
+              icon.attr('width', fontSize).attr('height', fontSize);
+              skycons.add(icon[0], icon.data('icon'));
+            });
+            skycons.play();
+
+          });
+
+        });
+      </script>
+
+    </div></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-yqalno03eb9f" data-node="yqalno03eb9f">
+			<div class="fl-col fl-node-bsui1pxcaz4f" data-node="bsui1pxcaz4f">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-50k1i3qez7rm" data-node="50k1i3qez7rm">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2 id="Visit">Your Invitation to Visit</h2>
+<p>Benton and the surrounding area are filled with interesting things to see and do, and you have an open invitation to visit. The area is steeped in history and fascinating architecture. There are a number of museums both in and around Benton that offer a look into the past. Artisans have set up shop in some of the nearby towns, where there are many boutiques, gift shops, and antique stores to peruse.</p>
+<p>If you’re an outdoor enthusiast, this area is for you! The Mississippi River cuts through nearby Dubuque, Iowa, and Galena, Illinois, and offers boating, fishing, and various other water sports. There are a number of excellent golf courses in the surrounding area, from our local nine-hole course right up to 18-hole championship courses. Wildlife is abundant, and this part of the state is a paradise both for hunters and for those who simply enjoy seeing animals in their natural habitat. Snowmobiling, ice fishing, and skiing are among the winter sports enjoyed in the area.</p>
+<p>We invite you to experience the splendor of all four seasons here in beautiful Southwestern Wisconsin and to visit points of interest all though the region. Come as often as you like, stay as long as you want—you’re always welcome.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5c2f8345c38af" data-node="5c2f8345c38af">
+			<div class="fl-col fl-node-5c2f8345c396c" data-node="5c2f8345c396c">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-separator fl-node-5c2f8345c381a" data-node="5c2f8345c381a">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-motv9f2cpkj5 fl-col-small" data-node="motv9f2cpkj5">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-separator fl-node-naewk1jqyh4g" data-node="naewk1jqyh4g">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>
+  		
+  	</div><!-- .entry-content -->
+
+  </div>
+
+	<footer class="entry-footer"></footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+          </section>
+  
+
+  
+    <section class="homepage-posts">
+
+      <div class="container">
+
+        
+        <a href="https://bentonwi.us/news-and-notices/" aria-label="View more notices" class="more-entries-link pull-right">View more</a>
+        <h3>News & Notices</h3>
+
+        <div class="inner-wrap">
+
+          
+          
+            
+              <div class="row">
+
+                <!-- the loop -->
+                                  <div class="col-xs-4 col-lg-4">
+                    
+<article class="post-style-default post-10933 post type-post status-publish format-standard has-post-thumbnail hentry category-news-notices" id="post-10933">
+
+      <a href="https://bentonwi.us/2024/08/26/labor-day-events/"><img width="350" height="250" src="https://bentonwi.us/wp-content/uploads/2024/08/labor-day-350x250.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+  
+  <div class="entry-wrap clearfix">
+
+  	<header class="entry-header">
+
+      
+  		<h2 class="entry-title"><a href="https://bentonwi.us/2024/08/26/labor-day-events/" rel="bookmark">Labor Day events</a></h2>
+  	</header><!-- .entry-header -->
+
+  	<div class="entry-content">
+
+  		
+  		
+  	</div><!-- .entry-content -->
+
+  </div>
+
+  
+</article><!-- #post-## -->
+                  </div>
+                                  <div class="col-xs-4 col-lg-4">
+                    
+<article class="post-style-default post-10936 post type-post status-publish format-standard has-post-thumbnail hentry category-news-notices" id="post-10936">
+
+      <a href="https://bentonwi.us/2024/08/26/labor-day-parade-route-info/"><img width="350" height="250" src="https://bentonwi.us/wp-content/uploads/2024/08/Parade-route-for-Labor-Day-350x250.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+  
+  <div class="entry-wrap clearfix">
+
+  	<header class="entry-header">
+
+      
+  		<h2 class="entry-title"><a href="https://bentonwi.us/2024/08/26/labor-day-parade-route-info/" rel="bookmark">Labor Day Parade Route Info</a></h2>
+  	</header><!-- .entry-header -->
+
+  	<div class="entry-content">
+
+  		<p>PARADE LINUP INFOFor those who want to be entered into the parade, we ask that you please line up on… <a class="read-more-link" href="https://bentonwi.us/2024/08/26/labor-day-parade-route-info/">Read More</a></p>
+
+  		
+  	</div><!-- .entry-content -->
+
+  </div>
+
+  
+</article><!-- #post-## -->
+                  </div>
+                                  <div class="col-xs-4 col-lg-4">
+                    
+<article class="post-style-default post-10910 post type-post status-publish format-standard has-post-thumbnail hentry category-news-notices" id="post-10910">
+
+      <a href="https://bentonwi.us/2024/07/23/bcdc-newsletter/"><img width="350" height="250" src="https://bentonwi.us/wp-content/uploads/2024/07/BCDC-350x250.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+  
+  <div class="entry-wrap clearfix">
+
+  	<header class="entry-header">
+
+      
+  		<h2 class="entry-title"><a href="https://bentonwi.us/2024/07/23/bcdc-newsletter/" rel="bookmark">BCDC Newsletter</a></h2>
+  	</header><!-- .entry-header -->
+
+  	<div class="entry-content">
+
+  		<p>&nbsp; Review newsletter here: https://bentonwi.us/wp-content/uploads/2024/07/2024-BCDC-Newsletter-1.pdf &nbsp;</p>
+
+  		
+  	</div><!-- .entry-content -->
+
+  </div>
+
+  
+</article><!-- #post-## -->
+                  </div>
+                                <!-- end of the loop -->
+
+              </div>
+
+                                    
+        </div>
+
+        <ul class="posts-navigation">
+          <li class="active"><span class="dot"></span></li>
+          <li><span class="dot"></span></li>
+          <li><span class="dot"></span></li>
+        </ul>
+
+                  <p class="subscribe-link text-center">
+            <a href="https://bentonwi.us/subscribe" class="btn btn-primary">Subscribe to Updates</a>
+          </p>
+        
+      </div>
+
+    </section>
+
+  
+
+
+
+  
+
+	<!-- ******************* The Footer Full-width Widget Area ******************* -->
+
+	<footer class="footer-main">
+
+    <div class="container">
+
+      <div class="row">
+		    <div id="text-3" class="widget widget_text col-lg-4 col-md-6 col-sm-12"><h4 class="widget-title">Contact Information</h3>			<div class="textwidget"><p><span style="font-weight: 400;"><strong>Mailing Address:</strong><br />
+244 Ridge Ave<br />
+Benton, Wisconsin 53803-8022</span></p>
+<p><span style="font-weight: 400;"><strong>Phone:</strong><br />
+(608) 759-3721<br />
+<strong>Fax:</strong><br />
+(608) 759-3212</span></p>
+</div>
+		</div><div id="media_image-4" class="widget widget_media_image col-lg-4 col-md-6 col-sm-12"><a href="https://bentonwi.us/photo-gallery/?customize_changeset_uuid=4312c25f-2864-4910-8b18-d936b6a1e0eb&#038;customize_autosaved=on"><img width="300" height="199" src="https://bentonwi.us/wp-content/uploads/2018/12/fullsizeoutput_7588-300x199.jpeg" class="image wp-image-8036  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://bentonwi.us/wp-content/uploads/2018/12/fullsizeoutput_7588-300x199.jpeg 300w, https://bentonwi.us/wp-content/uploads/2018/12/fullsizeoutput_7588-768x509.jpeg 768w, https://bentonwi.us/wp-content/uploads/2018/12/fullsizeoutput_7588-1024x678.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div id="execphp-2" class="widget widget_execphp col-lg-4 col-md-6 col-sm-12"><h4 class="widget-title">Office Hours</h3>			<div class="execphpwidget"><span style="font-weight: 400;"><strong>Monday-Tuesday-Thursday</strong> <br />
+8:30 AM - 4:30 PM <br />
+<span style="font-weight: 400;"><strong>Wednesday</strong> <br />
+8:00 AM - 6:00 PM</span> <br />
+<span style="font-weight: 400;"><strong>Friday</strong> <br />
+CLOSED </span> <br />
+&nbsp;
+<br />
+<strong>Email:
+<span style="font-weight: 400;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f49d9a929bb496919a809b9a839dda939b82">[email&#160;protected]</a></span>
+</strong><br />
+
+<br />
+
+© 2024 Created &amp; Hosted by <a href="https://www.townweb.com/" target="blank">Town Web</a> | <a href="/accessibility/" target="_blank" rel="noopener">Accessibility</a> | <a href="https://www.townweb.com/privacy-policy/" target="blank">Privacy Policy</a></p></div>
+		</div>      </div>
+
+    </div>
+
+	</footer><!-- #wrapper-footer-full -->
+
+
+</div><!-- #page -->
+
+			<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://files.heygov.com/widget.js"  data-heygov-jurisdiction="bentonwi.us" data-heygov-location-required="0" data-heygov-features="issues"  data-heygov-button-text="Submit a request"></script>
+			
+    <script>
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'h0kX6QIW15');
+                  el.setAttribute('src', 'https://cdn.userway.org/widget.js');
+                  document.body.appendChild(el);
+                })();
+              </script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/jquery.marquee@1.5.0/jquery.marquee.min.js?ver=1a9b93df83ddc599a2f754ddceb9a69c" id="marquee-script-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/tw-events-homepage-seo/assets/js/tw-events-process-month.js?ver=1.0" id="tw-events-process-month-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/bb-plugin/js/yui3.min.js?ver=2.8.3.5" id="yui3-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/bb-plugin/js/fl-slideshow.min.js?ver=2.8.3.5" id="fl-slideshow-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/uploads/bb-plugin/cache/6-layout.js?ver=eb66d936e42117d8eb6a6d264af225a1" id="fl-builder-layout-6-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/heygov/assets/heygov-venues.js?ver=1.7.2" id="heygov-venues-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/plugins/tw-subscriber-notifications/assets/js/vendor/jquery.maskedinput.min.js?ver=1a9b93df83ddc599a2f754ddceb9a69c" id="masked-input-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/themes/tw-new-york-super-template/js/theme.min.js?ver=1.5.5" id="understrap-scripts-js"></script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/themes/tw-new-york-super-template/js/skycons.js?ver=1.5.5" id="skycons-js"></script>
+<script type="text/javascript" id="theme-custom-js-extra">
+/* <![CDATA[ */
+var TW = {"ajaxUrl":"https:\/\/bentonwi.us\/wp-admin\/admin-ajax.php","isMobile":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://bentonwi.us/wp-content/themes/tw-new-york-super-template/js/theme-custom.js?ver=1.5.5" id="theme-custom-js"></script>
+
+</body>
+
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1725111649 -->

@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><link rel="icon" href=""/><title>Pettis County Elections Office </title><meta http-equiv="Content-Language" content="en"/><meta name="keywords" content="Pettis,County,Elections,Office,,County,Elections"/><meta name="title" property="og:title" content="Pettis County Elections Office "/><meta property="og:type" content="website"/><meta property="og:url" content="https://pettisclerk.gov/sitemap.xml"/><meta name="description" property="og:description" content=""/><meta name="twitter:card" content="summary"/><meta name="robots" content="noindex,nofollow"/><meta http-equiv="content-language" content="en"/><meta name="next-head-count" content="13"/><link rel="preload" href="/_next/static/css/fc3d23c6a5dff092.css" as="style"/><link rel="stylesheet" href="/_next/static/css/fc3d23c6a5dff092.css" data-n-g=""/><link rel="preload" href="/_next/static/css/6ad5f70cb56137d7.css" as="style"/><link rel="stylesheet" href="/_next/static/css/6ad5f70cb56137d7.css" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-4f60d2d36294efa3.js" defer=""></script><script src="/_next/static/chunks/framework-d805b48c0466ba30.js" defer=""></script><script src="/_next/static/chunks/main-d23a437884bebb8d.js" defer=""></script><script src="/_next/static/chunks/pages/_app-e4dda47183cac0dc.js" defer=""></script><script src="/_next/static/chunks/4590-213d6c7b3df1b804.js" defer=""></script><script src="/_next/static/chunks/1942-c3b07c0f7aa68f73.js" defer=""></script><script src="/_next/static/chunks/pages/%5B%5B...slug%5D%5D-5e2f6f948c3fe435.js" defer=""></script><script src="/_next/static/lcYwhzJzzc0G1Z-m_66l9/_buildManifest.js" defer=""></script><script src="/_next/static/lcYwhzJzzc0G1Z-m_66l9/_ssgManifest.js" defer=""></script></head><body class="overflow-x-hidden"><div id="__next" data-reactroot=""><style>
+    #nprogress {
+      pointer-events: none;
+    }
+    #nprogress .bar {
+      background: #E3B571;
+      position: fixed;
+      z-index: 9999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+    }
+    #nprogress .peg {
+      display: block;
+      position: absolute;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+      box-shadow: 0 0 10px #E3B571, 0 0 5px #E3B571;
+      opacity: 1;
+      -webkit-transform: rotate(3deg) translate(0px, -4px);
+      -ms-transform: rotate(3deg) translate(0px, -4px);
+      transform: rotate(3deg) translate(0px, -4px);
+    }
+    #nprogress .spinner {
+      display: block;
+      position: fixed;
+      z-index: 1031;
+      top: 15px;
+      right: 15px;
+    }
+    #nprogress .spinner-icon {
+      width: 18px;
+      height: 18px;
+      box-sizing: border-box;
+      border: solid 2px transparent;
+      border-top-color: #E3B571;
+      border-left-color: #E3B571;
+      border-radius: 50%;
+      -webkit-animation: nprogresss-spinner 400ms linear infinite;
+      animation: nprogress-spinner 400ms linear infinite;
+    }
+    .nprogress-custom-parent {
+      overflow: hidden;
+      position: relative;
+    }
+    .nprogress-custom-parent #nprogress .spinner,
+    .nprogress-custom-parent #nprogress .bar {
+      position: absolute;
+    }
+    @-webkit-keyframes nprogress-spinner {
+      0% {
+        -webkit-transform: rotate(0deg);
+      }
+      100% {
+        -webkit-transform: rotate(360deg);
+      }
+    }
+    @keyframes nprogress-spinner {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style><div id="main-body" class="flex flex-col h-full overflow-y-auto overflow-x-hidden smooth-scroll transition-all"><header id="website-header" class="!z-[2000] transition-colors duration-300 sticky top-0" style="background-color:#FFFFFF;color:#000000"><div class="relative z-10 grid items-center lg:gap-6 xl:gap-10 mx-auto pt-4 pb-6 px-6 lg:px-12" style="grid-template-columns:auto auto auto"><div class="col-span-2 lg:col-span-1"><a class="max-w-full overflow-hidden grid" target="_self" href="/"><img class="hidden lg:block transition-all object-contain" src="https://cdn.durable.co/logos/14kjWCr0T6IUr1tDLU14b2BBLNiPM0zTRcSNZ6H7uh58Re4WwKfe69w0QhNxM6x4.png" alt="Pettis County Elections Office " style="height:80px"/><img class="lg:hidden transition-all object-contain" src="https://cdn.durable.co/logos/14kjWCr0T6IUr1tDLU14b2BBLNiPM0zTRcSNZ6H7uh58Re4WwKfe69w0QhNxM6x4.png" alt="Pettis County Elections Office " style="height:40px"/></a></div><div class="hidden lg:flex item-center justify-end gap-10 lg:col-span-2"><ul class="lg:flex items-center gap-x-4 gap-y-2 flex-wrap justify-end hidden"><li><a target="_blank" href="https://facebook.com/PettisCountyElectionsOffice"><div class="flex justify-center items-center"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="24" height="24" class="w-8 h-8" style="color:#000000"><path fill-rule="evenodd" d="M10.4375 21.8784C5.65941 21.1274 2 16.9877 2 12 2 6.48086 6.48086 2 12 2c5.5191 0 10 4.48086 10 10 0 4.9877-3.6594 9.1274-8.4375 9.8784v-6.9878h2.3301L16.3359 12h-2.7734v-1.8758c0-.79084.3874-1.5617 1.6296-1.5617h1.261V6.10156s-1.1443-.19531-2.2385-.19531c-2.2842 0-3.7771 1.38438-3.7771 3.89063V12H7.89844v2.8906h2.53906v6.9878Z" clip-rule="evenodd"></path></svg></div></a></li><li><a target="_blank" href="https://twitter.com/PettisElections"><div class="flex justify-center items-center"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="24" height="24" class="w-8 h-8" style="color:#000000"><path d="M13.6756 10.6218 20.2324 3h-1.5537l-5.6933 6.61788L8.43817 3H3.1935l6.8763 10.0074L3.1935 21h1.55384l6.01226-6.9887L15.5618 21h5.2447l-7.1313-10.3782h.0004Zm-2.1282 2.4738-.6967-.9965-5.54349-7.92939h2.38662l4.47367 6.39919.6967.9966 5.8152 8.318h-2.3866l-4.7454-6.7875v-.0004Z"></path></svg></div></a></li></ul></div><div class="ml-auto lg:hidden"><button class="inline-flex items-center justify-center p-2 rounded-md focus:outline-none transition-colors duration-300" style="color:#000000"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon" class="block h-5 w-5"><path fill-rule="evenodd" d="M2 4.75A.75.75 0 0 1 2.75 4h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 4.75ZM2 10a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 10Zm0 5.25a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></svg></button></div></div></header><div class="min-h-150 flex-shrink-0 flex-grow"></div><div class="min-h-150 flex-shrink-0 flex-grow"></div><div class="Toastify"></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"_nextI18Next":{"initialI18nStore":{"en":{"common":{"404":{"button":"Back to home page","subtitle":"The link may be broken, or the page may have been removed. Check to see if the link you're trying to open is correct.","title":"This page isn't available"},"500":{"button":"Back to home page","subtitle":"We are working on fixing the problem. Be back soon.","title":"Sorry, unexpected error"},"back":"Back","by":"By","contactUs":"Contact us","footer":{"madeWith":"Made with"},"home":"Home","loading":"Loading...","next":"Next","notFound":"Nothing found","previous":"Previous","search":"Search","weekdays":{"friday":"Friday","monday":"Monday","saturday":"Saturday","sunday":"Sunday","thursday":"Thursday","tuesday":"Tuesday","wednesday":"Wednesday"},"weekdaysShort":{"friday":"Fri","monday":"Mon","saturday":"Sat","sunday":"Sun","thursday":"Thu","tuesday":"Tue","wednesday":"Wed"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"hour":"Hour","minute":"Minute","hours":"Hours","minutes":"Minutes","and":"And"}}},"initialLocale":"en","ns":["common"],"userConfig":{"i18n":{"defaultLocale":"en","locales":["de","en","es","fr","it","nl","pt"],"localeDetection":false},"localePath":"/home/Website/source/public/locales","default":{"i18n":{"defaultLocale":"en","locales":["de","en","es","fr","it","nl","pt"],"localeDetection":false},"localePath":"/home/Website/source/public/locales"}}},"page":null,"website":{"_id":"653a7406c3e6e3992e1a0489","isTemplate":false,"logo":{"_id":"655cc06564f6a1b4e0255273","author":"","authorLink":"","type":"library","url":"https://cdn.durable.co/logos/14kjWCr0T6IUr1tDLU14b2BBLNiPM0zTRcSNZ6H7uh58Re4WwKfe69w0QhNxM6x4.png","key":"logos/14kjWCr0T6IUr1tDLU14b2BBLNiPM0zTRcSNZ6H7uh58Re4WwKfe69w0QhNxM6x4.png","Business":"653a7406c3e6e3992e1a047f","createdAt":"2023-11-21T14:36:21.273Z","__v":0},"favicon":null,"primaryColor":"#0C2646","secondaryColor":"#091729","colorPalette":{"Palette":{"_id":"64cd45afc2c02829fb5b2eaa","colors":[{"color":"#0A1B30","accent":"#E3B571"},{"color":"#0F2838","accent":"#E3B571"},{"color":"#1D4560","accent":"#B8D5E8"},{"color":"#1A415B","accent":"#B8D5E8"}],"active":true,"createdAt":"2023-08-04T12:00:00.000Z","themes":["dark"],"uses":1471},"colors":[]},"cornerRadius":"large","fonts":{"source":"pairing","head":{"_id":"629f98a1eb0b4972268051ad","name":"Roboto","weight":500,"family":"'Roboto', sans-serif","active":true,"source":"google"},"body":{"_id":"629f98a1eb0b4972268051ae","name":"Poppins","weight":300,"family":"'Poppins', sans-serif","active":true,"source":"google"},"custom":{"head":{"variants":[]},"body":{"variants":[]}}},"button":{"background":"#64d5fd","cornerRadius":0,"style":"solid"},"buttons":{"style1":{"cornerRadius":8,"type":"solid"},"style2":{"cornerRadius":8,"type":"outline"}},"status":"public","redirect":"to-root","widgets":[{"WebsiteBlock":"64f716d5f1c45fc9ddde8f39","type":"messenger_button","idx":0,"generating":true,"editorUrl":"https://www.commoninja.com/messenger-button/wl/editor/view/50c8a9b7-326b-44a1-ae40-e1ef413e72e0?wlToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNlbGxlcklkIjoiMzRlNDc2YTQtYmU2OS00MmE2LWIwMTAtNDJmN2U5OWY0MzAxIiwidGVuYW50SWQiOiJkdXJhYmxlLTY1M2E3NDA2YzNlNmUzOTkyZTFhMDQ4OSIsImlhdCI6MTY5ODM0MDMxMH0.gZy4FCBLSNxEpM_2HxSGo4gIwRwS0tMcRGVqhlZFHmU","embedCode":{"html":"\u003cdiv class=\"commonninja_component pid-50c8a9b7-326b-44a1-ae40-e1ef413e72e0\"\u003e\u003c/div\u003e","script":"\u003cscript src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer\u003e\u003c/script\u003e"},"externalId":"50c8a9b7-326b-44a1-ae40-e1ef413e72e0"}],"searchIndexing":false,"domain":"pettisclerk.gov","subdomain":"pettiscountyelectionsoffice","externalDomain":"pettisclerk.gov","customDomain":"pettiscountyelectionsoffice.com","durableDomain":"mydurable.com","Business":{"_id":"653a7406c3e6e3992e1a047f","name":"Pettis County Elections Office ","type":{"Type":"615f610338d3cef456b5a678","name":"County Elections"},"stripeDetails":{"subscriptionStatus":"active","paymentsEnabled":false},"settings":{"ai":{"language":"en"}}},"seo":{"title":"Pettis County Elections Office ","description":"","keywords":"","headCode":"","footerCode":"","Image":null},"emailProvider":{"provider":"gmail","emailRecord":"234234234234"},"paletteMigratedAt":null,"social":[{"type":"facebook","link":"PettisCountyElectionsOffice"},{"type":"twitter","link":"PettisElections"}],"animation":{"type":"slideFromBottom","speed":"medium"},"embedContactConfig":{"fontSize":16,"font":"628fe251e7a2152e12ee4d53","button":{"label":"Send","padding":"medium","style":"solid","borderRadius":6,"backgroundColor":"#4338C9"},"field":{"borderRadius":6,"padding":"medium","backgroundColor":"#ffffff","showPhone":false,"showCompany":false},"customFields":[],"backgroundColor":"#ffffff"},"header":{"siteName":"Pettis County Elections Office ","logo":{"type":"image","showText":true,"font":{"_id":"629f98a1eb0b4972268051ad","name":"Roboto","weight":500,"family":"'Roboto', sans-serif","active":true,"source":"google"},"showIcon":false,"source":"branding","height":{"desktop":80,"mobile":40}},"showSocial":true,"style":"left","navStyle":"default","fullWidth":true,"sticky":true,"buttons":{"enabled":true,"items":[]},"spacing":{"top":"small"},"menu":{"collapse":false,"placement":"right","icon":"default"},"layers":{"palette":"custom","overlay":{"type":"solid","color1":"#0c2646","color2":"#0A1B30"},"foreground":{"accent":"#E3B571"}},"showHomeInNav":true},"footer":{"siteName":"Pettis County Elections Office ","logo":{"type":"image","showText":true,"font":{"_id":"629f98a1eb0b4972268051ad","name":"Roboto","weight":500,"family":"'Roboto', sans-serif","active":true,"source":"google"},"showIcon":false,"source":"branding","height":{"desktop":80,"mobile":40}},"style":"left","showSocial":true,"madeWithDurable":true,"spacing":{"top":"small"},"layers":{"palette":"custom","image":{"enabled":false},"overlay":{"type":"solid","color1":"#0c2646","color2":"#0A1B30"},"foreground":{"accent":"#E3B571"}},"showAddress":false},"onboardingSurveyCompleted":false,"version":4,"generate":false,"generatedAt":"2023-12-06T21:54:29.377Z","domainSetAt":"2024-01-26T00:00:00.000Z","feedback":"positive","language":"en","rawDomain":"pettisclerk.gov"},"servicesInfos":{},"apiUrl":"https://api.durable.co","captchaKey":"6Leu0w4eAAAAAN0DPcebVt2LMLmRMOIocTcPheC0","ipAddress":"154.47.25.19","pt":null},"__N_SSP":true},"page":"/[[...slug]]","query":{"slug":["sitemap.xml"]},"buildId":"lcYwhzJzzc0G1Z-m_66l9","isFallback":false,"gssp":true,"locale":"en","locales":["en","de","es","fr","it","nl","pt"],"defaultLocale":"en","scriptLoader":[]}</script></body></html>

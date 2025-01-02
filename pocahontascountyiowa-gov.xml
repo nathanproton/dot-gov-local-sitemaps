@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://pocahontascounty.iowa.gov/sitemap-index.xsl" ?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<sitemap>
+			<loc>https://pocahontascounty.iowa.gov/sitemap-post.xml</loc>
+		</sitemap>
+			<sitemap>
+			<loc>https://pocahontascounty.iowa.gov/sitemap-page.xml</loc>
+		</sitemap>
+			<sitemap>
+			<loc>https://pocahontascounty.iowa.gov/sitemap-flextabs_tabs.xml</loc>
+		</sitemap>
+			<sitemap>
+			<loc>https://pocahontascounty.iowa.gov/sitemap-category.xml</loc>
+		</sitemap>
+			<sitemap>
+			<loc>https://pocahontascounty.iowa.gov/sitemap-wp_theme.xml</loc>
+		</sitemap>
+	</sitemapindex>

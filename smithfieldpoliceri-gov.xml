@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 31, 2024 at 10:01 pm by All in One SEO - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://smithfieldpd.com/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://smithfieldpd.com/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-07-23T15:07:45+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://smithfieldpd.com/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-05T16:59:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://smithfieldpd.com/faq-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-05-30T13:15:13+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://smithfieldpd.com/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-07-23T15:07:45+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://smithfieldpd.com/faq-group-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-05-30T13:15:13+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

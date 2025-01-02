@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+<siteMapNode id="0">
+<siteMapNode id="5" entityid="25" type="content" url="/default.aspx" title="Home"></siteMapNode>
+<siteMapNode id="26" entityid="6" type="content" url="/news/default.aspx" title="News">
+<siteMapNode id="27" entityid="7" type="content" url="/news/news-item-1/default.aspx" title="News Item 1"></siteMapNode>
+<siteMapNode id="28" entityid="8" type="content" url="/news/news-item-2/default.aspx" title="News Item 2"></siteMapNode>
+<siteMapNode id="29" entityid="21" type="content" url="/news/news-item-3/default.aspx" title="News Item 3"></siteMapNode>
+<siteMapNode id="30" entityid="22" type="content" url="/news/news-item-4/default.aspx" title="News Item 4"></siteMapNode>
+</siteMapNode>
+<siteMapNode id="10" entityid="9" type="content" url="/events/default.aspx" title="Events">
+<siteMapNode id="11" entityid="10" type="content" url="/events/event-1/default.aspx" title="Event 1"></siteMapNode>
+<siteMapNode id="12" entityid="11" type="content" url="/events/event-2/default.aspx" title="Event 2"></siteMapNode>
+<siteMapNode id="13" entityid="13" type="content" url="/events/hidden-event/default.aspx" title="Hidden Event"></siteMapNode>
+<siteMapNode id="14" entityid="65" type="content" url="/events/july-4th-party/default.aspx" title="July 4th Party"></siteMapNode>
+</siteMapNode>
+<siteMapNode id="33" entityid="12" type="content" url="/photo-gallery/default.aspx" title="Photo Gallery"></siteMapNode>
+<siteMapNode id="3" entityid="57" type="content" url="/about-us/default.aspx" title="About Us"></siteMapNode>
+<siteMapNode id="41" entityid="85" type="content" url="/duplicate/default.aspx" title="duplicate"></siteMapNode>
+<siteMapNode id="15" entityid="3" type="content" url="/featured-page-1/default.aspx" title="Featured Page 1"></siteMapNode>
+<siteMapNode id="16" entityid="5" type="content" url="/featured-page-2/default.aspx" title="Featured Page 2"></siteMapNode>
+<siteMapNode id="18" entityid="53" type="content" url="/level-1/default.aspx" title="Level 1">
+<siteMapNode id="19" entityid="54" type="content" url="/level-1/level-2/default.aspx" title="Level 2">
+<siteMapNode id="20" entityid="56" type="content" url="/level-1/level-2/level-3/default.aspx" title="Level 3"></siteMapNode>
+</siteMapNode>
+</siteMapNode>
+<siteMapNode id="25" entityid="58" type="content" url="/new-page/default.aspx" title="New Page">
+<siteMapNode id="22" entityid="59" type="content" url="/new-page/change-this-page-heading/default.aspx" title="Change This Page Heading">
+<siteMapNode id="23" entityid="62" type="content" url="/new-page/change-this-page-heading/grandchild-2/default.aspx" title="Grandchild 2"></siteMapNode>
+<siteMapNode id="24" entityid="61" type="content" url="/new-page/change-this-page-heading/grandchild/default.aspx" title="Grandchild"></siteMapNode>
+</siteMapNode>
+</siteMapNode>
+<siteMapNode id="34" entityid="64" type="content" url="/search/default.aspx" title="Search"></siteMapNode>
+<siteMapNode id="35" entityid="2" type="content" url="/secure-page/default.aspx" title="Secure Page"></siteMapNode>
+<siteMapNode id="36" entityid="63" type="content" url="/site-map/default.aspx" title="Site Map"></siteMapNode>
+<siteMapNode id="38" entityid="82" type="content" url="/some-new-test-page-3/default.aspx" title="some new test page 3">
+<siteMapNode id="39" entityid="84" type="content" url="/some-new-test-page-3/some-new-test-page-sub-page/default.aspx" title="some new test page sub page"></siteMapNode>
+</siteMapNode>
+<siteMapNode id="4" entityid="68" type="content" url="/contact-us/default.aspx" title="Contact Us">
+<siteMapNode id="42" entityid="91" type="content" url="/contact-us/thank-you/default.aspx" title="Thank You"></siteMapNode>
+</siteMapNode>
+</siteMapNode>
+</siteMap>

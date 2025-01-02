@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:pagemap="http://www.google.com/schemas/sitemap-pagemap/1.0"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+
+
+  <url>
+    <loc>https://cityofpetersburgwv.gov/documents</loc>
+    <lastmod>undefined</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+,
+  <url>
+    <loc>https://cityofpetersburgwv.gov/news</loc>
+    <lastmod>undefined</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+
+  
+    <url>
+      <loc>https://cityofpetersburgwv.gov/pages/city-council</loc>
+      <lastmod>2022-04-25T21:06:24.011Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/pages/city-directory</loc>
+      <lastmod>2023-09-25T21:06:24.011Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/pages/pay-my-bill</loc>
+      <lastmod>2022-09-12T15:59:59.035Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/pages/water-quality</loc>
+      <lastmod>2022-04-25T14:55:31.308Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  
+
+  
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/1-tax-implementation</loc>
+      <lastmod>2023-06-02T20:23:25.487Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/30th-annual-spring-mountain-festival</loc>
+      <lastmod>2024-03-05T20:49:37.490Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/cake-walk</loc>
+      <lastmod>2022-09-13T18:41:08.222Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/election-day</loc>
+      <lastmod>2023-05-10T19:24:56.534Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/hometown-christmas</loc>
+      <lastmod>2022-09-12T19:17:30.245Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/iso-volunteers</loc>
+      <lastmod>2024-03-05T21:10:09.057Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/now-hiring</loc>
+      <lastmod>2024-03-05T19:33:24.920Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/public-zoning-hearing</loc>
+      <lastmod>2023-03-21T16:29:39.016Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/spring-clean-up</loc>
+      <lastmod>2024-03-05T20:55:36.188Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://cityofpetersburgwv.gov/news/welcome-to-our-new-website</loc>
+      <lastmod>2022-04-25T22:39:34.294Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  
+
+</urlset>

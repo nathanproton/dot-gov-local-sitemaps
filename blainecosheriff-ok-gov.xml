@@ -1,0 +1,233 @@
+<!doctype html>
+
+<html lang="en"><!-- InstanceBegin template="/Templates/main.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<title>Blaine County Sheriff's Office Watonga, OK</title>
+
+    <meta name="robots" content="noindex nofollow">
+
+<!-- InstanceEndEditable -->
+
+<!-- Remove on launch -->
+<link rel="shortcut icon" href="images">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/edd00eef3c.js" crossorigin="anonymous"></script>
+<link href="p7amm/p7AMM-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="p7amm/p7AMMscripts.js"></script>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="shortcut icon" href="images/favicon.png">
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->
+</head>
+<body>
+           <header>
+    <div class="container">
+	<div class="row header">	
+		<div class="col-md-4">
+			<div id="logo">
+				<a href="https://blainecosheriff-ok.gov" title="Blaine County Sheriff Oklahoma"><img src="images/blaine-co-sheriff-oklahoma.jpg" class="img-fluid" alt="blaine county sheriff oklahoma"></a>
+			</div><!-- /logo -->
+		</div>
+		<div class="col-md-8">
+			<div class="row" style="">
+                <div class="col-md-6" style="">
+                <p class="lead">205 N. Burford<br>Watonga, OK 73772</p>
+
+                </div>
+                <div class="col-md-6" style="">
+                    <p class="lead"><strong>For emergencies dial 911</strong><br>
+                        <strong>Office: (580) 623-5111</strong></p>
+                </div>
+		    </div><!-- /row -->
+		   
+		</div>
+	</div><!-- /row -->
+	</div><!-- /container -->
+    
+</header>
+
+ <div class="topNav">
+            <div id="p7AMM_1" class="p7AMM amm-noscript amm-responsive amm-root-black amm-root-trans amm-rootlinks-blue amm-subs-black amm-sub-borders amm-centered" data-amm="360,3,900,5,-10,0,1,0,0,5,1,0,1,0,0" data-amm-label="More...">
+  <div id="p7AMMtb_1" class="amm-toolbar closed"><a title="Hide/Show Menu" href="#">&equiv;</a></div>
+  <ul class="closed" aria-label="Menu">
+      <li data-amm-priority="0"><a href="https://blainecosheriff-ok.gov" title="Blaine County Sheriff's Office Watonga, OK"><i class="fas fa-home"></i></a></li>
+    <li data-amm-priority="0"><a href="#" class="amm-trigger">Jail</a>
+      <ul>
+        <li><a href="inmate-search" title="Blaine County Jail" class="amm-first">Inmate Search</a></li>
+        <li><a href="commissary-web-deposits" title="Inmate Commissary and Web Deposits">Commissary &amp; Web Deposits</a></li>
+        <li><a href="visitation-mail-policies" title="Inmate Visitation Information" >Visitation &amp; Mail Policies</a></li>
+        <li><a href="medical-services" title="Inmate Medical Services" >Inmate Medical Services</a></li>
+        <li><a href="jail-information" title="Blaine County Jail" class="amm-last">Blaine County Jail</a></li>
+       
+      </ul>
+    </li>
+	  <li data-amm-priority="0"><a href="#" class="amm-trigger">Divisions</a>
+      <ul>
+        
+        <li><a href="patrol" title="Blaine County Patrol" class="amm-last">Patrol</a></li>
+        <li><a href="criminal-investigations" title="Blaine County Criminal Investigations">Criminal Investigations</a></li>
+        <li><a href="environmental" title="Environmental">Environmental</a></li>
+        <li><a href="aerial-division" title="Aerial Division">Aerial Division</a></li>
+        <li><a href="animal-cruelty" title="Animal Cruelty Division">Animal Cruelty Division</a></li>
+        <li><a href="k9-division" title="K9 Division">K9 Division</a></li>
+        <li><a href="reserve" title="Reserves">Reserves</a></li>
+        <li><a href="" title="Blaine County Voluntary Statement Form" class="amm-last">Voluntary Statement Form</a></li>
+      </ul>
+    </li>
+    <li data-amm-priority="0"><a href="#" class="amm-trigger">Resources</a>
+      <ul>
+        <!--<li><a href="most-wanted" class="amm-first">Most Wanted</a></li>
+        <li><a href="cold-cases" class="amm-last">Cold Cases</a></li>-->
+        <li><a href="sheriff-sales" title="Blaine County Sheriff Sales" class="amm-last">Sheriff Sales</a></li>
+        <li><a href="careers" title="Blaine County Job Openings Watonga, OK" class="amm-last">Careers</a></li>
+        <li><a href="sex-offenders" title="Blaine County Sex Offenders" class="amm-last">Sex Offenders</a></li>
+        <li><a href="violent-offenders" title="Blaine County Violent Offenders" class="amm-last">Violent Offenders</a></li>
+        <li><a href="files/docs/BCSO-WIT-Statement 2021.pdf" target="_blank" title="Blaine County Voluntary Statement Form" class="amm-last">Voluntary Statement Form</a></li>
+      </ul>
+    </li>
+       <li data-amm-priority="0"><a href="news" title="Blaine County Sheriff's Office Press Releases" title="Press Relelases and News">News</a></li>
+       
+      <li data-amm-priority="0"><a href="#" class="amm-trigger">About Us</a>
+      <ul>
+        <li><a href="blaine-county-sheriff" title="Tony Almaguer - Blaine County Sheriff" class="amm-first">Meet the Sheriff</a></li>
+        <!--<li><a href="staff" title="Blaine County Sheriff Staff" class="amm-first">Staff and Deputies</a></li>-->
+        <li><a href="blaine-county-sheriffs" title="Blaine County Sheriffs" class="amm-first">Past Sheriffs</a></li>
+        
+        <li><a href="in-memoriam" title="Blaine County In Memorium" class="amm-last">In Memoriam</a></li>
+      </ul>
+    </li>
+    <li data-amm-priority="0"><a href="submit-tip" title="Send a Crime Tip">Send Tip</a></li>
+    <li data-amm-priority="0"><a href="contacts" title="Contact the Blaine County Sheriff's Office">Contacts</a></li>
+    
+  </ul>
+</div>
+            
+		</div><!-- /nav -->
+    <main>
+<!-- InstanceBeginEditable name="MainContent" -->
+
+  <div class="container innerPage">
+        <h1>We could not find what you were looking for! </h1>
+        <p class="lead">It may have been removed or placed somewhere else. Please use the links below to get you back on track.</p>
+            <hr>
+    
+    <div class="row notFound">
+            <div class="col-md-4">
+             <ul class="list-group">
+                  <li class="list-group-item disabled"><h4>Jail &amp; Detention Center</h4></li>
+                  
+                  <li class="list-group-item"><a href="visitor-information.php" title="">Jail Information</a></li>               
+                  
+                  <li class="list-group-item"><a href="inmate-search.php" title="">Inmate Search</a></li>
+                  
+                  
+                </ul>
+         
+         
+         </div>
+           
+            <div class="col-md-4">
+             <ul class="list-group">
+                  <li class="list-group-item disabled"><h4>Resources</h4></li>
+                 
+                 <li class="list-group-item"><a href="submit-tip.php" title="">Send a Crime Tip</a></li>
+                 <!-- <li class="list-group-item"><a href="most-wanted.php" title=""> Most Wanted</a></li>-->
+                  <li class="list-group-item"><a href="careers.php" title="">Employment</a></li>
+                 <!-- <li class="list-group-item"><a href="helpful-links.php" title="">Helpful Links</a></li>-->
+                 <li class="list-group-item"><a href="sex-offenders.php" title="">  Sex Offenders</a></li>
+                 
+                </ul>
+      </div>    
+          <div class="col-md-4">
+            <ul class="list-group">
+                  <li class="list-group-item disabled"><h4>Sheriff's Office</h4></li>
+                   
+                   <li class="list-group-item"><a href="news.php" title="">Press Releases &amp; News</a></li>
+                   <li class="list-group-item"><a href="meet-your-sheriff.php" title="">Meet the Sheriff</a></li>
+                   <li class="list-group-item"><a href="administration.php" title="">Administration</a></li>
+                  
+                   
+                </ul>
+         </div>   
+         
+          <div class="col-md-4">
+            <ul class="list-group">
+                  <li class="list-group-item disabled"><h4>News</h4></li>
+                                    <li class="list-group-item "><a href="post.php?ID=6" title="Update on home invasion cases.">Update on home invasion cases.</a></li>
+                                                      <li class="list-group-item "><a href="post.php?ID=5" title="Blaine County search warrant served, 2 arrested with multiple drug & firearm charges.">Blaine County search warrant served, 2 arrested with multiple drug & firearm charges.</a></li>
+                                                      <li class="list-group-item "><a href="post.php?ID=4" title="Authorities recover body in North Canadian River, suspected of being missing Watonga man. ">Authorities recover body in North Canadian River, suspected of being missing Watonga man. </a></li>
+                                                      <li class="list-group-item "><a href="post.php?ID=3" title="Blaine County Sheriff&#x27;s Office joins Oklahoma (ICAC).">Blaine County Sheriff&#x27;s Office joins Oklahoma (ICAC).</a></li>
+                                                      <li class="list-group-item "><a href="post.php?ID=2" title="Blaine County Sheriff&#x27;s Office visits area schools. ">Blaine County Sheriff&#x27;s Office visits area schools. </a></li>
+                                                    
+                
+                    
+                 
+            </ul>
+         </div>    
+    </div><!-- /row -->
+    
+  </div>
+
+<!-- InstanceEndEditable -->
+    </main>
+<footer class="text-center">
+<div class="container">
+    <div class="row">
+		<div class="col-md-3 footerWidget">
+			<h2 class="lead text-white">Blaine County Sheriff's Office</h2>
+			<address>205 N. Burford<br>Watonga, OK 73772</address>
+			<p class="lead"><strong>For emergencies dial 911</strong><br>
+            <strong>Office: (580) 623-5111</strong></p>
+		</div>
+		<div class="col-md-6 footerWidget"> 
+            <h4 class="lead">Quick Links</h4>
+            
+			<ul class="footNav">
+                <li><a href="jail-information" title="Learn more about the Blaine County Jail">Jail Information</a></li>  
+                <li><a href="inmate-search" title="Search in custody inmates at the Blaine County Jail">Inmate Search</a></li> 
+                <li><a href="sheriff-sales" title="See current Sheriff Sales in Blaine County">Sheriff Sales</a></li>  
+                <li><a href="blaine-county-sheriff" title="Learn more about the Sheriff of Blaine County">Meet the Sheriff</a></li>  
+                <li><a href="submit-tip" title="Send a crime tip to Blaine County investigators">Submit a Tip</a></li>  
+                <li><a href="contacts" title="contact blaine county sheriff's office">BCSO Contacts</a></li>  
+                
+                 
+            </ul>
+		
+		</div>
+		<div class="col-md-3 footerWidget">  
+		
+            <ul class="list-inline footerIcons">
+				<li class="list-inline-item"><a href="https://www.facebook.com/BlaineCountySheriffsOffice2021" title="follow us on facebook" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook-f"></i> </a></li>
+				
+                <a href="mailto:eric.denning@blainecosheriff.org" title="email the sheriff's office" target="_blank" rel="noopener noreferrer"> <i class="fas fa-envelope-open"></i> </a>
+			</ul>
+		
+			<p>&copy;
+        	2024 Blaine County Sheriff's Office</p>
+			
+					
+		<p class="small"><a href="privacy-policy" title="Learn more about how your information is used on our website">Privacy Policy &amp; Terms of Use</a></p>
+		
+					
+			<p class="lighthouse">Site by: <a rel="nofollow" href="https://www.sheriffwebsites.com" title="law enforcement website design" target="_blank"> SheriffWebsites.com</a></p>
+		
+		</div>
+		
+		
+      
+    </div>
+  </div>
+</footer>    <!-- JS Files -->
+<script src="js/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+</body>
+<!-- InstanceEnd --></html>

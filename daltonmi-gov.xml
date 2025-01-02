@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en" class="ts_v3 charlotte_theme tsTheme_17 luna_theme unknown-os" ng-app="themeApp" >
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Dalton Township | Muskegon, MI</title>
+
+    <!-- preconnecting / preloading -->
+    <link rel="preconnect" as="style" id="jquery-ui-css-preload" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" crossorigin/>
+    <!-- end of preconnecting / preloading -->
+
+    <!-- links to styles -->
+    <link rel="stylesheet" id="jquery-ui-css"  href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" type="text/css" media="all" />
+
+
+    <!-- from beacon-easton theme definition front_actions() -->
+    <link rel="preconnect" id="Source-Sans-Pro-css-preconnect" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" />
+<link rel="stylesheet" id="Source-Sans-Pro-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" type="text/css" media="all"/>
+<link rel="stylesheet" id="theme-css" href="https://daltonmi.gov/cms_websites/css/dist/beacon-theme_charlotte/theme.css?ver=1" type="text/css" media="all and (min-width:0px)"/>
+<link rel="stylesheet" id="customize-css" href="https://daltonmi.gov/cms_websites/cms_theme_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- from _the_list -->
+
+    <!-- general links to JS for all themes-->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.validate.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js?ver=248_11"></script> -->
+    <!-- from current/wp-content/themes/tsm-theme-1/plugins/_the_list/_the_list.php -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://daltonmi.gov/wp-content/themes/beacon-easton/js/nwmatcher.js"></script> -->
+    <!-- <script type="text/javascript" src="https://daltonmi.gov/wp-content/themes/beacon-easton/js/modernizr-custom-11917.js"></script> -->
+
+    <script type="text/javascript" src="https://daltonmi.gov/cms_websites/js/dist/shared/external/scripts.min.js"></script>
+
+<script type="text/javascript" src="https://daltonmi.gov/cms_websites/tools/AdminBarAnalytics/js/external-tracking.min.js"></script>
+<link rel="shortcut icon" sizes="16x16 32x32 64x64" href="/cms_websites/img/tsm-favicon.ico">
+<meta property="og:image" content="/files/2023/11/Township-main-page_3.jpg"/>
+<meta property="og:image" content="/files/2023/01/int_dl.jpg"/>
+<meta property="og:image" content="/files/2023/09/shutterstock_89226943_1674833346_e17e4afde3b71554759a9af45119059ea1.jpg"/>
+<meta property="og:image" content="/files/2023/09/shutterstock_303160115_1674833388_e1fae9fbd7e6c3add5a3cfa4d120eadc28.jpg"/>
+<meta property="og:image" content="/files/2023/09/shutterstock_205952587_1674833432_e17f2e3948e9e951ae077865a6f30c0d91.jpg"/>
+<meta property="og:image" content="/files/2023/11/Fire-openhouse-get-involved.jpg"/>
+<meta property="og:image" content="/files/shutterstock/2023/01/shutterstock_2248439655_1674833549_e17051149429b0414a3e78ade765a6eb1a.jpg"/>
+<meta property="og:title" content="Dalton Township | Muskegon, MI"/>
+<meta property="og:site_name" content="Dalton Township"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://daltonmi.gov"/>
+<meta property="og:description" content="Dalton Township | Muskegon, MI"/>
+<meta name="description" itemprop="description" content="Dalton Township | Muskegon, MI" />
+<link rel="canonical" href="https://daltonmi.gov" />
+<link rel="stylesheet" id="custom-css-css" href="https://daltonmi.gov/cms_websites/cms_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<script>
+jQuery(document).ready(function() {
+jQuery('#menu').accordion({ collapsible: true });
+});
+</script>
+<script type="text/javascript">
+//<![CDATA[
+    var b2b = {
+        'isTestingUser' : 0,
+        'tag':'248_11',
+        'theme': 'beacon-theme_charlotte',
+        'blog_id': '',
+        'website_id': 69641,
+        'CID':'', // later
+        'gaId':'UA-148344921-117',
+        'page_type': '',
+        'isPage': '',
+        'post_id': '719267',
+        'home_url':'https://daltonmi.gov',
+        'admin_url':'',
+        'plugins_url':'',
+        'basename':'index.php',
+        'isMobile':0,
+        'isTablet':0,
+        'isFrontPage': 1,
+        'isPost':0,
+        'isSuperAdmin':0,
+        'isBeacon':1,
+        'isB2Badmin':0,
+        'hasStore':0,
+        'primary_menu': 0 ,
+        'qstr':[],
+        'containerClasses':{},
+        'post_password_required':0,
+        'onFly':0
+    };
+//]]>
+</script>
+    <script type="text/javascript">
+				window.b2b = window.b2b || {};
+				window.b2b.GA = {"accounts":["UA-148344921-117","UA-26792682-1"]};
+		</script>
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-148344921-117']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_setCampaignCookieTimeout', 0]);
+
+    _gaq.push(['_trackPageview']);
+
+    _gaq.push(['_setAccount', 'UA-26792682-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+        <!-- Master Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-PF8RFHR03F"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PF8RFHR03F');
+        </script>
+
+
+            <!-- Ga4 Script-->
+            <!-- Elapsed Time: 0.00235915184021s -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-0L0FFYG634"></script>
+            <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-0L0FFYG634'); </script>
+
+
+        <!-- Custom CTC & CTD events -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                document.querySelectorAll("a[href^='tel']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'call_click');
+                    });
+                });
+                document.querySelectorAll("a[href^='https://maps.google.com/maps']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'directions_click');
+                    });
+                });
+            }, false);
+        </script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 700,
+  'GRAD' -25,
+  'opsz' 20
+}
+</style>
+</head>
+<body id="top"class=" home page page-id-719267 page-template-default ve-iframe beacon unknown">
+<div id="wrapper" class="tsW">
+    <header class="tsH expand">
+        <div class="tsH_wrp">
+            
+<div id='_the_logo' class='_is_plugin header-logo' slug='_the_logo' data-extra-args='{"section":"header"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-header"><div  class="logo-slot pct100 slot_0 slot-type-image align-left"><a class="ve_no_url" href="https://daltonmi.gov" title="Dalton Township" rel="home"><img  src="/files/2023/01/DaltsonTownshipLOGO.png" /></a></div></div><div data-numslots="1" class="logo-variation logo-variation-mobile"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://daltonmi.gov" title="Dalton Township" rel="home"><img  src="/files/2023/01/DaltsonTownshipLOGO.png" /></a></div></div>
+</h2></div>
+            <div id="access" class="original_access">
+                <div class="menu align-center">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-799717 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-719267" id="menu-item-799717"><a href="https://daltonmi.gov/">Home</a></li><li class=" menu-item menu-item-799739 menu-item-object-page menu-item-type-post_type " id="menu-item-799739"><a href="https://daltonmi.gov/public-notices/">Public Notices</a></li><li class=" menu-item menu-item-799740 menu-item-object-page menu-item-type-post_type " id="menu-item-799740"><a href="https://daltonmi.gov/township-history/">Township History</a></li><li class=" menu-item menu-item-799741 menu-item-object-page menu-item-type-post_type " id="menu-item-799741"><a href="https://daltonmi.gov/citizens-guide-and-township-dashboard/">Citizens Guide and Township Dashboard</a></li><li class=" menu-item menu-item-799743 menu-item-object-page menu-item-type-post_type " id="menu-item-799743"><a href="https://daltonmi.gov/contacts-and-board-members/">Contacts and Board Members</a></li><li class=" menu-item menu-item-has-children menu-item-799744 menu-item-object-page menu-item-type-post_type " id="menu-item-799744"><a href="https://daltonmi.gov/departments/">Departments</a><ul class="sub-menu"><li class=" menu-item menu-item-799746 menu-item-object-page menu-item-type-post_type " id="menu-item-799746"><a href="https://daltonmi.gov/building-department/">Building Department</a></li><li class=" menu-item menu-item-799747 menu-item-object-page menu-item-type-post_type " id="menu-item-799747"><a href="https://daltonmi.gov/treasurers-office/">Treasurer's Office</a></li><li class=" menu-item menu-item-799748 menu-item-object-page menu-item-type-post_type " id="menu-item-799748"><a href="https://daltonmi.gov/zoning-department/">Zoning Department</a></li><li class=" menu-item menu-item-799742 menu-item-object-page menu-item-type-post_type " id="menu-item-799742"><a href="https://daltonmi.gov/fire-department/">Fire Department</a></li></ul>
+                        </li><li class=" menu-item menu-item-799750 menu-item-object-page menu-item-type-post_type " id="menu-item-799750"><a href="https://daltonmi.gov/voting-and-elections/">Voting and Elections</a></li><li class=" menu-item menu-item-799751 menu-item-object-page menu-item-type-post_type " id="menu-item-799751"><a href="https://daltonmi.gov/meetings-and-closing-schedule/">Meetings and Closing Schedule</a></li><li class=" menu-item menu-item-799752 menu-item-object-page menu-item-type-post_type " id="menu-item-799752"><a href="https://daltonmi.gov/cemetery/">Cemetery</a></li><li class=" menu-item menu-item-799753 menu-item-object-page menu-item-type-post_type " id="menu-item-799753"><a href="https://daltonmi.gov/transfer-station/">Transfer Station</a></li><li class=" menu-item menu-item-799754 menu-item-object-page menu-item-type-post_type " id="menu-item-799754"><a href="https://daltonmi.gov/parks-and-trails/">Parks and Trails</a></li><li class=" menu-item menu-item-799755 menu-item-object-page menu-item-type-post_type " id="menu-item-799755"><a href="https://daltonmi.gov/information-requests-foias/">Information Requests & FOIAs</a></li><li class=" menu-item menu-item-799756 menu-item-object-page menu-item-type-post_type " id="menu-item-799756"><a href="https://daltonmi.gov/job-positions/">Job Positions</a></li><li class=" menu-item menu-item-799757 menu-item-object-page menu-item-type-post_type " id="menu-item-799757"><a href="https://daltonmi.gov/outside-links/">Outside Links</a></li><li class=" menu-item menu-item-799758 menu-item-object-page menu-item-type-post_type " id="menu-item-799758"><a href="https://daltonmi.gov/contact/">Contact</a></li><li class=" menu-item menu-item-953742 menu-item-object-page menu-item-type-post_type " id="menu-item-953742"><a href="https://daltonmi.gov/departments/">Departments</a></li></ul>
+        </div>            </div>
+
+            <button type="button" class="tsC_open tsH_navTrig trigger" data-target="tsM" title="Open Menu"></button>
+        </div>
+
+        <div class="tsSC transition tsflex " >
+            <ul class="social-media-links"><li class="custom-social-1"><a href="https://www.facebook.com/profile.php?id=100064750984313" title="Fire Department FB" target="_blank" ></a></li><li class="custom-social-2"><a href="https://goo.gl/maps/BPkWaBuvpLPCoyp16" title="GMB" target="_blank" ></a></li><li class="facebook"><a href="http://www.facebook.com/profile.php?id=100091451263642" title="Facebook" target="_blank" ></a></li></ul>
+<aside class="tsCntct "><ul class="tsCntct_list transition"><li class="tsPhone "><a href="tel:(231) 766-3043" data-icon="A" title="(231) 766-3043" class="primary tsC_Btn tsHidden"><span> </b>(231) 766-3043</span></a></li><li class="tsAddress tsi-address "><a href="https://maps.google.com/maps?daddr=1616 E. Riley Thompson Road, Muskegon, MI 49445" data-icon="M" title="https://maps.google.com/maps?daddr=1616 E. Riley Thompson Road, Muskegon, MI 49445" target="_blank" class="primary tsC_Btn">Dalton Township</a></li></ul></aside>
+        </div>
+
+        
+    </header>
+
+    <main class="tsC  ">
+<div class='full_width_content section_content content_bg wrp_color_bg'><div class='section w1060'><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_1'
+            class='tsB tsT_article a1 tsflex col_2 portrait_3_4 medium not_well tsD_dl tsD_smallHd tsD_lightBkg tsD_arrowBtn'>
+<div class='tsR'>
+
+<article class='tsI item_1 left nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Established in 1859</H1>
+<h3 class='tsI_sh'>Dalton Township: 9,530 people in 36 square miles</h3>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><a href="/contact"/><div class="tsI_btn btn_1  btn_md transition"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 fa-lg fa-fw" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fas fa-angle-double-right fa-lg fa-fw"></i><a href="/contact"/> --> Contact Us Today</a></div></a><br><br><b>Office Hours</b><br>Monday-Thursday: 8:00 - 5:30<br>Friday-Sunday: closed</p></div></div></div></div></article>
+<article class='tsI item_2 center nHero yImg nHds nDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2023/11/Township-main-page_3.jpg?1:1.33333&a=t' data-alt=''></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_2'
+            class='tsB tsT_article a1 tsflex col_4 square_1_1 small xsmall not_well tsD_textfeature12 tsD_lightBkg'>
+<div class='tsR'>
+<h2 class='tsB_hd section_title ts_hidden' data-title='green rectangles'><span>green rectangles</span></h2>
+<article class='tsI item_1 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/public-notices/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Public Notices<br> </h5>
+<h5 class='tsI_sh'>Stay in the know about important community news.</h5>
+</header></div></a></article>
+<article class='tsI item_2 center nHero nImg yHds nDsc yHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/current-land-sales/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Land Sales</h5>
+</header></div></a></article>
+<article class='tsI item_3 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/departments/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Departments<br> </h5>
+<h5 class='tsI_sh'>See how you can get in touch with our different departments</h5>
+</header></div></a></article>
+<article class='tsI item_4 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/voting-and-elections/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Voting and Elections<br> </h5>
+<h5 class='tsI_sh'>Make your voice heard by participating in local elections.</h5>
+</header></div></a></article>
+<article class='tsI item_5 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='https://library.municode.com/mi/dalton_township,_(muskegon_co.)/munidocs/munidocs' target='_blank' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Meeting packets, agendas, minutes, resolutions, etc</h5>
+<h5 class='tsI_sh'>Learn More</h5>
+</header></div></a></article>
+<article class='tsI item_6 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='https://www.youtube.com/@daltontownship/videos' target='_blank' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Township video recordings including meetings</h5>
+<h5 class='tsI_sh'>Learn More</h5>
+</header></div></a></article>
+<article class='tsI item_7 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='https://library.municode.com/mi/dalton_township,_(muskegon_co.)/codes/zoning' target='_blank' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>Zoning ordinances<br> </h5>
+<h5 class='tsI_sh'>Learn More</h5>
+</header></div></a></article>
+<article class='tsI item_8 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='https://library.municode.com/mi/dalton_township,_(muskegon_co.)/codes/code_of_ordinances' target='_blank' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h5 class='tsI_hd'>General ordinances<br> </h5>
+<h5 class='tsI_sh'>Learn More</h5>
+</header></div></a></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_3'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large well tsD_condense'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg nHds nDsc nHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='https://bsaonline.com/OnlinePayment/OnlinePaymentSearch?PaymentApplicationType=4&uid=783' target='_blank' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div><div class='tsI_btn btn_1 btn_w btn_md transition'> Pay Property Taxes</div></a></article>
+<article class='tsI item_2 center nHero nImg nHds yDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><iframe width="100%" height="400" src="https://ef2ec7df.sibforms.com/serve/MUIEAOKkJjlBSg2GF3LeM-RYJRn4_nalrBcrec0HijeuEV8MtBWOjcl-hwtiuKU5Zr-8FwofeN8GtcEjmJK_Q_Q5WT2qdKOUH0xufTTP1Zm6l-fYE0YJi_bFbvuyUchG-7EdjFhrPSwm4Q8s0QX2aNIpHjvmsUq12-WkrjGnIn5z6zIOxl8QY9r6CV8B7aq9v5GfpC1q1RmLJ_9K" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe></p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_4'
+            class='tsB tsT_article a1 tsflex col_3 square_1_1 small not_well tsD_textfeature12 tsD_lightBkg'>
+<div class='tsR'>
+<h2 class='tsB_hd section_title ts_hidden' data-title='Citizens Guide and Township Dashboard'><span>Citizens Guide and Township Dashboard</span></h2>
+<article class='tsI item_1 center nHero nImg nHds nDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div></article>
+<article class='tsI item_2 center nHero nImg yHds nDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/citizens-guide-and-township-dashboard/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Citizens Guide and Township Dashboard</h4>
+<h4 class='tsI_sh'>Find out more about your community in Dalton Township</h4>
+</header></div></a></article>
+<article class='tsI item_3 center nHero nImg nHds nDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_parallax_1 -->
+<!-- charlotte_parallax_1 new RENDER -->
+<section id='section_5'
+            class='tsB tsT_parallax p1 promo_colors nCol tsX widescreen_2-4_1 large tsD_internalDl not_well '>
+
+<article id='a3-1' class='tsI transition item_1 animate txt_center yImg yLk yHds yOvr'>
+                <div class='tsX tsXa' style='' data-jarallax data-speed='0.2' data-img-position='50% 50%'>
+                    <img class='jarallax-img' src='/files/2023/01/int_dl.jpg?w=1600&a=t'/>
+                </div>
+                <div class='tsX tsXb' ></div><a class='tsI_wrp' href='/contact/' target='_self' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_sh'>Make Memories That Last a Lifetime in <br>Dalton Township</h2>
+</header></div></div></a></article></section>
+<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_6'
+            class='tsB tsT_article a1 tsflex col_2 no_sizing medium not_well tsD_white tsD_smallHd tsD_darkBkg tsD_split'>
+<div class='tsR'>
+
+<article class='tsI item_1 left nHero nImg yHds nDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h3 class='tsI_hd'>Discover What Makes Dalton Township So Great</h3>
+<h3 class='tsI_sh'>See what our local community has to offer</h3>
+</header></div></div></article>
+<article class='tsI item_2 left nHero nImg nHds yDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Whether you live in Dalton Township or are visiting from out of town, you&#39;ll find plenty to love about this area of Muskegon, MI. If you want to discover fun things to do in the area, pay your township taxes or get involved with your community, the Dalton Township website is a resource for everything you need to know.<br><br>Have any questions? To learn more about our local departments, taxes or to file a complaint, call us today at 231-766-3043.<br><center><img src="/files/2023/11/Twin-Lake-Sign-lake-photo.jpg" style="max-width:20rem; width:100%"/></p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_7'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_smallHd2'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds nDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Visiting Dalton Township Soon?</h2>
+<h2 class='tsI_sh'>When you come to our township, make sure you plan to visit:</h2>
+</header></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_8'
+            class='tsB tsT_article a1 tsflex col_3 widescreen_16_9 small well tsD_services'>
+<div class='tsR'>
+
+<article class='tsI item_1 left nHero yImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2023/09/shutterstock_89226943_1674833346_e17e4afde3b71554759a9af45119059ea1.jpg?1:.5625&a=t' data-alt='Michigan&#39;s Adventure'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Michigan&#39;s Adventure</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>This amusement park is the largest in the state and has thrilling coasters, exciting rides, a water park and more!</p></div></div></div></div></article>
+<article class='tsI item_2 left nHero yImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2023/09/shutterstock_303160115_1674833388_e1fae9fbd7e6c3add5a3cfa4d120eadc28.jpg?1:.5625&a=t' data-alt='One of our many beautiful lakes'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>One of our many beautiful lakes</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Twin Lakes, Middle Lake, West Lake, North Lake, Goose Egg Lake and Fox Lake!</p></div></div></div></div></article>
+<article class='tsI item_3 left nHero yImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2023/09/shutterstock_205952587_1674833432_e17f2e3948e9e951ae077865a6f30c0d91.jpg?1:.5625&a=t' data-alt='Any of the great restaurants in the area'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Any of the great restaurants in the area</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>From Ice cream on a summer night to karaoke with friends. Dalton has good variety of dine in or take out restaurant locations.</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_9'
+            class='tsB tsT_article a1 tsflex col_3 no_sizing small not_well tsD_smallHd tsD_lightBkg'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero yImg nHds nDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2023/11/Fire-openhouse-get-involved.jpg?zc=3' data-alt=''></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div></article>
+<article class='tsI item_2 center nHero nImg yHds yDsc yHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/contact/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Get involved with your community</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>There are plenty of ways to get involved with community events and efforts in Dalton Township. Be sure to regularly check our public notice board for ways to get involved, like donating to our annual Toys for Tots drive or participating in a local survey.<br><br>If you&#39;re interested in being a local election worker, working at the fire department or participating in a local donation drive, reach out to us today.</p></div></div></div><div class='tsI_btn btn_1  btn_sm transition'> Contact Us</div></a></article>
+<article class='tsI item_3 center nHero yImg nHds nDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/shutterstock/2023/01/shutterstock_2248439655_1674833549_e17051149429b0414a3e78ade765a6eb1a.jpg?zc=3' data-alt=''></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --></div></div></main>
+
+<footer class="tsF" rel="footer">
+    <section class="tsF_section section_content tsflex">
+        <div class="section w1060">
+            <div class="tsB tsT_plugin tsT_article tsT_footer tsflex col_3 small not_well">
+                <div class="tsR">
+                                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="tsF_section brand tsflex">
+        <div class="tsR">
+            
+<div id='_the_logo' class='_is_plugin footer-logo' slug='_the_logo' data-extra-args='{"section":"footer"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-footer"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://daltonmi.gov" title="Dalton Township" rel="home"><img  src="" /></a></div></div>
+</h2></div>        </div>
+    </section>
+    <hr>
+    <section class="tsF_section copyright tsflex">
+        <div class="tsR">
+            
+<address class="tsF_copyright">
+	Copyright &copy; 2024 Dalton Township, all rights reserved.
+	<br><span class='footer-street-address footer-address'>1616 E. Riley Thompson Road, &nbsp;</span><span class='footer-city-state-zip-address footer-address'><span>Muskegon</span>,&nbsp;<span>MI</span>&nbsp;<span>49445</span>&nbsp;&nbsp;</span>
+            <span class='footer-phone-address footer-address'>
+                (231) 766-3043
+            </span>
+            
+</address>
+        </div>
+    </section>
+    <section class="tsF_section bottom social tsflex">
+        <div class="tsR">
+            <div class="tsF_col">
+                <ul class="social-media-links"><li class="custom-social-1"><a href="https://www.facebook.com/profile.php?id=100064750984313" title="Fire Department FB" target="_blank" ></a></li><li class="custom-social-2"><a href="https://goo.gl/maps/BPkWaBuvpLPCoyp16" title="GMB" target="_blank" ></a></li><li class="facebook"><a href="http://www.facebook.com/profile.php?id=100091451263642" title="Facebook" target="_blank" ></a></li></ul>            </div>
+            <div class="tsF_col">
+                <button type="button" class="tsC_open tsC_Btn tsF_navTrig trigger transition" data-target="tsM" title="Open Menu"> Menu</button>
+            </div>
+        </div>
+    </section>
+
+    </footer>
+</div>
+
+
+<a class="tsC_Btn to-top scrollBtn" href="#top"></a>
+
+<nav id="tsM" class="tsM transition triggered">
+    <div class="tsM_wrp">
+        <button type="button" class="tsC_close trigger transition icon-close" data-target="tsM" title="Close Menu"></button>
+        <div class="tsM_bdy">
+            <section class="tsM_sec social">
+                <ul class="social-media-links"><li class="custom-social-1"><a href="https://www.facebook.com/profile.php?id=100064750984313" title="Fire Department FB" target="_blank" ></a></li><li class="custom-social-2"><a href="https://goo.gl/maps/BPkWaBuvpLPCoyp16" title="GMB" target="_blank" ></a></li><li class="facebook"><a href="http://www.facebook.com/profile.php?id=100091451263642" title="Facebook" target="_blank" ></a></li></ul>            </section>
+            <!--             <h6 class="tsB_hd"><span>Menu</span></h6> -->
+            <section class="tsM_sec">
+                <div id="access" class="original_access">
+                    <div class="menu align-center">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-799717 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-719267" id="menu-item-799717"><a href="https://daltonmi.gov/">Home</a></li><li class=" menu-item menu-item-799739 menu-item-object-page menu-item-type-post_type " id="menu-item-799739"><a href="https://daltonmi.gov/public-notices/">Public Notices</a></li><li class=" menu-item menu-item-799740 menu-item-object-page menu-item-type-post_type " id="menu-item-799740"><a href="https://daltonmi.gov/township-history/">Township History</a></li><li class=" menu-item menu-item-799741 menu-item-object-page menu-item-type-post_type " id="menu-item-799741"><a href="https://daltonmi.gov/citizens-guide-and-township-dashboard/">Citizens Guide and Township Dashboard</a></li><li class=" menu-item menu-item-799743 menu-item-object-page menu-item-type-post_type " id="menu-item-799743"><a href="https://daltonmi.gov/contacts-and-board-members/">Contacts and Board Members</a></li><li class=" menu-item menu-item-has-children menu-item-799744 menu-item-object-page menu-item-type-post_type " id="menu-item-799744"><a href="https://daltonmi.gov/departments/">Departments</a><ul class="sub-menu"><li class=" menu-item menu-item-799746 menu-item-object-page menu-item-type-post_type " id="menu-item-799746"><a href="https://daltonmi.gov/building-department/">Building Department</a></li><li class=" menu-item menu-item-799747 menu-item-object-page menu-item-type-post_type " id="menu-item-799747"><a href="https://daltonmi.gov/treasurers-office/">Treasurer's Office</a></li><li class=" menu-item menu-item-799748 menu-item-object-page menu-item-type-post_type " id="menu-item-799748"><a href="https://daltonmi.gov/zoning-department/">Zoning Department</a></li><li class=" menu-item menu-item-799742 menu-item-object-page menu-item-type-post_type " id="menu-item-799742"><a href="https://daltonmi.gov/fire-department/">Fire Department</a></li></ul>
+                        </li><li class=" menu-item menu-item-799750 menu-item-object-page menu-item-type-post_type " id="menu-item-799750"><a href="https://daltonmi.gov/voting-and-elections/">Voting and Elections</a></li><li class=" menu-item menu-item-799751 menu-item-object-page menu-item-type-post_type " id="menu-item-799751"><a href="https://daltonmi.gov/meetings-and-closing-schedule/">Meetings and Closing Schedule</a></li><li class=" menu-item menu-item-799752 menu-item-object-page menu-item-type-post_type " id="menu-item-799752"><a href="https://daltonmi.gov/cemetery/">Cemetery</a></li><li class=" menu-item menu-item-799753 menu-item-object-page menu-item-type-post_type " id="menu-item-799753"><a href="https://daltonmi.gov/transfer-station/">Transfer Station</a></li><li class=" menu-item menu-item-799754 menu-item-object-page menu-item-type-post_type " id="menu-item-799754"><a href="https://daltonmi.gov/parks-and-trails/">Parks and Trails</a></li><li class=" menu-item menu-item-799755 menu-item-object-page menu-item-type-post_type " id="menu-item-799755"><a href="https://daltonmi.gov/information-requests-foias/">Information Requests & FOIAs</a></li><li class=" menu-item menu-item-799756 menu-item-object-page menu-item-type-post_type " id="menu-item-799756"><a href="https://daltonmi.gov/job-positions/">Job Positions</a></li><li class=" menu-item menu-item-799757 menu-item-object-page menu-item-type-post_type " id="menu-item-799757"><a href="https://daltonmi.gov/outside-links/">Outside Links</a></li><li class=" menu-item menu-item-799758 menu-item-object-page menu-item-type-post_type " id="menu-item-799758"><a href="https://daltonmi.gov/contact/">Contact</a></li><li class=" menu-item menu-item-953742 menu-item-object-page menu-item-type-post_type " id="menu-item-953742"><a href="https://daltonmi.gov/departments/">Departments</a></li></ul>
+        </div>                </div>
+            </section>
+        </div>
+    </div>
+</nav>
+<div id="_the_embeded_below_mods" slug="">
+                <div id="_the_embeded_below_mods_wrapper"></div>
+                <div id="_the_embeded_below_mods_btn" class="_is_embeded"></div>
+            </div>
+<script type="text/javascript" src="https://daltonmi.gov/cms_websites/js/dist/shared/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://daltonmi.gov/cms_websites/js/dist/beacon-theme_charlotte/theme-min.js"></script>
+<script type="text/javascript" src="https://daltonmi.gov/cms_websites/js/dist/beacon-theme_charlotte/fontawesome/all.min.js"></script>
+
+<script type="text/javascript" src="https://daltonmi.gov/cms_websites/tools/GAEventTracking/js/scripts.min.js"></script><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<script>
+jQuery(document).ready(function() {
+jQuery('#menu').accordion({ collapsible: true });
+});
+</script>
+
+</body></html>

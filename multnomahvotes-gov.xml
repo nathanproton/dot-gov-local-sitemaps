@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--> <html class="no-js"  lang="en" dir="ltr" > <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<!--[if lt IE 9]>
+    	<script src="https://www.multco.us/sites/all/themes/multco/components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="https://www.multco.us/sites/all/themes/multco/components/html5shiv/dist/html5shiv-printshiv.js"></script>
+    	<script src="https://www.multco.us/sites/all/themes/multco/components/respond/dest/respond.min.js"></script>
+<![endif]--><link rel="canonical" href="/elections" />
+<link rel="shortlink" href="/node/475" />
+<link rel="shortcut icon" href="https://www.multco.us/sites/all/themes/multco/favicon.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="The Multnomah County Elections Division conducts all local, city, county, state and federal elections for the citizens of Multnomah County." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.multco.us/elections" />
+<link rel="shortlink" href="https://www.multco.us/node/475" />
+<meta property="og:site_name" content="Multnomah County" />
+<meta property="og:type" content="government" />
+<meta property="og:title" content="Multnomah County Elections Division" />
+<meta property="og:url" content="https://www.multco.us/elections" />
+<meta property="og:description" content="The Multnomah County Elections Division conducts all local, city, county, state and federal elections for the citizens of Multnomah County." />
+<meta property="og:updated_time" content="2024-08-29T10:25:17-07:00" />
+<meta property="og:image" content="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/electionsPIC%20%239a.jpg?itok=BGgEchvD" />
+<meta property="og:image:secure_url" content="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/electionsPIC%20%239a.jpg?itok=BGgEchvD" />
+<meta property="og:image:width" content="650" />
+<meta property="og:image:height" content="366" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://www.multco.us/elections" />
+<meta name="twitter:title" content="Multnomah County Elections Division" />
+<meta name="twitter:description" content="The Multnomah County Elections Division conducts all local, city, county, state and federal elections for the citizens of Multnomah County." />
+<meta name="twitter:image" content="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/electionsPIC%20%239a.jpg?itok=BGgEchvD" />
+<meta name="twitter:image:width" content="650" />
+<meta name="twitter:image:height" content="366" />
+<meta property="article:published_time" content="2011-02-16T13:41:42-08:00" />
+<meta property="article:modified_time" content="2024-08-29T10:25:17-07:00" />
+    <title>Multnomah County Elections Division | Multnomah County</title>
+    <link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_YgLmJzLdUUCQrzXOhjbpphku9ZNmV0tUoWCu_njWC2I.css" />
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_Z4Lzrxe3Dwq9bMollCPTpoR_gyf_zxfGbkmqrFZgfDA.css" />
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_NaIcJ7UB04zTgRtMiWrOYTp8debgCkL12Vd0uNp9Sjc.css" />
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_UCbbVyVrP_56dhUj14aIlKeXXy8hNnlcR69_j7nw6x8.css" />
+<style>.countdownHolder{font-size:16px}
+</style>
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_RzJjXQNPwlTHnSOiUC-aS3CNyL-AReHgiBD27CFy_ZY.css" />
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_eH2pN8cqCyaWsZruZKK8yJURFwyBi8KQ_SsoT6eqPr4.css" />
+<link rel="stylesheet" href="https://www.multco.us/sites/default/files/css/css_w7WN3RizU2GFOapLJATHJ7se6DIdZObGSPWNsQ4mwnQ.css" media="print" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.multco.us/sites/default/files/js/js_RIJoFnmuMbVNJoNKInbPbBvIRZ0XDqz0Ho4cBT_Df1I.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.multco.us/sites/default/files/js/js_lboD8mxHbiFYKzdGkJi9JvFQWJGyCslzWjcNjvVR3X0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"multco","theme_token":"PHvKH4ZqdXwhTLkf6Mlyu4Mr5-OSlhl5AZqsDeDsNRg","css":{"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/views_slideshow_cycle2\/views_slideshow_cycle2.css":1,"0":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/multco\/css\/style.css":1,"sites\/all\/themes\/multco\/css\/button.css":1,"sites\/all\/themes\/multco\/css\/print.css":1},"js":{"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/autoupload\/js\/autoupload.js":1,"sites\/all\/modules\/patch\/cs_adaptive_image\/cs_adaptive_image.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"misc\/tabledrag.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/getdirections\/js\/getdirections.js":1,"sites\/all\/modules\/contrib\/views_slideshow_cycle2\/js\/views_slideshow_cycle2.js":1,"sites\/all\/libraries\/jquery.cycle2\/jquery.cycle2.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-NQ5DDSZ6Z9":1,"0":1,"sites\/all\/modules\/contrib\/extlink\/js\/extlink.js":1,"sites\/all\/modules\/contrib\/jquery_countdown_timer\/js\/jquery_countdown_timer.js":1,"sites\/all\/modules\/contrib\/jquery_countdown_timer\/js\/jquery_countdown_timer_init.js":1,"sites\/all\/libraries\/jquery.cycle2\/jquery.cycle2.swipe.min.js":1,"sites\/all\/themes\/multco\/js\/scripts.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"3":1,"4":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"315px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"getdirections_colorbox":{"enable":0,"width":"600","height":"600"},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"viewsSlideshow":{"featured_content-4block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle2"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle2"],"pause":["viewsSlideshowControls","viewsSlideshowCycle2"],"play":["viewsSlideshowControls","viewsSlideshowCycle2"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle2"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"featured_content-4block_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"featured_content-4block_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle2":{"#views_slideshow_cycle2_main_featured_content-4block_1":{"num_divs":4,"id_prefix":"#views_slideshow_cycle2_main_","div_prefix":"#views_slideshow_cycle2_div_","vss_id":"featured_content-4block_1","effect":"scrollHorz","transition_advanced":1,"timeout":0,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":1,"start_paused":null,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"image_loader":false,"swipe":1,"cleartype":true,"cleartypenobg":false,"advanced_options":"{}"}},"fitvids":{"custom_domains":[],"selectors":[".block-card-content .media-youtube-video\r",".block-card-content .media-vimeo-video"],"simplifymarkup":1},"googleanalytics":{"account":["G-NQ5DDSZ6Z9"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/elections":true},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":0,"extExclude":"^((http(s)?:\\\/\\\/))*(www)?(\\.)*multco([-]*[\\s\\S]*?)(\\.us|\\.com)","extInclude":"","extCssExclude":".view-social-networks .view-content, #block-views-social-networks-block .content, .social-connect, .info-link","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":0},"jquery_countdown_timer":{"jquery_countdown_timer_date":1730865600},"ogContext":{"groupType":"node","gid":"475"},"multco_theme":{"please":"Please enter a search."}});</script>
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-475 node-type-site og-context og-context-node og-context-node-475 page-node-content-displayed slider-active" >
+    <div id="skip-link">
+      <a href="#main" class="element-invisible element-focusable" role="link">Skip to main content</a>
+    </div>
+        <div id="page" role="document">
+  
+      <header id="header" role="banner">
+      
+              <div class="container">
+      		
+      		            <div id="header-wrapper">
+              <span id="logo">
+  <a href="/" title="Multnomah County" rel="home">
+    <img src="https://www.multco.us/sites/all/themes/multco/logo.png" alt="Multnomah County Logo" />  </a>
+</span>
+<div id="block-system-main-menu" class="block block-system global-menu block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf dropdown first-level search"><a href="/search/site">Search</a><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-search-form" class="block block-search block-search-suffix">
+
+    
+  <div class="content">
+    <form action="/elections" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." autocomplete="off" placeholder="Find services, departments or content throughout Multnomah County." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<h3 class="label most-searched-label">Looking for:</h3><ul class="list most-searched-list"><li><a href="/search/site/Public Records">Public Records</a></li><li><a href="/search/site/ Property Tax Payment"> Property Tax Payment</a></li><li><a href="/search/site/ Tax Assessment"> Tax Assessment</a></li><li><a href="/search/site/ Jobs"> Jobs</a></li><li><a href="/search/site/ Marriage Licenses"> Marriage Licenses</a></li><li><a href="/search/site/ Elections"> Elections</a></li><li><a href="/search/site/ COVID"> COVID</a></li></ul><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-m39j5ndm5C1XwtzGV7ZxR-P9LC5g1R45WizZ6hiZ-JA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+</div>
+</li>
+<li class="expanded dropdown first-level"><a href="/services/search" title="">Services </a><ul class="menu"><li class="first leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-service-menu-column-1" class="block block-menu menu-column">
+
+    <h2>I want to:</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><span class="nolink" tabindex="0">Apply for</span></li>
+<li class="leaf"><a href="/recording/marriage-licenses" title="Get a Marriage License">Marriage License</a></li>
+<li class="leaf"><a href="/recording/passport-applications">Passport</a></li>
+<li class="leaf"><a href="https://multcopets.org/licensing-information">Pet License</a></li>
+<li class="leaf"><a href="/health/inspections-and-licensing">Restaurant and Facility Licenses</a></li>
+<li class="leaf"><span class="nolink" tabindex="0">Find</span></li>
+<li class="leaf"><a href="https://buildings.multco.us">County Buildings</a></li>
+<li class="leaf"><a href="/services/dental-clinics">Dental Clinics</a></li>
+<li class="last leaf"><a href="/health/health-services">Health Clinics and Services</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-service-menu-column-2" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><span class="nolink" tabindex="0">Look up</span></li>
+<li class="leaf"><a href="/records/locating-records">County records</a></li>
+<li class="leaf"><a href="/services/parole-and-probation-officer-lookup">Parole and Probation Officers</a></li>
+<li class="leaf"><a href="https://multcoproptax.com">Property Records (including tax statements)</a></li>
+<li class="leaf"><a href="/recording/tax-property-and-marriage-license-records">Recorded Documents</a></li>
+<li class="leaf"><a href="/health/restaurant-inspections-lookup">Restaurant inspections</a></li>
+<li class="leaf"><a href="/environmental-health-hazards/wood-burning-restrictions">Wood burning status</a></li>
+<li class="leaf"><span class="nolink" tabindex="0">Pay</span></li>
+<li class="last leaf"><a href="/assessment-taxation/property-tax-payment">Property Taxes</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-service-menu-column-3" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><span class="nolink" tabindex="0">Request</span></li>
+<li class="leaf"><a href="/public-records-request">Public Records Request</a></li>
+<li class="leaf"><span class="nolink" tabindex="0">Support for</span></li>
+<li class="leaf"><a href="/ads">Intellectual and Developmental Disabilities</a></li>
+<li class="leaf"><a href="/behavioral-health">Behavioral Health and Addictions</a></li>
+<li class="leaf"><a href="/children-and-family-health-services/pregnancy-parenting-support">Pregnancy and Parenting</a></li>
+<li class="leaf"><a href="/services/home-and-residential-care">Residential Care</a></li>
+<li class="leaf"><a href="/veterans">Veterans</a></li>
+<li class="leaf"><span class="nolink" tabindex="0">Watch</span></li>
+<li class="last leaf"><a href="http://multnomah.granicus.com/ViewPublisher.php?view_id=3">Board Meetings</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="last leaf display-block"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-block-14" class="block block-block">
+
+    
+  <div class="content">
+    Not finding a county service? <a href="/services/search">Browse our full list of services</a>  </div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="expanded dropdown first-level"><a href="/departments" title="">Departments</a><ul class="menu"><li class="first leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-departments-menu-column-1" class="block block-menu menu-column">
+
+    <h2>Departments, Divisions, and Offices</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://multcopets.org">Animal Services</a></li>
+<li class="leaf"><a href="/ads">Aging and Disabilities</a></li>
+<li class="leaf"><a href="/assessment-taxation">Assessment and Taxation</a></li>
+<li class="leaf"><a href="/employee-benefits">Benefits</a></li>
+<li class="leaf"><a href="/chief-operating-officer">Chief Operating Officer</a></li>
+<li class="leaf"><a href="/communications">Communications</a></li>
+<li class="leaf"><a href="/oci">Community Involvement</a></li>
+<li class="leaf"><a href="/dcj" title="Community Justice">Community Justice</a></li>
+<li class="last leaf"><a href="/dcs" title="Community Services">Community Services</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-departments-menu-column-2" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/dca">County Assets</a></li>
+<li class="leaf"><a href="/county-attorney" title="County Attorney">County Attorney</a></li>
+<li class="leaf"><a href="/department-county-management">County Management</a></li>
+<li class="leaf"><a href="/diversity-equity">Diversity and Equity</a></li>
+<li class="leaf active-trail"><a href="/elections" class="active-trail active">Elections Division</a></li>
+<li class="leaf"><a href="/em">Emergency Management</a></li>
+<li class="leaf"><a href="/facilities-and-property-management">Facilities and Property Management</a></li>
+<li class="leaf"><a href="/family-resolution">Family Court Services</a></li>
+<li class="leaf"><a href="/health" title="The Health Department">Health Department</a></li>
+<li class="last leaf"><a href="/johs">Homeless Services</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-departments-menu-column-3" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/central-human-resources">Human Resources</a></li>
+<li class="leaf"><a href="/dchs">Human Services</a></li>
+<li class="leaf"><a href="/it">Information Technology</a></li>
+<li class="leaf"><a href="/landuse">Land Use Planning</a></li>
+<li class="leaf"><a href="https://multcolib.org">Library</a></li>
+<li class="leaf"><a href="/lpscc" title="Local Public Safety Coordinating Council">Local Public Safety Coordinating Council</a></li>
+<li class="leaf"><a href="/recording">Recording </a></li>
+<li class="leaf"><a href="/records">Records and Archives</a></li>
+<li class="leaf"><a href="/sustainability" title="Sustainability">Sustainability</a></li>
+<li class="last leaf"><a href="/transportation">Transportation</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="last leaf display-block"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-block-15" class="block block-block">
+
+    
+  <div class="content">
+    Not finding a department? <a href="/departments">Browse our full list of departments</a>  </div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="expanded dropdown first-level"><a href="/departments#elected-officials" title="">Elected</a><ul class="menu"><li class="first leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-elected-menu-column-1" class="block block-menu menu-column">
+
+    <h2>Elected Officials</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/chair-vega-pederson">Chair Vega Pederson</a></li>
+<li class="leaf"><a href="/commissioner-meieran" title="Commissioner Bailey (District One)">Commissioner Meieran (District One)</a></li>
+<li class="last leaf"><a href="/commissioner-beason">Commissioner Beason (District Two)</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-elected-menu-column-2" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/commissioner-brim-edwards" title="Commissioner Shiprack (District Three)">Commissioner Brim-Edwards (District Three)</a></li>
+<li class="leaf"><a href="/commissioner-stegmann" title="Commissioner McKeel (District Four)">Commissioner Stegmann (District Four)</a></li>
+<li class="last leaf"><a href="https://www.mcda.us/" title="District Attorney">District Attorney Mike Schmidt</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-elected-menu-column-3" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.mcso.us/site/" title="Sheriff">Sheriff Nicole Morrisey O&#039;Donnell</a></li>
+<li class="last leaf"><a href="/auditor-mcguirk" title="Auditor">Auditor Jennifer McGuirk</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="last leaf display-block"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-block-16" class="block block-block">
+
+    
+  <div class="content">
+    <h2>Board Meetings</h2>
+
+<ul class="menu"><li class="first leaf"><a href="/multnomah-county/about-board-meetings">About board meetings</a></li>
+	<li class="leaf"><a href="/multnomah-county/about-board-meetings/testimony">Sign up to give testimony</a></li>
+	<li class="last leaf"><a href="//multnomah.granicus.com/ViewPublisher.php?view_id=3">View agenda and past board meetings</a></li>
+	<li class="last leaf"><a href="https://www.youtube.com/channel/UC7KFkxGaFa7EJwXh7OYckkQ">Watch board meetings and briefings</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+</ul></li>
+<li class="last expanded dropdown first-level"><a href="/" title="">More</a><ul class="menu"><li class="first leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-more-menu-column-1" class="block block-menu menu-column">
+
+    <h2>More links</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/jobs" title="Jobs">County Jobs</a></li>
+<li class="leaf"><a href="/multnomah-county/employees" title="Employees">Employees</a></li>
+<li class="last leaf"><a href="/justice" title="Community Justice">Justice, Courts &amp; Law Enforcement</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-more-menu-column-2" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/county-records" title="Records, Licenses &amp; Passports">Records, Licenses &amp; Passports</a></li>
+<li class="leaf"><a href="/health-human-services" title="Health &amp; Human Services">Health &amp; Human Services</a></li>
+<li class="last leaf"><a href="/government" title="County Government &amp; Elections">County Government &amp; Elections</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+<li class="last leaf"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-menu-menu-more-menu-column-3" class="block block-menu menu-column">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/business" title="Business Regulations &amp; Opportunities">Business Regulations &amp; Opportunities</a></li>
+<li class="leaf"><a href="/multnomah-county/land-use-and-transportation" title="Land Use &amp; Transportation">Land Use &amp; Transportation</a></li>
+<li class="last leaf"><a href="/contact" title="Contact">Contact Multnomah County</a></li>
+</ul>  </div>
+</div>
+</div>
+</li>
+</ul></li>
+</ul>  </div>
+</div>
+            </div>
+      		
+                      <div id="header-suffix">
+              <div id="block-gtranslate-gtranslate" class="block block-gtranslate notranslate">
+
+    
+  <div class="content">
+    <script type="text/javascript">
+/* <![CDATA[ */
+eval(unescape("eval%28function%28p%2Ca%2Cc%2Ck%2Ce%2Cr%29%7Be%3Dfunction%28c%29%7Breturn%28c%3Ca%3F%27%27%3Ae%28parseInt%28c/a%29%29%29+%28%28c%3Dc%25a%29%3E35%3FString.fromCharCode%28c+29%29%3Ac.toString%2836%29%29%7D%3Bif%28%21%27%27.replace%28/%5E/%2CString%29%29%7Bwhile%28c--%29r%5Be%28c%29%5D%3Dk%5Bc%5D%7C%7Ce%28c%29%3Bk%3D%5Bfunction%28e%29%7Breturn%20r%5Be%5D%7D%5D%3Be%3Dfunction%28%29%7Breturn%27%5C%5Cw+%27%7D%3Bc%3D1%7D%3Bwhile%28c--%29if%28k%5Bc%5D%29p%3Dp.replace%28new%20RegExp%28%27%5C%5Cb%27+e%28c%29+%27%5C%5Cb%27%2C%27g%27%29%2Ck%5Bc%5D%29%3Breturn%20p%7D%28%276%207%28a%2Cb%29%7Bn%7B4%282.9%29%7B3%20c%3D2.9%28%22o%22%29%3Bc.p%28b%2Cf%2Cf%29%3Ba.q%28c%29%7Dg%7B3%20c%3D2.r%28%29%3Ba.s%28%5C%27t%5C%27+b%2Cc%29%7D%7Du%28e%29%7B%7D%7D6%20h%28a%29%7B4%28a.8%29a%3Da.8%3B4%28a%3D%3D%5C%27%5C%27%29v%3B3%20b%3Da.w%28%5C%27%7C%5C%27%29%5B1%5D%3B3%20c%3B3%20d%3D2.x%28%5C%27y%5C%27%29%3Bz%283%20i%3D0%3Bi%3Cd.5%3Bi++%294%28d%5Bi%5D.A%3D%3D%5C%27B-C-D%5C%27%29c%3Dd%5Bi%5D%3B4%282.j%28%5C%27k%5C%27%29%3D%3DE%7C%7C2.j%28%5C%27k%5C%27%29.l.5%3D%3D0%7C%7Cc.5%3D%3D0%7C%7Cc.l.5%3D%3D0%29%7BF%286%28%29%7Bh%28a%29%7D%2CG%29%7Dg%7Bc.8%3Db%3B7%28c%2C%5C%27m%5C%27%29%3B7%28c%2C%5C%27m%5C%27%29%7D%7D%27%2C43%2C43%2C%27%7C%7Cdocument%7Cvar%7Cif%7Clength%7Cfunction%7CGTranslateFireEvent%7Cvalue%7CcreateEvent%7C%7C%7C%7C%7C%7Ctrue%7Celse%7CdoGTranslate%7C%7CgetElementById%7Cgoogle_translate_element2%7CinnerHTML%7Cchange%7Ctry%7CHTMLEvents%7CinitEvent%7CdispatchEvent%7CcreateEventObject%7CfireEvent%7Con%7Ccatch%7Creturn%7Csplit%7CgetElementsByTagName%7Cselect%7Cfor%7CclassName%7Cgoog%7Cte%7Ccombo%7Cnull%7CsetTimeout%7C500%27.split%28%27%7C%27%29%2C0%2C%7B%7D%29%29"))
+/* ]]> */
+</script><style type="text/css">
+<!--
+#goog-gt-tt {display:none !important;}
+
+.goog-te-banner-frame {display:none !important;}
+
+.goog-te-menu-value:hover {text-decoration:none !important;}
+
+body {top:0 !important;}
+
+#google_translate_element2 {display:none!important;}
+-->
+</style><div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script><style type="text/css">
+<!--
+a.gtflag {background-image:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16a.png');}
+a.gtflag:hover {background-image:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16.png');}
+-->
+</style><select onchange="doGTranslate(this);"><option value="">Select Language</option><option value="en|en" style="font-weight:bold;background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -0px;padding-left:18px;">English</option><option value="en|af" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -688px;padding-left:18px;">Afrikaans</option><option value="en|sq" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -560px;padding-left:18px;">Albanian</option><option value="en|am" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1456px;padding-left:18px;">Amharic</option><option value="en|ar" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -16px;padding-left:18px;">Arabic</option><option value="en|hy" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -832px;padding-left:18px;">Armenian</option><option value="en|az" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -848px;padding-left:18px;">Azerbaijani</option><option value="en|eu" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -864px;padding-left:18px;">Basque</option><option value="en|be" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -768px;padding-left:18px;">Belarusian</option><option value="en|bn" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -928px;padding-left:18px;">Bengali</option><option value="en|bs" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -944px;padding-left:18px;">Bosnian</option><option value="en|bg" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -32px;padding-left:18px;">Bulgarian</option><option value="en|ca" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -384px;padding-left:18px;">Catalan</option><option value="en|ceb" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -960px;padding-left:18px;">Cebuano</option><option value="en|ny" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1312px;padding-left:18px;">Chichewa</option><option value="en|zh-CN" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -48px;padding-left:18px;">Chinese (Simplified)</option><option value="en|zh-TW" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -64px;padding-left:18px;">Chinese (Traditional)</option><option value="en|co" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1472px;padding-left:18px;">Corsican</option><option value="en|hr" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -80px;padding-left:18px;">Croatian</option><option value="en|cs" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -96px;padding-left:18px;">Czech</option><option value="en|da" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -112px;padding-left:18px;">Danish</option><option value="en|nl" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -128px;padding-left:18px;">Dutch</option><option value="en|eo" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -976px;padding-left:18px;">Esperanto</option><option value="en|et" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -576px;padding-left:18px;">Estonian</option><option value="en|tl" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -400px;padding-left:18px;">Filipino</option><option value="en|fi" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -144px;padding-left:18px;">Finnish</option><option value="en|fr" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -160px;padding-left:18px;">French</option><option value="en|fy" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1632px;padding-left:18px;">Frisian</option><option value="en|gl" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -592px;padding-left:18px;">Galician</option><option value="en|ka" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -880px;padding-left:18px;">Georgian</option><option value="en|de" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -176px;padding-left:18px;">German</option><option value="en|el" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -192px;padding-left:18px;">Greek</option><option value="en|gu" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -992px;padding-left:18px;">Gujarati</option><option value="en|ht" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -896px;padding-left:18px;">Haitian Creole</option><option value="en|ha" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1008px;padding-left:18px;">Hausa</option><option value="en|haw" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1488px;padding-left:18px;">Hawaiian</option><option value="en|iw" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -416px;padding-left:18px;">Hebrew</option><option value="en|hi" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -208px;padding-left:18px;">Hindi</option><option value="en|hmn" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1024px;padding-left:18px;">Hmong</option><option value="en|hu" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -608px;padding-left:18px;">Hungarian</option><option value="en|is" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -784px;padding-left:18px;">Icelandic</option><option value="en|ig" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1040px;padding-left:18px;">Igbo</option><option value="en|id" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -432px;padding-left:18px;">Indonesian</option><option value="en|ga" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -736px;padding-left:18px;">Irish</option><option value="en|it" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -224px;padding-left:18px;">Italian</option><option value="en|ja" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -240px;padding-left:18px;">Japanese</option><option value="en|jw" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1056px;padding-left:18px;">Javanese</option><option value="en|kn" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1072px;padding-left:18px;">Kannada</option><option value="en|kk" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1328px;padding-left:18px;">Kazakh</option><option value="en|km" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1088px;padding-left:18px;">Khmer</option><option value="en|ko" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -256px;padding-left:18px;">Korean</option><option value="en|ku" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1504px;padding-left:18px;">Kurdish (Kurmanji)</option><option value="en|ky" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1520px;padding-left:18px;">Kyrgyz</option><option value="en|lo" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1104px;padding-left:18px;">Lao</option><option value="en|la" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1120px;padding-left:18px;">Latin</option><option value="en|lv" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -448px;padding-left:18px;">Latvian</option><option value="en|lt" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -464px;padding-left:18px;">Lithuanian</option><option value="en|lb" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1536px;padding-left:18px;">Luxembourgish</option><option value="en|mk" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -800px;padding-left:18px;">Macedonian</option><option value="en|mg" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1344px;padding-left:18px;">Malagasy</option><option value="en|ms" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -704px;padding-left:18px;">Malay</option><option value="en|ml" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1360px;padding-left:18px;">Malayalam</option><option value="en|mt" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -624px;padding-left:18px;">Maltese</option><option value="en|mi" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1136px;padding-left:18px;">Maori</option><option value="en|mr" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1152px;padding-left:18px;">Marathi</option><option value="en|mn" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1168px;padding-left:18px;">Mongolian</option><option value="en|my" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1296px;padding-left:18px;">Myanmar (Burmese)</option><option value="en|ne" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1184px;padding-left:18px;">Nepali</option><option value="en|no" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -272px;padding-left:18px;">Norwegian</option><option value="en|ps" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1552px;padding-left:18px;">Pashto</option><option value="en|fa" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -672px;padding-left:18px;">Persian</option><option value="en|pl" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -288px;padding-left:18px;">Polish</option><option value="en|pt" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -304px;padding-left:18px;">Portuguese</option><option value="en|pa" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1200px;padding-left:18px;">Punjabi</option><option value="en|ro" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -320px;padding-left:18px;">Romanian</option><option value="en|ru" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -336px;padding-left:18px;">Russian</option><option value="en|sm" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1568px;padding-left:18px;">Samoan</option><option value="en|gd" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1584px;padding-left:18px;">Scottish Gaelic</option><option value="en|sr" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -480px;padding-left:18px;">Serbian</option><option value="en|st" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1392px;padding-left:18px;">Sesotho</option><option value="en|sn" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1600px;padding-left:18px;">Shona</option><option value="en|sd" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1616px;padding-left:18px;">Sindhi</option><option value="en|si" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1376px;padding-left:18px;">Sinhala</option><option value="en|sk" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -496px;padding-left:18px;">Slovak</option><option value="en|sl" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -512px;padding-left:18px;">Slovenian</option><option value="en|so" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1216px;padding-left:18px;">Somali</option><option value="en|es" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -352px;padding-left:18px;">Spanish</option><option value="en|su" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1408px;padding-left:18px;">Sudanese</option><option value="en|sw" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -720px;padding-left:18px;">Swahili</option><option value="en|sv" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -368px;padding-left:18px;">Swedish</option><option value="en|tg" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1424px;padding-left:18px;">Tajik</option><option value="en|ta" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1232px;padding-left:18px;">Tamil</option><option value="en|te" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1248px;padding-left:18px;">Telugu</option><option value="en|th" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -640px;padding-left:18px;">Thai</option><option value="en|tr" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -656px;padding-left:18px;">Turkish</option><option value="en|uk" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -528px;padding-left:18px;">Ukrainian</option><option value="en|ur" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -912px;padding-left:18px;">Urdu</option><option value="en|uz" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1440px;padding-left:18px;">Uzbek</option><option value="en|vi" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -544px;padding-left:18px;">Vietnamese</option><option value="en|cy" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -752px;padding-left:18px;">Welsh</option><option value="en|xh" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1648px;padding-left:18px;">Xhosa</option><option value="en|yi" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -816px;padding-left:18px;">Yiddish</option><option value="en|yo" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1264px;padding-left:18px;">Yoruba</option><option value="en|zu" style="background:url('/sites/all/modules/contrib/gtranslate/gtranslate-files/16l.png') no-repeat scroll 0 -1280px;padding-left:18px;">Zulu</option></select>  </div>
+</div>
+<div id="block-views-social-networks-block-1" class="block block-views social-connect clearfix">
+
+    <h2>Connect</h2>
+  
+  <div class="content">
+    <div class="view view-social-networks view-id-social_networks view-display-id-block_1 clearfix view-dom-id-2639f292ba560b24456542cfb2b1efed">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="https://facebook.com/MultCo" class="social-connect_logos"><i title="Facebook logo" class="fa fa-facebook"></i>
+<span class="element-invisible"> Facebook</span></a>    
+          <a href="https://twitter.com/multco" class="social-connect_logos"><i title="Twitter logo" class="fa fa-twitter"></i>
+<span class="element-invisible"> Twitter</span></a>    
+          <a href="http://www.youtube.com/user/MultCoPresents" class="social-connect_logos"><i title="YouTube logo" class="fa fa-youtube"></i>
+<span class="element-invisible"> YouTube</span></a>    
+          <a href="http://instagram.com/multnomahcounty" class="social-connect_logos"><i title="Instagram logo" class="fa fa-instagram"></i>
+<span class="element-invisible"> Instagram</span></a>    </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+            </div>
+      		        </div>
+        	</header>
+  
+      <main id="main" role="main">
+    	<div class="container">
+    		    			<div id="content-header">
+    				<div id="block-multco-breadcrumb-multco-breadcrumb" class="block block-multco-breadcrumb">
+
+    
+  <div class="content">
+    <ul class="breadcrumb clearfix"><li><a href="/node/429">Multnomah County</a></li> <li><a href="/node/451">Department of Community Services</a></li> </ul>  </div>
+</div>
+<h1 id="page-title" class="title">
+  Multnomah County Elections Division</h1>
+<div id="block-multco-group-menu-block-multco-group-menu" class="block block-multco-group-menu-block site-menu-container clearfix">
+
+    
+  <div class="content">
+    <label class="menu-toggle menu-toggle-css" for="menu-toggle-trigger-css"><span class="menu-toggle-icon">toggle </span>Menu</label><input type="checkbox" id="menu-toggle-trigger-css" /><div class="menu-group site-menu-group"><ul class="menu-groups"><li class='current-group parent-group'><a href="/elections" class="active">Multnomah County Elections Division Home</a></li></ul><div class="view view-site-menu view-id-site_menu view-display-id-default view-dom-id-cd095d11caad8462c0cc56e16e7a2fdd">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+        <div class="item-list">    <ul>          <li class="views-row views-row-1">  
+          <a href="/elections/current-and-upcoming-elections-multnomah-county-elections">Current &amp; Upcoming Elections</a>  </li>
+          <li class="views-row views-row-2">  
+          <a href="/elections/information-voters-multnomah-county-elections">Information for Voters</a>  </li>
+          <li class="views-row views-row-3">  
+          <a href="/elections/information-candidates-campaigns-jurisdictions-multnomah-county">Information for Candidates, Campaigns &amp; Jurisdictions</a>  </li>
+          <li class="views-row views-row-4">  
+          <a href="/voter-education-and-outreach">Education and Outreach</a>  </li>
+          <li class="views-row views-row-5">  
+          <a href="/elections/results-and-history-multnomah-county-elections">Results &amp; History</a>  </li>
+          <li class="views-row views-row-6">  
+          <a href="/elections/maps-and-data-multnomah-county-elections">Maps &amp; Data</a>  </li>
+          <li class="views-row views-row-7">  
+          <a href="/elections/elections-resources">Election Links &amp; Resources</a>  </li>
+          <li class="views-row views-row-8">  
+          <a href="/elections/about-us-multnomah-county-elections">About Us</a>  </li>
+          <li class="views-row views-row-9">  
+          <a href="/elections/accessible-voting-options">Accessible Voting Options</a>  </li>
+      </ul></div>      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+  
+</div><h2 class="menu-title">View all</h2><ul class="site-menu-content-count"><li class='group-content-type'><a href='/elections/news'>News<span class='group-content-count'>9</span></a></li><li class='group-content-type'><a href='/elections/pages'>Pages<span class='group-content-count'>1442</span></a></li><li class='group-content-type'><a href='/elections/sites'>Sites<span class='group-content-count'>1</span></a></li><li class='group-content-type'><a href='/elections/webforms'>Webforms<span class='group-content-count'>4</span></a></li><li class='group-content-type'><a href='/elections/documents'>Documents<span class='group-content-count'>9697</span></a></li><li class='group-content-type'><a href='/elections/videos'>Videos<span class='group-content-count'>40</span></a></li></ul></div>  </div>
+</div>
+<div id="block-views-notifications-og-block-2" class="block block-views notifications messages warning">
+
+    <h2><span class="element-invisible">Status message</span></h2>
+  
+  <div class="content">
+    <div class="view view-notifications-og view-id-notifications_og view-display-id-block_2 view-dom-id-89cb5e6511f63e48fee8cbbfdc892553">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+          <div class="views-row-odd views-row-first views-row-last">
+      
+          <p><a href="/elections/notifications/multnomah-county-elections-holiday-closure-date">Multnomah County Elections holiday closure date</a></p>    </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+    				    			</div>
+    		
+              		<div id="main-content-wrapper">
+    				
+                          <div id="content-wrapper">
+                <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+
+<article id="node-475" class="node node-site clearfix" role="article">
+
+  
+  
+  
+        <div class="content">
+  <p><a href="/education-and-outreach/spanish">Español</a> • <a href="/education-and-outreach/vietnamese">Tiếng Việt</a> • <a href="/education-and-outreach/russian">русский</a>  • <a href="/education-and-outreach/chinese">中文</a> • <a href="/education-and-outreach/somali">Soomaali</a> • <a href="/education-and-outreach/arabic">العربية</a>  • <a href="/voter-education-and-outreach/burmese">မြန်မာ</a> • <a href="/voter-education-and-outreach/french">Français</a> • <a href="/voter-education-and-outreach/hmong">Hmoob</a> •<a href="/education-and-outreach/japanese">日本語</a> • <a href="/voter-education-and-outreach/khmer">ខ្មែរ</a> • <a href="/education-and-outreach/korean">한국어</a> • <a href="/voter-education-and-outreach/lao">ພາສາລາວ</a> •<a href="/voter-education-and-outreach/romanian">Română</a> • <a href="/voter-education-and-outreach/swahili">Kiswahili</a> • <a href="/education-and-outreach/tagalog">Tagalog</a>  • <a href="/voter-education-and-outreach/ukrainian">українська</a></p>
+
+<hr /><p><strong>I want to</strong>...<a href="https://sos.oregon.gov/voting/Pages/registration.aspx?lang=en" rel="nofollow">register to vote</a>...<a href="/file/45402/download">cancel my registration</a>...<a href="https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do?lang=eng&amp;source=SOS" rel="nofollow">change my address</a>...<a href="/elections/results-and-history-multnomah-county-elections">view election results</a>...[<a href="/elections/i-want">more tasks</a>]</p>
+</div>
+
+    
+</article>
+  </div>
+</div>
+<div id="block-multco-featured-slider-multco-featured-slider" class="block block-multco-featured-slider">
+
+    
+  <div class="content">
+    <div class="view view-featured-content view-id-featured_content view-display-id-4block clearfix view-dom-id-63bce1eaf794048f97b158620ceeae35">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+        
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle2_main_featured_content-4block_1" class="views_slideshow_cycle2_main views_slideshow_main"><div id="views_slideshow_cycle2_teaser_section_featured_content-4block_1" data-cycle-allow-wrap=true data-cycle-delay="0" data-cycle-fx="scrollHorz" data-cycle-pause-on-hover=true data-cycle-random=false data-cycle-speed="700" data-cycle-swipe=true data-cycle-timeout="0" data-cycle-loader=false data-cycle-log="false" data-cycle-pager="#widget_pager_bottom_featured_content-4block_1, #widget_pager_top_featured_content-4block_1" data-cycle-pager-template="" data-cycle-prev="#views_slideshow_controls_text_featured_content-4block_1 .views-slideshow-controls-text-previous" data-cycle-next="#views_slideshow_controls_text_featured_content-4block_1 .views-slideshow-controls-text-next" data-cycle-slides="> .views_slideshow_slide"  class="views-slideshow-cycle2-main-frame views_slideshow_cycle2_teaser_section">
+  <div id="views_slideshow_cycle2_div_featured_content-4block_1_0" class="views-slideshow-cycle2-main-frame-row views_slideshow_cycle2_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle2-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+          <figure><a href="/elections/november-5-2024-general-election"><noscript class="adaptive-image" data-adaptive-image-breakpoints="639 1279" data-adaptive-image-639-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;639&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/20240521-Primary-Elections-MN-05.jpg?itok=L4jr9zGZ&quot; width=&quot;300&quot; height=&quot;169&quot; alt=&quot;voter inside of vehicle drops off ballot at drive up official ballot drop box &quot; /&gt;" data-adaptive-image-1279-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;1279&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/20240521-Primary-Elections-MN-05.jpg?itok=icZYqZfr&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;voter inside of vehicle drops off ballot at drive up official ballot drop box &quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/20240521-Primary-Elections-MN-05.jpg?itok=icZYqZfr&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;voter inside of vehicle drops off ballot at drive up official ballot drop box &quot; /&gt;"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/20240521-Primary-Elections-MN-05.jpg?itok=L4jr9zGZ" width="300" height="169" alt="voter inside of vehicle drops off ballot at drive up official ballot drop box " /></noscript>
+<figcaption><span class="caption-title">November 5, 2024 General Election</span><span class="caption-summary">Information on the November 5, 2024 General Election</span></figcaption></a></figure>  </div>
+</div>
+<div id="views_slideshow_cycle2_div_featured_content-4block_1_1" class="views-slideshow-cycle2-main-frame-row views_slideshow_cycle2_slide views_slideshow_slide views-row-2 views_slideshow_cycle2_hidden views-row-even">
+  <div class="views-slideshow-cycle2-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+          <figure><a href="/elections/ranked-choice-voting-rcv"><noscript class="adaptive-image" data-adaptive-image-breakpoints="639 1279" data-adaptive-image-639-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;639&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/RCV%20Feature%20Thumbnail.jpg?itok=aV8b0vP5&quot; width=&quot;300&quot; height=&quot;169&quot; alt=&quot;Person with the thumbs up hand right signal standing next to Multnomah County elections official ballot box with signage that reads official ballot box&quot; /&gt;" data-adaptive-image-1279-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;1279&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/RCV%20Feature%20Thumbnail.jpg?itok=FKAlrlC4&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;Person with the thumbs up hand right signal standing next to Multnomah County elections official ballot box with signage that reads official ballot box&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/RCV%20Feature%20Thumbnail.jpg?itok=FKAlrlC4&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;Person with the thumbs up hand right signal standing next to Multnomah County elections official ballot box with signage that reads official ballot box&quot; /&gt;"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/RCV%20Feature%20Thumbnail.jpg?itok=aV8b0vP5" width="300" height="169" alt="Person with the thumbs up hand right signal standing next to Multnomah County elections official ballot box with signage that reads official ballot box" /></noscript>
+<figcaption><span class="caption-title">Ranked Choice Voting (RCV)</span><span class="caption-summary">Information about Ranked Choice Voting (RCV) for City of Portland candidate contests (Nov. 2024) and for Multnomah County candidate contests (Nov. 2026)</span></figcaption></a></figure>  </div>
+</div>
+<div id="views_slideshow_cycle2_div_featured_content-4block_1_2" class="views-slideshow-cycle2-main-frame-row views_slideshow_cycle2_slide views_slideshow_slide views-row-3 views_slideshow_cycle2_hidden views-row-odd">
+  <div class="views-slideshow-cycle2-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+          <figure><a href="/multnomah-county/news/multnomah-county-elections-completes-nation%E2%80%99s-first-test-hand-count-multi"><noscript class="adaptive-image" data-adaptive-image-breakpoints="639 1279" data-adaptive-image-639-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;639&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/20240729-RCV-Mock-Recount-MN-01-%2816x9%29.jpg?itok=ls8W_u-P&quot; width=&quot;300&quot; height=&quot;169&quot; alt=&quot;The County conducted a dayslong event to test and refine policies and procedures for hand-counting a recount for a multi-winner RCV election. The recount used test ballots for example candidates. &quot; /&gt;" data-adaptive-image-1279-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;1279&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/20240729-RCV-Mock-Recount-MN-01-%2816x9%29.jpg?itok=TUXBJNk4&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;The County conducted a dayslong event to test and refine policies and procedures for hand-counting a recount for a multi-winner RCV election. The recount used test ballots for example candidates. &quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/20240729-RCV-Mock-Recount-MN-01-%2816x9%29.jpg?itok=TUXBJNk4&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;The County conducted a dayslong event to test and refine policies and procedures for hand-counting a recount for a multi-winner RCV election. The recount used test ballots for example candidates. &quot; /&gt;"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/20240729-RCV-Mock-Recount-MN-01-%2816x9%29.jpg?itok=ls8W_u-P" width="300" height="169" alt="The County conducted a dayslong event to test and refine policies and procedures for hand-counting a recount for a multi-winner RCV election. The recount used test ballots for example candidates. " /></noscript>
+<figcaption><span class="caption-title">Multnomah County Elections completes nation’s first test hand count...</span><span class="caption-summary">Regional and national experts joined the 5-day exercise — another step in a series of preparations for the Nov. 5, 2024, election, when ranked-choice voting makes its debut on City of Portland ballots</span></figcaption></a></figure>  </div>
+</div>
+<div id="views_slideshow_cycle2_div_featured_content-4block_1_3" class="views-slideshow-cycle2-main-frame-row views_slideshow_cycle2_slide views_slideshow_slide views-row-4 views_slideshow_cycle2_hidden views-row-even">
+  <div class="views-slideshow-cycle2-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+          <figure><a href="/multnomah-county/news/news-release-multnomah-county-elections-releases-video-explaining-ranked"><noscript class="adaptive-image" data-adaptive-image-breakpoints="639 1279" data-adaptive-image-639-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;639&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/COP%20Mayor%20Sample%20RCV%20Candidate%20Block.GIF?itok=y-pxfnJL&quot; width=&quot;300&quot; height=&quot;169&quot; alt=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; title=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; /&gt;" data-adaptive-image-1279-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;1279&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/COP%20Mayor%20Sample%20RCV%20Candidate%20Block.GIF?itok=xA2rbXyO&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; title=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; src=&quot;https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/feature__media_1279__620x300_/s3/COP%20Mayor%20Sample%20RCV%20Candidate%20Block.GIF?itok=xA2rbXyO&quot; width=&quot;620&quot; height=&quot;300&quot; alt=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; title=&quot;Sample of ranked-choice voting ballot for Portland Mayor&quot; /&gt;"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/COP%20Mayor%20Sample%20RCV%20Candidate%20Block.GIF?itok=y-pxfnJL" width="300" height="169" alt="Sample of ranked-choice voting ballot for Portland Mayor" title="Sample of ranked-choice voting ballot for Portland Mayor" /></noscript>
+<figcaption><span class="caption-title">NEWS RELEASE: Multnomah County Elections releases video explaining...</span><span class="caption-summary">Voters in the City of Portland will see a difference in the way their ballots look. Candidate contests will now feature a grid that allows voters to rank up to six candidates in order of preference. </span></figcaption></a></figure>  </div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_featured_content-4block_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_featured_content-4block_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_featured_content-4block_1_0">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    <a href="https://www.multco.us/elections/november-5-2024-general-election"><span>November 5, 2024 General Election</span></a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_featured_content-4block_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_featured_content-4block_1_1">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    <a href="https://www.multco.us/elections/ranked-choice-voting-rcv"><span>Ranked Choice Voting (RCV)</span></a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_featured_content-4block_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_featured_content-4block_1_2">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    <a href="https://www.multco.us/multnomah-county/news/multnomah-county-elections-completes-nation%E2%80%99s-first-test-hand-count-multi"><span>Multnomah County Elections completes nation’s first test hand...</span></a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_featured_content-4block_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even views-row-last" aria-controls="views_slideshow_cycle_div_featured_content-4block_1_3">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    <a href="https://www.multco.us/multnomah-county/news/news-release-multnomah-county-elections-releases-video-explaining-ranked"><span>NEWS RELEASE: Multnomah County Elections releases video...</span></a>  </div>
+</div>
+</div>
+</div>
+      </div>
+      </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-related-content-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-related-content view-id-related_content view-display-id-block block-card-content related clearfix view-dom-id-457d363109ae4545be24f06fab509ef0">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          
+
+<article id="node-100629" class="node node-page clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/contact-us"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/multco-elections-web.jpg?itok=C530i9fp" width="300" height="169" alt="elections logo" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/contact-us" rel="bookmark">Contact Us</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    503-988-VOTE (8683) / elections@multco.us / 1040 SE Morrison St., Portland, OR 97214 / Mon-Fri, 8 AM - 5 PM  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          
+
+<article id="node-5236" class="node node-page node-promoted clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/information-voters-multnomah-county-elections"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/info-for-voters.jpg?itok=ONmZgDMv" width="300" height="169" alt="voter dropping ballot at drop site" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/information-voters-multnomah-county-elections" rel="bookmark">Information for Voters - Multnomah County Elections</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Registration • Ballot Tracking and Replacements • Official Ballot Drop Sites • and more  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          
+
+<article id="node-31285" class="node node-site clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/voter-education-and-outreach"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/Education%20and%20outreach.jpg?itok=S_uGFn0R" width="300" height="169" alt="Education and Outreach" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/voter-education-and-outreach" rel="bookmark">Voter Education and Outreach</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Multnomah County Elections Voter Education and Outreach Program  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Site</span></div>    </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          
+
+<article id="node-33866" class="node node-page clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/accessible-voting-options"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/accessible-voting.jpg?itok=vAFrb7VB" width="300" height="169" alt="woman using ipad" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/accessible-voting-options" rel="bookmark">Accessible Voting Options</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Assistance for voters with disabilities: Get assistance and access supports in your home, at a hospital or care facility, or at the elections office.  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+          
+
+<article id="node-5101" class="node node-page node-promoted clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/information-candidates-campaigns-jurisdictions-multnomah-county"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/pexels-themrdan-4331578.jpg?itok=2vnt3ujh" width="300" height="169" alt="microphone" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/information-candidates-campaigns-jurisdictions-multnomah-county" rel="bookmark">Information for candidates, campaigns &amp; jurisdictions in Multnomah County</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Election Laws and Rules • Current and Upcoming Elections • Filing Instructions • and more  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+          
+
+<article id="node-31201" class="node node-page clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/VEOLang"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/Elections%20Cover.png?itok=q0l-hJ8s" width="300" height="169" alt="Language Access" title="Language Access" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/VEOLang" rel="bookmark">Language Access for Voters Needing Interpretation</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Language assistance in any language, including Spanish, Vietnamese, Russian, Ukrainian, Chinese, Somali, Arabic, Korean, Tagalog, and Japanese.  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+          
+
+<article id="node-5105" class="node node-page node-promoted clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/campaign-finance"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/electionsPIC%20%239a.jpg?itok=-2KMoRDW" width="300" height="169" alt="Elections" title="Elections" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/campaign-finance" rel="bookmark">Campaign Finance</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Information and resources on campaign finance and disclosure for Multnomah County Candidates and information on campaign finance.  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+          
+
+<article id="node-481346" class="node node-page clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/join-multnomah-county-elections-team"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/Information%20on%20init.jpg?itok=vZf7O_p1" width="300" height="169" alt="Information on Initiative, Referendum and Recall Petitions" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/join-multnomah-county-elections-team" rel="bookmark">Join the Multnomah County Elections Team!</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Are you interested in On Call elections work? Use this form to express interest in working for Multnomah County Elections as an On Call elections worker.  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+  <div class="views-row views-row-9 views-row-odd views-row-last">
+      
+          
+
+<article id="node-554261" class="node node-page clearfix" role="article">
+
+    <figure>
+  	
+  <a href="/elections/ranked-choice-voting-rcv"><img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/related/s3/RCV%20Feature%20Thumbnail.jpg?itok=aV8b0vP5" width="300" height="169" alt="Person with the thumbs up hand right signal standing next to Multnomah County elections official ballot box with signage that reads official ballot box" /></a>  </figure>
+  
+  
+    <header>
+          <h2><a href="/elections/ranked-choice-voting-rcv" rel="bookmark">Ranked Choice Voting (RCV)</a></h2>
+      </header>
+  
+        <div class="content">
+  <p class="field-short-summary">
+    Information about Ranked Choice Voting (RCV) for City of Portland candidate contests (Nov. 2024) and for Multnomah County candidate contests (Nov. 2026)  </p>
+</div>
+
+    
+</article>
+<div class="item-type-label"><span class="format-name">Page</span></div>    </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+              </div>
+            
+        		        	</div>
+        
+        
+      	
+  			  				<div id="sidebar-second" class="sidebar">
+  						<div id="block-jquery-countdown-timer-jquery-countdown-timer" class="block block-jquery-countdown-timer card clearfix">
+
+    <h2>Countdown to Nov 5, 2024 Election</h2>
+  
+  <div class="content">
+    <div id='jquery-countdown-timer'></div><div id='jquery-countdown-timer-note'></div>  </div>
+</div>
+<div id="block-views-social-networks-block" class="block block-views social-connect block-card-list-content clearfix">
+
+    <h2>Connect</h2>
+  
+  <div class="content">
+    <div class="view view-social-networks view-id-social_networks view-display-id-block clearfix view-dom-id-32cf94775e37e505dfd9f0819929137b">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="https://www.facebook.com/pages/Multnomah-County-Elections/137676120273?ref=tn_tnmn" class="social-connect_logos"><i title="Facebook logo" class="fa fa-facebook"></i>
+<span class="element-invisible"> Facebook</span></a>    
+          <a href="https://twitter.com/MultCoElections" class="social-connect_logos"><i title="Twitter logo" class="fa fa-twitter"></i>
+<span class="element-invisible"> Twitter</span></a>    
+          <a href="https://www.youtube.com/channel/UCpF0CubsJjhbsw13yknPuRg" class="social-connect_logos"><i title="YouTube logo" class="fa fa-youtube"></i>
+<span class="element-invisible"> YouTube</span></a>    
+          <a href="https://instagram.com/multcoelections/" class="social-connect_logos"><i title="Instagram logo" class="fa fa-instagram"></i>
+<span class="element-invisible"> Instagram</span></a>    </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-related-content-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-related-content view-id-related_content view-display-id-block_1 block-card-content related clearfix view-dom-id-6a22c243abc0ca1ef1c5e4005c652837">
+        
+  
+  
+      <div class="view-content-region">
+  
+          <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last color">
+      
+          
+
+<article id="node-22267" class="node node-custom-list clearfix" role="article">
+
+    
+    <header>
+          <h2>Elections Quick Links</h2>
+      </header>
+  
+  
+	  <div class="content">
+<ul class="field-list-item">
+
+      <li>
+      
+
+  
+          <a  href="/elections/register-vote-or-update-your-registration-here" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Register%20to%20Voter%201.jpg?itok=4PB7UOVx" width="75" height="75" alt="Register to vote or update your registration" />        </figure>
+            Register to Vote or update your registration here    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/military-and-overseas-voter-information" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Overseas%20Voting%20-%202.jpg?itok=jQbGAt-j" width="75" height="75" alt="Military and Overseas Voter Information" />        </figure>
+            Military and Overseas Voter Information    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/elections-frequently-asked-questions" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/FAQS_1.jpg?itok=XC6FGF4o" width="75" height="75" alt="Elections Frequently Asked Questions" />        </figure>
+            Elections Frequently Asked Questions    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/official-ballot-drop-sites" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Drop%20Off.jpg?itok=Gwx7bd0h" width="75" height="75" alt="Multnomah County official ballot drop sites" />        </figure>
+            Official Ballot Drop Sites    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/voter-education-and-outreach" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Education%20and%20outreach.jpg?itok=ZQpei_6c" width="75" height="75" alt="Education and Outreach" />        </figure>
+            Voter Education and Outreach    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/results-and-history-multnomah-county-elections" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Archived%20Results%201.jpg?itok=uvrVLkzg" width="75" height="75" alt="Archived Results and History" />        </figure>
+            Results and History - Multnomah County Elections    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/maps-and-data-multnomah-county-elections" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Maps_and_Data.jpg?itok=3xj6fc-g" width="75" height="75" alt="Maps and Data" />        </figure>
+            Maps and Data - Multnomah County Elections    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/information-initiative-referendum-and-recall-petitions" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Information%20on%20init.jpg?itok=vOlwAVKN" width="75" height="75" alt="Information on Initiative, Referendum and Recall Petitions" />        </figure>
+            Information on Initiative, Referendum and Recall Petitions    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/oregon-secretary-state-elections-division" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/State%20of%20Oregon.jpg?itok=xxmQy2Df" width="75" height="75" alt="Oregon Secretary of State Elections Division" />        </figure>
+            Oregon Secretary of State Elections Division    </a>
+      
+  
+    </li>
+      <li>
+      
+
+  
+          <a  href="/elections/public-records-requests-multnomah-county-elections-division" rel="bookmark" class="clearfix">
+              <figure>
+          
+  <img src="https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/square_top_center_crop/s3/Information%20on%20init.jpg?itok=vOlwAVKN" width="75" height="75" alt="Information on Initiative, Referendum and Recall Petitions" />        </figure>
+            Public Records Requests - Multnomah County Elections Division    </a>
+      
+  
+    </li>
+  
+</ul>
+</div>
+  
+    
+</article>
+    </div>
+      </div>
+    
+    
+      </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+  				</div>
+  			      </div>
+    </main>
+  
+      <footer id="footer" role="contentinfo">
+    	<div class="container">
+        
+                  <div id="footer-wrapper">
+            <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <div class="column">
+	<h2>About us</h2>
+
+	<ul class="no-bullets"><li><a href="/multnomah-county/about-multnomah-county">About Multnomah County</a></li>
+		<li><a href="http://multnomah.granicus.com/ViewPublisher.php?view_id=3">Board Meetings</a></li>
+		<li><a href="/contact">Contact the County</a></li>
+		<li><a href="/multnomah-county-home/employees">For Employees</a></li>
+	</ul></div>
+
+<div class="column">
+	<h2>Opportunities</h2>
+
+	<ul class="no-bullets"><li><a href="https://bids.sciquest.com/apps/Router/PublicEvent?CustomerOrg=Multnomah">Bids and Proposals</a></li>
+		<li><a href="/jobs">Jobs</a></li>
+		<li><a href="/services/volunteer-county">Volunteer</a></li>
+		<li></li>
+		<li></li>
+	</ul></div>
+
+<div class="column">
+	<h2>Website information</h2>
+
+	<ul class="no-bullets"><li><a href="/webmaster/multnomah-county-website-terms">Terms</a></li>
+		<li><a href="/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/hipaa">HIPAA Notice of Privacy Practices</a></li>
+		<li><a href="/webmaster/webform/site-feedback">Website Feedback</a></li>
+	</ul></div>
+
+<div class="column">
+	<h2>Access</h2>
+
+	<ul class="no-bullets"><li><a href="/multnomah-county/notice-non-discrimination">Notice of Non-Discrimination</a></li>
+		<li><a href="/global/language-access">Language Access</a></li>
+		<li><a href="/diversity-equity/ada-policy-notice-and-disability-complaint-process">Disability Information</a></li>
+		<li><a href="/diversity-equity/web-accessibility">Web Accessibility</a></li>
+	</ul></div>
+
+<p class="clear">© 2024 | Multnomah County General Information Line: 503-823-4000</p>
+  </div>
+</div>
+          </div>
+        
+              </div>
+    </footer>
+  </div>
+    <script>
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type =
+'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_1311263.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script src="https://www.multco.us/sites/default/files/js/js_ky0f8-MSKt0ImG-l1OJOAIOa5HQl3q0ZJdhJTLt7e98.js"></script>
+<script src="https://www.multco.us/sites/default/files/js/js_7-9qJj9vMqw0eRab9eZ2g2pzMg8AjpTkuUNtXGSvPEY.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-NQ5DDSZ6Z9"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-NQ5DDSZ6Z9", {"groups":"default"});</script>
+<script src="https://www.multco.us/sites/default/files/js/js_RUsEKQ6JFChAYOGVJ1DV5O15_d4nKQRVGSRBg4NsULg.js"></script>
+<script src="https://www.multco.us/sites/default/files/js/js_Ac7wENnsEzDLkmtV3y6bMCRx63y2kYnLf8SwxxoTXjo.js"></script>
+  </body>
+</html>

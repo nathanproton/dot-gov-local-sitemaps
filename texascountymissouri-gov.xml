@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 31, 2024 at 9:06 pm by All in One SEO Pro v4.7.0 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://www.texascountymissouri.gov/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://www.texascountymissouri.gov/addl-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-27T19:40:07+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://www.texascountymissouri.gov/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2020-09-18T21:02:46+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://www.texascountymissouri.gov/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-27T19:40:07+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

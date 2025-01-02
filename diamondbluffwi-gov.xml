@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://diamondbluffwi.gov/boat-launch</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/cemetery</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/elections.html</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/sea-wing-park.html</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/home.html</loc>
+    <lastmod>2024-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/notices.html</loc>
+    <lastmod>2024-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/diamond-bluff-calendar.html</loc>
+    <lastmod>2024-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://diamondbluffwi.gov/permits</loc>
+    <lastmod>2023-11-08</lastmod>
+  </url>
+</urlset>

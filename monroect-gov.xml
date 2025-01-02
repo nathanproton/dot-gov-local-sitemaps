@@ -1,0 +1,3210 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="Monroe is a community of nearly 19,000 residents. Founded in 1823, Monroe offers award-winning schools, safe neighborhoods, beautiful parks, and sustained growth in local business and industry.  Monroe is a family-oriented community that offers beautiful recreational facilities and a variety of local restaurants and retail shopping.  Monroe is proud to be the home of not only small businesses, but larger companies in industries such as energy, manufacturing, warehousing &amp; distribution – all while maintaining our small-town, New England charm.">
+    <meta name="keywords" content="Town Of Monroe, CN, Connecticut, USA,‎ Government and Services, ‎About Monroe, ‎Monroe Senior Center">
+    <meta name="author" content="Town of Monroe">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Content/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Content/css/weather-icons.min.css">
+    <link rel="stylesheet" href="/Content/css/weather-icons-wind.min.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link href="/Content/css/main.css" rel="stylesheet"/>
+<link href="/Content/css/print.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="/Content/froala_editor.min.css">
+    <link rel="stylesheet" href="/Content/froala_style-custom.css">
+    <link rel="stylesheet" href="/Content/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/Content/css/default.css" />
+    <link rel="stylesheet" href="/Content/css/variables.css" />
+
+
+    
+    <link rel="stylesheet" href="/Content/plugins.css" />
+    <link rel="stylesheet" href="/Content/css/carousel.css" />
+    <link rel="stylesheet" href="/Content/css/default.css" />
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/0fd5809d9d.js" crossorigin="anonymous"></script>
+    <script id="archiveScript" src="//static.ctctcdn.com/js/archive-static/current/archive-static.min.js"></script>
+    <title>Town of Monroe - Home</title>
+
+    <script>
+        var ie = (function () {
+            var undef, v = 3, div = document.createElement('div');
+
+            while (
+                div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+                div.getElementsByTagName('i')[0]
+            );
+
+            return v > 4 ? v : undef;
+        }());
+        if (ie < 10) {
+            window.location = 'monroect.gov/unsupported.html';
+        }
+    </script>
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0" nonce="09PjpAx1"></script>
+    <div accesskey="0" class="skipToContent" aria-labelledby="skipToContent" role="region">
+        <h2 id="skipToContent">Skip To Content</h2>
+        <ol class="skipLinks">
+            <li><a href="#headerTop" class="stcLink" accesskey="1" title="Information about French River">Information like Address, Phone, and Email Address</a></li>
+            <li><a href="#desktopNav" class="stcLink" accesskey="2" title="Primary Site Navigation">Main Navigation</a></li>
+            <li><a href="#quickLinks" class="stcLink" accesskey="3" title="Choose from the selection from the lists for quick information">Quick Links</a></li>
+            <li><a href="#search-txt" class="stcLink" accesskey="4" title="Cant find what you are looking for? Search here">Search The Website</a></li>
+            <li><a href="#main" class="stcLink" accesskey="5" title="Skip and read the main content of the site">Main Content</a></li>
+            <li><a href="#highlightContainer" class="stcLink" accesskey="6" title="Choose from the selection from the lists for highlights">Highlights</a></li>
+     
+
+        </ol>
+    </div>
+
+    <header class="masterHeader" role="banner">
+                    <div class="popupAlert alertBar alert-warn">
+                    <a href="#" title="Alert Message - To streamline the data collection process and ensure accurate and efficient reporting, the State of Connecticut has created a dedicated public self-reporting link for the public to report damages to homes and businesses. This portal will enable the gathering of comprehensive information regarding the damages incurred and identify areas where to direct damage assessment teams.  The public self-reporting link is below.
+
+Here is the self-reporting link:https://crisistrack.juvare.com/public/CTDEMHS/request.html " data-toggle="modal" data-target="#alertModal" data-slide-to="1">Storm Damage-Self Reporting </a>
+            </div>
+            <div class="popupAlert alertBar alert-default">
+                    <a href="#" title="Alert Message - The Monroe Town Hall Offices, Library, Highway Department, Senior Center and Food Pantry will be closed on Monday, September 2nd in observance of Labor Day. 
+
+Normal hours will resume on Tuesday, September 3rd. 
+
+Recycling will not be picked up on Monday, September 2nd.  All pickups will be delayed one day that week. 
+
+The Spring Hill Road Transfer Station and Garder Road Landfill will be open on Saturday, August 31st.
+" data-toggle="modal" data-target="#alertModal" data-slide-to="2">Holiday Closing- Labor Day </a>
+            </div>
+
+
+        <div class="headerTop cf ">
+            <div class="maxWidthContainer row">
+
+
+
+    <a id="headerTop" class="hMap" href="https://www.google.ca/maps/place/Monroe,+CT,+USA/@41.342812,-73.2664774,13z/data=!3m1!4b1!4m5!3m4!1s0x89e7e2f668cbc151:0xc5e087b4ad4cb5b5!8m2!3d41.3325962!4d-73.2073358" title="Our office is located at 7 Fan Hill Road Monroe, Connecticut 06468" target="_blank"><span>7 Fan Hill Road Monroe, Connecticut 06468</span></a>
+    <a class="hPhone" href="tel:+1(203) 452-2800" title="Call us at +1(203) 452-2800"><span>(203) 452-2800</span></a>
+    <a href="javascript:void(0);" class="officeHoursBTN" data-toggle="modal" data-target="#officeHoursModal"><span>Monday - Thursday: 8:30am - 4:30pm & Friday: 8:30am - 1:30pm</span></a>
+
+
+        <a id="socialMedia" href="https://www.facebook.com/townofmonroect/" class="hFacebook" title="Join us in our Facebook page" target="_blank"><span class="hideMe">Facebook</span></a>
+
+
+</div>
+
+
+        </div>
+
+        <div class="headerBottom cf position-relative">
+            <div class="maxWidthContainer  d-flex">
+                <h1 class="siteLogo  "><a href="/" title="Welcome to Town of Monroe - Home">Canton Schools</a></h1>
+                <button class="menuIcon" aria-label="Menu"><span>Menu</span></button>
+                
+    
+<nav role="navigation" class="w-100 d-xl-block d-none ">
+    <h2 class="hideMe">Main Navigation</h2>
+    <button class="closeNav">
+        <i aria-hidden class="fal fa-times" title="Close Navigation"></i>
+        <span class="sr-only">Close Navigation</span>
+        <span class="hideMe">Close Navigation</span>
+    </button>
+
+    <div id="desktopNav" class="desktopNav">
+        <ul class="mainMenu  d-flex  justify-content-between align-items-center">
+
+
+            <li class=" ">
+                    <a href="/p/government" title="Government">
+                        Government
+                    </a>
+                                    <div class="navContainer">
+                        <div class="topNavContainer">
+                            <div class="container">
+                                <div class="row m-0">
+
+
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+            <a href="/p/-agendas-voting-records-minutes-videos-recordings" title="Click to view  Agendas, Meeting Packets, Voting Records, Minutes, &amp; Recordings">
+                <span class="subMainMenuLine">  Agendas, Meeting Packets, Voting Records, Minutes, &amp; Recordings</span>
+
+            </a>
+    </li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/boards-commissions" title="Click to view Boards &amp; Commissions">
+                <span class="subMainMenuLine"> Boards &amp; Commissions</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/architectural-review-board" title="Click to view Architectural Review Board">Architectural Review Board</a>
+                </li>
+                <li class="">
+                        <a href="/p/board-of-assessment-appeals" title="Click to view Board of Assessment Appeals">Board of Assessment Appeals</a>
+                </li>
+                <li class="">
+                        <a href="https://www.monroeps.org/board_of_ed" target="_blank" title="Click to view Board of Education">Board of Education</a>
+                </li>
+                <li class="">
+                        <a href="/p/board-of-ethics" title="Click to view Board of Ethics">Board of Ethics</a>
+                </li>
+                <li class="">
+                        <a href="/p/board-of-finance" title="Click to view Board of Finance">Board of Finance</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/boards-commissions" title="Click to view more of Boards &amp; Commissions">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/first-selectman" title="Click to view First Selectman">
+                <span class="subMainMenuLine"> First Selectman</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-2" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/about-monroe" title="Click to view About Monroe">About Monroe</a>
+                </li>
+                <li class="">
+                        <a href="/p/annual-reports-1" title="Click to view Annual Reports">Annual Reports</a>
+                </li>
+                <li class="">
+                        <a href="/p/contact-the-first-selectman-s-office" title="Click to view Contact the First Selectman&#39;s Office">Contact the First Selectman&#39;s Office</a>
+                </li>
+                <li class="">
+                        <a href="/p/proclamation-request" title="Click to view Proclamation Request">Proclamation Request</a>
+                </li>
+                <li class="">
+                        <a href="/p/strategic-planning-documents" title="Click to view Strategic Planning Documents">Strategic Planning Documents</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/first-selectman" title="Click to view more of First Selectman">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="https://ctmetro.org/" target="_blank" title="Click to view MetroCOG Regional Planning Agency">
+        <span class="subMainMenuLine">MetroCOG Regional Planning Agency</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+            <a href="/p/meeting-schedule" title="Click to view Public Meeting Schedule">
+                <span class="subMainMenuLine"> Public Meeting Schedule</span>
+
+            </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="http://monroect.qscend.com/311/request/add" target="_blank" title="Click to view Submit a Service Request">
+        <span class="subMainMenuLine">Submit a Service Request</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="https://ecode360.com/MO0637" target="_blank" title="Click to view Town Charter &amp; Code">
+        <span class="subMainMenuLine">Town Charter &amp; Code</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+            <a href="/p/town-council-members" title="Click to view Town Council">
+                <span class="subMainMenuLine"> Town Council</span>
+
+            </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+
+                                    <!-- End of .col-sm -->
+                                </div>
+                                <!-- .row -->
+                            </div>
+                            <!-- End of .topNavContainer -->
+                            
+
+                        </div>
+
+
+
+                    
+                    </div>
+                    <!-- End of .navContainer -->
+            </li>
+            <li class=" ">
+                    <a href="/p/departments" title="Departments">
+                        Departments
+                    </a>
+                                    <div class="navContainer">
+                        <div class="topNavContainer">
+                            <div class="container">
+                                <div class="row m-0">
+
+
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/assessor" title="Click to view Assessor">
+                <span class="subMainMenuLine"> Assessor</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-0" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="https://gis.vgsi.com/monroect/" target="_blank" title="Click to view Assessment Records">Assessment Records</a>
+                </li>
+                <li class="">
+                        <a href="/p/assessor-s-maps" title="Click to view Assessor&#39;s Maps">Assessor&#39;s Maps</a>
+                </li>
+                <li class="">
+                        <a href="/p/board-of-assessment-appeals" target="_blank" title="Click to view Board Of Assessment Appeals">Board Of Assessment Appeals</a>
+                </li>
+                <li class="">
+                        <a href="/p/commercial-tax-abatement" title="Click to view Commercial Tax Abatement">Commercial Tax Abatement</a>
+                </li>
+                <li class="">
+                        <a href="/p/exemption-forms-applications" title="Click to view Exemption Forms &amp; Applications">Exemption Forms &amp; Applications</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/assessor" title="Click to view more of Assessor">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/building" title="Click to view Building">
+                <span class="subMainMenuLine"> Building</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="https://monroect.gov/p/architectural-review-board" target="_blank" title="Click to view Architectural Review Board">Architectural Review Board</a>
+                </li>
+                <li class="">
+                        <a href="/p/building-demolition" title="Click to view Building Demolition">Building Demolition</a>
+                </li>
+                <li class="">
+                        <a href="/p/building-information" title="Click to view Building Information">Building Information</a>
+                </li>
+                <li class="">
+                        <a href="/p/online-permitting" title="Click to view Online Permitting">Online Permitting</a>
+                </li>
+                <li class="">
+                        <a href="/p/permit-applications" title="Click to view Permit Applications">Permit Applications</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/building" title="Click to view more of Building">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/community-social-services" title="Click to view Community &amp; Social Services">
+                <span class="subMainMenuLine"> Community &amp; Social Services</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-2" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/back-to-school-buddies" title="Click to view Back to School Buddies">Back to School Buddies</a>
+                </li>
+                <li class="">
+                        <a href="/p/food-pantry" title="Click to view Food Pantry">Food Pantry</a>
+                </li>
+                <li class="">
+                        <a href="/p/holiday-giving-tree" title="Click to view Holiday Giving Tree">Holiday Giving Tree</a>
+                </li>
+                <li class="">
+                        <a href="/p/mental-health-referrals" title="Click to view Mental Health Referrals">Mental Health Referrals</a>
+                </li>
+                <li class="">
+                        <a href="/p/social-services" title="Click to view Social Services">Social Services</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/community-social-services" title="Click to view more of Community &amp; Social Services">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class="  position-relative" >
+    <a href="/p/economic-development-department" target="_blank" title="Click to view Economic Development Department">
+        <span class="subMainMenuLine">Economic Development Department</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="https://ewml.org/" target="_blank" title="Click to view Edith Wheeler Memorial Library">
+        <span class="subMainMenuLine">Edith Wheeler Memorial Library</span>
+       
+    </a>
+    </li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/finance" title="Click to view Finance">
+                <span class="subMainMenuLine"> Finance</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-5" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/2024-2025-budget-documents" title="Click to view 2024-2025 Budget Documents">2024-2025 Budget Documents</a>
+                </li>
+                <li class="">
+                        <a href="/p/annual-town-budgets" title="Click to view Annual Town Budgets">Annual Town Budgets</a>
+                </li>
+                <li class="">
+                        <a href="/p/audit-reports" title="Click to view Audit Reports">Audit Reports</a>
+                </li>
+                <li class="">
+                        <a href="/p/donations" title="Click to view Donations">Donations</a>
+                </li>
+                <li class="">
+                        <a href="/p/official-statements" title="Click to view Official Statements">Official Statements</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/finance" title="Click to view more of Finance">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/fire-marshal" title="Click to view Fire Marshal">
+                <span class="subMainMenuLine"> Fire Marshal</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-6" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/emergencies" title="Click to view Emergencies">Emergencies</a>
+                </li>
+                <li class="">
+                        <a href="/p/fire-frequently-asked-questions" title="Click to view Frequently Asked Questions">Frequently Asked Questions</a>
+                </li>
+                <li class="">
+                        <a href="/p/inspections" title="Click to view Inspections">Inspections</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="/p/first-selectman" target="_blank" title="Click to view First Selectman">
+        <span class="subMainMenuLine">First Selectman</span>
+       
+    </a>
+    </li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/health-department" title="Click to view Health Department">
+                <span class="subMainMenuLine"> Health Department</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/community-health-services" title="Click to view Community Health Services">Community Health Services</a>
+                </li>
+                <li class="">
+                        <a href="/p/emergency-preparedness-1" title="Click to view Emergency Preparedness">Emergency Preparedness</a>
+                </li>
+                <li class="">
+                        <a href="/p/environmental-health-forms" title="Click to view Environmental Health Forms">Environmental Health Forms</a>
+                </li>
+                <li class="">
+                        <a href="/p/environmental-health-services" title="Click to view Environmental Health Services">Environmental Health Services</a>
+                </li>
+                <li class="">
+                        <a href="/p/public-health-statistics-and-reports" title="Click to view Public Health Statistics and Annual Reports">Public Health Statistics and Annual Reports</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/health-department" title="Click to view more of Health Department">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/human-resources" title="Click to view Human Resources">
+                <span class="subMainMenuLine"> Human Resources</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-2" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/application-for-employment" title="Click to view Application for Employment">Application for Employment</a>
+                </li>
+                <li class="">
+                        <a href="/p/available-positions" title="Click to view Available Positions">Available Positions</a>
+                </li>
+                <li class="">
+                        <a href="/p/benefits" title="Click to view Benefits">Benefits</a>
+                </li>
+                <li class="">
+                        <a href="/p/union-contracts" title="Click to view Union Contracts">Union Contracts</a>
+                </li>
+                <li class="">
+                        <a href="/p/application-to-volunteer" title="Click to view Volunteer Interest Form">Volunteer Interest Form</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class="  position-relative" >
+    <a href="https://monroect.myrec.com/info/default.aspx" target="_blank" title="Click to view Parks and Recreation">
+        <span class="subMainMenuLine">Parks and Recreation</span>
+       
+    </a>
+    </li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/planning-zoning" title="Click to view Planning &amp; Zoning">
+                <span class="subMainMenuLine"> Planning &amp; Zoning</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-4" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/inland-wetlands" title="Click to view Inland Wetlands">Inland Wetlands</a>
+                </li>
+                <li class="">
+                        <a href="/p/inland-wetlands-forms" title="Click to view Inland Wetlands Forms">Inland Wetlands Forms</a>
+                </li>
+                <li class="">
+                        <a href="/p/inland-wetlands-regulations" title="Click to view Inland Wetlands Regulations">Inland Wetlands Regulations</a>
+                </li>
+                <li class="">
+                        <a href="/p/2020-2030-pocd-update" title="Click to view Plan of Conservation and Development">Plan of Conservation and Development</a>
+                </li>
+                <li class="">
+                        <a href="/p/planning-zoning-forms" title="Click to view Planning &amp; Zoning Forms">Planning &amp; Zoning Forms</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/planning-zoning" title="Click to view more of Planning &amp; Zoning">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/public-safety" title="Click to view Public Safety">
+                <span class="subMainMenuLine"> Public Safety</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-5" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/emergency-management" title="Click to view -  Emergency Management">-  Emergency Management</a>
+                </li>
+                <li class="">
+                        <a href="https://monroevems.org/" target="_blank" title="Click to view -  Emergency Medical Services">-  Emergency Medical Services</a>
+                </li>
+                <li class="">
+                        <a href="/p/monroe-fire-departments" title="Click to view - Fire Departments">- Fire Departments</a>
+                </li>
+                <li class="">
+                        <a href="/p/monroe-police-department" title="Click to view - Police Department">- Police Department</a>
+                </li>
+                <li class="">
+                        <a href="/p/animal-control" title="Click to view Animal Control">Animal Control</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/public-works" title="Click to view Public Works">
+                <span class="subMainMenuLine"> Public Works</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-6" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/-stormwater-pollution-control-resources" title="Click to view  Stormwater Pollution Control Resources"> Stormwater Pollution Control Resources</a>
+                </li>
+                <li class="">
+                        <a href="/p/engineering-division" title="Click to view Engineering Division">Engineering Division</a>
+                </li>
+                <li class="">
+                        <a href="/p/engineering-documents" title="Click to view Engineering Documents">Engineering Documents</a>
+                </li>
+                <li class="">
+                        <a href="/p/highway-division" title="Click to view Highway Division">Highway Division</a>
+                </li>
+                <li class="">
+                        <a href="/p/highway-garage-stormwater-pollution-prevention-plan" title="Click to view Highway Garage Stormwater Pollution Prevention Plan">Highway Garage Stormwater Pollution Prevention Plan</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/public-works" title="Click to view more of Public Works">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/registrar-of-voters-1" title="Click to view Registrar of Voters">
+                <span class="subMainMenuLine"> Registrar of Voters</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-0" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/absentee-ballots" title="Click to view Absentee Ballots">Absentee Ballots</a>
+                </li>
+                <li class="">
+                        <a href="/p/change-of-name-party-or-address" title="Click to view Change of Name, Party or Address">Change of Name, Party or Address</a>
+                </li>
+                <li class="">
+                        <a href="/p/ct-party-affiliation-explanation" title="Click to view CT Party Affiliation Explanation">CT Party Affiliation Explanation</a>
+                </li>
+                <li class="">
+                        <a href="/p/jury-duty-notices" title="Click to view Jury Duty Notices">Jury Duty Notices</a>
+                </li>
+                <li class="">
+                        <a href="/p/register-to-vote" title="Click to view Register to Vote">Register to Vote</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/registrar-of-voters-1" title="Click to view more of Registrar of Voters">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/senior-center" title="Click to view Senior Center">
+                <span class="subMainMenuLine"> Senior Center</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/elderly-services" title="Click to view Elderly Services">Elderly Services</a>
+                </li>
+                <li class="">
+                        <a href="/p/energy-assistance" title="Click to view Energy Assistance">Energy Assistance</a>
+                </li>
+                <li class="">
+                        <a href="/p/monroe-triad" title="Click to view Monroe TRIAD">Monroe TRIAD</a>
+                </li>
+                <li class="">
+                        <a href="/p/senior-center-newsletters" title="Click to view Senior Center Newsletters">Senior Center Newsletters</a>
+                </li>
+                <li class="">
+                        <a href="/p/medical-needs-registry" title="Click to view Special Needs Registry">Special Needs Registry</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/senior-center" title="Click to view more of Senior Center">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/tax-collector" title="Click to view Tax Collector">
+                <span class="subMainMenuLine"> Tax Collector</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-2" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/definitions" title="Click to view Definitions">Definitions</a>
+                </li>
+                <li class="">
+                        <a href="/p/important-tax-information" title="Click to view Important Tax Information">Important Tax Information</a>
+                </li>
+                <li class="">
+                        <a href="/p/payment-schedule" title="Click to view Payment Schedule">Payment Schedule</a>
+                </li>
+                <li class="">
+                        <a href="/p/tax-calculation-information" title="Click to view Tax Calculation Information">Tax Calculation Information</a>
+                </li>
+                <li class="">
+                        <a href="/p/tax-faqs" title="Click to view Tax FAQs">Tax FAQs</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/town-clerk" title="Click to view Town Clerk">
+                <span class="subMainMenuLine"> Town Clerk</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-3" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/dog-license-renewal" title="Click to view Dog License Renewal">Dog License Renewal</a>
+                </li>
+                <li class="">
+                        <a href="/p/elected-officials" title="Click to view Elected Officials">Elected Officials</a>
+                </li>
+                <li class="">
+                        <a href="/p/election-campaign-finance" title="Click to view Elections &amp; Campaign Finance">Elections &amp; Campaign Finance</a>
+                </li>
+                <li class="">
+                        <a href="/p/justice-of-the-peace" title="Click to view Justices of the Peace">Justices of the Peace</a>
+                </li>
+                <li class="">
+                        <a href="/p/land-records" title="Click to view Land Records">Land Records</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/town-clerk" title="Click to view more of Town Clerk">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+
+
+<li class="  position-relative" >
+    <a href="https://www.wmnr.org/" target="_blank" title="Click to view WMNR Fine Arts Radio 88.1 FM">
+        <span class="subMainMenuLine">WMNR Fine Arts Radio 88.1 FM</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+
+                                    <!-- End of .col-sm -->
+                                </div>
+                                <!-- .row -->
+                            </div>
+                            <!-- End of .topNavContainer -->
+                            
+
+                        </div>
+
+
+
+                    
+                    </div>
+                    <!-- End of .navContainer -->
+            </li>
+            <li class=" ">
+                    <a href="/p/community" title="Community">
+                        Community
+                    </a>
+                                    <div class="navContainer">
+                        <div class="topNavContainer">
+                            <div class="container">
+                                <div class="row m-0">
+
+
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+            <a href="/p/community-event-submission" title="Click to view Community Event Submission">
+                <span class="subMainMenuLine"> Community Event Submission</span>
+
+            </a>
+    </li>
+
+
+<li class="  position-relative" >
+            <a href="/p/community-events-calendar" title="Click to view Community Events Calendar">
+                <span class="subMainMenuLine"> Community Events Calendar</span>
+
+            </a>
+    </li>
+
+
+<li class="  position-relative" >
+            <a href="/p/community-organizations" title="Click to view Community Organizations">
+                <span class="subMainMenuLine"> Community Organizations</span>
+
+            </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="/p/donations" target="_blank" title="Click to view Donate to Support Monroe Programs">
+        <span class="subMainMenuLine">Donate to Support Monroe Programs</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="http://www.monroefarmersmarket.org/" target="_blank" title="Click to view Monroe Farmers&#39; Market">
+        <span class="subMainMenuLine">Monroe Farmers&#39; Market</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="https://www.monroeps.org/" target="_blank" title="Click to view Monroe Public Schools">
+        <span class="subMainMenuLine">Monroe Public Schools</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+            <a href="/p/prescription-discount-card" title="Click to view Town of Monroe Prescription Savings Program">
+                <span class="subMainMenuLine"> Town of Monroe Prescription Savings Program</span>
+
+            </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="http://www.webbmountaindiscoveryzone.com/" target="_blank" title="Click to view Webb Mountain Discovery Zone">
+        <span class="subMainMenuLine">Webb Mountain Discovery Zone</span>
+       
+    </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="https://www.wmnr.org/" target="_blank" title="Click to view WMNR Fine Arts Radio 88.1 FM">
+        <span class="subMainMenuLine">WMNR Fine Arts Radio 88.1 FM</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+
+                                    <!-- End of .col-sm -->
+                                </div>
+                                <!-- .row -->
+                            </div>
+                            <!-- End of .topNavContainer -->
+                            
+
+                        </div>
+
+
+
+                    
+                    </div>
+                    <!-- End of .navContainer -->
+            </li>
+            <li class=" ">
+                    <a href="/p/business" title="Business">
+                        Business
+                    </a>
+                                    <div class="navContainer">
+                        <div class="topNavContainer">
+                            <div class="container">
+                                <div class="row m-0">
+
+
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="/p/building" target="_blank" title="Click to view Building Department">
+        <span class="subMainMenuLine">Building Department</span>
+       
+    </a>
+    </li>
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/economic-development-department" title="Click to view Economic Development Department">
+                <span class="subMainMenuLine"> Economic Development Department</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/about-monroe" target="_blank" title="Click to view About Monroe">About Monroe</a>
+                </li>
+                <li class="">
+                        <a href="/p/available-business-opportunities-and-properties" title="Click to view Available Business Opportunities and Properties">Available Business Opportunities and Properties</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+            <a href="/p/monroe-business-listing" title="Click to view Monroe Business Listing">
+                <span class="subMainMenuLine"> Monroe Business Listing</span>
+
+            </a>
+    </li>
+
+
+<li class="  position-relative" >
+    <a href="https://www.monroectchamber.com/" target="_blank" title="Click to view Monroe Chamber of Commerce">
+        <span class="subMainMenuLine">Monroe Chamber of Commerce</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+
+
+
+
+
+
+
+
+
+<li class="  position-relative" >
+    <a href="/p/planning-zoning" target="_blank" title="Click to view Planning &amp; Zoning">
+        <span class="subMainMenuLine">Planning &amp; Zoning</span>
+       
+    </a>
+    </li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+
+                                    <!-- End of .col-sm -->
+                                </div>
+                                <!-- .row -->
+                            </div>
+                            <!-- End of .topNavContainer -->
+                            
+
+                        </div>
+
+
+
+                    
+                    </div>
+                    <!-- End of .navContainer -->
+            </li>
+            <li class=" ">
+                    <a href="/p/how-do-i-" title="How Do I...">
+                        How Do I...
+                    </a>
+                                    <div class="navContainer howDoIContainer">
+                        <div class="topNavContainer">
+                            <div class="container">
+                                <div class="row m-0">
+
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/find" title="Click to view Find">
+                <span class="subMainMenuLine"> Find</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-0" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/town-clerk" target="_blank" title="Click to view Absentee Ballot ">Absentee Ballot </a>
+                </li>
+                <li class="">
+                        <a href="https://www.monroect.gov/p/annual-town-budgets" target="_blank" title="Click to view Budget Documents">Budget Documents</a>
+                </li>
+                <li class="">
+                        <a href="/p/listing" title="Click to view Monroe Business Listing">Monroe Business Listing</a>
+                </li>
+                <li class="">
+                        <a href="https://metrocog.mapxpress.net/Monroe/" target="_blank" title="Click to view Monroe GIS">Monroe GIS</a>
+                </li>
+                <li class="">
+                        <a href="/p/online-permitting" target="_blank" title="Click to view Online Permitting Information">Online Permitting Information</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/find" title="Click to view more of Find">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/register" title="Click to view Register">
+                <span class="subMainMenuLine"> Register</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-1" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/appointments" target="_blank" title="Click to view Book an Appointment">Book an Appointment</a>
+                </li>
+                <li class="">
+                        <a href="/p/dog-license-renewal" target="_blank" title="Click to view Dog License">Dog License</a>
+                </li>
+                <li class="">
+                        <a href="https://public.coderedweb.com/CNE/en-US/0EA26FC0A14C" target="_blank" title="Click to view Emergency Notification Sign Up">Emergency Notification Sign Up</a>
+                </li>
+                <li class="">
+                        <a href="/p/marriage-license" target="_blank" title="Click to view Marriage License">Marriage License</a>
+                </li>
+                <li class="">
+                        <a href="https://portaldir.ct.gov/sots/LookUp.aspx" target="_blank" title="Click to view Vote">Vote</a>
+                </li>
+
+
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+                                        <div class="col-4 subMain">
+                                            <ul class="subMainMenu cf">
+
+
+<li class=" hasChild position-relative" >
+            <a href="/p/submit" title="Click to view Submit">
+                <span class="subMainMenuLine"> Submit</span>
+
+            </a>
+            <ul id="subMainMenuIcon0-2" class="subSubMainMenu cf">
+                <li class="">
+                        <a href="/p/application-for-employment" target="_blank" title="Click to view Application for Employment">Application for Employment</a>
+                </li>
+                <li class="">
+                        <a href="/p/application-for-employment" target="_blank" title="Click to view Application to Volunteer">Application to Volunteer</a>
+                </li>
+                <li class="">
+                        <a href="/p/community-event-submission" target="_blank" title="Click to view Community Event Submission">Community Event Submission</a>
+                </li>
+                <li class="">
+                        <a href="https://portal.laserfiche.com/d3180/forms/FacilityReservation" target="_blank" title="Click to view Facility Use Request">Facility Use Request</a>
+                </li>
+                <li class="">
+                        <a href="http://monroect.qscend.com/311/request/add" target="_blank" title="Click to view Submit a Service Request">Submit a Service Request</a>
+                </li>
+
+
+                <li>
+                    <a href="/p/submit" title="Click to view more of Submit">View More</a>
+                </li>
+        </ul><!-- End of ul.subSubMainMenu -->
+</li>
+                                            </ul>
+                                            <!-- End of ul.subMainMenu -->
+                                        </div>
+
+                                    <!-- End of .col-sm -->
+                                </div>
+                                <!-- .row -->
+                            </div>
+                            <!-- End of .topNavContainer -->
+                            
+
+                        </div>
+                      
+                    </div>
+            </li>
+
+
+            </
+
+
+        </ul>
+
+
+
+    </div><!-- End of .desktopNav -->
+</nav>
+
+
+
+
+<nav role="navigation" class=" d-xl-none d-block">
+    <h2 class="hideMe">Main Navigation</h2>
+    <button class="closeNav">
+        <i aria-hidden class="fa-solid fa-xmark" title="Close Navigation"></i>
+        <span class="sr-only">Close Navigation</span>
+        <span class="hideMe">Close Navigation</span>
+    </button>
+    <div class="mobileNav">
+        <ul class="mainMenu">
+            <li><a href="/" title="Go to home"><span>Home</span></a></li>
+                <li class="">
+                        <a href="/p/government" title="Click to view Government">
+                            Government
+                        </a>
+                                            <ul class="subMainMenu">
+                                <li class="">
+                                        <a href="/p/-agendas-voting-records-minutes-videos-recordings" title="Click to view  Agendas, Meeting Packets, Voting Records, Minutes, &amp; Recordings">
+                                             Agendas, Meeting Packets, Voting Records, Minutes, &amp; Recordings
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/boards-commissions" title="Click to view Boards &amp; Commissions">
+                                            Boards &amp; Commissions
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/architectural-review-board" title="Click to view Architectural Review Board">
+                                                            Architectural Review Board
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-assessment-appeals" title="Click to view Board of Assessment Appeals">
+                                                            Board of Assessment Appeals
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://www.monroeps.org/board_of_ed" target="_blank" title="Click to view Board of Education">
+                                                            Board of Education
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-ethics" title="Click to view Board of Ethics">
+                                                            Board of Ethics
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-finance" title="Click to view Board of Finance">
+                                                            Board of Finance
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-health" title="Click to view Board of Health">
+                                                            Board of Health
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-police-commissioners" title="Click to view Board of Police Commissioners">
+                                                            Board of Police Commissioners
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/building-board-of-appeals" title="Click to view Building Board of Appeals">
+                                                            Building Board of Appeals
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/commission-for-the-aging" title="Click to view Commission for the Aging">
+                                                            Commission for the Aging
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/conservation-water-resources-commission" title="Click to view Conservation &amp; Water Resources Commission">
+                                                            Conservation &amp; Water Resources Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/economic-development-commission" title="Click to view Economic Development Commission">
+                                                            Economic Development Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/emergency-medical-services-commission" title="Click to view Emergency Medical Services Commission">
+                                                            Emergency Medical Services Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/historic-district-commission" title="Click to view Historic District Commission">
+                                                            Historic District Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/housing-authority" title="Click to view Housing Authority">
+                                                            Housing Authority
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/inland-wetlands-commission" title="Click to view Inland Wetlands Commission">
+                                                            Inland Wetlands Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/lake-zoar-authority" title="Click to view Lake Zoar Authority">
+                                                            Lake Zoar Authority
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/library-board-of-trustees" title="Click to view Library Board of Trustees">
+                                                            Library Board of Trustees
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/opeb" title="Click to view Other Post Employment Benefits Board of Trustees">
+                                                            Other Post Employment Benefits Board of Trustees
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/parks-recreation-commission" title="Click to view Parks &amp; Recreation Commission">
+                                                            Parks &amp; Recreation Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/pension-committee" title="Click to view Pension Committee">
+                                                            Pension Committee
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/planning-and-zoning-commission" title="Click to view Planning and Zoning Commission">
+                                                            Planning and Zoning Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/wmnr-commission" title="Click to view WMNR Commission">
+                                                            WMNR Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/youth-commission" title="Click to view Youth Commission">
+                                                            Youth Commission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/zoning-board-of-appeals" title="Click to view Zoning Board of Appeals">
+                                                            Zoning Board of Appeals
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/first-selectman" title="Click to view First Selectman">
+                                            First Selectman
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/about-monroe" title="Click to view About Monroe">
+                                                            About Monroe
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/annual-reports-1" title="Click to view Annual Reports">
+                                                            Annual Reports
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/contact-the-first-selectman-s-office" title="Click to view Contact the First Selectman&#39;s Office">
+                                                            Contact the First Selectman&#39;s Office
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/proclamation-request" title="Click to view Proclamation Request">
+                                                            Proclamation Request
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/strategic-planning-documents" title="Click to view Strategic Planning Documents">
+                                                            Strategic Planning Documents
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/updates-from-first-selectman" title="Click to view Updates from First Selectman">
+                                                            Updates from First Selectman
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="https://ctmetro.org/" target="_blank" title="Click to view MetroCOG Regional Planning Agency">
+                                            MetroCOG Regional Planning Agency
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/meeting-schedule" title="Click to view Public Meeting Schedule">
+                                            Public Meeting Schedule
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="http://monroect.qscend.com/311/request/add" target="_blank" title="Click to view Submit a Service Request">
+                                            Submit a Service Request
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="https://ecode360.com/MO0637" target="_blank" title="Click to view Town Charter &amp; Code">
+                                            Town Charter &amp; Code
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/town-council-members" title="Click to view Town Council">
+                                            Town Council
+                                        </a>
+                                                                    </li>
+                        </ul><!-- End of ul.subMainMenu -->
+                </li>
+                <li class="">
+                        <a href="/p/departments" title="Click to view Departments">
+                            Departments
+                        </a>
+                                            <ul class="subMainMenu">
+                                <li class="">
+                                        <a href="/p/assessor" title="Click to view Assessor">
+                                            Assessor
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="https://gis.vgsi.com/monroect/" target="_blank" title="Click to view Assessment Records">
+                                                            Assessment Records
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/assessor-s-maps" title="Click to view Assessor&#39;s Maps">
+                                                            Assessor&#39;s Maps
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/board-of-assessment-appeals" target="_blank" title="Click to view Board Of Assessment Appeals">
+                                                            Board Of Assessment Appeals
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/commercial-tax-abatement" title="Click to view Commercial Tax Abatement">
+                                                            Commercial Tax Abatement
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/exemption-forms-applications" title="Click to view Exemption Forms &amp; Applications">
+                                                            Exemption Forms &amp; Applications
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://metrocog.mapxpress.net/Monroe/" target="_blank" title="Click to view GIS">
+                                                            GIS
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/income-and-expense" title="Click to view Income and Expense Statements">
+                                                            Income and Expense Statements
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/mill-rate" title="Click to view Mill Rate">
+                                                            Mill Rate
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/motor-vehicle" title="Click to view Motor Vehicle">
+                                                            Motor Vehicle
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/pa490-farm-and-forest-land" title="Click to view PA 490 Farm and Forest Land">
+                                                            PA 490 Farm and Forest Land
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/personal-property" title="Click to view Personal Property">
+                                                            Personal Property
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/resident-tax-relief" title="Click to view Resident Tax Relief">
+                                                            Resident Tax Relief
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/revaluation" title="Click to view Revaluation">
+                                                            Revaluation
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://gis.vgsi.com/monroect/Sales.aspx" target="_blank" title="Click to view Sales Information">
+                                                            Sales Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/tax-calculator" title="Click to view Tax Calculator">
+                                                            Tax Calculator
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/building" title="Click to view Building">
+                                            Building
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="https://monroect.gov/p/architectural-review-board" target="_blank" title="Click to view Architectural Review Board">
+                                                            Architectural Review Board
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/building-demolition" title="Click to view Building Demolition">
+                                                            Building Demolition
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/building-information" title="Click to view Building Information">
+                                                            Building Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/online-permitting" title="Click to view Online Permitting">
+                                                            Online Permitting
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/permit-applications" title="Click to view Permit Applications">
+                                                            Permit Applications
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/useful-building-codes-and-regulations" title="Click to view Useful Building Codes and Regulations">
+                                                            Useful Building Codes and Regulations
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/community-social-services" title="Click to view Community &amp; Social Services">
+                                            Community &amp; Social Services
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/back-to-school-buddies" title="Click to view Back to School Buddies">
+                                                            Back to School Buddies
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/food-pantry" title="Click to view Food Pantry">
+                                                            Food Pantry
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/holiday-giving-tree" title="Click to view Holiday Giving Tree">
+                                                            Holiday Giving Tree
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/mental-health-referrals" title="Click to view Mental Health Referrals">
+                                                            Mental Health Referrals
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/social-services" title="Click to view Social Services">
+                                                            Social Services
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/volunteer-interest-form" title="Click to view Volunteer Interest Form">
+                                                            Volunteer Interest Form
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/economic-development-department" target="_blank" title="Click to view Economic Development Department">
+                                            Economic Development Department
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="https://ewml.org/" target="_blank" title="Click to view Edith Wheeler Memorial Library">
+                                            Edith Wheeler Memorial Library
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/finance" title="Click to view Finance">
+                                            Finance
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/2024-2025-budget-documents" title="Click to view 2024-2025 Budget Documents">
+                                                            2024-2025 Budget Documents
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/annual-town-budgets" title="Click to view Annual Town Budgets">
+                                                            Annual Town Budgets
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/audit-reports" title="Click to view Audit Reports">
+                                                            Audit Reports
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/donations" title="Click to view Donations">
+                                                            Donations
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/official-statements" title="Click to view Official Statements">
+                                                            Official Statements
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/rating-reports" title="Click to view Rating Reports">
+                                                            Rating Reports
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/fire-marshal" title="Click to view Fire Marshal">
+                                            Fire Marshal
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/emergencies" title="Click to view Emergencies">
+                                                            Emergencies
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/fire-frequently-asked-questions" title="Click to view Frequently Asked Questions">
+                                                            Frequently Asked Questions
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/inspections" title="Click to view Inspections">
+                                                            Inspections
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/first-selectman" target="_blank" title="Click to view First Selectman">
+                                            First Selectman
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/health-department" title="Click to view Health Department">
+                                            Health Department
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/community-health-services" title="Click to view Community Health Services">
+                                                            Community Health Services
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/emergency-preparedness-1" title="Click to view Emergency Preparedness">
+                                                            Emergency Preparedness
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/environmental-health-forms" title="Click to view Environmental Health Forms">
+                                                            Environmental Health Forms
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/environmental-health-services" title="Click to view Environmental Health Services">
+                                                            Environmental Health Services
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/public-health-statistics-and-reports" title="Click to view Public Health Statistics and Annual Reports">
+                                                            Public Health Statistics and Annual Reports
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/tick-testing-and-information" title="Click to view Tick Testing and Information">
+                                                            Tick Testing and Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/vaccine-clinic" title="Click to view Vaccine Clinic">
+                                                            Vaccine Clinic
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/human-resources" title="Click to view Human Resources">
+                                            Human Resources
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/application-for-employment" title="Click to view Application for Employment">
+                                                            Application for Employment
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/available-positions" title="Click to view Available Positions">
+                                                            Available Positions
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/benefits" title="Click to view Benefits">
+                                                            Benefits
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/union-contracts" title="Click to view Union Contracts">
+                                                            Union Contracts
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/application-to-volunteer" title="Click to view Volunteer Interest Form">
+                                                            Volunteer Interest Form
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="https://monroect.myrec.com/info/default.aspx" target="_blank" title="Click to view Parks and Recreation">
+                                            Parks and Recreation
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/planning-zoning" title="Click to view Planning &amp; Zoning">
+                                            Planning &amp; Zoning
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/inland-wetlands" title="Click to view Inland Wetlands">
+                                                            Inland Wetlands
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/inland-wetlands-forms" title="Click to view Inland Wetlands Forms">
+                                                            Inland Wetlands Forms
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/inland-wetlands-regulations" title="Click to view Inland Wetlands Regulations">
+                                                            Inland Wetlands Regulations
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/2020-2030-pocd-update" title="Click to view Plan of Conservation and Development">
+                                                            Plan of Conservation and Development
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/planning-zoning-forms" title="Click to view Planning &amp; Zoning Forms">
+                                                            Planning &amp; Zoning Forms
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/subdivision-regulation" title="Click to view Subdivision Regulations">
+                                                            Subdivision Regulations
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/useful-resources" title="Click to view Useful Resources">
+                                                            Useful Resources
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/zoning-board-of-appeals-forms" title="Click to view Zoning Board of Appeals Forms">
+                                                            Zoning Board of Appeals Forms
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/zoning-regulations" title="Click to view Zoning Regulations">
+                                                            Zoning Regulations
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/public-safety" title="Click to view Public Safety">
+                                            Public Safety
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/emergency-management" title="Click to view -  Emergency Management">
+                                                            -  Emergency Management
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://monroevems.org/" target="_blank" title="Click to view -  Emergency Medical Services">
+                                                            -  Emergency Medical Services
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/monroe-fire-departments" title="Click to view - Fire Departments">
+                                                            - Fire Departments
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/monroe-police-department" title="Click to view - Police Department">
+                                                            - Police Department
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/animal-control" title="Click to view Animal Control">
+                                                            Animal Control
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/public-works" title="Click to view Public Works">
+                                            Public Works
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/-stormwater-pollution-control-resources" title="Click to view  Stormwater Pollution Control Resources">
+                                                             Stormwater Pollution Control Resources
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/engineering-division" title="Click to view Engineering Division">
+                                                            Engineering Division
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/engineering-documents" title="Click to view Engineering Documents">
+                                                            Engineering Documents
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/highway-division" title="Click to view Highway Division">
+                                                            Highway Division
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/highway-garage-stormwater-pollution-prevention-plan" title="Click to view Highway Garage Stormwater Pollution Prevention Plan">
+                                                            Highway Garage Stormwater Pollution Prevention Plan
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/highway-modifications" title="Click to view Highway Modifications">
+                                                            Highway Modifications
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/maintenance-plan-for-roads" title="Click to view Maintenance Plan for Roads">
+                                                            Maintenance Plan for Roads
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/maps-and-drawings" title="Click to view Maps and Drawings">
+                                                            Maps and Drawings
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/ms4-water-resource-materials" title="Click to view MS4 Water Resource Materials">
+                                                            MS4 Water Resource Materials
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/phase-ii-storm-water" title="Click to view Phase II Storm Water">
+                                                            Phase II Storm Water
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/recycling" title="Click to view Recycling">
+                                                            Recycling
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/right-of-way" title="Click to view Right-of-Way">
+                                                            Right-of-Way
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/stormwater-management" title="Click to view Stormwater Management">
+                                                            Stormwater Management
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/registrar-of-voters-1" title="Click to view Registrar of Voters">
+                                            Registrar of Voters
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/absentee-ballots" title="Click to view Absentee Ballots">
+                                                            Absentee Ballots
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/change-of-name-party-or-address" title="Click to view Change of Name, Party or Address">
+                                                            Change of Name, Party or Address
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/ct-party-affiliation-explanation" title="Click to view CT Party Affiliation Explanation">
+                                                            CT Party Affiliation Explanation
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/jury-duty-notices" title="Click to view Jury Duty Notices">
+                                                            Jury Duty Notices
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/register-to-vote" title="Click to view Register to Vote">
+                                                            Register to Vote
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/results" title="Click to view Results">
+                                                            Results
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/districts" title="Click to view Voting Districts">
+                                                            Voting Districts
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/work-at-the-polls" title="Click to view Work at the Polls">
+                                                            Work at the Polls
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/senior-center" title="Click to view Senior Center">
+                                            Senior Center
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/elderly-services" title="Click to view Elderly Services">
+                                                            Elderly Services
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/energy-assistance" title="Click to view Energy Assistance">
+                                                            Energy Assistance
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/monroe-triad" title="Click to view Monroe TRIAD">
+                                                            Monroe TRIAD
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/senior-center-newsletters" title="Click to view Senior Center Newsletters">
+                                                            Senior Center Newsletters
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/medical-needs-registry" title="Click to view Special Needs Registry">
+                                                            Special Needs Registry
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/transportation-guidelines" title="Click to view Transportation Guidelines">
+                                                            Transportation Guidelines
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/tax-collector" title="Click to view Tax Collector">
+                                            Tax Collector
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/definitions" title="Click to view Definitions">
+                                                            Definitions
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/important-tax-information" title="Click to view Important Tax Information">
+                                                            Important Tax Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/payment-schedule" title="Click to view Payment Schedule">
+                                                            Payment Schedule
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/tax-calculation-information" title="Click to view Tax Calculation Information">
+                                                            Tax Calculation Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/tax-faqs" title="Click to view Tax FAQs">
+                                                            Tax FAQs
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/town-clerk" title="Click to view Town Clerk">
+                                            Town Clerk
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/dog-license-renewal" title="Click to view Dog License Renewal">
+                                                            Dog License Renewal
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/elected-officials" title="Click to view Elected Officials">
+                                                            Elected Officials
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/election-campaign-finance" title="Click to view Elections &amp; Campaign Finance">
+                                                            Elections &amp; Campaign Finance
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/justice-of-the-peace" title="Click to view Justices of the Peace">
+                                                            Justices of the Peace
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/land-records" title="Click to view Land Records">
+                                                            Land Records
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/licenses-permits" title="Click to view Licenses &amp; Permits">
+                                                            Licenses &amp; Permits
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/marriage-license" title="Click to view Marriage License">
+                                                            Marriage License
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/notary-public-services-and-fees" title="Click to view Notary Public Services and Fees">
+                                                            Notary Public Services and Fees
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/town-clerk-documents" title="Click to view Town Clerk Documents">
+                                                            Town Clerk Documents
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/trade-names" title="Click to view Trade Names">
+                                                            Trade Names
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/vital-records-certificate-request-forms" title="Click to view Vital Records Certificate Request Forms">
+                                                            Vital Records Certificate Request Forms
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/voter-information" title="Click to view Voter Information">
+                                                            Voter Information
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="https://www.wmnr.org/" target="_blank" title="Click to view WMNR Fine Arts Radio 88.1 FM">
+                                            WMNR Fine Arts Radio 88.1 FM
+                                        </a>
+                                                                    </li>
+                        </ul><!-- End of ul.subMainMenu -->
+                </li>
+                <li class="">
+                        <a href="/p/community" title="Click to view Community">
+                            Community
+                        </a>
+                                            <ul class="subMainMenu">
+                                <li class="">
+                                        <a href="/p/community-event-submission" title="Click to view Community Event Submission">
+                                            Community Event Submission
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/community-events-calendar" title="Click to view Community Events Calendar">
+                                            Community Events Calendar
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/community-organizations" title="Click to view Community Organizations">
+                                            Community Organizations
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/donations" target="_blank" title="Click to view Donate to Support Monroe Programs">
+                                            Donate to Support Monroe Programs
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="http://www.monroefarmersmarket.org/" target="_blank" title="Click to view Monroe Farmers&#39; Market">
+                                            Monroe Farmers&#39; Market
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="https://www.monroeps.org/" target="_blank" title="Click to view Monroe Public Schools">
+                                            Monroe Public Schools
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/prescription-discount-card" title="Click to view Town of Monroe Prescription Savings Program">
+                                            Town of Monroe Prescription Savings Program
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="http://www.webbmountaindiscoveryzone.com/" target="_blank" title="Click to view Webb Mountain Discovery Zone">
+                                            Webb Mountain Discovery Zone
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="https://www.wmnr.org/" target="_blank" title="Click to view WMNR Fine Arts Radio 88.1 FM">
+                                            WMNR Fine Arts Radio 88.1 FM
+                                        </a>
+                                                                    </li>
+                        </ul><!-- End of ul.subMainMenu -->
+                </li>
+                <li class="">
+                        <a href="/p/business" title="Click to view Business">
+                            Business
+                        </a>
+                                            <ul class="subMainMenu">
+                                <li class="">
+                                        <a href="/p/building" target="_blank" title="Click to view Building Department">
+                                            Building Department
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/economic-development-department" title="Click to view Economic Development Department">
+                                            Economic Development Department
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/about-monroe" target="_blank" title="Click to view About Monroe">
+                                                            About Monroe
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/available-business-opportunities-and-properties" title="Click to view Available Business Opportunities and Properties">
+                                                            Available Business Opportunities and Properties
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/monroe-business-listing" title="Click to view Monroe Business Listing">
+                                            Monroe Business Listing
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="https://www.monroectchamber.com/" target="_blank" title="Click to view Monroe Chamber of Commerce">
+                                            Monroe Chamber of Commerce
+                                        </a>
+                                                                    </li>
+                                <li class="">
+                                        <a href="/p/planning-zoning" target="_blank" title="Click to view Planning &amp; Zoning">
+                                            Planning &amp; Zoning
+                                        </a>
+                                                                    </li>
+                        </ul><!-- End of ul.subMainMenu -->
+                </li>
+                <li class="">
+                        <a href="/p/how-do-i-" title="Click to view How Do I...">
+                            How Do I...
+                        </a>
+                                            <ul class="subMainMenu">
+                                <li class="">
+                                        <a href="/p/find" title="Click to view Find">
+                                            Find
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/town-clerk" target="_blank" title="Click to view Absentee Ballot ">
+                                                            Absentee Ballot 
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://www.monroect.gov/p/annual-town-budgets" target="_blank" title="Click to view Budget Documents">
+                                                            Budget Documents
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/listing" title="Click to view Monroe Business Listing">
+                                                            Monroe Business Listing
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://metrocog.mapxpress.net/Monroe/" target="_blank" title="Click to view Monroe GIS">
+                                                            Monroe GIS
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/online-permitting" target="_blank" title="Click to view Online Permitting Information">
+                                                            Online Permitting Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/recycling" target="_blank" title="Click to view Recycle Information">
+                                                            Recycle Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/important-tax-information" target="_blank" title="Click to view Tax Information">
+                                                            Tax Information
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://ecode360.com/MO0637?needHash=true" target="_blank" title="Click to view Town Charter &amp; Code">
+                                                            Town Charter &amp; Code
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/register" title="Click to view Register">
+                                            Register
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/appointments" target="_blank" title="Click to view Book an Appointment">
+                                                            Book an Appointment
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/dog-license-renewal" target="_blank" title="Click to view Dog License">
+                                                            Dog License
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://public.coderedweb.com/CNE/en-US/0EA26FC0A14C" target="_blank" title="Click to view Emergency Notification Sign Up">
+                                                            Emergency Notification Sign Up
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/marriage-license" target="_blank" title="Click to view Marriage License">
+                                                            Marriage License
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://portaldir.ct.gov/sots/LookUp.aspx" target="_blank" title="Click to view Vote">
+                                                            Vote
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                                <li class="">
+                                        <a href="/p/submit" title="Click to view Submit">
+                                            Submit
+                                        </a>
+                                                                            <ul class="subSubMainMenu">
+                                                <li class="">
+                                                        <a href="/p/application-for-employment" target="_blank" title="Click to view Application for Employment">
+                                                            Application for Employment
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/application-for-employment" target="_blank" title="Click to view Application to Volunteer">
+                                                            Application to Volunteer
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="/p/community-event-submission" target="_blank" title="Click to view Community Event Submission">
+                                                            Community Event Submission
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://portal.laserfiche.com/d3180/forms/FacilityReservation" target="_blank" title="Click to view Facility Use Request">
+                                                            Facility Use Request
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="http://monroect.qscend.com/311/request/add" target="_blank" title="Click to view Submit a Service Request">
+                                                            Submit a Service Request
+                                                        </a>
+                                                </li>
+                                                <li class="">
+                                                        <a href="https://www.mytaxbill.org/inet/bill/home.do?town=monroe" target="_blank" title="Click to view Tax Payments Online">
+                                                            Tax Payments Online
+                                                        </a>
+                                                </li>
+                                        </ul><!-- End of ul.subSubMainMenu-->
+                                </li>
+                        </ul><!-- End of ul.subMainMenu -->
+                </li>
+        </ul><!-- End of ul.mainMenu -->
+    </div><!-- End of .mobileNav -->
+</nav><!-- End of nav -->
+
+
+
+                <div id="#search-txt" class="searchButton">
+
+                    <button type="button" class="" id="dropdownMenuOffset" data-toggle="dropdown" aria-expanded="false" data-offset="0,0">
+                    </button>
+
+                    <div class="dropdown-menu dropdown-menu-right " aria-labelledby="navbarDropdown">
+                        <form method="get" class="frmSearch input-group" action="#">
+
+                            <div class="input-group ">
+                                <input type="search" class="form-control" placeholder="What can we help you find?" value="" />
+                                <input type="hidden" value="/search" />
+                                <div class="input-group-append">
+                                    <button type="submit"> <i aria-hidden="false" class="far fa-search" title="Click here to search contents in our website"></i> <span class="sr-only">Type here to search contents in our website</span> <span class="hideMe">Search Here</span> </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </header>
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+<figure id="carousel" class="carousel slide carousel-fade" data-ride="carousel" role="group">
+    <figcaption class="hideMe">Featured slideshows, Notices and Events</figcaption>
+
+    <div class="carousel-inner fullHeight" role="listbox">
+                <figure class="carousel-item active" style="background-image:url('https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/2f46b924-70ca-436a-b483-20c88e366a99.jpg');">
+
+
+                    <img src="https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/2f46b924-70ca-436a-b483-20c88e366a99.jpg" alt="Welcome to the Town of Monroe">
+                    <div class="overlay"></div>
+                    <figcaption class="carousel-caption">
+                        <h2>Welcome to the</h2>
+                        <h3>Town of Monroe</h3>
+                        <p></p>
+                       
+
+                    </figcaption><!-- End of .carousel-caption -->
+                </figure><!-- End of .carousel-item -->
+                <figure class="carousel-item " style="background-image:url('https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/fb1d293f-14d4-4f5f-9fb0-b41f5c94f854.jpg');">
+
+
+                    <img src="https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/fb1d293f-14d4-4f5f-9fb0-b41f5c94f854.jpg" alt="Welcome to the  Town of Monroe">
+                    <div class="overlay"></div>
+                    <figcaption class="carousel-caption">
+                        <h2>Welcome to the </h2>
+                        <h3>Town of Monroe</h3>
+                        <p></p>
+                       
+
+                    </figcaption><!-- End of .carousel-caption -->
+                </figure><!-- End of .carousel-item -->
+                <figure class="carousel-item " style="background-image:url('https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/fd8ada2a-c3ac-4d27-8681-44a604fd5b3f.jpg');">
+
+
+                    <img src="https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/fd8ada2a-c3ac-4d27-8681-44a604fd5b3f.jpg" alt="Welcome to the  Town of Monroe">
+                    <div class="overlay"></div>
+                    <figcaption class="carousel-caption">
+                        <h2>Welcome to the </h2>
+                        <h3>Town of Monroe</h3>
+                        <p></p>
+                       
+
+                    </figcaption><!-- End of .carousel-caption -->
+                </figure><!-- End of .carousel-item -->
+                <figure class="carousel-item " style="background-image:url('https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/a77a91a3-52ec-4235-b321-551800194b43.jpg');">
+
+
+                    <img src="https://monroe.qscendcms.com/UploadFiles/OpeningPhotos/Original/a77a91a3-52ec-4235-b321-551800194b43.jpg" alt="Welcome to the  Town of Monroe">
+                    <div class="overlay"></div>
+                    <figcaption class="carousel-caption">
+                        <h2>Welcome to the </h2>
+                        <h3>Town of Monroe</h3>
+                        <p></p>
+                       
+
+                    </figcaption><!-- End of .carousel-caption -->
+                </figure><!-- End of .carousel-item -->
+            <!--<a href="#main" class="btnScrollDown">
+                <div class="innerbtnScrollCont">
+                    <i aria-hidden class="fal fa-angle-down" title="Scroll down to go to the main content"></i>
+                    <span class="sr-only">Scroll down to read more content</span>
+                </div>--><!-- End of .innerbtnScrollCont -->
+            <!--</a>--><!-- End of .btnScrollDown -->
+            <ul class="carousel-indicators"></ul>
+            <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a><!-- End of .carousel-control-prev -->
+            <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a><!-- End of .carousel-control-next -->
+    </div><!-- End of .carousel-inner.fullHeight -->
+</figure><!-- End of #carousel -->
+
+
+<main id="main" role="main">
+    <div id="quickLinks" class="quickLinks">
+        <div class="maxWidthContainer">
+
+            <h2 class="hideMe">Quick Links</h2>
+            <div class="container-fluid text-center">
+    <div class="qlContainer row">
+            <div class="col-3">
+
+
+                <a href="/p/meeting-schedule"  title="Click here to read more about Public Meeting Calendar">
+                    <i class="fa fa-gavel"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Public Meeting</span>
+                        <span>Calendar</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="/p/-agendas-voting-records-minutes-videos-recordings"  title="Click here to read more about Meeting Minutes &amp; Agendas">
+                    <i class="fa fa-file-pdf"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Meeting Minutes</span>
+                        <span>&amp; Agendas</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="/p/important-tax-information"  title="Click here to read more about Tax Information">
+                    <i class="fa fa-sack-dollar"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Tax</span>
+                        <span>Information</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="/p/online-permitting"  title="Click here to read more about Online Permitting">
+                    <i class="fa fa-file-alt"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Online</span>
+                        <span>Permitting</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="http://monroect.qscend.com/311/request/add"   target="blank"   title="Click here to read more about Submit a Service Request">
+                    <i class="fa fa-cog"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Submit a</span>
+                        <span>Service Request</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="https://public.coderedweb.com/CNE/en-US/0EA26FC0A14C"   target="blank"   title="Click here to read more about Emergency  Notification Sign Up">
+                    <i class="fa fa-bell"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Emergency </span>
+                        <span>Notification Sign Up</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="https://metrocog.mapxpress.net/Monroe/"   target="blank"   title="Click here to read more about Monroe GIS">
+                    <i class="fa fa-globe"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Monroe</span>
+                        <span>GIS</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-3">
+
+
+                <a href="/p/mailing-list-sign-up"  title="Click here to read more about Sign Up for Our Mailing Lists">
+                    <i class="fa fa-envelope"></i>
+                    <div class="quickLinksTitleContainer">
+
+                        <span>Sign Up for Our</span>
+                        <span>Mailing Lists</span>
+                    </div>
+                </a>
+            </div>
+
+    </div><!-- End of .qlContainer -->
+    <div class="mobile-ql">
+        <div class="qlContainer">
+            <a href="javascript:void(0)" disabled tabindex="-1" class="quicklinksCloseBtn"><span>Close</span></a>
+                <a href="/p/meeting-schedule" title="Click here to read more about Public Meeting Calendar">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-gavel"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Public Meeting</span>
+                            <span>Calendar</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="/p/-agendas-voting-records-minutes-videos-recordings" title="Click here to read more about Meeting Minutes &amp; Agendas">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-file-pdf"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Meeting Minutes</span>
+                            <span>&amp; Agendas</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="/p/important-tax-information" title="Click here to read more about Tax Information">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-sack-dollar"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Tax</span>
+                            <span>Information</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="/p/online-permitting" title="Click here to read more about Online Permitting">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-file-alt"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Online</span>
+                            <span>Permitting</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="http://monroect.qscend.com/311/request/add" title="Click here to read more about Submit a Service Request">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-cog"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Submit a</span>
+                            <span>Service Request</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="https://public.coderedweb.com/CNE/en-US/0EA26FC0A14C" title="Click here to read more about Emergency  Notification Sign Up">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-bell"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Emergency </span>
+                            <span>Notification Sign Up</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="https://metrocog.mapxpress.net/Monroe/" title="Click here to read more about Monroe GIS">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-globe"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Monroe</span>
+                            <span>GIS</span>
+                        </div>
+
+                    </div>
+                </a>
+                <a href="/p/mailing-list-sign-up" title="Click here to read more about Sign Up for Our Mailing Lists">
+                    <div class="quickLinksCont">
+                        <i class="fa fa-envelope"></i>
+                        <div class="quickLinksTitleContainer">
+
+                            <span>Sign Up for Our</span>
+                            <span>Mailing Lists</span>
+                        </div>
+
+                    </div>
+                </a>
+        </div><!-- End of .qlContainer -->
+    </div>
+</div>
+
+        </div>
+    </div>
+    
+    <div class="ql-open-bar">
+        <span> Popular Links</span>
+    </div>
+
+    <div id="introCont" class="introRow">
+        <div class="maxWidthContainer row">
+            <div class="col-xl-8 col-12  pr-xl-5 p-0">
+                <h3>Welcome to the Town of Monroe</h3>
+                <p>
+                    Monroe is a community of nearly 19,000 residents. Founded in 1823, Monroe offers award-winning schools, safe neighborhoods, beautiful parks, and sustained growth in local business and industry.
+                </p>
+                <p>
+                    Monroe is a family-oriented community that offers beautiful recreational facilities and a variety of local restaurants and retail shopping.
+                </p>
+                <p>
+                    Monroe is proud to be the home of not only small businesses, but larger companies in industries such as energy, manufacturing, warehousing & distribution – all while maintaining our small-town, New England charm.
+                </p>
+            </div>
+            <div class="col-xl-4 col-12 introImage">
+				<p>Terrence P. Rooney, First Selectman</p>
+			</div>
+        </div>
+
+    </div>
+
+
+    <div class="maxWidthContainer pt-5 pb-5">
+        <div class="row">
+            <div class="col-xl-4 col-12">
+                
+                <div id="recentNewsCont" class=" d-flex flex-column h-100">
+                    <h3><span>News & Announcements</span></h3>
+                    <div class="cf ">
+
+
+                                <a class="iconPost" href="#" data-toggle="modal" data-target="#firstSelectman0" title="Click here to read more about the Updates from the First Selectman">
+                                    <div class="card">
+                                        <i class="fa-regular fa-newspaper"></i>
+                                        <div class="card-body">
+                                            <time class="card-time" datetime="Aug 26, 2024">
+                                                Aug 26, 2024
+                                            </time>
+                                            <p class="card-title">
+                                                Updates from the First Selectman
+                                            </p>
+                                        </div>
+                                        <span><i class="fa-solid fa-arrow-right"></i></span>
+                                    </div>
+                                </a>
+                                <div class="modal fade" id="firstSelectman0" role="dialog" tabindex="-1" aria-labelledby="firstSelectmanLabel0" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <header class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                                                <h2 class="modalTitle" id="firstSelectmanLabel0">Local Notices</h2>
+                                            </header>
+                                            <div class="modal-body">
+                                                <!--Begin CTCT Archive--><script id="archiveScript" src="//static.ctctcdn.com/js/archive-static/current/archive-static.min.js"></script><div data-archive-count="40" data-m="a07ej9qxofz0" id="archiveList"><br></div><!--End CTCT Archive-->
+                                                <div class="modalToolbarCont">
+                                                    <a class="modalBTNSocial facebook btn btn-facebook sharable" href="https://www.facebook.com/sharer/sharer.php?u=https://monroect.gov/Home/Index?404;https://monroect.gov:443/sitemap.xmlp/local-notices/8fe1fc2d-abfc-4c28-8d55-992bc87c5f40.html" title="Post on Facebook" target="_blank"><i class="fab fa-facebook-f"></i>Share</a>
+                                                    <a class="modalBTNSocial twitter btn btn-twitter sharable" href="https://twitter.com/intent/tweet?text=Updates from the First Selectman'&url=https://monroect.gov/Home/Index?404;https://monroect.gov:443/sitemap.xmlp/local-notices/8fe1fc2d-abfc-4c28-8d55-992bc87c5f40.html'" title="Share on Twitter" target="_blank"><i class="fab fa-twitter"></i>Tweet</a>
+                                                </div>
+                                            </div>
+                                            <footer class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+                                            </footer>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="iconPost" href="#" data-toggle="modal" data-target="#latestNews" data-notice="/Home/NoticeDetailHome?noticeId=cb8fa526-4e3d-46d0-b008-97c22a2e1780" title="Click here to read more about the Flooding Self Reporting Information for Residents and Business Owners  ">
+                                    <div class="card">
+                                        <i class="fa-regular fa-newspaper"></i>
+                                        <div class="card-body">
+                                            <time class="card-time" datetime="Aug 21, 2024">
+                                                Aug 21, 2024
+                                            </time>
+                                            <p class="card-title">
+                                                Flooding Self Reporting Information for Residents and Business Owners  
+                                            </p>
+                                        </div>
+                                        <span><i class="fa-solid fa-arrow-right"></i></span>
+                                    </div>
+                                </a>
+                                <a class="iconPost" href="#" data-toggle="modal" data-target="#latestNews" data-notice="/Home/NoticeDetailHome?noticeId=4edc35fc-13e7-4474-b483-25144f1c8bc7" title="Click here to read more about the Declaration of a Local State of Emergency">
+                                    <div class="card">
+                                        <i class="fa-regular fa-newspaper"></i>
+                                        <div class="card-body">
+                                            <time class="card-time" datetime="Aug 20, 2024">
+                                                Aug 20, 2024
+                                            </time>
+                                            <p class="card-title">
+                                                Declaration of a Local State of Emergency
+                                            </p>
+                                        </div>
+                                        <span><i class="fa-solid fa-arrow-right"></i></span>
+                                    </div>
+                                </a>
+                                <a class="iconPost" href="#" data-toggle="modal" data-target="#latestNews" data-notice="/Home/NoticeDetailHome?noticeId=747ab84d-9eec-4817-adfc-19ecb88e7d48" title="Click here to read more about the Property Fraud Alert">
+                                    <div class="card">
+                                        <i class="fa-regular fa-newspaper"></i>
+                                        <div class="card-body">
+                                            <time class="card-time" datetime="Mar 25, 2024">
+                                                Mar 25, 2024
+                                            </time>
+                                            <p class="card-title">
+                                                Property Fraud Alert
+                                            </p>
+                                        </div>
+                                        <span><i class="fa-solid fa-arrow-right"></i></span>
+                                    </div>
+                                </a>
+                    </div>
+                    <p class="bottomLinks cf">
+                        <a href="/p/local-notices" title="Click here to view all notices"> <i class="fa-solid fa-arrow-right"></i>View All</a>
+                    </p>
+                </div><!-- End of #recentEvents -->
+            </div>
+
+            
+            <div class="col-xl-4 col-12">
+                <div id="recentMeetingsCont" class=" d-flex flex-column h-100">
+                    <h3><span>Meetings</span></h3>
+                    <div class="cf ">
+                            <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=c9c55e59-6094-4f0f-bb84-eaa2e147814c" title="Click here to read more about the POSTPONED - WMNR Commission Regular Meeting to 9/10/24">
+                                <div class="card">
+                                    <i class="fa-regular fa-gavel"></i>
+                                    <div class="card-body">
+                                        <time class="card-time" datetime="Sep 03, 2024">Sep 03, 2024</time>
+                                        <p class="card-title">
+                                            POSTPONED - WMNR Commission Regular Meeting to 9/10/24
+                                        </p>
+                                    </div>
+                                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                                </div>
+
+                            </a>
+                            <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=49e504bc-2bfe-4e2a-abb7-11265959460d" title="Click here to read more about the Zoning Board of Appeals Regular Meeting">
+                                <div class="card">
+                                    <i class="fa-regular fa-gavel"></i>
+                                    <div class="card-body">
+                                        <time class="card-time" datetime="Sep 03, 2024">Sep 03, 2024</time>
+                                        <p class="card-title">
+                                            Zoning Board of Appeals Regular Meeting
+                                        </p>
+                                    </div>
+                                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                                </div>
+
+                            </a>
+                            <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=ea952585-a98f-4222-adc9-ecbf8c288a35" title="Click here to read more about the Historic District Commission Regular Meeting ">
+                                <div class="card">
+                                    <i class="fa-regular fa-gavel"></i>
+                                    <div class="card-body">
+                                        <time class="card-time" datetime="Sep 03, 2024">Sep 03, 2024</time>
+                                        <p class="card-title">
+                                            Historic District Commission Regular Meeting 
+                                        </p>
+                                    </div>
+                                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                                </div>
+
+                            </a>
+                            <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=4537349e-0763-4391-a5fb-b5840458753e" title="Click here to read more about the Commission for the Aging Regular Meeting">
+                                <div class="card">
+                                    <i class="fa-regular fa-gavel"></i>
+                                    <div class="card-body">
+                                        <time class="card-time" datetime="Sep 04, 2024">Sep 04, 2024</time>
+                                        <p class="card-title">
+                                            Commission for the Aging Regular Meeting
+                                        </p>
+                                    </div>
+                                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                                </div>
+
+                            </a>
+                    </div>
+                    <p class="bottomLinks cf">
+
+                        <a href="/p/meeting-schedule" title="Click here to view all meetings"> <i class="fa-solid fa-arrow-right"></i>View All Meetings</a>
+                    </p>
+                </div>
+            </div>
+            
+            <div class="col-xl-4 col-12">
+                <h2 id="newsAndEvents" class="hideMe">News &amp; Events</h2>
+                <div id="upcomingEventsCont" class=" d-flex flex-column h-100">
+                    <h3><span>Community Events</span></h3>
+                        <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=8c708fb0-b571-48eb-92d3-1d01eebf27f3" title="Click here to read more about the Monroe Parks &amp; Recreation Concert Mass-Conn Fusion Band">
+                            <div class="card">
+                                <i class="fa-regular fa-calendar"></i>
+                                <div class="card-body">
+                                    <time class="card-time" datetime="Sep 01, 2024">Sep 01, 2024</time>
+                                    <p class="card-title">
+                                        Monroe Parks &amp; Recreation Concert Mass-Conn Fusion Band
+                                    </p>
+                                </div>
+                                <span><i class="fa-solid fa-arrow-right"></i></span>
+
+                            </div>
+                        </a>
+                        <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=ea306e7c-f425-4f68-b664-60d208eeba0b" title="Click here to read more about the Monroe Farmers Market ">
+                            <div class="card">
+                                <i class="fa-regular fa-calendar"></i>
+                                <div class="card-body">
+                                    <time class="card-time" datetime="Sep 06, 2024">Sep 06, 2024</time>
+                                    <p class="card-title">
+                                        Monroe Farmers Market 
+                                    </p>
+                                </div>
+                                <span><i class="fa-solid fa-arrow-right"></i></span>
+
+                            </div>
+                        </a>
+                        <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=967544ab-d32e-4e75-a7a7-88e6a0b3e2d5" title="Click here to read more about the Edith Wheeler Memorial Library- Author Talks ">
+                            <div class="card">
+                                <i class="fa-regular fa-calendar"></i>
+                                <div class="card-body">
+                                    <time class="card-time" datetime="Sep 10, 2024">Sep 10, 2024</time>
+                                    <p class="card-title">
+                                        Edith Wheeler Memorial Library- Author Talks 
+                                    </p>
+                                </div>
+                                <span><i class="fa-solid fa-arrow-right"></i></span>
+
+                            </div>
+                        </a>
+                        <a class="iconPost " href="#" data-toggle="modal" data-target="#upcomingEvents" data-event="/Home/GetEventDetails?eventid=cb4fe98b-7f0b-4888-bbd9-d8439577552c" title="Click here to read more about the Monroe Farmers Market ">
+                            <div class="card">
+                                <i class="fa-regular fa-calendar"></i>
+                                <div class="card-body">
+                                    <time class="card-time" datetime="Sep 13, 2024">Sep 13, 2024</time>
+                                    <p class="card-title">
+                                        Monroe Farmers Market 
+                                    </p>
+                                </div>
+                                <span><i class="fa-solid fa-arrow-right"></i></span>
+
+                            </div>
+                        </a>
+
+                    <p class="bottomLinks cf">
+                        <a href="/p/community-events-calendar" title="Click here to view events"> <i class="fa-solid fa-arrow-right"></i>View All Events</a>
+                        <a href="/p/community-event-submission" title="Click here to submit an event"> <i class="fa-solid fa-arrow-right"></i>Submit an Event</a>
+                    </p>
+                    <p class="bottomLinks additionalLinks cf">
+                        <a href="https://monroect.myrec.com/info/calendar/default.aspx" target="_blank" title="Click here to view parks and recreation events"> <i class="fa-solid fa-arrow-right"></i>Parks & Rec Events</a>
+                        <a href="https://ewml.org/events/" target="_blank" title="Click here to view library events"> <i class="fa-solid fa-arrow-right"></i>Library Events</a>
+                    </p>
+                </div><!-- End of #upcomingEvents -->
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+</main><!-- End of #mainContent -->
+<!-- Modal Windows -->
+<div class="modal fade" id="latestNews" role="dialog" tabindex="-1" aria-labelledby="latestNewsLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <header class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                <h2 class="modalTitle" id="latestNewsLabel">Local Notices</h2>
+            </header>
+            <div class="modal-body">
+                <div class="loading-main">
+                    <div class="loading-process"></div>
+                    <div class="loading-text"></div>
+                </div>
+            </div>
+            <footer class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+            </footer>
+        </div>
+    </div>
+</div><!-- End of #latestNews -->
+
+<div class="modal fade" id="upcomingEvents" role="dialog" tabindex="-1" aria-labelledby="upcomingEventsLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <header class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                <h2 class="modalTitle" id="upcomingEventsLabel">Upcoming Events</h2>
+            </header>
+            <div class="modal-body">
+                <div class="loading-main">
+                    <div class="loading-process"></div>
+                    <div class="loading-text"></div>
+                </div>
+            </div>
+            <footer class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+            </footer>
+        </div>
+    </div>
+</div><!-- End of #upcomingEvents -->
+<!--<div class="modal fade" id="meetingEvent" role="dialog" tabindex="-1" aria-labelledby="meetingEventLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <header class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                <h2 class="modalTitle" id="meetingEventLabel">Meeting Events</h2>
+            </header>
+            <div class="modal-body">
+                <div class="loading-main">
+                    <div class="loading-process"></div>-->
+
+<!--<div class="loading-text"></div>
+                </div>
+            </div>
+            <footer class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+            </footer>
+        </div>
+    </div>
+</div>-->
+<!-- End of #municipalEvents -->
+
+    
+    <footer role="contentinfo">
+
+    <div class="footerBottom">
+        <div class="maxWidthContainer">
+
+
+            <div class="row ">
+
+
+                <div class="col-xl-4  col-12 d-flex flex-column text-xl-left text-center ">
+                    <h3>Contact Us</h3>
+                    <a id="headerTop" class="hMap" href="https://www.google.ca/maps/place/Monroe,+CT,+USA/@41.342812,-73.2664774,13z/data=!3m1!4b1!4m5!3m4!1s0x89e7e2f668cbc151:0xc5e087b4ad4cb5b5!8m2!3d41.3325962!4d-73.2073358" title="Our office is located at 7 Fan Hill Road Monroe, Connecticut 06468" target="_blank"> <span>Address: </span><span>7 Fan Hill Road Monroe, Connecticut 06468</span></a>
+                    <a class="hPhone" href="tel:+1(203) 452-2800" title="Call us at +1(203) 452-2800"> <span>Phone: </span><span>(203) 452-2800</span></a>
+                    <h5>Connect With Monroe</h5>
+                        <a href="https://www.facebook.com/townofmonroect/" class="hFacebook" title="Join us in our Facebook page" target="_blank"><span class="hideMe">Facebook</span></a>
+
+                </div>
+                <div class="col-xl-3 col-12 mt-xl-0 mt-4 text-xl-left text-center">
+                    <h3>Hours:</h3>
+                    <p>
+                        
+                        <a href="javascript:void(0);" class="officeHoursBTN" data-toggle="modal" data-target="#officeHoursModal">Monday-Thursday 8:30am – 4:30pm   <br /> Friday: 8:30am - 1:30pm</a>
+                        <br />
+
+
+                    </p>
+
+                </div>
+                <div class="col-xl-5 col-12 mt-xl-0 mt-4 d-flex flex-column align-items-xl-start align-items-center text-xl-left text-center">
+                    <h3>Department Directory</h3>
+                    <p>
+                        Do you have a question or concern for the department of the Town of Monroe? Get in touch with us today!
+                    </p>
+                    <a href="/p/department-directory" class="footerLink" title="Click to view Staff Directory">Department Directory</a>
+                </div>
+
+
+
+            </div>
+
+        </div><!-- End of .container -->
+
+    </div><!-- End of .footerBottom -->
+    <div class="serviceFooter  d-flex justify-content-between">
+        <div class="maxWidthContainer row ">
+
+            <div class="col-xl-3 col-12 p-0 d-flex justify-content-xl-start justify-content-center align-items-md-end align-items-center">
+                <small>2024 &copy; Town of Monroe</small>
+            </div><!-- End of .col-sm -->
+
+            <div class="serviceCont col-xl-6 col-12 p-xl-0 pr-0 pl-0 pt-3 pb-2 d-flex  flex-md-row flex-column justify-content-center align-items-center">
+                <a href="/p/disclaimer" class="pr-2" title="Click to view Disclaimer">Disclaimer</a>
+                <a href="/p/terms-of-use" class="pr-2 pl-2" title="Click to view Terms of Use">Terms of Use</a>
+                <a href="/p/ada-compliance" class="pl-2 pr-2 " title="Click to view ADA Compliance">ADA Compliance</a>
+                <a href="https://monroect.qscend.com/content/343/2888/default.aspx"  target="_blank" class="pl-2" title="Click to view Employees List">Employees</a>
+
+
+            </div><!-- End of .col-sm -->
+
+
+            <div class="col-xl-3 col-12 p-0  d-flex justify-content-xl-end justify-content-center">
+                <cite>
+                    <span>
+                        Powered By:
+                    </span><a href="https://www.qscend.com" title="Developed and maintained by QScend Technologies" target="_blank" data-toggle="tooltip" data-placement="top"></a>
+                </cite>
+            </div><!-- End of .col-sm -->
+        </div>
+    </div><!-- End of .row -->
+</footer>
+
+<!-- Modal Windows -->
+<div class="modal fade" id="modalPollQuestion" role="dialog" tabindex="-1" aria-labelledby="modalPollQuestionLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <header class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                <h2 class="modalTitle" id="modalPollQuestionLabel">Tell Us What You Think</h2>
+            </header>
+            <div class="modal-body" id="pollBody">
+                <div class="modalBodyMetaHeader">
+    <p></p>
+</div><!-- End of .modalBodyMetaHeader -->
+
+<div class="container plugin-form">
+<form action="/Home/SubmitPoll" class="form-css-poll" data-ajax="true" data-ajax-begin="SubmitPollBegin" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-success="SubmitPollSuccess" data-ajax-update="#pollBody" id="formPoll" method="post"><input id="PollQuestionId" name="PollQuestionId" type="hidden" value="" />        <ul class="add-form">
+        </ul>
+        <div class="poll-submit">
+            <input type="submit" value="Submit">
+        </div><!-- End of .poll-submit -->
+</form></div><!-- End of .container.plugin-form -->
+            </div>
+            <footer class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+            </footer>
+        </div>
+    </div>
+</div><!-- End of #pollQuestion -->
+
+<div class="modal fade" id="fireRatingModal" role="dialog" tabindex="-1" aria-labelledby="fireRatingModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <header class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                <h2 class="modalTitle iconFireRating modalFireRating fireLow" id="fireRatingModalLabel">Fire Ban </h2>
+            </header>
+            <div class="modal-body">
+                <div class="dynamicFireRating fireLow">
+    
+    <span class="sr-only">Todays fire rating is Low</span>
+    <p class="fireRatingIconCont">
+        Current Fire Rating:<span><i class="far fa-fire-smoke"></i>Low</span>
+    </p>
+</div><!-- End of .dynamicFireRating -->
+
+<div class="tblFireRatingContainer">
+    <p><p>Fires may start easily and spread quickly but there will be minimal involvement of deeper fuel layers or larger fuels.</p></p>
+</div><!-- End of .tblFireRatingContainer -->
+            </div>
+            <footer class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+            </footer>
+        </div>
+    </div>
+</div><!-- End of #fireRatingModal -->
+
+    <button class="btnScrollup" title="Scroll to the top of the page">
+        <i aria-hidden class="fal fa-arrow-to-top" title="Scroll to the top"></i>
+        <span class="sr-only">Scroll to the top of the page</span>
+    </button>
+
+  
+
+
+
+    <!-- Modal Windows -->
+   
+    <div class="modal fade" id="officeHoursModal" role="dialog" tabindex="-1" aria-labelledby="modalOfficeHours" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <header class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i><span class="hideMe">Close</span></button>
+                    Office Hours
+                </header>
+                <div class="modal-body">
+                    <p>Monday - Thursday: 8:30am - 4:30pm</p>
+                </div>
+                <footer class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+                </footer>
+            </div>
+        </div>
+    </div><!-- End of Office Hours -->
+   
+
+
+
+    <div class="modal fade" id="ajax-loading" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="spinner">
+                        <div class="rect1"></div>
+                        <div class="rect2"></div>
+                        <div class="rect3"></div>
+                        <div class="rect4"></div>
+                        <div class="rect5"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- End of #ajax-loading -->
+
+        <div class="modal fade" id="alertModal" role="dialog" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <header class="modal-header alert-warn">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="fal fa-times"></i><span class="hideMe">Close</span>
+                    </button>
+                </header>
+                <div id="AlertCarouselModal" class="carousel slide">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="fal fa-times"></i><span class="hideMe">Close</span>
+                    </button>
+                    <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="modal-body alert-warn">
+                                    <h2>Storm Damage-Self Reporting </h2>
+                                    <p>To streamline the data collection process and ensure accurate and efficient reporting, the State of Connecticut has created a dedicated public self-reporting link for the public to report damages to homes and businesses. This portal will enable the gathering of comprehensive information regarding the damages incurred and identify areas where to direct damage assessment teams.  The public self-reporting link is below.<br/><br/>Here is the self-reporting link:https://crisistrack.juvare.com/public/CTDEMHS/request.html </p>
+                                        <div class="btnAlertCenter">
+                                            <a href="https://crisistrack.juvare.com/public/CTDEMHS/request.html">READ MORE</a>
+                                        </div>
+                                    <br>
+                                </div>
+                            </div>
+                            <div class="carousel-item ">
+                                <div class="modal-body alert-default">
+                                    <h2>Holiday Closing- Labor Day </h2>
+                                    <p>The Monroe Town Hall Offices, Library, Highway Department, Senior Center and Food Pantry will be closed on Monday, September 2nd in observance of Labor Day. <br/><br/>Normal hours will resume on Tuesday, September 3rd. <br/><br/>Recycling will not be picked up on Monday, September 2nd.  All pickups will be delayed one day that week. <br/><br/>The Spring Hill Road Transfer Station and Garder Road Landfill will be open on Saturday, August 31st.<br/></p>
+                                    <br>
+                                </div>
+                            </div>
+                    </div>
+
+                        <a class="carousel-control-prev" href="#AlertCarouselModal" role="button" data-slide="prev">
+                            <i class="far fa-chevron-left"></i>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#AlertCarouselModal" role="button" data-slide="next">
+                            <i class="far fa-chevron-right"></i>
+                            <span class="sr-only">Next</span>
+                        </a>
+
+                </div>
+
+                <footer class="modal-footer" style="display:none">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Close</button>
+                </footer>
+            </div>
+        </div>
+    </div>
+<script>
+    $('#AlertCarouselModal').bind('slid.bs.carousel', function (e) {
+        var $thisItem = $(this).find('.carousel-item.active').find('.modal-body').attr('class').replace("modal-body ", "");
+        var $pastItem = $(this).parent().find('.modal-header').attr('class').replace("modal-header ", "");
+
+        $(this).parent().find('.modal-header').removeClass($pastItem).addClass($thisItem);
+    });
+</script>
+
+    <!-- Scripts -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    
+    <script src="/Scripts/carousel.js"></script>
+
+    <script>
+        $(function () {
+            'use strict';
+               $("#alertModal").modal('show');
+        });
+    </script>
+    <script src="//www.google.com/recaptcha/api.js" async defer></script>
+    <script src="/Scripts/touchSwipe.min.js"></script>
+    <script src="/Scripts/prefixfree.js"></script>
+    <script src="/Scripts/fitvids.js"></script>
+    <script src="/Scripts/froogaloop.min.js"></script>
+    <script src="/Scripts/custom-scripts.js"></script>
+    <script src="/Scripts/owl.carousel.min.js"></script>
+    
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-55TTWX0VNM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-55TTWX0VNM');
+</script>
+
+   
+</body>
+</html>

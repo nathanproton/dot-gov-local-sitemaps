@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <script src="https://use.typekit.net/vvp7pty.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="https://jacksoncounty.colorado.gov/" />
+<link rel="shortlink" href="https://jacksoncounty.colorado.gov/" />
+<link rel="image_src" href="https://demo.colorado.gov/sites/default/files/fb-shared-profile-image.png" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/ci_xy/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Home | Jackson County</title>
+
+        
+    <link rel="stylesheet" media="all" href="/sites/jacksoncounty/files/css/css_AIgNdGBMm4TXAViYFk9DaaXLTqV2ZpQZFXVnTKhv9Yw.css?delta=0&amp;language=en&amp;theme=ci_xy&amp;include=eJxlkFFuxCAMRC9EwnH6iQw4gAI4wkbb3L4kabNR92_8BsYMDlzEJXeO2t1yLli7cpCxemj6T8wSsaByyYAvqRp5Iaysz2G6BsXkEmRT0CcwOdXhf6LfIN5ZsGgLfIZ-7zpkspAnln2cC-qFdqFWjCUSlgab_iDKrSNXqBlwjppPVPWt5qVRlfH2I_7caWiTYbD-D9QGDcIIjKx96xvk-U3mXrduc-KIXt2rzePKDac3VGJH6QDHZ14ln-DoiKwCUchoHKO-5FBfINgKtPXpVrrxDzJHq_0" />
+<link rel="stylesheet" media="all" href="/sites/jacksoncounty/files/css/css_BhM82O1IZCpk-51YsWQvqoVqVdHDvCfwuQxRKWqit4o.css?delta=1&amp;language=en&amp;theme=ci_xy&amp;include=eJxlkFFuxCAMRC9EwnH6iQw4gAI4wkbb3L4kabNR92_8BsYMDlzEJXeO2t1yLli7cpCxemj6T8wSsaByyYAvqRp5Iaysz2G6BsXkEmRT0CcwOdXhf6LfIN5ZsGgLfIZ-7zpkspAnln2cC-qFdqFWjCUSlgab_iDKrSNXqBlwjppPVPWt5qVRlfH2I_7caWiTYbD-D9QGDcIIjKx96xvk-U3mXrduc-KIXt2rzePKDac3VGJH6QDHZ14ln-DoiKwCUchoHKO-5FBfINgKtPXpVrrxDzJHq_0" />
+
+    <script src="/libraries/fontawesome/js/all.min.js?v=6.4.0" defer></script>
+
+  </head>
+  <body class="path-frontpage page-node-type-landing-page has-glyphicons">
+    <div class="site-wrapper">
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+        Skip to main content
+      </a>
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+  <div class="region region-co-branding">
+    
+    <div class="container">
+        
+    </div>
+  </div>
+
+  <header class="header">
+  <div class="row">
+    <div class="container">
+        <div class="col-sm-7">
+            <div class="region region-global-header">
+                  <a class="header__logo navbar-btn" href="/" title="Jackson County Logo" rel="home">
+        <img class="header__logo--image" src="/sites/jacksoncounty/files/logo.svg" alt="Jackson County Logo" />
+      </a>
+      
+  </div>
+
+        </div>
+        <div class="col-sm-5">
+          <div class="header__search googlesearch">
+            <div class="search-block-form google-cse block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+  
+    
+      <form action="/search/search" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Search</label>
+  
+  
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="40" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button  type="submit" value="Search" class="button js-form-submit form-submit btn" >Search</button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+
+                                                                      <div class="top-nav color__brand-dark-blue">
+            <div class="container">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="region region-navigation">
+    <section id="block-ci-xy-mainnavigation" class="block block-tb-megamenu block-tb-megamenu-menu-blockmain clearfix">
+  
+    
+
+      <nav  class="tbm tbm-main tbm-arrows" id="tbm-main" data-breakpoint="1200" aria-label="main navigation">
+      <button class="tbm-button" type="button">
+      <div class="tbm-button-hamburger-menu-text">Menu</div>
+      <span class="tbm-button-container">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </button>
+    <div class="tbm-collapse ">
+    <ul  class="tbm-nav level-0 items-8" role="list" >
+        <li  class="tbm-item level-1 active active-trail" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/home"  class="tbm-link level-1 active-trail">
+                Home
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/contacts"  class="tbm-link level-1">
+                Contacts
+          </a>
+            </div>
+    
+</li>
+
+          <li  class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" title="Departments" aria-expanded="false">
+                Departments
+          </span>
+                <button class="tbm-submenu-toggle always-show color__brand-dark-blue"><span class="visually-hidden">Toggle submenu</span></button>
+          </div>
+    <div  class="tbm-submenu tbm-item-child tbm-has-width" style="width: 290px;" role="list">
+      <div class="color__brand-dark-blue">
+  <div  class="tbm-row">
+          <div  class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul  class="tbm-subnav level-1 items-14" role="list">
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/social-services"  class="tbm-link level-2">
+                Social Services
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/airport"  class="tbm-link level-2">
+                Airport
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/building-inspector"  class="tbm-link level-2">
+                Building Inspector
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/csu-extension"  class="tbm-link level-2">
+                CSU Extension
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/cemetery"  class="tbm-link level-2">
+                Cemetery
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/fair-grounds-and-wattenberg"  class="tbm-link level-2">
+                Fair Grounds and Wattenberg
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/fire-department"  class="tbm-link level-2">
+                Fire Department
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/landfill"  class="tbm-link level-2">
+                Landfill
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/library"  class="tbm-link level-2">
+                Library
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/noxious-weeds"  class="tbm-link level-2">
+                Noxious Weeds
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/public-health"  class="tbm-link level-2">
+                Public Health
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/road-and-bridge"  class="tbm-link level-2">
+                Road and Bridge
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/swimming-pool"  class="tbm-link level-2">
+                Swimming Pool
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/departments/veterans-service-officer"  class="tbm-link level-2">
+                Veteran Service Officer
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      </div>
+</div>
+  </div>
+
+</li>
+
+          <li  class="tbm-item level-1 290 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Government
+          </span>
+                <button class="tbm-submenu-toggle always-show color__brand-dark-blue"><span class="visually-hidden">Toggle submenu</span></button>
+          </div>
+    <div  class="tbm-submenu tbm-item-child" role="list">
+      <div class="color__brand-dark-blue">
+  <div  class="tbm-row">
+          <div  class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul  class="tbm-subnav level-1 items-8" role="list">
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/government/administrator"  class="tbm-link level-2">
+                Administrator
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/government/assessor"  class="tbm-link level-2">
+                Assessor
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/Clerk"  class="tbm-link level-2">
+                Clerk
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/government/commissioners"  class="tbm-link level-2" title="Commissioners">
+                Commissioners
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/elected-officials/coroner"  class="tbm-link level-2">
+                Coroner
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/goverment/sheriff/jail"  class="tbm-link level-2">
+                Sheriff/Jail
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/goverment/surveyor"  class="tbm-link level-2">
+                Surveyor
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/government/treasurer"  class="tbm-link level-2">
+                Treasurer
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      </div>
+</div>
+  </div>
+
+</li>
+
+        <li  class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/events/event-calender"  class="tbm-link level-1">
+                Event Calender
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/job-openings"  class="tbm-link level-1">
+                Job Opportunities
+          </a>
+            </div>
+    
+</li>
+
+          <li  class="tbm-item level-1 290 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" title="Community" aria-expanded="false">
+                Community
+          </span>
+                <button class="tbm-submenu-toggle always-show color__brand-dark-blue"><span class="visually-hidden">Toggle submenu</span></button>
+          </div>
+    <div  class="tbm-submenu tbm-item-child" role="list">
+      <div class="color__brand-dark-blue">
+  <div  class="tbm-row">
+          <div  class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul  class="tbm-subnav level-1 items-10" role="list">
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/chamber-of-commerce"  class="tbm-link level-2">
+                Chamber of Commerce
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/court"  class="tbm-link level-2">
+                Court
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/museum"  class="tbm-link level-2">
+                Museum
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/north-park-school-district"  class="tbm-link level-2">
+                North Park School District
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/parks-and-wildlife"  class="tbm-link level-2">
+                Parks and Wildlife
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/sand-dunes-and-blm"  class="tbm-link level-2">
+                Sand Dunes and BLM
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/state-forest"  class="tbm-link level-2">
+                State Forest
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/town-of-walden"  class="tbm-link level-2">
+                Town of Walden
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/us-forest-service"  class="tbm-link level-2">
+                US Forest Service
+          </a>
+            </div>
+    
+</li>
+
+        <li  class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/community/visit-north-park-colorado"  class="tbm-link level-2">
+                Visit North Park Colorado
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      </div>
+</div>
+  </div>
+
+</li>
+
+        <li  class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container color__brand-dark-blue">
+            <a href="/bids-and-proposals"  class="tbm-link level-1">
+                Bids and Proposals
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+  </nav>
+
+<script>
+if (window.matchMedia("(max-width: 1200px)").matches) {
+  document.getElementById("tbm-main").classList.add('tbm--mobile');
+}
+
+
+</script>
+
+  </section>
+
+
+  </div>
+
+            </div>
+        </div>
+      
+<div style="display:none;">
+	0
+</div>
+
+  
+            <div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field--item"><div>
+  
+  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field--item">    <picture>
+                  <source srcset="/sites/jacksoncounty/files/styles/mobile_featured_image_1x_767px/public/DSC02007%20%281%29.jpg 767w, /sites/jacksoncounty/files/styles/tablet_featured_image_1x_1024px/public/DSC02007%20%281%29.jpg 1024w, /sites/jacksoncounty/files/styles/desktop_featured_image_1x_1440px/public/DSC02007%20%281%29.jpg 1280w, /sites/jacksoncounty/files/styles/desktop_wide_featured_image_1x_1281px/public/DSC02007%20%281%29.jpg 1281w, /sites/jacksoncounty/files/styles/mobile_featured_image_2x_767px/public/DSC02007%20%281%29.jpg 1534w, /sites/jacksoncounty/files/styles/tablet_featured_image_2x_1024px/public/DSC02007%20%281%29.jpg 2048w" media="all and (min-width: 1281px)" type="image/jpeg" sizes="100vw" width="2048" height="464"/>
+              <source srcset="/sites/jacksoncounty/files/styles/mobile_featured_image_1x_767px/public/DSC02007%20%281%29.jpg 767w, /sites/jacksoncounty/files/styles/tablet_featured_image_1x_1024px/public/DSC02007%20%281%29.jpg 1024w, /sites/jacksoncounty/files/styles/desktop_featured_image_1x_1440px/public/DSC02007%20%281%29.jpg 1280w, /sites/jacksoncounty/files/styles/desktop_wide_featured_image_1x_1281px/public/DSC02007%20%281%29.jpg 1281w, /sites/jacksoncounty/files/styles/mobile_featured_image_2x_767px/public/DSC02007%20%281%29.jpg 1534w, /sites/jacksoncounty/files/styles/tablet_featured_image_2x_1024px/public/DSC02007%20%281%29.jpg 2048w" media="all and (min-width: 1025px) and (max-width: 1280px)" type="image/jpeg" sizes="100vw" width="2048" height="464"/>
+              <source srcset="/sites/jacksoncounty/files/styles/mobile_featured_image_1x_767px/public/DSC02007%20%281%29.jpg 767w, /sites/jacksoncounty/files/styles/tablet_featured_image_1x_1024px/public/DSC02007%20%281%29.jpg 1024w, /sites/jacksoncounty/files/styles/mobile_featured_image_2x_767px/public/DSC02007%20%281%29.jpg 1534w, /sites/jacksoncounty/files/styles/tablet_featured_image_2x_1024px/public/DSC02007%20%281%29.jpg 2048w" media="all and (min-width: 768px) and (max-width: 1024px)" type="image/jpeg" sizes="100vw" width="2048" height="464"/>
+              <source srcset="/sites/jacksoncounty/files/styles/mobile_featured_image_1x_767px/public/DSC02007%20%281%29.jpg 767w, /sites/jacksoncounty/files/styles/tablet_featured_image_1x_1024px/public/DSC02007%20%281%29.jpg 1024w, /sites/jacksoncounty/files/styles/mobile_featured_image_2x_767px/public/DSC02007%20%281%29.jpg 1534w, /sites/jacksoncounty/files/styles/tablet_featured_image_2x_1024px/public/DSC02007%20%281%29.jpg 2048w" type="image/jpeg" sizes="100vw" width="2048" height="464"/>
+                  <img loading="eager" src="/sites/jacksoncounty/files/styles/mobile_featured_image_1x_767px/public/DSC02007%20%281%29.jpg" width="767" height="174" alt="" typeof="foaf:Image" class="img-responsive" />
+
+  </picture>
+
+</div>
+      
+</div>
+</div>
+      
+
+
+  		<main id="main-content" tabindex="-1" class="js-quickedit-main-content">
+        <div class="row">
+                <div class="container">
+                      
+                  </div>
+                                              <div class="col-sm-12">
+                <div class="region region-header">
+      
+  <h1>
+Home
+</h1>
+
+
+  </div>
+
+            </div>
+                                  <div class="wrap">
+                                        <section class="col-sm-12">
+                                                      <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                                                                                                        
+                                                                <figure class="image-container">
+                
+              </figure>
+
+              
+
+  <div class="region region-content" >
+      
+<article about="/home" class="landing-page full clearfix">
+
+  
+    
+
+  
+  <div>
+    
+      <div>
+
+
+
+
+
+
+
+
+<div class="paragraph paragraph--type--bp-columns paragraph--view-mode--default">
+  <div class="paragraph__column ">
+    
+            <div class="field field--name-field-color-pick field--type-colorapi-color-field field--label-hidden field--item">#FFFFFF</div>
+      <div class="paragraph__column--container-wrapper">
+  <div class="container"><div class="paragraph--type--bp-columns__1col">
+      
+
+
+    
+    
+
+    
+    
+    <div class="paragraph paragraph--type--card-open-embed paragraph--view-mode--default">
+                <div class="paragraph__column">          
+            
+  <div class="field field--name-field-open-embed field--type-text-long field--label-visually_hidden">
+              <div class="field--item"><a class="weatherwidget-io" href="https://forecast7.com/en/40d68n106d25/jackson-county/?unit=us" data-label_1="JACKSON COUNTY" data-label_2="WEATHER" data-theme="original" >JACKSON COUNTY WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script></div>
+          </div>
+
+        </div>
+            </div>  
+
+    </div></div>
+</div>
+  </div>
+</div>
+
+</div>
+      <div>
+
+
+
+
+
+
+
+
+<div class="paragraph paragraph--type--bp-columns paragraph--view-mode--default">
+  <div class="paragraph__column ">
+    
+            <div class="field field--name-field-color-pick field--type-colorapi-color-field field--label-hidden field--item">#FFFFFF</div>
+      <div class="paragraph__column--container-wrapper">
+  <div class="container"><div class="paragraph--type--bp-columns__2col">
+      
+
+
+    
+    
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+        <div class="paragraph__card paragraph paragraph--type--card-basic card_no-border paragraph--view-mode--default">
+            <div class="paragraph__column">
+                <div class="paragraph__title title_color color__brand-tree-green  ">
+                    <h3 class="mt-0 mb-0">
+                        
+            <div class="field field--name-field-card-title field--type-string field--label-hidden field--item">NO FIRE RESTRICTIONS AT THIS TIME</div>
+      
+                    </h3>
+                </div>
+                
+            <div class="field field--name-field-card-body field--type-text-long field--label-hidden field--item"><dl class="ckeditor-accordion"><dt>Holiday Closures</dt><dd><p>Jan 1, Feb 19, May 27, July 4, Sept 2, Oct 14, Nov 11, Nov 28, Nov 29, Dec 25</p></dd></dl><p>&nbsp;</p></div>
+      
+                
+            </div>
+    </div>
+
+    </div><div class="paragraph--type--bp-columns__2col">
+      
+
+
+    
+    
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+        <div class="paragraph__card paragraph paragraph--type--card-basic card_no-border paragraph--view-mode--default">
+            <div class="paragraph__column">
+                <div class="paragraph__title title_color   ">
+                    <h3 class="mt-0 mb-0">
+                        
+                    </h3>
+                </div>
+                
+            <div class="field field--name-field-card-body field--type-text-long field--label-hidden field--item"><p class="text-align-center"><a href="https://jacksoncounty.colorado.gov/departments/landfill">Landfill Hours</a></p><p class="text-align-center"><a href="https://www.govpaynow.com//gps/user/cyg/plc/a005se">Pay Your Taxes</a></p><p class="text-align-center"><a href="https://jacksoncounty.colorado.gov/Clerk">License Plate Info</a></p><p class="text-align-center"><a href="https://www.cotrip.org">Road Conditions</a></p><p class="text-align-center"><a href="https://jacksoncounty.colorado.gov/government/administrator">Accessibility</a></p><p>&nbsp;</p></div>
+      
+                
+            </div>
+    </div>
+
+    </div></div>
+</div>
+  </div>
+</div>
+
+</div>
+  
+  </div>
+
+</article>
+
+
+  </div>
+
+                      </section>
+                            </div>
+      </div>
+    </main>
+
+<footer>
+                  <div class="footer__content-footer color__silver">
+              <div class="container">
+                    <div class="region region-footer">
+    <section id="block-socialmedialinks" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-4"> 
+          <ul class="social-media-links--platforms platforms inline horizontal">
+                          <li>
+                <a href="https://www.facebook.com/jacksoncountycoloradoboardofcommissioners"  >
+                  <span class='fab fa-facebook fa-2x'></span>
+                </a>
+
+                              </li>
+                          <li>
+                <a href="https://www.instagram.com/visit.jacksoncounty/"  >
+                  <span class='fab fa-instagram fa-2x'></span>
+                </a>
+
+                              </li>
+                      </ul>
+        </div>
+    </div>
+</div>
+  </section>
+
+
+  </div>
+
+                  <div style="display:none">
+                    <p>placeholder</p>
+                    </div>
+
+              </div>
+          </div>
+          
+          <div class="global__footer-color color__silver">
+          <div class="footer__global-footer">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-9">
+                          <ul class="footer__global-footer--links">
+                              <li>&#169; 2024 State of Colorado</li>
+                              <li><a href="https://data.colorado.gov/stories/s/fjyf-bdat">Transparency Online</a></li>
+                              <li><a href="https://www.colorado.gov/general-notices">General Notices</a></li>
+                          </ul>
+                      </div>
+                      <div class="col-lg-3">
+                          <div class="footer__logo">
+                              <a class="logo--cogov" aria-label="Colorado Official State Web Portal" href="https://www.colorado.gov">Colorado Official State Web Portal</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </footer>
+
+
+
+  </div>
+
+      <div id="disable_messages-debug-div" style="display:none;">
+      <pre></pre>
+    </div>
+
+    </div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/9999","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":1}},"bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"TBMegaMenu":{"TBElementsCounter":{"column":null},"theme":"ci_xy","tbm-main":{"arrows":"1"}},"googlePSE":{"language":"en","displayWatermark":0},"ajaxTrustedUrl":{"\/search\/search":true},"user":{"uid":0,"permissionsHash":"ee37572222a9e4802a09ca29646ac6875f9e064a6ba8b77818398afcd69d9470"}}</script>
+<script src="/sites/jacksoncounty/files/js/js_nelGIfQ8qc4UPwIczOLEQFe8eLND1hberVNTxhfQljE.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ci_xy&amp;include=eJxlj1kSAiEMRC_EmOP4SQUmg9QAoZLo6O1FLfe_7tfVWWL2ONfcvG2Eq8LdTA_j4gjFcizklezY4cu5hZvhRsqV4EPv9JRu1fMFUuGAZVK7lNyeMDCbmmCfNErupm6jsLBU_0rgj7i40pyNxWOMLHPmBi-1W2Sspza794TOnU8kH8SYi-V-u8IOVMlzt1FW-AXOgq-UsFI7QkAll5jTeDsqwUMOtUcjqSjrFVFDgJg"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?sil2j2"></script>
+<script src="/sites/jacksoncounty/files/js/js_uZ_54Apq9ILoVZtWHl2XhBdk14hPaA0nvYr0qlF7UaM.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=ci_xy&amp;include=eJxlj1kSAiEMRC_EmOP4SQUmg9QAoZLo6O1FLfe_7tfVWWL2ONfcvG2Eq8LdTA_j4gjFcizklezY4cu5hZvhRsqV4EPv9JRu1fMFUuGAZVK7lNyeMDCbmmCfNErupm6jsLBU_0rgj7i40pyNxWOMLHPmBi-1W2Sspza794TOnU8kH8SYi-V-u8IOVMlzt1FW-AXOgq-UsFI7QkAll5jTeDsqwUMOtUcjqSjrFVFDgJg"></script>
+
+    <script type="text/javascript">
+      /*<![CDATA[*/
+      (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = 'https://siteimproveanalytics.com/js/siteanalyze_77585.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+      })();
+      /*]]>*/
+    </script>
+  </body>
+  </html>

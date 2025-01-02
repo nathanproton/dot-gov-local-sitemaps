@@ -1,0 +1,695 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head><title>
+	VoteWA Voter Portal
+</title><meta charset="utf-8" /><meta name="robots" content="noindex, nofollow" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" /><link type="text/css" rel="stylesheet" href="font-awesome/css/solid.min.css" /><link type="text/css" rel="stylesheet" href="font-awesome/css/all.min.css" /><link type="text/css" rel="stylesheet" href="css/googlefonts.css" /><link type="text/css" rel="stylesheet" href="css/vip.css?lt=&lt;%= lt() %>" />
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/vip.js?lt=638607280422538655"></script>
+
+    
+    <script type="text/javascript" src="js/login.js?lt=638607280422538655"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+
+<body>
+    <form name="vipForm" method="post" action="./login.aspx" id="vipForm" class="d-none">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="JQVCU3w9lM8oyfVyMMAmV0qhV0JCNAj43bhcQk/HM3uDfbU/woG1Mdlybu5if0CVenCTew/V/O26ycN2jewPiwSAC8QNeCdHVsy/IFzPu7GfnfKIVqcqyArZBlBq61XqPzNI/4BM5KeL4fDHnmRR95ufAexzNoiRw5Y99Ed7O2Yfk19vAnFRFVQ7Il+1bd4OXKF/ca7lHk6Fn7DlGiIk4oE/IP/3oc/C9N+u2kuIs0CkAezk8fdHYDm/AVFjoSv3qXVEHp4GXkiJFxtl4E5aZ7cdK1fxvcPvzWPqHtn/Cp0c0+ErzEUsOxuccbmNBKc1cCiIb2nJi8cVCVI1O6RskQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4084CFA2" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="PhItJ33ogRGOlrmVHsovXo3ujp0ozui4Gzn8wb39QuvLkjsaUCQiYTaccKJwhWM+dU0FUH4JCOBN9elyYXLa0iyB63djEZoOqAVpf1lpkyfD3TIpfTouNVYM8jN1U8jMaKa6V8lP17CbQjOwHKws8LwMj+S/gOdnOuCk5px5yKWhtmvktGt/+mCmi8kUJPhtR7VIDT8gIh96TFuMw4MwwDkMouZKtPE4cAt98tCAYhzUREHAMe9JXM/kMq1dhzAgWVCem3mK0uqzqJnY6iUp5fM4G4Ay4BFQczSiy8GgSmk=" />
+        <input type="hidden" name="ctl00$hdnVoterID" id="hdnVoterID" />
+        <input type="hidden" id="lt" value="638607280422538655" />        
+
+        
+        <input type="hidden" name="ctl00$hdnClientAction" id="hdnClientAction" />
+
+        
+        <input type="hidden" name="ctl00$hdnServerAction" id="hdnServerAction" />
+
+        
+        <input type="hidden" name="ctl00$hdnElectionID" id="hdnElectionID" />
+        <input type="hidden" name="ctl00$hdnBallotID" id="hdnBallotID" />
+
+        
+        <header>
+            <div class="container d-flex flex-wrap py-2 bg-WA-dark-blue">
+                
+
+                
+                <div class="d-flex me-auto WA-header">
+                    <i class="fa-solid fa-language WA-locale-image" aria-hidden="true"></i>
+                    &nbsp;
+                   
+                    <select data-i18n-switcher class="locale-switcher rounded-2 WA-locale-switcher">
+                        <option value="en">English</option>
+                        <option value="es">Español (Spanish)</option>
+                    </select>
+                </div>
+
+                
+                
+
+            </div>
+            <div class="container d-flex flex-wrap py-2 border-bottom bg-WA-green">
+                <div class="d-flex flex-column flex-lg-row">
+                    <div class="mb-1">
+                        <a href="#" id="ctl00_linkHome" class="pe-2" title="Home">
+                            <img src="images/site-logo.png" alt="Home" /></a>
+                    </div>
+                    <div>
+                        <span id="ctl00_lblBanner" class="WA-header-banner" data-i18n-key="banner">Voter registration and ballot management portal</span>
+                    </div>
+                </div>
+
+                
+                
+            </div>
+
+        </header>
+
+        <div class="container pb-3">
+
+            
+            <nav aria-label="primary navigation">
+                
+            </nav>
+
+            <div class="row mt-2">
+                <div class="col-md-8 pe-md-3 pt-3 primaryContent">
+
+                    
+                    <nav aria-label="breadcrumbs">
+                        <div class="row pb-2">
+                            
+
+                            
+                        </div>
+                    </nav>
+
+                    
+                    <main id="main">
+
+                        
+                        
+
+
+                        
+                        <div class="col-md-12 WA-alerts" id="alerts">
+                            <div id="alertCard" class="alert alert-danger WA-alert d-none" role="alert">
+                                
+                                
+                                <i class="fa-solid fa-triangle-exclamation alert-danger alert-image"><span class="sr-only">Alert</span></i>
+                                <span data-i18n-key="">Alert message</span>
+                            </div>
+
+                            <div id="infoCard" class="alert alert-info WA-alert-info d-none" role="alert">
+                                
+                                
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="">Informational message</span>
+                            </div>
+
+                            
+                            <div id="alertSessionTimeout" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="session_timeout" class="fw-bold fs-6">Your session has timed out.</span>
+                                <p class="mb-0" data-i18n-key="please_login_again">Please login again and you will be returned to the page you were on.</p>
+                            </div>
+
+                            
+                            <div id="alertNoElections" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="no_elections" class="fw-bold fs-6">There are no races in this election or they have not been set up yet.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's Elections Office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertNoElectionSelected" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="no_election_selected" class="fw-bold fs-6">You have not selected an election.</span>
+                                <p class="mb-0" data-i18n-key="please_select_an_election">Please select an election from the list below.</p>
+                            </div>
+
+                            
+                            <div id="alertNoBallots" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="no_ballots" class="fw-bold fs-6">Ballots have not yet been generated for this election.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertBallotsNotSent" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="ballots_not_sent" class="fw-bold fs-6">Ballots have not yet been sent for this election.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertNoBallotSelected" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="no_ballot_selected" class="fw-bold fs-6">You have not selected an ballot.</span>
+                                <p class="mb-0" data-i18n-key="please_select_a_ballot">Please select a ballot from the list below.</p>
+                            </div>
+
+                            
+                            
+                            <div id="alertVotingClosed" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="voting_closed" class="fw-bold fs-6">Voting is not open for your selected election.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertBallotStyles" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="ballot_styles" class="fw-bold fs-6">The ballot styles for the selected election have not yet been verified.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertBallotAlreadyRequested" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="ballot_sent" class="fw-bold fs-6">You already have a ballot requested.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertBallotQueued" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="ballot_queued" class="fw-bold fs-6">Ballots are not ready.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            <div id="alertBallotReceived" class="alert alert-info WA-alert-info d-none" role="alert">
+                                <i class="fa-solid fa-circle-info alert-info alert-image"><span class="sr-only">Information</span></i>
+                                <span data-i18n-key="ballot_received" class="fw-bold fs-6">A new ballot cannot be requested because your ballot has already been received.</span>
+                                <div>
+                                    <span data-i18n-key="county_elections_contact">Contact the</span>
+                                    <u><a href="#0" target="_blank" class="county_web"><span data-i18n-key="county_elections_office">your county's elections office</span></a></u>
+                                    <span data-i18n-key="county_elections_for_more_info">for more information.</span>
+                                </div>
+                            </div>
+
+                            
+                            
+    <div id="alertCredsIncomplete" class="alert alert-danger WA-alert d-none" role="alert">
+        <i class="fa-solid fa-triangle-exclamation alert-danger alert-image"><span class="sr-only">Alert</span></i>
+        <span data-i18n-key="login_credentials_incomplete">Please provide both your first and last name and your birth date in the format MM/DD/YYYY.</span>
+    </div>
+
+    <div id="alertVoterNotFound" class="alert alert-danger WA-alert d-none" role="alert">
+        <i class="fa-solid fa-triangle-exclamation alert-danger alert-image"><span class="sr-only">Alert</span></i>
+        <span data-i18n-key="login_voter_not_found">The name and date of birth you provided does not match our records. If you are registered to vote, please contact your county’s Elections Office. To register to vote and get access to your voter profile, please </span>
+        <a wa-link="olvr" href="#0"><span data-i18n-key="login_register_to_vote">register to vote</span></a>
+    </div>
+
+    <div id="alertRecaptchaFailed" class="alert alert-danger WA-alert d-none" role="alert">
+        <i class="fa-solid fa-triangle-exclamation alert-danger alert-image"><span class="sr-only">Alert</span></i>
+        <span data-i18n-key="alert_recaptcha_failed">Recaptcha failed.</span>
+    </div>
+
+
+
+
+
+                        </div>
+
+                        
+                        
+
+                        
+                        
+
+                        
+                        <section aria-label="primary content">
+                            <div id="pageContent">
+                                
+    <input type="hidden" name="ctl00$cphContent$hdnCaptchaEnabled" id="hdnCaptchaEnabled" value="false" />
+
+    <div id="ctl00_cphContent_pnlNewVIPBanner" class="align-items-center ms-auto d-flex">
+	
+        <div id="divNewVIPBanner" class="alert alert-info WA-alert-info w-100" role="alert">
+            <i class="fa-solid fa-circle-info alert-info alert-image">
+                <span data-i18n-key="new_vip_welcome_header" class="sr-only hideForSMS">Welcome to the new Voter Portal!</span>
+                <span data-i18n-key="sms_login_welcome" class="sr-only showForSMS">Subscribe to SMS messages</span>
+            </i>
+            <span data-i18n-key="new_vip_welcome_header" class="fw-bold fs-6">Welcome to the new Voter Portal!</span>
+            <div>
+                <span data-i18n-key="new_vip_welcome_message" class="hideForSMS">This is a message that can be changed in the language files!</span>
+                <span data-i18n-key="sms_login_welcome" class="showForSMS">Subscribe to SMS messages</span>
+            </div>
+        </div>
+    
+</div>
+
+    <h1 data-i18n-key="signin">Sign In</h1>
+
+    <div class="form-row col-md-8 login-cred">
+        <div class="form-group">
+            <label for="FirstName" class="pl-0 field-label" data-i18n-key="login_first_name">First Name (must match voter registration)</label>
+            <div class="form-floating">
+                <input name="ctl00$cphContent$FirstName" type="text" id="FirstName" class="form-control is-invalid" placeholder="First Name" autocomplete="off" />
+                <label for="FirstName" id="FirstNameCheck" class="text-secondary" data-i18n-key="login_required">Required</label>
+            </div>
+        </div>
+    </div>
+    <div class="form-row col-md-8 pt-2 login-cred">
+        <div class="form-group">
+            <label for="LastName" class="pl-0 field-label" data-i18n-key="login_last_name">Last Name (must match voter registration)</label>
+            <div class="form-floating">
+                <input name="ctl00$cphContent$LastName" type="text" id="LastName" class="form-control is-invalid" placeholder="Last Name" autocomplete="off" />
+                <label for="LastName" id="LastNameCheck" class="text-secondary" data-i18n-key="login_required">Required</label>
+            </div>
+        </div>
+    </div>
+    <div class="form-row col-md-8 pt-2 login-cred">
+        <div class="form-group">
+            <label for="BirthDate" class="pl-0 field-label" data-i18n-key="login_date_of_birth">Date of Birth (mm/dd/yyyy)</label>
+            <div class="form-floating">
+                <input name="ctl00$cphContent$BirthDate" maxlength="10" id="BirthDate" class="form-control is-invalid" placeholder="mm/dd/yyyy" type="tel" autocomplete="off" />
+                <label for="BirthDate" id="BirthDateCheck" class="text-secondary" data-i18n-key="login_required">Required</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-row col-md-8 pt-3 login-cred">
+        <button id="btnLogin" class="btn btn-primary button" onclick="signIn();" type="button"><span data-i18n-key="signin">Sign in</span></button>
+    </div>
+
+    <div class="pt-3">
+        <h2 data-i18n-key="login_portal_access_title">Accessing the portal</h2>
+        <p data-i18n-key="login_portal_access_registered">If you are registered to vote in Washington state, you automatically have an account with VoteWA.</p>
+        <p data-i18n-key="login_portal_access_not_registered">If you are not registered to vote, you will not have access to the portal.</p>
+
+    </div>
+
+    <div class="form-row col-md-8 login-cred">
+        <a wa-link="olvr" class="small_button_white" href="#0" target="_blank" data-i18n-key="login_register_to_vote">Register to Vote</a>
+    </div>
+
+    <label for="g-recaptcha-response" class="sr-only">recaptcha response</label>
+    <div class="g-recaptcha" data-sitekey="6LdhABIpAAAAAGMru8vp-6cILPRuo7rWzGG08yDW" data-size="invisible" data-callback="recaptchaCallback"></div>
+
+                            </div>
+                        </section>
+
+                        
+                        
+
+                    </main>
+
+                </div>
+
+                
+                <div id="ctl00_Sidebar" class="col-md-4 py-2 sidebar">
+                    <nav aria-label="sidebar">
+                        <div class="list-group">
+
+                            
+                            <div class="d-none" id="sbCountyInfo">
+                                <a wa-link="county_offices" href="#0" class="list-group-item list-group-item-action flex-column align-items-start county_web" target="_blank">
+                                    <h5 class="mb-2 quick-links-title">
+                                        <span data-i18n-key="county_elections_office">Your County Elections Office
+                                        </span>
+                                    </h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="contact_county">For help with your ballot, contact the [COUNTY NAME] county elections office.</p>
+                                    <div class="row small">
+                                        <span class="county_office">[COUNTY OFFICE]</span>
+                                        <span class="county_phone_text"></span>
+                                    </div>
+                                    <div class="row small">
+                                        <span class="county_email">[COUNTY EMAIL]</span>
+                                    </div>
+
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbCountyInfoPublic">
+                                <div class="row mb-3">
+                                    <label data-i18n-key="contact_county_no_login">For help with your ballot, contact the elections office in the county in which you are registered.</label>
+                                </div>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbElectionCalendar">
+                                <a wa-link="election_calendar" href="#0" target="_blank" class="list-group-item list-group-item-action flex-column align-items-start electionCalendar">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="calendar_heading">Elections Calendar</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="calendar">See the timeline and important dates for this and upcoming elections.</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbElectedOfficials">
+                                <a href="electedofficials.aspx" class="list-group-item list-group-item-action flex-column align-items-start">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="elected_officials">Elected Officials</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="elected">See who represents you.</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbGetReplacementBallot">
+                                <a href="Replacement.aspx" class="list-group-item list-group-item-action flex-column align-items-start" target="_self">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="replacement">Get a Replacement Ballot</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="sidebar_replacement">Print a ballot out or get a new one mailed.</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbVotersGuide">
+                                <a wa-link="voters_guide" href="#0" class="list-group-item list-group-item-action flex-column align-items-start votersGuide" target="_blank">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="sidebar_voter_guide_heading">Voters' Guide: What's on Your Ballot?</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="sidebar_voter_guide">See what's on the ballot and download a voter guide.</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbLocations">
+                                <a wa-link="voting_locations" href="#0" class="list-group-item list-group-item-action flex-column align-items-start locations" target="_self">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="locations">Drop Box and Voting Center Locations</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="sidebar_locations">Drop your signed ballot at an official drop box or return by mail, no stamp needed. In-person services and accessible voting devices are available through your local elections office or voting center until election day, 8 p.m.</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbHelp">
+                                <a wa-link="faq" href="#0" class="list-group-item list-group-item-action flex-column align-items-start" target="_blank">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="help">Ballot and Voting Help</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="sidebar_help">Instructions and guidance for elections and voting in Washington State</p>
+                                </a>
+                            </div>
+
+                            
+                            <div class="d-none" id="sbSubscriteToSMS">
+                                <a id="hlSubscribeToSMS" class="list-group-item list-group-item-action flex-column align-items-start" OnClick="showModalPopup(&#39;modalSubscribeToSMS&#39;);" href="#0">
+                                    <h5 class="mb-1 quick-links-title" data-i18n-key="sms_heading">Subscribe to SMS</h5>
+                                    <p class="mb-1 quick-links-info" data-i18n-key="sms_sidebar">Subscribe to ballot updates via texting</p>
+                                </a>
+                            </div>
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+        </div>
+
+        
+        <footer>
+            <div class="container py-3 border-top">
+                <div class="navbar navbar-default navbar-fixed-top" aria-label="secondary navigation">
+                    <div class="col-6 col-md-2">
+                        <ul class="nav navbar-nav WA-footer-buttons">
+                            <li class="nav-item my-lg-2"><a wa-link="contact_us" href="#0" target="_blank" class="nav-link px-0 py-2 p-lg-0 text-muted text-lg-start" data-i18n-key="contact">Contact Us</a></li>
+                            <li class="nav-item my-lg-2"><a wa-link="elections_home" href="#0" target="_blank" class="nav-link px-0 py-2 p-lg-0 text-muted text-lg-start" data-i18n-key="elections_home">Elections Home</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-6 col-md-2">
+                        <ul class="nav navbar-nav WA-footer-buttons text-lg-start">
+                            <li class="nav-item my-lg-2"><a wa-link="accessibility" href="#0" target="_blank" class="nav-link px-0 py-2 p-lg-0 text-muted text-lg-start" data-i18n-key="accessibility">Website Accessibilty</a></li>
+                            <li class="nav-item my-lg-2"><a wa-link="privacy" href="#0" target="_blank" class="nav-link px-0 py-2 p-lg-0 text-muted text-lg-start" data-i18n-key="privacy">Privacy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-12 col-md-6 mt-3">
+                        <p class="WA-sos-statement"><a wa-link="sos_home" href="#0" target="_blank" data-i18n-key="sos_link">The WA Secretary of State’s office</a> <span data-i18n-key="sos_statement">is the official source for information about elections in Washington State.</span></p>
+                    </div>
+
+                    <div class="col-12 col-md-2 mt-2 text-center">
+                        <a wa-link="sos_home" href="#0" target="_blank">
+                            <img src="images/SecStateWA_Block_Color_RGB_300dpi.png" class="WA-sos-image" />
+                        </a>
+                        <p class="me-md-3 WA-copyright">© Copyright 2023</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        
+        <div class="modal fade" id="vipModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <span id="modalPurpose" hidden="hidden"></span>
+            <div id="modalDialog" class="modal-dialog modal-dialog-centered">
+
+                <div id="modalName" class="modal-content d-none">
+                    
+                    
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="modal_title">Modal Title</span>
+                        <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="closeModalPopup();"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                    </div>
+                    <div class="modal-body WA-modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="">Modal Body</span>
+                        </div>
+                    </div>
+                    <div class="modal-footer WA-modal-footer">
+                        <button type="button" class="btn btn-primary WA-modal-button" data-i18n-key="OK" onclick="someFunction();">OK</button>
+                        <button type="button" class="btn btn-primary WA-modal-button" data-i18n-key="yes" onclick="someFunction();">Yes</button>
+                        <button type="button" class="btn btn-primary WA-modal-button" data-i18n-key="Submit" onclick="someFunction();">Submit</button>
+                        <button type="button" class="btn btn-secondary WA-modal-button" data-i18n-key="Cancel" onclick="closeModalPopup();">Cancel</button>
+                        <button type="button" class="btn btn-secondary WA-modal-button" data-i18n-key="no" onclick="closeModalPopup();">No</button>
+                        <button type="button" class="btn btn-secondary WA-modal-button" data-i18n-key="Close" onclick="closeModalPopup();">Close</button>
+                    </div>
+                </div>
+
+                
+                <div id="modalSearching" class="modal-content d-none">
+                    <div class="modal-body">
+                        <div class="mb-0 text-center">
+                            <span data-i18n-key="searching" class="mb-0">Searching...</span>&nbsp;
+                           
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="modalLoading" class="modal-content d-none">
+                    <div class="modal-body">
+                        <div class="mb-0 text-center">
+                            <span data-i18n-key="loading" class="mb-0">Loading...</span>&nbsp;
+                           
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="modalWorking" class="modal-content d-none">
+                    <div class="modal-body">
+                        <div class="mb-0 text-center">
+                            <span data-i18n-key="working" class="mb-0">Working...</span>&nbsp;
+                           
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="modalProcessing" class="modal-content d-none">
+                    <div class="modal-body">
+                        <div class="mb-0 text-center">
+                            <span data-i18n-key="working" class="mb-0">Processing...</span>&nbsp;
+                           
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="modalFileUploadInProgress" class="modal-content d-none">
+                    <div class="modal-body">
+                        <div class="mb-0 text-center">
+                            <span data-i18n-key="uploading" class="mb-0">Uploading...</span>&nbsp;
+                           
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="modalConfirmSignout" class="modal-content d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="signout">Sign out</span>
+                    </div>
+                    <div class="modal-body WA-modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="signout_confirmation">Are you certain you want to sign out?</span>
+                        </div>
+                    </div>
+                    <div class="modal-footer WA-modal-footer">
+                        <button type="button" class="btn btn-primary WA-modal-button" data-i18n-key="yes" onclick="signOut();">Yes</button>
+                        <button type="button" class="btn btn-secondary WA-modal-button" data-i18n-key="no" onclick="closeModalPopup();">No</button>
+                    </div>
+                </div>
+
+                
+                <div id="modalLeavePortal" class="modal-content d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="modal_title">Leaving the portal</span>
+                    </div>
+                    <div class="modal-body WA-modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="leave_portal_warning">This action will cause you to leave the VoteWA Portal. Continue?</span>
+                        </div>
+                    </div>
+                    <div class="modal-footer WA-modal-footer">
+                        <input type="hidden" id="targetUrl" wa-link="targetUrl" value="" />
+                        <button type="button" class="btn btn-primary WA-modal-button" data-i18n-key="yes" onclick="signOut();">Yes</button>
+                        <button type="button" class="btn btn-secondary WA-modal-button" data-i18n-key="no" onclick="closeModalPopup();">No</button>
+                    </div>
+                </div>
+
+                
+                <div id="modalElections" class="modal-content d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="login_elections_title">Select an election</span>
+                        <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="selectElection(0);"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="login_elections_prompt">There are multiple elections for your address. Please select an election listed below. You will be able to change this at any time.</span>
+                        </div>
+                        <div>
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+                
+                <div id="modalBallots" class="modal-content d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="select_a_ballot">Select a ballot</span>
+                        <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="selectBallot(0);"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mb-1">
+                            <span id="multipleBallots" data-i18n-key="multiple_ballots">Multiple ballots have been submitted for this election. Please select the one you would like to track.</span>
+                        </div>
+                        <div class="text-center">
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="modalKingCounty" class="modal-content d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="king_county_heading">Ballot for King County</span>
+                        <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="closeModalPopup();"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                    </div>
+                    <div class="modal-body WA-modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="king_county">You can access your ballot packet with King County’s online ballot delivery system. Go to</span>
+                            <a  href="#0" wa-link="king_county" target="_blank"><span data-i18n-key="king_county_link">King County Voter Information</span></a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="modalSubscribeToSMS" class="modal-content w-auto d-none">
+                    <div class="clear-fix WA-modal-header">
+                        <span class="WA-modal-title-text" data-i18n-key="sms_heading">Subscribe to SMS</span>
+                        <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="closeModalPopup();"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                    </div>
+                    <div class="modal-body WA-modal-body">
+                        <div class="mb-1">
+                            <span data-i18n-key="sms_already" class="sms_unsubscribe d-none">You are already subscribed for text messages</span>
+                            <span data-i18n-key="sms_unsubscribe_options" class="sms_unsubscribe d-none">You have two options:</span>
+                            <span data-i18n-key="sms_subscribe_options" class="sms_subscribe">You have two options:</span>
+                            <br /><br />
+                            <ul>
+                                <li class="sms_unsubscribe text-nowrap d-none">
+                                    <span data-i18n-key="sms_unsubscribe_option1">Text "stop" to </span>
+                                    <span id="ctl00_lblTwilioNumber1">868392</span>
+                                </li>
+                                <li class="sms_subscribe text-nowrap">
+                                    <span data-i18n-key="sms_subscribe_option1">Text "vote" to </span>
+                                    <span id="ctl00_lblTwilioNumber2">868392</span>
+                                </li>
+                                <li><a href="#0" wa-link="olvr" target="_blank"><span data-i18n-key="sms_option_2">Update Voter Registration</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+                
+                
+
+    
+    <div id="modalVoters" class="modal-content d-none">
+        <div class="clear-fix WA-modal-header">
+            <span class="WA-modal-title-text" data-i18n-key="login_addresses_title">Select an address</span>
+            <button type="button" class="btn btn-primary WA-modal-button float-end" onclick="closeModalPopup();"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+        </div>
+        <div class="modal-body WA-modal-body">
+            <div class="mb-1">
+                <span data-i18n-key="login_addresses_prompt">Multiple records have been found with the information you provided. Please select the one with the address that matches yours.</span>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+            </div>
+        </div>
+
+        
+        <div class="position-fixed top-0 end-0 p-3 WA-toast-container" id="toastContainer" aria-hidden="true">
+
+            <div id="toastName" class="toast hide" role="alert" aria-live="assertive" aria-atomic="true">
+                
+                
+                <div class="toast-header WA-toast-header">
+                    <span class="WA-toast-header-text me-auto" data-i18n-key="">Toast heading</span>
+                    <button type="button" class="btn btn-secondary WA-toast-button" data-bs-dismiss="toast" aria-label="Close"><i class="fa fa-times"><span class="sr-only">close dialog</span></i></button>
+                </div>
+                <div class="toast-body WA-toast-body">
+                    <span data-i18n-key="">Toast Message</span>
+                </div>
+            </div>
+
+            
+            
+
+        </div>
+
+    </form>
+</body>
+</html>

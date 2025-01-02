@@ -1,0 +1,683 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="https://www.northadams-ma.gov/" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+
+ 
+
+	
+	
+
+	<title>North Adams, MA</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content="North Adams, MA"/>
+
+
+	<meta name="robots" content="index, follow">
+
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/revize/plugins/document_center/document_center_styles.css">
+<script type="text/javascript" src="/revize/plugins/document_center/simple_accordian.js"></script>
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+
+	
+
+	<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+
+
+	
+
+
+
+
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms9.revize.com'
+
+RZ.pagetemplatename = 'freeform'
+RZ.pagetemplateid = '0'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '1709';
+
+RZ.pageid = 'links-1709';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '1709';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=1709';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=1709';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '1709';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '1709';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = '91986a9cf4ed97d7e6905c498113943198856deede85dda4108dd3d787e62f79'
+RZ.page_key = 'freeform[1709]'
+RZ.parent_key = 'index[]'
+RZ.inherit_key = 'index[]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'northadamsma'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms9.revize.com/revize/northadamsma';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.calendar_options = "max_events=4";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "hide_text=yes";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.redirect_whitelist = "";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,Production,files';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+
+
+
+<header>
+	<a href="not_found/index.php#main" id="skip" tabindex="0" class="btn">Skip to main content</a>
+
+	<div class="navicon-editbtn freeform-none">
+		<script language="JavaScript" type="text/JavaScript">
+			RZ.module = 'global';
+			RZ.nexturl = "editforms/navicon-editlist.jsp?pageid=navicon";
+			RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+			RZ.img = '<span class="rzBtn">Edit Nav Icons</span>';
+			RZ.caption = '';
+			RZ.options = '';
+			if (typeof RZaction != 'undefined') RZaction('editlist');
+		</script>
+	</div><!--/.navicon-editbtn-->
+	
+	<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+			
+	
+	
+	
+	
+		
+	<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('global','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['global_1']={field:'seq_no',seq:'7.00'};
+</script>
+
+	<ul id="navicons" class="hidden">
+		<li><img src="navicons/home.png" alt="home"></li>
+<li><img src="navicons/university.png" alt="university"></li>
+<li><img src="navicons/users.png" alt="users"></li>
+<li><img src="navicons/briefcase.png" alt="briefcase"></li>
+<li><img src="navicons/plane.png" alt="plane"></li>
+<li><img src="navicons/question.png" alt="question"></li>
+<li><img src="navicons/info-circle.png" alt="info-circle"></li>
+
+	</ul><!--/#navicons-->
+
+	<div id="toggles" class="hidden-lg hidden-md">
+		<div id="search-toggle" class="fa fa-search"></div>
+		<div id="nav-toggle" class="fa fa-bars"></div>
+	</div><!--/#toggles.hidden-lg.hidden-md-->
+	<div class="container">
+		<div class="row clearfix">
+			<div class="col-md-2" style="min-height:1px">
+				<a href="./" id="logo"><img src="_assets_/images/logo.png" alt="navigation logo"></a>
+			</div><!-- /.col-md-2 -->
+			<div class="col-md-7">
+				<nav>
+					<!-- start plugin: menus.topnav-include -->
+
+				  
+
+
+
+
+
+
+
+ 
+<ul id="nav" class="v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-1"><a class="menuA level0 menuDisplay" href="index.php" target="_self">Home</a></li>
+	<li class="menuLI level0 menuDisplay li-2 children"><a class="menuA level0 menuDisplay" href="government/index.php" target="_self">Government</a>
+		<ul class="menuUL level1 menuHidden ul-26">
+			<li class="menuLI level1 menuHidden li-26"><a class="menuA level1 menuHidden" href="government/mayor_s_office/index.php" target="_self">Mayor's Office</a></li>
+			<li class="menuLI level1 menuHidden li-27"><a class="menuA level1 menuHidden" href="government/city_council/index.php" target="_self">City Council</a></li>
+			<li class="menuLI level1 menuHidden li-28"><a class="menuA level1 menuHidden" href="government/boards_and_commissions/index.php" target="_self">Boards and Commissions</a></li>
+			<li class="menuLI level1 menuHidden li-29 children"><a class="menuA level1 menuHidden" href="government/city_reports/index.php" target="_self">City Reports</a>
+				<ul class="menuUL level2 menuHidden ul-974">
+					<li class="menuLI level2 menuHidden li-974"><a class="menuA level2 menuHidden" href="government/city_reports/index.php#outer-196 " target="_self">Annual Reports</a></li>
+					<li class="menuLI level2 menuHidden li-975"><a class="menuA level2 menuHidden" href="government/city_reports/index.php#outer-198 " target="_self">Audit</a></li>
+					<li class="menuLI level2 menuHidden li-976"><a class="menuA level2 menuHidden" href="government/city_reports/index.php#outer-213 " target="_self">City Annual Operating Budget</a></li>
+					<li class="menuLI level2 menuHidden li-977"><a class="menuA level2 menuHidden" href="government/city_reports/index.php#outer-222 " target="_self">Classification / Compensation Plans</a></li>
+					<li class="menuLI level2 menuHidden li-1663"><a class="menuA level2 menuHidden" href="government/city_reports/index.php#outer-324 " target="_self">Water Supply Consumer Reports</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-30 children"><a class="menuA level1 menuHidden" href="government/departments_offices/index.php" target="_self">Departments/Offices</a>
+				<ul class="menuUL level2 menuHidden ul-32">
+					<li class="menuLI level2 menuHidden li-32"><a class="menuA level2 menuHidden" href="government/departments_offices/administrative_officer/index.php" target="_self">Administrative Officer</a></li>
+					<li class="menuLI level2 menuHidden li-1446"><a class="menuA level2 menuHidden" href="government/departments_offices/animal_control/index.php" target="_self">Animal Control</a></li>
+					<li class="menuLI level2 menuHidden li-33"><a class="menuA level2 menuHidden" href="government/departments_offices/assessor/index.php" target="_self">Assessor</a></li>
+					<li class="menuLI level2 menuHidden li-34"><a class="menuA level2 menuHidden" href="government/departments_offices/auditor/index.php" target="_self">Auditor</a></li>
+					<li class="menuLI level2 menuHidden li-36"><a class="menuA level2 menuHidden" href="government/departments_offices/city_clerk/index.php" target="_self">City Clerk</a></li>
+					<li class="menuLI level2 menuHidden li-1376"><a class="menuA level2 menuHidden" href="government/city_council/index.php" target="_self">City Council</a></li>
+					<li class="menuLI level2 menuHidden li-40"><a class="menuA level2 menuHidden" href="government/departments_offices/office_of_community_development/index.php" target="_self">Community Development</a></li>
+					<li class="menuLI level2 menuHidden li-1383"><a class="menuA level2 menuHidden" href="government/departments_offices/community_events_and_tourism/index.php" target="_self">Community Events and Tourism</a></li>
+					<li class="menuLI level2 menuHidden li-3236"><a class="menuA level2 menuHidden" href="government/boards_and_commissions/council_on_aging/index.php" target="_self">Council on Aging</a></li>
+					<li class="menuLI level2 menuHidden li-1377"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/emergency_management/index.php" target="_self">Emergency Management</a></li>
+					<li class="menuLI level2 menuHidden li-1379"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/fire_department/index.php" target="_self">Fire Department</a></li>
+					<li class="menuLI level2 menuHidden li-1380"><a class="menuA level2 menuHidden" href="government/departments_offices/health_department/index.php" target="_self">Health Department</a></li>
+					<li class="menuLI level2 menuHidden li-39"><a class="menuA level2 menuHidden" href="government/departments_offices/mis_information_systems/index.php" target="_self">Information Technology</a></li>
+					<li class="menuLI level2 menuHidden li-35"><a class="menuA level2 menuHidden" href="government/departments_offices/building_department/index.php" target="_self">Inspection Services</a></li>
+					<li class="menuLI level2 menuHidden li-1381"><a class="menuA level2 menuHidden" href="government/departments_offices/library/index.php" target="_self">Library</a></li>
+					<li class="menuLI level2 menuHidden li-1382"><a class="menuA level2 menuHidden" href="government/mayor_s_office/index.php" target="_self">Mayor's Office</a></li>
+					<li class="menuLI level2 menuHidden li-1384"><a class="menuA level2 menuHidden" href="residents/parking/index.php" target="_self">Parking</a></li>
+					<li class="menuLI level2 menuHidden li-41"><a class="menuA level2 menuHidden" href="government/departments_offices/parks_and_recreation/index.php" target="_self">Parks and Recreation</a></li>
+					<li class="menuLI level2 menuHidden li-1390"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/police_department/index.php" target="_self">Police Department</a></li>
+					<li class="menuLI level2 menuHidden li-4758"><a class="menuA level2 menuHidden" href="government/departments_offices/procurement_department.php" target="_self">Procurement Department</a></li>
+					<li class="menuLI level2 menuHidden li-42"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/index.php" target="_self">Public Safety</a></li>
+					<li class="menuLI level2 menuHidden li-43"><a class="menuA level2 menuHidden" href="government/departments_offices/public_services/index.php" target="_self">Public Services</a></li>
+					<li class="menuLI level2 menuHidden li-1392"><a class="menuA level2 menuHidden" href="government/departments_offices/public_services/transfer_station/index.php" target="_self">Transfer Station</a></li>
+					<li class="menuLI level2 menuHidden li-44"><a class="menuA level2 menuHidden" href="government/departments_offices/treasurer_and_collector/index.php" target="_self">Treasurer and Collector</a></li>
+					<li class="menuLI level2 menuHidden li-45"><a class="menuA level2 menuHidden" href="government/departments_offices/veterans_services/index.php" target="_self">Veterans Services</a></li>
+					<li class="menuLI level2 menuHidden li-1393"><a class="menuA level2 menuHidden" href="government/departments_offices/public_services/water_and_sewer/index.php" target="_self">Water and Sewer</a></li>
+					<li class="menuLI level2 menuHidden li-1394"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/fire_department/wire_and_alarm.php" target="_self">Wire and Alarm</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-1699"><a class="menuA level1 menuHidden" href="calendar.php" target="_self">Meetings and Notices</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-3 children"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a>
+		<ul class="menuUL level1 menuHidden ul-46">
+			<li class="menuLI level1 menuHidden li-46"><a class="menuA level1 menuHidden" href="residents/city_directory/index.php" target="_self">City Directory</a></li>
+			<li class="menuLI level1 menuHidden li-48 children"><a class="menuA level1 menuHidden" href="residents/community_information/index.php" target="_self">Community Information</a>
+				<ul class="menuUL level2 menuHidden ul-982">
+					<li class="menuLI level2 menuHidden li-982"><a class="menuA level2 menuHidden" href="http://www.mass.gov/?pageID=mg2localgovccpage" target="_new">Massachusetts Data</a></li>
+					<li class="menuLI level2 menuHidden li-2592"><a class="menuA level2 menuHidden" href="residents/community_information/municipal_aggregation/index.php" target="_self">Municipal Aggregation</a></li>
+					<li class="menuLI level2 menuHidden li-984"><a class="menuA level2 menuHidden" href="http://www.naplibrary.com/" target="_new">North Adams Public Library</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-49 children"><a class="menuA level1 menuHidden" href="residents/education/index.php" target="_self">Education</a>
+				<ul class="menuUL level2 menuHidden ul-985">
+					<li class="menuLI level2 menuHidden li-985"><a class="menuA level2 menuHidden" href="https://www.napsk12.org/" target="_new">North Adams Public Schools</a></li>
+					<li class="menuLI level2 menuHidden li-1101"><a class="menuA level2 menuHidden" href="https://www.bartcharter.org/" target="_new">BART Charter Public School</a></li>
+					<li class="menuLI level2 menuHidden li-986"><a class="menuA level2 menuHidden" href="http://www.mccanntech.org/" target="_new">Charles H. McCann Vocational Technical School</a></li>
+					<li class="menuLI level2 menuHidden li-987"><a class="menuA level2 menuHidden" href="http://www.mcla.edu/" target="_new">Massachusetts College of Liberal Arts (MCLA)</a></li>
+					<li class="menuLI level2 menuHidden li-989"><a class="menuA level2 menuHidden" href="http://www.berkshirecc.edu/" target="_new">Berkshire Community College</a></li>
+					<li class="menuLI level2 menuHidden li-990"><a class="menuA level2 menuHidden" href="http://www.williams.edu/" target="_new">Williams College</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-50 children"><a class="menuA level1 menuHidden" href="residents/online_services/index.php" target="_self">Online Services</a>
+				<ul class="menuUL level2 menuHidden ul-993">
+					<li class="menuLI level2 menuHidden li-993"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/codered.php" target="_self">CodeRED Emergency Notices</a></li>
+					<li class="menuLI level2 menuHidden li-994"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Forms, Permits, and Licenses</a></li>
+					<li class="menuLI level2 menuHidden li-1701"><a class="menuA level2 menuHidden" href="calendar.php" target="_self">Meetings and Notices</a></li>
+					<li class="menuLI level2 menuHidden li-997"><a class="menuA level2 menuHidden" href="https://unipaygold.unibank.com/Default.aspx?customerid=460" target="_new">Pay Bills</a></li>
+					<li class="menuLI level2 menuHidden li-998"><a class="menuA level2 menuHidden" href="https://unipaygold.unibank.com/Default.aspx?customerid=460" target="_new">Pay Parking Ticket or Parking Permits</a></li>
+					<li class="menuLI level2 menuHidden li-999"><a class="menuA level2 menuHidden" href="https://www.northadams-ma.gov/government/departments_offices/city_clerk/index.php" target="_new">Voter Registration and Information</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-52"><a class="menuA level1 menuHidden" href="government/departments_offices/public_safety/index.php" target="_self">Public Safety</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-4 children"><a class="menuA level0 menuDisplay" href="business/index.php" target="_self">Business</a>
+		<ul class="menuUL level1 menuHidden ul-53">
+			<li class="menuLI level1 menuHidden li-53"><a class="menuA level1 menuHidden" href="https://1berkshire.com/" target="_new">1Berkshire</a></li>
+			<li class="menuLI level1 menuHidden li-54"><a class="menuA level1 menuHidden" href="http://www.berkshireplanning.org/" target="_new">Berkshire Regional Planning Commission (BRPC)</a></li>
+			<li class="menuLI level1 menuHidden li-56"><a class="menuA level1 menuHidden" href="Business/Permitting Guide.pdf" target="_new">City Permitting Guide</a></li>
+			<li class="menuLI level1 menuHidden li-66"><a class="menuA level1 menuHidden" href="government/departments_offices/office_of_community_development/index.php" target="_self">Community Development</a></li>
+			<li class="menuLI level1 menuHidden li-65"><a class="menuA level1 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Forms, Permits, and Licenses</a></li>
+			<li class="menuLI level1 menuHidden li-1004"><a class="menuA level1 menuHidden" href="https://www.nachamber.org/" target="_new">North Adams Chamber of Commerce</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-1922"><a class="menuA level0 menuDisplay" href="https://www.discovernorthadams.com/" target="_new">Visitors</a></li>
+	<li class="menuLI level0 menuDisplay li-6 children"><a class="menuA level0 menuDisplay" href="how_do_i_/index.php" target="_self">How Do I...</a>
+		<ul class="menuUL level1 menuHidden ul-73">
+			<li class="menuLI level1 menuHidden li-73 children"><a class="menuA level1 menuHidden" href="how_do_i_/apply_for___obtain/index.php" target="_self">Apply For | Obtain</a>
+				<ul class="menuUL level2 menuHidden ul-1015">
+					<li class="menuLI level2 menuHidden li-1015"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Birth, Death, or Marriage Certificate</a></li>
+					<li class="menuLI level2 menuHidden li-1016"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Building Permits</a></li>
+					<li class="menuLI level2 menuHidden li-1017"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Business Licenses</a></li>
+					<li class="menuLI level2 menuHidden li-1018"><a class="menuA level2 menuHidden" href="government/departments_offices/public_safety/codered.php" target="_self">CodeRED Emergency Notices</a></li>
+					<li class="menuLI level2 menuHidden li-1020"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Dog License</a></li>
+					<li class="menuLI level2 menuHidden li-1021"><a class="menuA level2 menuHidden" href="how_do_i_/apply_for___obtain/employment_information/employment_info.php" target="_self">Employment Information</a></li>
+					<li class="menuLI level2 menuHidden li-1022"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Firearms License</a></li>
+					<li class="menuLI level2 menuHidden li-1023"><a class="menuA level2 menuHidden" href="government/departments_offices/administrative_officer/public_records_requests/index.php" target="_self">Public Records Requests</a></li>
+					<li class="menuLI level2 menuHidden li-1024"><a class="menuA level2 menuHidden" href="http://www.sec.state.ma.us/index.htm" target="_new">Voter Registration</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-1702"><a class="menuA level1 menuHidden" href="https://webmail.northadams-ma.gov/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.northadams-ma.gov%2fowa" target="_new">Employee Email</a></li>
+			<li class="menuLI level1 menuHidden li-75 children"><a class="menuA level1 menuHidden" href="how_do_i_/find___learn_about/index.php" target="_self">Find | Learn About</a>
+				<ul class="menuUL level2 menuHidden ul-2636">
+					<li class="menuLI level2 menuHidden li-2636"><a class="menuA level2 menuHidden" href="visit_our_city/historic_valley_campground/index.php" target="_self">Camping in North Adams</a></li>
+					<li class="menuLI level2 menuHidden li-2179"><a class="menuA level2 menuHidden" href="how_do_i_/find___learn_about/vision_2030_plan/index.php" target="_self">Vision 2030 Plan</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-76 children"><a class="menuA level1 menuHidden" href="how_do_i_/pay_for/index.php" target="_self">Payment Center</a>
+				<ul class="menuUL level2 menuHidden ul-1728">
+					<li class="menuLI level2 menuHidden li-1728"><a class="menuA level2 menuHidden" href="https://unipaygold.unibank.com/customerinfo.aspx" target="_new">Order Vital Records</a></li>
+					<li class="menuLI level2 menuHidden li-1031"><a class="menuA level2 menuHidden" href="https://unipaygold.unibank.com/Default.aspx?customerid=460" target="_new">Pay Bills</a></li>
+					<li class="menuLI level2 menuHidden li-1032"><a class="menuA level2 menuHidden" href="https://unipaygold.unibank.com/Default.aspx?customerid=460" target="_new">Pay Parking Ticket</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-77 children"><a class="menuA level1 menuHidden" href="how_do_i_/view___read/index.php" target="_self">View | Read</a>
+				<ul class="menuUL level2 menuHidden ul-1033">
+					<li class="menuLI level2 menuHidden li-1033"><a class="menuA level2 menuHidden" href="government/departments_offices/city_clerk/campaign_finance_report.php" target="_self">Campaign Finance Reports</a></li>
+					<li class="menuLI level2 menuHidden li-1035"><a class="menuA level2 menuHidden" href="http://www.ecode360.com/NO1445" target="_new">City Ordinances</a></li>
+					<li class="menuLI level2 menuHidden li-1036"><a class="menuA level2 menuHidden" href="residents/online_services/forms_permits_and_licenses.php" target="_self">Forms, Permits, and Licenses</a></li>
+					<li class="menuLI level2 menuHidden li-1700"><a class="menuA level2 menuHidden" href="calendar.php" target="_self">Meetings and Notices</a></li>
+					<li class="menuLI level2 menuHidden li-1038"><a class="menuA level2 menuHidden" href="how_do_i_/view___read/privacy_policy.php" target="_self">Privacy Policy</a></li>
+					<li class="menuLI level2 menuHidden li-1039"><a class="menuA level2 menuHidden" href="how_do_i_/view___read/terms_of_use.php" target="_self">Terms of Use</a></li>
+					<li class="menuLI level2 menuHidden li-1733"><a class="menuA level2 menuHidden" href="community development/ZoningMap.pdf" target="_new">Zoning Map</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-79"><a class="menuA level1 menuHidden" href="citizen_request/index.php" target="_self">Contact Us</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-4134"><a class="menuA level0 menuDisplay" href="government/departments_offices/public_safety/codered.php" target="_self">CodeRED</a></li>
+</ul>
+
+<style>#calendarEvent{top:5%!important;width:1200px!important;height:850px!important;max-height:unset!important;overflow-y:unset!important;}</style>
+
+
+
+
+
+          <!-- end plugin: menus.topnav-include -->
+				</nav>
+			</div><!-- /.col-md-7 -->
+			<div class="col-md-3">
+				<div class="search-wrap">
+					<div id="search" class="clearfix">
+						<form class="search-form" method="get" action="search.php">
+							<input id="search-input" name="q" class="form-control search-input" placeholder="Enter search terms..." type="search">
+							<button>GO</button>
+						</form><!--/.search-form-->
+					</div><!--/#search-->
+				</div><!--/.search-wrap-->
+				<div class="social-editbtn freeform-none">
+			    	<script language="JavaScript" type="text/JavaScript">
+						RZ.module = 'social';
+						RZ.nexturl = 'editforms/social-editform.jsp';
+						RZ.img = '<span class="rzBtn">Edit Social</span>';
+						RZ.set = 'social.pageid=social';
+						RZ.options = '';
+						if (typeof RZaction != 'undefined') RZaction('editform');
+					</script>
+				</div><!-- /.social-editbtn -->
+				<div id="social-links">
+					
+					<li><a href="https://www.facebook.com/northadamscityhall/?ref=aymt_homepage_panel&eid=ARBPDSvuX3MLoxrGcShozu7YQZE9AMsXz4snnw-T0g_a4bLuJ7NUj9HeBTPjxnhHJny3vFfipRuyfVeN" target="_BLANK"><img src="_assets_/images/social-facebook.png" alt="social-facebook"></a></li>
+					
+					<li><a href="https://twitter.com/NorthAdamsMass" target="_BLANK"><img src="_assets_/images/social-twitter.png" alt="social-twitter"></a></li>
+				</div><!--/.social-links-->
+			</div><!-- /.col-md-3 -->
+		</div><!-- /.row.clearfix -->
+	</div><!-- /.container -->
+</header>
+
+
+   
+<section id="slider" role="complementary" aria-label="page banner">
+	
+	
+    <div class="sliderbtn">
+        
+        
+        
+        <script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'slider';
+            RZ.nexturl = "editforms/slider-editlist.jsp?pageid=1709";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+            RZ.img = '<span class="rzBtn">Edit This List</span>';
+            RZ.caption = '';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editlist');
+        </script>
+        
+    </div><!-- /.sliderbtn -->
+    
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(2)
+</script>
+
+	
+        
+            
+            
+        
+    
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('slider','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_2']={field:'seq_no',seq:'1.00'};
+</script>
+
+
+<ul class="bxslider">
+	<li style="background:url('_assets_/images/slide-1.jpg') center no-repeat;background-size:cover;"></li>
+</ul><!-- /.bxslider -->
+</section><!-- /#slider -->
+<main id="main">
+	<div class="container">
+		
+				<div id="entry">
+						<nav id="breadcrumbs" aria-label="breadcrumb">
+
+<a href="./">Home</a> &nbsp;&nbsp;not&nbsp;found
+</nav><!-- /#breadcrumbs -->
+						<h1 id="page-title">
+
+  
+
+
+404. The page/URL requested wasn't found on this site.
+</h1>
+						<div class="centerBtns">
+	
+        
+            <script language="JavaScript" type="text/JavaScript">
+                RZ.module = 'freeform';
+                RZ.recordid = '';
+                RZ.nexturl = "editforms/freeform-editform.jsp";
+                RZ.img = '<span class="rzBtn">Edit Content</span>';
+                RZ.set = 'freeform.pageid=links-1709';
+                RZ.options = '';
+                if (typeof RZaction != 'undefined') RZaction('editform');
+            </script>
+    
+    
+		<script language="JavaScript" type="text/JavaScript">
+            RZ.module = 'freeform';
+            RZ.recordid = '';
+            RZ.nexturl = "editforms/metadata-editform.jsp";
+            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+            RZ.img = '<span class="rzBtn">Edit Metadata</span>';
+            RZ.set = "freeform.pageid=links-1709";
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('editform');
+        </script>
+    
+    
+        
+        
+        <script language="JavaScript" type="text/JavaScript">
+            RZ.nexturl = '';
+            RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+            RZ.options = '';
+            if (typeof RZaction != 'undefined') RZaction('permissions');
+        </script>
+    
+</div><!-- /.centerBtns -->
+
+
+
+<div id="post" class="clearfix">
+    
+
+</div><!-- /#post -->
+				</div><!-- /#entry -->
+		
+	</div><!-- /.container -->
+</main><!-- /#main -->
+<footer>
+
+	<div id="footer-top" class="clearfix">
+		<div class="container">
+			  <div class="contact-editbtn freeform-none">
+				<script language="JavaScript" type="text/JavaScript">
+						RZ.module = 'contact';
+						RZ.nexturl = 'editforms/contact-editform.jsp';
+						RZ.img = '<span class="rzBtn">Edit Contact</span>';
+						RZ.set = 'contact.pageid=contact';
+						RZ.options = '';
+						if (typeof RZaction != 'undefined') RZaction('editform');
+					</script>
+			  </div><!-- /.contact-editbtn -->
+			<div class="row">
+				<div class="col-md-offset-2 col-md-3">
+					<div class="address">
+						<div class="text">
+						
+						10 Main Street
+						<br>
+						
+						North Adams, 
+						
+						MA 
+						
+						01247
+						</div>
+					</div><!-- /.address -->
+				</div><!-- /.col-md-offset-2.col-md-3 -->
+				<div class="col-md-2">
+					<a href="./" class="footer-logo">
+						<img src="_assets_/images/footer-logo.png" alt="footer-logo" title="footer-logo">
+					</a><!-- /.footer-logo -->
+				</div><!-- /.col-md-2 -->
+				<div class="col-md-2">
+					<div class="phone">
+						
+						<div class="text">413.662.3000</div>
+					</div><!-- /.phone -->
+				</div><!-- /.col-md-2 -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</div><!-- /#footer-top.clearfix -->
+	<div id="revize">
+		Powered by <a href="https://www.revize.com" id="revize-link">revize</a>, the Government Website Experts <span>|</span><a href="https://cms9.revize.com/revize/security/index.jsp?webspace=northadamsma&filename=/not_found/index.php" id="revize-login">Login</a>
+	</div><!-- /#revize -->
+</footer>
+
+
+
+
+
+<section id="modal-section">
+		<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal" >
+		<i class="fa fa-share-alt"></i>
+		<span>Share <span class="sr-only">this page</span></span>
+	</button>
+
+	<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h2 class="modal-title" id="myModalLabel">Share this page</h2>
+				</div>
+				<div class="modal-body">
+					<div class="copylink">
+						<p>Copy and paste this code into your website.</p>
+						<pre>&lt;a href="http://www.northadams-ma.gov/sitemap.xml">Your Link Name&lt;/a&gt;</pre>
+					</div><!-- /.copylink -->
+					<div class="share-btns">
+						<p>Share this page on your favorite Social network</p>
+						<div class="row">
+							<div class="col-sm-4">
+								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.northadams-ma.gov/sitemap.xml" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-facebook"></i> Facebook
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.twitter.com/home?status=http://www.northadams-ma.gov/sitemap.xml" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.reddit.com/submit?url=http://www.northadams-ma.gov/sitemap.xml" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-reddit"></i> Reddit
+								</a>
+							</div>
+						</div><!-- /.row -->
+					</div><!-- /.share-btns -->
+					<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+				</div><!-- /.modal-body -->
+			</div>
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</section><!-- /#modal-section -->
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/sticky/jquery.sticky.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+
+
+
+
+
+
+</body>
+</html>

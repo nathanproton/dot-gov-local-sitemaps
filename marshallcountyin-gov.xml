@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKMPN1QZ5V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){
+  	dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZKMPN1QZ5V');
+</script>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta charset="utf-8">
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="description" content="The official website of the Marshall County, Indiana Government" />
+<meta name="keywords" content="Marshall County, Marshall, Marshall County Indiana, Marshall Indiana, Indiana, county, government, county council, boards, building department, public safety, parks, public works" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Home / Marshall County, IN</title>
+
+<link type="text/css" rel="stylesheet" href="/include/css/styles.css?foo=2" media="screen" />
+<link type="text/css" rel="stylesheet" href="/include/css/print.css" media="print" />
+<link type="text/css" rel="stylesheet" href="/include/css/top-nav-mm.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/include/css/font-awesome.min.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/include/css/weather-icons.css" media="screen" />
+
+<!--
+<script type="text/javascript" src="/include/js/mootools-1.3.2-core.js"></script>
+<script type="text/javascript" src="/include/js/mootools-1.3.2-more.js"></script>
+-->
+<script type="text/javascript" src="/include/js/mootools-core-1.6.0.js"></script>
+<script type="text/javascript" src="/include/js/mootools-more-1.6.0.js"></script>
+<script type="text/javascript" src="/include/js/utilities.js"></script>
+<script type="text/javascript" src="/include/js/scroll-spy-min.js"></script>
+<script type="text/javascript" src="/include/js/drop-down-menu-mm.js"></script>
+<script type="text/javascript" src="/include/js/top-nav-mm.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Cinzel|Lato:400,700|Open+Sans" rel="stylesheet">
+
+
+<!--[if IE ]>
+	<script type="text/javascript" src="/include/js/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!--[if lte IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=123">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">		<script src="/include/js/calendar/calendar-class.js" type="text/javascript"></script>
+		<script src="/include/js/calendar/calendar-make.js" type="text/javascript"></script>
+		<link href="/include/css/home-calendar.css" type="text/css" rel="stylesheet" />
+	</head>
+
+	<body class="bodyHome">
+		<!--eGov Site Alive-->
+		
+		<div class="siteBackground">
+
+			<!-- begin header -->
+<div class="header clearfix">
+	<a class="skipLink" href="#startcontent">Skip over navigation</a>
+	<div class="headerUtilities">
+		<div class="wrap">
+
+			<!--begin weather-->
+<div class="weatherContainer">
+  <span class="weatherIcon wi wi-day-cloudy-high" title=""> </span>
+  <span class="temperature">66°</span>
+  <a href="http://forecast.weather.gov/MapClick.php?lat=41.3030&amp;lon=-86.3377&amp;site=all#.VW9FXs9VhBc" target="_blank" rel="noopener noreferrer" title="NOAA Forecast">Forecast</a>
+</div><!--end weather-->
+
+			<div class="searchWrapper">
+				<form class="searchForm" method="post" id="eGovQuickSearch" action="/egov/apps/search.egov">
+					<input type="hidden" name="view" value="basic" id="view" />
+					<input type="hidden" name="act" value="result" id="act" />
+					<input type="hidden" name="page" value="1" id="page" />
+						
+					<div class="searchInputWrapper">
+						<label for="eGov_searchTerms">Search</label>
+						<input name="eGov_searchTerms" id="eGov_searchTerms" class="searchInput" type="search" level="1" showextension="1" spellcheck="true" placeholder="Explore" />
+					</div>
+					<input name="eGov_buttonSearchSubmit" id="eGov_buttonSearchSubmit" class="searchSubmit" type="submit" value="&#xf002;"/>
+				</form>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="siteTitleContainer wrap">
+		<h1 class="siteTitle clearfix"><a href="/">Marshall County, Indiana</a></h1>
+		<h2>The homepage for the government of Marshall County, Indiana</h2>
+	</div>
+
+	<!-- begin navigation -->
+	<div id="navPositioner">
+		<div id="nav" class="clearfix">		
+			<div id="menuToggleContainer"><a href="#" id="menuToggle" title="Toggle Menu">Menu</a></div>
+			<div id="topNavContainer">
+				<div id="menuContainer">
+					<ul id="topNav">
+						<li id="govtItem"><a href="/government" class="topLevel">Government</a></li>
+						<li id="publItem"><a href="/public-safety" class="topLevel">Public Safety</a></li>
+						<li id="elecItem"><a href="/elections" class="topLevel">Elections</a></li>
+						<li id="healItem"><a href="/health" class="topLevel">Health</a></li>
+						<li id="justItem"><a href="/justice-system" class="topLevel">Justice System</a></li>
+						<li id="planItem"><a href="/planning-roads" class="topLevel">Planning &amp; Roads</a></li>
+						<li id="taxeItem"><a href="/taxes" class="topLevel">Taxes</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end navigation -->
+
+</div>   
+
+<a name="startcontent" class="skipLink">Start Content</a>
+<!-- end header -->			
+			<div class="wrap">
+				<div class="homeBanner"></div>
+			</div>
+
+			<div class="serviceIconsContainer wrap">
+	<div class="serviceIcons">
+		<a href="https://permits.schneidercorp.com/" target="_blank" rel="noreferrer noopener"><span class="fa fa-building" aria-hidden="true"></span><span class="serviceText"><span>Online Permitting</span></span></a>
+		<a href="/department/division.php?structureid=44"><span class="fa fa-dollar" aria-hidden="true"></span><span class="serviceText"><span>Property Taxes</span></span></a>
+		<a href="/egov/apps/document/center.egov?view=item;id=218"><span class="fa fa-briefcase" aria-hidden="true"></span><span class="serviceText"><span>Employment</span></span></a>
+		<a href="https://beacon.schneidercorp.com/?site=MarshallCountyIN" target="_blank" rel="noreferrer noopener"><span class="fa fa-map-o" aria-hidden="true"></span><span class="serviceText"><span>County Maps/GIS</span></span></a>
+		<a href="https://m.youtube.com/@MarshallCountyIN/streams" target="_blank" rel="noreferrer noopener"><span class="fa fa-television" aria-hidden="true"></span><span class="serviceText"><span>Watch Live Meetings</span></span></a>
+	</div>
+</div>
+			<div class="mainContent">
+					<div class="wrap">
+						<div class="homeColumns">
+							<div class="homeColumnsInner">
+								<div>
+									<!--Begin Recent News--><!--eGov Site Alive--><div class="cwNewsHome cwContainer clearfix"><h3 class="cwHeader"><span>Recent News</span></h3><div class="cwContainerInner"><ul class="cwList"><li class="clearfix"><span class="titleLink"><a href="https://www.co.marshall.in.us/egov/apps/document/center.egov?view=item&id=982" class="cwLink" title="">ELECTIONS & VOTING</a></span></li><li class="clearfix"><span class="titleLink"><a href="https://www.co.marshall.in.us/egov/apps/document/center.egov?view=item&id=1079" class="cwLink pdfLink" title="Marshall County Permit Fee Ordinance 2023-27: Link to PDF File">Marshall County Permit Fee Ordinance 2023-27</a></span></li><li class="clearfix"><span class="titleLink"><a href="https://www.jpr1source.com/resources/marshall-county-rsd" class="cwLink" title="">Marshall County Regional Sewer District</a></span></li><li class="clearfix"><span class="titleLink"><a href="http://auditor.marshall.in.datapitstop.us/cgi.exe?PAGEID=0011&CALL_PROGRAM=C009LIST" class="cwLink" title="">Data Pitstop Marshall County Tax Information</a></span></li><li class="clearfix"><span class="titleLink"><a href="https://www.co.marshall.in.us/egov/apps/document/center.egov?view=item&id=794" class="cwLink pdfLink" title="Marshall County Smartphone App: Link to PDF File">Marshall County Smartphone App</a></span></li></ul></div><div class="moreContainer"></div></div><!--End Recent News-->								</div>				
+								<div>
+									<!--Begin Upcoming Events--><!--eGov Site Alive--><div class="cwEventsHome cwContainer clearfix"><h3 class="cwHeader"><span>Upcoming Events</span></h3><div class="cwContainerInner"><div id="calendar">calendar</div><ul class="cwList"><li class="clearfix"><a href="https://www.co.marshall.in.us/egov/apps/events/calendar.egov?view=detail;id=579" class="cwLink">Labor Day (Closed)</a><div class="subtext"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;09/02/24&nbsp;&nbsp;
+				<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
+				
+						All Day
+					</div></li><li class="clearfix"><a href="https://www.co.marshall.in.us/egov/apps/events/calendar.egov?view=detail;id=530" class="cwLink">County Commissioners Meeting</a><div class="subtext"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;09/03/24&nbsp;&nbsp;
+				<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
+				8:30 am
+					&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;
+						<a href="https://www.co.marshall.in.us/egov/apps/locations/facilities.egov?view=detail&id=24">Marshall County Building</a></div></li></ul></div><div class="moreContainer"><a href="https://www.co.marshall.in.us/egov/apps/events/calendar.egov?view=browse" class="moreLink">View All Events</a></div></div><!--End Upcoming Events-->								</div>
+								<div>
+									<!--eGov Site Alive--><div class="cwContact cwContainer"><h3 class="cwHeader">Contact Us</h3><div class="cwContainerInner"><img class="contactLogo" src="/images/misc/contact-logo.png" alt="Marshall Co Logo"><div class="contactContainer"><span style="font-family: 'Lato'; font-weight: 700; font-size: 18px;">Marshall County, IN</span><div class="cwContactAddresses">112 W Jefferson St, 
+		Plymouth&nbsp;IN&nbsp;46563</div><ul class="cwContactList"><li class="telephone"><a title="Call (574) 935-8555" href="tel:+15749358555">(574) 935-8555</a></li><li class="fax">(574) 936-4863</li><li class="hours">Mon-Fri 8am - 4pm<br /><br />
+<a href="https://www.co.marshall.in.us/egov/apps/staff/directory.egov">Staff Directory</a></li></ul></div></div></div>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		
+<div class="footer clearfix">
+	<div class="footerLegal">
+		<div class="wrap">
+			<div class="footerColumns">
+				<div class="footerColumn" class="clearfix">
+					&copy; 2018&nbsp;<a href="/" title="Marshall County, IN Homepage">Marshall County, Indiana</a>
+					<ul>
+						<li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+						<li><a href="/accessibility" title="Accessibility Statement">Accessibility Statement</a></li>
+						<li><a href="/terms" title="Terms of Use">Terms of Use</a></li>
+					</ul>
+				</div>
+				
+				<div class="footerColumn">
+					<img src="/images/footer/core-logo-w.png" alt="CORE Business Technologies" id="coreLogo" />
+					<p>Site Design and Content Management by <br><a href="https://www.corebt.com" rel="nofollow">CORE Business Technologies</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	</body>
+</html>

@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+
+				<url>
+					<loc>https://www.townofulyssesny.gov/</loc>
+					<lastmod>2024-08-27</lastmod>
+					<changefreq>weekly</changefreq>
+					<priority>1.0</priority>
+				</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/calendar/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/council/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/visit/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/unsubscribe/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/login/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/sitemap/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/subscribe/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/blog/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/search/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/photo-gallery/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/videos/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/list-item/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/forward/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/newsletter/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/survey/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/404/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/contact/directory/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/contact/forms-permits-licensing/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/contact/faq/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/council/boards-town-budget/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/council/tbmeetings/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/council/boards-town/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/council/boards-town-resolutions/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/boards-planning/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/pbmeetingminutes/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/treeadvisory/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/youth-members/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/board-zoning-appeals/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/bzameetingminutes/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/agcommittee/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/boards-salo-habitat/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/sustainability-conservation/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-recreation/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-highway/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-justice/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/history/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/water-district/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/current-issues/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/youth/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/evcharging/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/safety-and-services-ems/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/safety-and-services-fire/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/safety-and-services-health/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/safety-and-services/safety-and-services-preparedness/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/maps-ag/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/maps-road/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/maps-historic/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/maps-environmental/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/maps/maps-miscellaneous/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-ag/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-cp/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-policies/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-indexofres/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-ems/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-local-laws/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-newsletters-listserv/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/documents-stormwater/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/visit/recreation/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/visit/restaurants-shopping/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/visit/transportation/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/community-home/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/comm-farmers-market/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/grassroots-music-festival/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/library/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/tompkins-county-area-transport/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/schools/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/tburgconservatory/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/community/village-of-trumansburg/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/comprehensive-plan-committee/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/fema-questions/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/wsppc-source-water-protection-committee/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/ulysses-bee-committee/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/ulysses2045/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/documents/humanresourcerelated/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/lakeshore-zoning/board-lakeshore-ad-hoc-documents/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/lakeshore-zoning/lakeshore-zoning-faq/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/zoning-update/2017-11-30zoningupdatedraft/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/agcommittee/ag-resources/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/agcommittee/announcementsagcommittee/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/sustainability-conservation/cleanenergycommunity/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-tax/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/tax-faq/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-hunting-fishing-licenses/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/foil/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-dog-control/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-disabledparking/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-marriagelicenses/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/dept-clerk/clerk-birth-and-death-certificates/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-justice/justice-trafficviolations/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-justice/justice-smallclaimsmanual/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-justice/justice-nysdeptmentofmotorvehicles/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/departments-justice/justice-areaphonenumbers/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/history/history-genealogy/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/history/history-localhistory/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/water-district/water-billing/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/water-district/water-quality-testing/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/water-district/water-hook-ups/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/youth/youth-minutes/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/zoning-regulations-laws/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/visit/recreation/recreation-habitatpreserve/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/ulysses2045/document-library/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/flood/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/firm-update/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/fema-open-house/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/comprehensive-plan-committee/cpscminutes/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/ulysses2045/timeline/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/board-zoning-appeals/bzameetings/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/boards/boards-planning/pbmeetings/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/departments/bcpz/permits/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/ulysses2045/rfq/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+					<url>
+						<loc>https://www.townofulyssesny.gov/pages/ulysses2045/comp-plan-photo-contest/</loc>
+						<lastmod>2024-08-27</lastmod>
+						<changefreq>weekly</changefreq>
+						<priority>0.8</priority>
+					</url>
+				
+				<url>
+					<loc>https://www.townofulyssesny.gov/products/catalog/monthly-recurring-services/voice-services/1079/standard-did/</loc>
+					<lastmod>2024-08-27</lastmod>
+					<changefreq>weekly</changefreq>
+					<priority>1.0</priority>
+				</url>
+					</urlset>

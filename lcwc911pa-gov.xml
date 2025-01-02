@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8"/>
+<link rel="canonical" href="https://www.lcwc911.us/"/>
+<link rel="shortlink" href="https://www.lcwc911.us/"/>
+<meta name="description" content="Lancaster County-Wide Communications is the centralized answering point for all 9-1-1 calls originating in Lancaster County, PA. View the live incident list or get contact information for agencies that are dispatched through LCWC. Also, learn how you can find out more about LCWC."/>
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="shortcut icon" href="/themes/lcwc/favicon.ico" type="image/png"/>
+<link rel="revision" href="https://www.lcwc911.us/lancaster-county-wide-communications"/>
+<script defer>//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WF9NZX3');
+//]]></script>
+
+    <title>Lancaster County-Wide Communications</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/A.css_R_JO5o4Mqcb6g2VPOvR7ngp9I2ecgbP7smhTa0jTgzk.css+css_-x3DZfWqTdJyNHRBFtbMyUqqm9KBHj7QbdCBXGCGxUo.css,Mcc.8CfGQaV07g.css.pagespeed.cf.f7GPpnMCq2.css"/>
+
+
+    <script src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.0.1/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+    <link rel="manifest" href="/site.webmanifest">
+  </head>
+  <body class="nid-264 path-frontpage page-node-type-page">
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WF9NZX3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="header">
+  <div class="top-bar row max-width clearfix">
+      <div class="region region-header">
+    <div id="block-responsivemenumobileicon" class="responsive-menu-toggle-wrapper responsive-menu-toggle block block-responsive-menu block-responsive-menu-toggle">
+  
+    
+      <a id="toggle-icon" class="toggle responsive-menu-toggle-icon" title="Menu" href="#off-canvas">
+  <span class="icon"></span><span class="label">Menu</span>
+</a>
+  </div>
+<div id="block-lcwclogoblock" class="block block-lcwc-logo-block">
+  
+    
+      <div class="logo-container">
+  <a href="https://www.lcwc911.us/" class="lcwc-logo"><img src="/themes/lcwc/img/xlcwc-logo-web.png.pagespeed.ic.FCX3Z2g5DX.png" alt="LCWC911 logo"/></a>
+</div>
+
+  </div>
+<div id="block-horizontalmenu" class="block block-responsive-menu block-responsive-menu-horizontal-menu">
+  
+    
+      <nav class="responsive-menu-block-wrapper">
+  
+              <ul id="horizontal-menu" class="horizontal-menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+              </li>
+                <li class="menu-subtext menu-item menu-item--expanded">
+        <a href="/about" data-drupal-link-system-path="node/13">LCWC <span>About</span> <i class="fas fa-caret-down"></i></a>
+                                <ul class="menu sub-nav">
+                    <li class="menu-item">
+        <a href="/about/history" data-drupal-link-system-path="node/4">History of LCWC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about/agencies-dispatched" data-drupal-link-system-path="about/agencies-dispatched">Agencies Dispatched</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-subtext menu-item menu-item--expanded">
+        <a href="/public-resources" data-drupal-link-system-path="node/17">Public <span>Resources</span> <i class="fas fa-caret-down"></i></a>
+                                <ul class="menu sub-nav">
+                    <li class="menu-item">
+        <a href="/public-resources/annual-reports" data-drupal-link-system-path="public-resources/annual-reports">Annual Reports</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/annual-statistics" data-drupal-link-system-path="node/229">Annual Statistics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/surcharges" data-drupal-link-system-path="node/14">911 Telephone Surcharges</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/10-ways-you-can-help" data-drupal-link-system-path="node/20">10 Ways You Can Help</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/calling-9-1-1" data-drupal-link-system-path="node/18">Questions When Calling 911</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/what-your-9-1-1-address" data-drupal-link-system-path="node/21">What is your 911 address?</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/public-education" data-drupal-link-system-path="node/240">Public Education</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/public-education/field-communications-unit" data-drupal-link-system-path="node/242">Field Communications Unit</a>
+              </li>
+                <li class="menu-item">
+        <a href="/public-resources/public-education/mobile-resources" data-drupal-link-system-path="node/250">Mobile Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/quick-links" data-drupal-link-system-path="node/243">Quick Links</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-subtext menu-item menu-item--expanded">
+        <a href="/agency-resources" data-drupal-link-system-path="node/15">Agency <span>Resources</span> <i class="fas fa-caret-down"></i></a>
+                                <ul class="menu sub-nav">
+                    <li class="menu-item">
+        <a href="/agency-resources/radio-system" data-drupal-link-system-path="node/16">Radio System FAQs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/agency-resources/approved-radios-motorola" data-drupal-link-system-path="node/247">Approved Radios, Motorola</a>
+              </li>
+                <li class="menu-item">
+        <a href="/radio-report-form" data-drupal-link-system-path="node/267">Radio Report Form</a>
+              </li>
+                <li class="menu-item">
+        <a href="/motorola-radio-sales-and-service-contacts" data-drupal-link-system-path="node/256">Motorola Radio Service Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/relm-radio-service-contacts" data-drupal-link-system-path="node/255">BK Radio Service Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/approved-radios-harris" data-drupal-link-system-path="node/259">Approved Radios, Harris</a>
+              </li>
+                <li class="menu-item">
+        <a href="/approved-radios-tait" data-drupal-link-system-path="node/262">Approved Radios, Tait</a>
+              </li>
+                <li class="menu-item">
+        <a href="/harristait-radio-service-contacts" data-drupal-link-system-path="node/260">Harris/Tait Radio Service Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/approved-radios-kenwood" data-drupal-link-system-path="node/265">Approved Radios, Kenwood</a>
+              </li>
+                <li class="menu-item">
+        <a href="/kenwood-radio-service-contacts" data-drupal-link-system-path="node/266">Kenwood Radio Service Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/agency-resources/text-messaging" data-drupal-link-system-path="node/19">Text Messaging</a>
+              </li>
+                <li class="menu-item">
+        <a href="/agency-resources/pennfirs-data-reporting" data-drupal-link-system-path="node/23">PennFIRS Data Reporting</a>
+              </li>
+                <li class="menu-item">
+        <a href="/agency-resources/forms" data-drupal-link-system-path="node/249">Agency Forms</a>
+              </li>
+                <li class="menu-item">
+        <a href="/quick-links" data-drupal-link-system-path="node/243">Quick Links</a>
+              </li>
+                <li class="menu-item">
+        <a href="/employee-portal" data-drupal-link-system-path="node/253">Employee Portal</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+</nav>
+  </div>
+
+  </div>
+
+  </div>
+</div>
+
+<div id="banner">
+    <div class="region region-banner">
+    <div id="block-lcwcbanner" class="block block-lcwc-banner block-lcwc-banner-block">
+  
+    
+      <div class="row banner-links" data-background-image="banner3.jpg">
+  <div class="btn-container btn-1 live-incident-btn">
+    <a href="/live-incident-list" onClick="ga('send','event','Banner Button','Live Incident')"><span class="highlight">Live</span><span>Incident</span><span class="last">Status</span></a>
+  </div>
+  <div class="btn-container btn-1 county-status-map">
+    <a href="/live-incident-map" onClick="ga('send','event','Banner Button','Status Map')"><span class="highlight">County</span><span class="status-map">Status Map</span></a>
+  </div>
+  <div class="btn-container btn-1 links-btn">
+    <a href="/public-resources/public-education" onClick="ga('send','event','Banner Button','Public Education')"><span class="highlight">Public</span><span class="last">Education</span></a>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+<div class="banner-subtitle front-banner">
+      <h2>What information can we provide you with today?</h2>
+  </div>
+<div class="content-container">
+  <div class="content" role="main">
+    
+    <div class="row max-width sidebar-exists">
+      <div class="main-content-column">
+        
+          <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+        
+        <a id="main-content" tabindex="-1"></a>
+        <div class="layout-content">
+            <div class="region region-content">
+    <div id="block-lcwc-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="264" role="article" about="/lancaster-county-wide-communications" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+
+  
+      <span property="schema:name" content="Lancaster County Wide Communications" class="rdf-meta hidden"></span>
+
+
+  
+  
+    <div class="clearfix node-container node-doesnt-contain-page-images">
+          
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="main-content-card clearfix">
+<div class="inner"><img alt="LCWC Community Center" data-entity-type="file" data-entity-uuid="37345ac4-4441-4861-bffa-e617f1ffd824" src="/sites/default/files/inline-images/xNE-PSAP-View-5-5-16-cropped.jpg.pagespeed.ic.4Rg4kW48ri.jpg" width="250" height="180" loading="lazy"/><p><strong>LCWC</strong> is the centralized answering point for all 911 calls originating in Lancaster County, PA. The center dispatches over 130 public safety agencies from one location.</p>
+</div>
+</div>
+
+<div class="main-content-card clearfix">
+<div class="inner"><img alt="cpr training" src="/themes/lcwc/img/homepage/911training.jpg.pagespeed.ce.8a8uyvF13Q.jpg"/><p><strong>LCWC</strong> offers a wide variety of learning programs for all ages. From preschool children age to retirement age adults, we provide important learning tools.<br/><a href="/public-resources/public-education">&gt;&gt;Find More Details</a></p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+        </div>      </div>
+
+              <div class="sidebar-column">
+            <div class="region region-sidebar">
+    <div id="block-sidebar" class="block block-block-content block-block-content6e8116d3-b7ea-4ae8-9705-09b9f0ca1b21">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Our Mission:</h3>
+<p>To provide timely, convenient access to public safety agencies for those in need.</p>
+<h3>Our Vision:</h3>
+<p>LCWC will process all requests for service in an expeditious, courteous, and professional manner to reduce loss of life and property.</p></div>
+      
+  </div>
+
+  </div>
+
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+  <div class="footer-prefix">
+      <div class="region region-footer-prefix">
+    <div class="views-element-container block block-views block-views-blockhome-highlighted-blocks-block-1" id="block-views-block-home-highlighted-blocks-block-1">
+  
+    
+      <div><div class="view view-home-highlighted-blocks view-id-home_highlighted_blocks view-display-id-block_1 js-view-dom-id-8334934d94e3cb4c011d5ef488c4915a2a3164b78bde889ee8126052cd35098c">
+  
+    
+      
+      <div class="view-content clearfix">
+          <div class="related-links-card views-row"><div class="views-field views-field-field-highlighted-image"><div class="field-content"><a href="/about/agencies-dispatched">  <img src="/sites/default/files/styles/home_highlighted_image/public/2018-01/xfireman-firefighter-rubble-9-11-70573.jpeg,qitok=kQwiXU2k.pagespeed.ic.fyMe4aL9Np.jpg" alt="fireman" loading="lazy" typeof="foaf:Image" class="image-style-home-highlighted-image"/>
+
+
+</a></div></div><h3 class="field-content"><span>Emergency Services</span> Contact Info
+<hr/></h3><div class="views-field views-field-body"><div class="field-content"><p>Find contact information for your local and county emergency services.</p></div></div><div class="views-field views-field-field-highlighted-link"><div class="field-content"><a href="/about/agencies-dispatched">Contact</a></div></div></div>
+    <div class="related-links-card views-row"><div class="views-field views-field-field-highlighted-image"><div class="field-content"><a href="/agency-resources/radio-system">  <img src="/sites/default/files/styles/home_highlighted_image/public/2018-07/xradios.jpg,qitok=PWxJmZOk.pagespeed.ic.qGrwL_7WGm.jpg" alt="Radios" loading="lazy" typeof="foaf:Image" class="image-style-home-highlighted-image"/>
+
+
+</a></div></div><h3 class="field-content"><span>Radio</span> System
+<hr/></h3><div class="views-field views-field-body"><div class="field-content"><p>Everything you need to know for operating and handling the radio system.</p></div></div><div class="views-field views-field-field-highlighted-link"><div class="field-content"><a href="/agency-resources/radio-system">More Info</a></div></div></div>
+    <div class="related-links-card views-row"><div class="views-field views-field-field-highlighted-image"><div class="field-content"><a href="https://webcad.lcwc911.us/" target="_blank" rel="noopener">  <img src="/sites/default/files/styles/home_highlighted_image/public/2018-07/xLCWC-webCAD_image.jpg,qitok=kuTrPyee.pagespeed.ic.2SF630tjXJ.jpg" alt="WebCAD" loading="lazy" typeof="foaf:Image" class="image-style-home-highlighted-image"/>
+
+
+</a></div></div><h3 class="field-content"><span>WebCAD</span> Login
+<hr/></h3><div class="views-field views-field-body"><div class="field-content"><p>Login for the use of Authorized WebCAD Users only.</p></div></div><div class="views-field views-field-field-highlighted-link"><div class="field-content"><a href="https://webcad.lcwc911.us/" target="_blank" rel="noopener">WebCAD Login</a></div></div></div>
+    <div class="related-links-card views-row"><div class="views-field views-field-field-highlighted-image"><div class="field-content"><a href="/about/employment-opportunities">  <img src="/sites/default/files/styles/home_highlighted_image/public/2018-09/xEHSF-Award-edit.jpg,qitok=TXNMf3Un.pagespeed.ic.ZpepRSP-06.jpg" alt="911 call center" loading="lazy" typeof="foaf:Image" class="image-style-home-highlighted-image"/>
+
+
+</a></div></div><h3 class="field-content"><span>Employment</span> Opportunities
+<hr/></h3><div class="views-field views-field-body"><div class="field-content"><p>Accepting applications from those who desire a rewarding and exciting career in public safety dispatching at the 911 center.</p></div></div><div class="views-field views-field-field-highlighted-link"><div class="field-content"><a href="/about/employment-opportunities">Learn More</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="footer" id="footer">
+      <div class="row max-width region region-footer">
+    <div id="block-footerlogo" class="block block-block-content block-block-content20095c65-610e-4a91-9495-786dca38a301">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="/themes/lcwc/img/xlcwc-bwlogo.png.pagespeed.ic.IrMO8-hvjo.png" alt="LCWC logo"/></p>
+</div>
+      
+  </div>
+<div id="block-footeremergencies" class="block block-block-content block-block-contentbad751e4-64e4-46a8-b502-ec7964a8575d">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>For Emergencies:</h3>
+
+<p>Dial 911</p></div>
+      
+  </div>
+<div id="block-footernonemergencies" class="block block-block-content block-block-content1e3aa9f3-7ec6-4785-896d-89aafd1ee2c6">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Non-Emergency Phone Numbers:</h3>
+
+<p>Administration: <span>(717) 664-1100</span> or <span>(800) 297-5292</span></p>
+
+<p>Fire/EMS Dispatch: <span>(717) 664-1190</span> or <span>(800) 691-3473</span></p>
+
+<p>Police Dispatch: <span>(717) 664-1180</span> or <span>(800) 957-2677</span></p></div>
+      
+  </div>
+<div id="block-footermailingaddress" class="block block-block-content block-block-contentb22360a3-30d5-44d4-a03d-54ad86844702">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Mailing Address:</h3>
+
+<p>P.O. Box 487<br/>
+Manheim, PA 17545</p>
+
+<p><a href="https://www.facebook.com/LancasterCountyWideCommunications/" target="_blank">Like us on <img src="/themes/lcwc/img/xfacebook-30.png.pagespeed.ic.IerF_eureo.png"/></a></p></div>
+      
+  </div>
+
+  </div>
+
+      <div class="row max-width region region-copyright">
+    <nav role="navigation" aria-labelledby="block-copyright-2-menu" id="block-copyright-2" class="block block-menu navigation menu--copyright">
+            
+  <h2 class="visually-hidden" id="block-copyright-2-menu">Copyright</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy-statement" data-drupal-link-system-path="node/245">Privacy Statement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/terms" data-drupal-link-system-path="node/246">Terms</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-copyright" class="block block-block-content block-block-contentfe1168e5-7f7a-4b48-8605-8d4d7816f0ef">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>© 2022 County of Lancaster.</p></div>
+      
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+    <div class="off-canvas-wrapper"><div id="off-canvas">
+              <ul>
+              <li class="menu-item--front-page menu-name--main">
+                <a href="/">
+          Home
+        </a>
+              </li>
+          <li class="menu-item--_d80acc3-8cf5-4ee3-9f4a-ce2f4eee75fd menu-name--main">
+                <a href="/about">
+          LCWC <span>About</span>
+        </a>
+                                <ul>
+              <li class="menu-item--_b186f03-d679-4917-8d7e-3639bf5b0cae menu-name--main">
+                <a href="/about/history">
+          History of LCWC
+        </a>
+              </li>
+          <li class="menu-item--viewsagencies-dispatchedpage-1 menu-name--main">
+                <a href="/about/agencies-dispatched">
+          Agencies Dispatched
+        </a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_7f8142a-0a26-406d-a7ad-24f8bf77b63a menu-name--main">
+                <a href="/public-resources">
+          Public <span>Resources</span>
+        </a>
+                                <ul>
+              <li class="menu-item--a546219a-74be-4a09-aefc-d3cf2927c118 menu-name--main">
+                <a href="/public-resources/annual-reports">
+          Annual Reports
+        </a>
+              </li>
+          <li class="menu-item--da15a2c8-4053-457f-8ea4-cf5f344c17a3 menu-name--main">
+                <a href="/public-resources/annual-statistics">
+          Annual Statistics
+        </a>
+              </li>
+          <li class="menu-item--b8c645a4-b062-4901-8b9f-e5b570d62aea menu-name--main">
+                <a href="/public-resources/surcharges">
+          911 Telephone Surcharges
+        </a>
+              </li>
+          <li class="menu-item--_2e93561-2544-4f4d-be90-9d4eab63b028 menu-name--main">
+                <a href="/public-resources/10-ways-you-can-help">
+          10 Ways You Can Help
+        </a>
+              </li>
+          <li class="menu-item--d07fbb26-2f98-405c-a891-52c29c4bea95 menu-name--main">
+                <a href="/public-resources/calling-9-1-1">
+          Questions When Calling 911
+        </a>
+              </li>
+          <li class="menu-item--e26277b6-912c-4633-86b3-2a924c10b800 menu-name--main">
+                <a href="/public-resources/what-your-9-1-1-address">
+          What is your 911 address?
+        </a>
+              </li>
+          <li class="menu-item--ff02061e-cc89-4450-bf24-5328fc16c914 menu-name--main">
+                <a href="/public-resources/public-education">
+          Public Education
+        </a>
+              </li>
+          <li class="menu-item--_2a9820f-05f2-4961-a849-7c6b597f3ce6 menu-name--main">
+                <a href="/public-resources/public-education/field-communications-unit">
+          Field Communications Unit
+        </a>
+              </li>
+          <li class="menu-item--_d86c8f8-0f07-4872-a54e-87f67f43a0a4 menu-name--main">
+                <a href="/public-resources/public-education/mobile-resources">
+          Mobile Resources
+        </a>
+              </li>
+          <li class="menu-item--_655e7f7-3e1a-45d8-8b49-2924f5c2fbb7 menu-name--main">
+                <a href="/quick-links">
+          Quick Links
+        </a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_9ae5e4b-9516-47d9-ae0d-9af44de4a75b menu-name--main">
+                <a href="/agency-resources">
+          Agency <span>Resources</span>
+        </a>
+                                <ul>
+              <li class="menu-item--_228d6d1-b10c-40fb-b7e4-07bf8f908251 menu-name--main">
+                <a href="/agency-resources/radio-system">
+          Radio System FAQs
+        </a>
+              </li>
+          <li class="menu-item--c6970864-0d55-46d2-aec2-4c761821fcd5 menu-name--main">
+                <a href="/agency-resources/approved-radios-motorola">
+          Approved Radios, Motorola
+        </a>
+              </li>
+          <li class="menu-item--ad7df96c-5c08-42cd-9128-da8549dc0d4f menu-name--main">
+                <a href="/radio-report-form">
+          Radio Report Form
+        </a>
+              </li>
+          <li class="menu-item--d741dabc-12d6-402f-be07-07fa7de95d3f menu-name--main">
+                <a href="/motorola-radio-sales-and-service-contacts">
+          Motorola Radio Service Contacts
+        </a>
+              </li>
+          <li class="menu-item--_266d832-04fc-471a-932b-be2d0a5c6ef0 menu-name--main">
+                <a href="/relm-radio-service-contacts">
+          BK Radio Service Contacts
+        </a>
+              </li>
+          <li class="menu-item--_fd64aff-3bf9-43f3-bbb5-5e8fd46c70e2 menu-name--main">
+                <a href="/approved-radios-harris">
+          Approved Radios, Harris
+        </a>
+              </li>
+          <li class="menu-item--_b6a2530-966f-436d-9b2c-6a05b8cb6a1f menu-name--main">
+                <a href="/approved-radios-tait">
+          Approved Radios, Tait
+        </a>
+              </li>
+          <li class="menu-item--_463f714-7627-4702-a3d8-ffe6485ad532 menu-name--main">
+                <a href="/harristait-radio-service-contacts">
+          Harris/Tait Radio Service Contacts
+        </a>
+              </li>
+          <li class="menu-item--_98d4d57-aa56-4b5c-825a-bdbc8b2eda76 menu-name--main">
+                <a href="/approved-radios-kenwood">
+          Approved Radios, Kenwood
+        </a>
+              </li>
+          <li class="menu-item--e2db445d-c4ec-4aee-93c0-071e3f6954ff menu-name--main">
+                <a href="/kenwood-radio-service-contacts">
+          Kenwood Radio Service Contacts
+        </a>
+              </li>
+          <li class="menu-item--_68e2e55-b19b-4d22-b394-bfe54aea0ce3 menu-name--main">
+                <a href="/agency-resources/text-messaging">
+          Text Messaging
+        </a>
+              </li>
+          <li class="menu-item--_0d7b399-686e-4105-9048-eef5440af250 menu-name--main">
+                <a href="/agency-resources/pennfirs-data-reporting">
+          PennFIRS Data Reporting
+        </a>
+              </li>
+          <li class="menu-item--_53218d5-ccc1-45c0-a794-5502a15f42d3 menu-name--main">
+                <a href="/agency-resources/forms">
+          Agency Forms
+        </a>
+              </li>
+          <li class="menu-item--d406f2a0-5567-4fb5-a39a-2667de5f00c0 menu-name--main">
+                <a href="/quick-links">
+          Quick Links
+        </a>
+              </li>
+          <li class="menu-item--_25d5051-9125-4690-9f31-2c19c0545a74 menu-name--main">
+                <a href="/employee-portal">
+          Employee Portal
+        </a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+</div></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/264","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim","modifyViewport":true,"use_bootstrap":false,"breakpoint":"all and (min-width: 801px)","drag":false,"superfish":{"active":true,"delay":300,"speed":100,"speedOut":100},"mediaQuery":"all and (min-width: 801px)"},"user":{"uid":0,"permissionsHash":"8de14f6cfd6c28028b1b50433359a1aad771ea157af3e8c27ade599ad6f9b390"}}</script>
+<script src="/sites/default/files/js/js_yNV0eV6enlnUlJza1ETuG6OnA4xuAPN9g8U1ZsbMxAk.js.pagespeed.ce.6O72R7pOv0.js"></script>
+
+  </body>
+</html>

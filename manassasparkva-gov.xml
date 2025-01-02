@@ -1,0 +1,1025 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <base href="https://www.manassasparkva.gov/index_fire.php" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="robots" content="index, follow">
+  
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+
+  
+	<!-- Metadata Area Starts -->
+	<title>Manassas Park, Virginia</title>
+	<meta property="og:title" content="Manassas Park, Virginia" />
+	<meta property="og:image" content="//cms7.revize.com/revize//manassasparkva/_assets_/images/logo.png" />
+	<meta name="robots" content="index, follow">
+  
+   
+
+  
+
+  
+
+  
+
+
+
+
+	<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/all.min.css">
+
+	<link rel="stylesheet" href="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.css">
+<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="/revize/plugins/css/button_style.css">
+<link rel="stylesheet" href="_assets_/css/layout.css?v=1624041866">
+<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+<link href="/revize/plugins/revize_calendar/core/main.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/daygrid/main.min.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/timegrid/main.min.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/list/main.min.css" rel="stylesheet" />
+<link href="_assets_/plugins/revizeCalendar/css/mini.css" rel="stylesheet" />
+<link href="/revize/plugins/revize_calendar/core/nav-panels.css" rel="stylesheet" /><script>
+	var defaultCalendarColor = "#3788d8";
+	var ImportCals = [];
+	var calendarProps = {'4' : { 'color' : '#3787d8' , 'name' : 'Public Meetings' },
+'6' : { 'color' : '#3787d8' , 'name' : 'City Events' },
+'17' : { 'color' : '#3787d8' , 'name' : 'Fire Rescue Events' },
+};
+	var RZCalendarTimezone = "";
+</script>
+
+</head>
+<body id="homepage" class="fire-template fire-homepage">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="HcNla6Lc"></script>
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = ''
+RZ.baseurlpath = ''
+RZ.protocolRelativeRevizeBaseUrl='//cms7.revize.com'
+
+RZ.pagetemplatename = 'index_fire'
+RZ.pagetemplateid = '20'
+RZ.pagemodule = ''
+RZ.pagemoduleid = ''
+RZ.pagerecordid = '';
+
+RZ.pageid = 'index_fire';
+RZ.pageparentid = '';
+RZ.pagesectionid = '0';
+RZ.pagesectionname = '';
+RZ.pagesectionlevel = '0';
+RZ.pagesectionfolder = '';
+RZ.pagesectionfilter = 'sectionid=0';
+RZ.pagelinkfilter = 'linklevel=0 and linksectionid=0';
+RZ.pagelinklevel = '0';
+RZ.pagelinkid = '-1';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = ''
+RZ.page_key = 'index_fire[]'
+RZ.parent_key = ''
+RZ.inherit_key = ''
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'manassasparkva'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms7.revize.com/revize/manassasparkva';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.calendar_options = "max_events=6";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,fileschannel';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+
+
+ 
+
+  
+
+
+
+<header>
+	<a href="#main" id="skip" tabindex="0" class="btn">Skip to main content</a>
+	<div class="top-bar pattern-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<a href="./" class="btn btn-back">Back to City Homepage <img src="_assets_/images/right-arrow.png" width="17px" class="align-middle ml-2 mb-1"></a>
+				</div>
+				<div class="col-lg-8 d-flex justify-content-between justify-content-lg-end">
+				
+					<span class="d-inline-block d-md-flex align-items-center">9080 Manassas Drive Manassas Park, VA 20111&nbsp;&nbsp;â¢&nbsp;&nbsp;Ph: 703-335-8845&nbsp;&nbsp;â¢&nbsp;&nbsp;Fax: 703-335-8865</span>
+				</div><!-- /.col -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</div><!-- /.top-bar -->		
+	<div class="main-header bg-primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-2 d-flex align-items-center header-logo">
+					<a href="./index_fire.php" id="logo"><img src="images/fire-logo.png" alt="" class="logo"></a>
+					<div id="toggles" class="d-md-block d-lg-none">
+						<div id="info-toggle" class="fa fa-info"></div>
+						<div id="nav-toggle" class="fas fa-bars"></div>
+					</div><!--/#toggles.hidden-lg.hidden-md-->	
+				</div><!-- /.col-lg-2 -->
+				<div class="col-lg-2 order-lg-3 d-flex align-items-center justify-content-end translate-social">
+					<div class="translate-section d-none d-lg-block text-nowrap">
+						<div id="google-translate" class="d-none">
+							<script>
+								function googleTranslateElementInit() {
+									new google.translate.TranslateElement({pagelanguage: 'en',
+										layout: google.translate.TranslateElement.InlineLayout.SIMPLE},
+										'google-translate');
+								}
+							</script>
+							<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+						</div><!-- /#google-translate -->
+						<ul id="translation-links" class="d-inline-block">
+							<li><button type="button" class="bg-transparent p-0 font-weight-bold mr-3" id="translate-button" aria-label="translate website" aria-haspopup="true" aria-expanded="false"><img src="_assets_/images/translate.png" alt="" width="24px" class="mr-2"> Translate</button>
+								<ul class="clearfix" aria-labelledby="translate-button">
+									<li><a href="#" class="Afrikaans" data-lang="Afrikaans">Afrikaans</a></li>
+									<li><a href="#" class="Albanian" data-lang="Albanian">Albanian</a></li>
+									<li><a href="#" class="Arabic" data-lang="Arabic">Arabic</a></li>
+									<li><a href="#" class="Armenian" data-lang="Armenian">Armenian</a></li>
+									<li><a href="#" class="Azerbaijani" data-lang="Azerbaijani">Azerbaijani</a></li>
+									<li><a href="#" class="Basque" data-lang="Basque">Basque</a></li>
+									<li><a href="#" class="Belarusian" data-lang="Belarusian">Belarusian</a></li>
+									<li><a href="#" class="Bengali" data-lang="Bengali">Bengali</a></li>
+									<li><a href="#" class="Bosnian" data-lang="Bosnian">Bosnian</a></li>
+									<li><a href="#" class="Bulgarian" data-lang="Bulgarian">Bulgarian</a></li>
+									<li><a href="#" class="Catalan" data-lang="Catalan">Catalan</a></li>
+									<li><a href="#" class="Cebuano" data-lang="Cebuano">Cebuano</a></li>
+									<li><a href="#" class="Chinese" data-lang="Chinese (Simplified)">Chinese (Simplified)</a></li>
+									<li><a href="#" class="Chinese" data-lang="Chinese (Traditional)">Chinese (Traditional)</a></li>
+									<li><a href="#" class="Croatian" data-lang="Croatian">Croatian</a></li>
+									<li><a href="#" class="Czech" data-lang="Czech">Czech</a></li>
+									<li><a href="#" class="Danish" data-lang="Danish">Danish</a></li>
+									<li><a href="#" class="Dutch" data-lang="Dutch">Dutch</a></li>
+									<li><a href="#" class="English" data-lang="English">English</a></li>
+									<li><a href="#" class="Esperanto" data-lang="Esperanto">Esperanto</a></li>
+									<li><a href="#" class="Estonian" data-lang="Estonian">Estonian</a></li>
+									<li><a href="#" class="Filipino" data-lang="Filipino">Filipino</a></li>
+									<li><a href="#" class="Finnish" data-lang="Finnish">Finnish</a></li>
+									<li><a href="#" class="French" data-lang="French">French</a></li>
+									<li><a href="#" class="Galician" data-lang="Galician">Galician</a></li>
+									<li><a href="#" class="Georgian" data-lang="Georgian">Georgian</a></li>
+									<li><a href="#" class="German" data-lang="German">German</a></li>
+									<li><a href="#" class="Greek" data-lang="Greek">Greek</a></li>
+									<li><a href="#" class="Gujarati" data-lang="Gujarati">Gujarati</a></li>
+									<li><a href="#" class="Haitian Creole" data-lang="Haitian Creole">Haitian Creole</a></li>
+									<li><a href="#" class="Hausa" data-lang="Hausa">Hausa</a></li>
+									<li><a href="#" class="Hebrew" data-lang="Hebrew">Hebrew</a></li>
+									<li><a href="#" class="Hindi" data-lang="">Hindi</a></li>
+									<li><a href="#" class="Hmong" data-lang="Hmong">Hmong</a></li>
+									<li><a href="#" class="Hungarian" data-lang="Hungarian">Hungarian</a></li>
+									<li><a href="#" class="Icelandic" data-lang="Icelandic">Icelandic</a></li>
+									<li><a href="#" class="Igbo" data-lang="Igbo">Igbo</a></li>
+									<li><a href="#" class="Indonesian" data-lang="Indonesian">Indonesian</a></li>
+									<li><a href="#" class="Irish" data-lang="Irish">Irish</a></li>
+									<li><a href="#" class="Italian" data-lang="Italian">Italian</a></li>
+									<li><a href="#" class="Japanese" data-lang="Japanese">Japanese</a></li>
+									<li><a href="#" class="Javanese" data-lang="Javanese">Javanese</a></li>
+									<li><a href="#" class="Kannada" data-lang="Kannada">Kannada</a></li>
+									<li><a href="#" class="Khmer" data-lang="Khmer">Khmer</a></li>
+									<li><a href="#" class="Korean" data-lang="Korean">Korean</a></li>
+									<li><a href="#" class="Lao" data-lang="Lao">Lao</a></li>
+									<li><a href="#" class="Latin" data-lang="Latin">Latin</a></li>
+									<li><a href="#" class="Latvian" data-lang="Latvian">Latvian</a></li>
+									<li><a href="#" class="Lithuanian" data-lang="Lithuanian">Lithuanian</a></li>
+									<li><a href="#" class="Macedonian" data-lang="Macedonian">Macedonian</a></li>
+									<li><a href="#" class="Malay" data-lang="Malay">Malay</a></li>
+									<li><a href="#" class="Maltese" data-lang="Maltese">Maltese</a></li>
+									<li><a href="#" class="Maori" data-lang="Maori">Maori</a></li>
+									<li><a href="#" class="Marathi" data-lang="Marathi">Marathi</a></li>
+									<li><a href="#" class="Mongolian" data-lang="Mongolian">Mongolian</a></li>
+									<li><a href="#" class="Nepali" data-lang="Nepali">Nepali</a></li>
+									<li><a href="#" class="Norwegian" data-lang="Norwegian">Norwegian</a></li>
+									<li><a href="#" class="Persian" data-lang="Persian">Persian</a></li>
+									<li><a href="#" class="Polish" data-lang="Polish">Polish</a></li>
+									<li><a href="#" class="Portuguese" data-lang="Portuguese">Portuguese</a></li>
+									<li><a href="#" class="Punjabi" data-lang="Punjabi">Punjabi</a></li>
+									<li><a href="#" class="Romanian" data-lang="Romanian">Romanian</a></li>
+									<li><a href="#" class="Russian" data-lang="Russian">Russian</a></li>
+									<li><a href="#" class="Serbian" data-lang="Serbian">Serbian</a></li>
+									<li><a href="#" class="Slovak" data-lang="Slovak">Slovak</a></li>
+									<li><a href="#" class="Slovenian" data-lang="Slovenian">Slovenian</a></li>
+									<li><a href="#" class="Somali" data-lang="Somali">Somali</a></li>
+									<li><a href="#" class="Spanish" data-lang="Spanish">Spanish</a></li>
+									<li><a href="#" class="Swahili" data-lang="Swahili">Swahili</a></li>
+									<li><a href="#" class="Swedish" data-lang="Swedish">Swedish</a></li>
+									<li><a href="#" class="Tamil" data-lang="Tamil">Tamil</a></li>
+									<li><a href="#" class="Telugu" data-lang="Telugu">Telugu</a></li>
+									<li><a href="#" class="Thai" data-lang="Thai">Thai</a></li>
+									<li><a href="#" class="Turkish" data-lang="Turkish">Turkish</a></li>
+									<li><a href="#" class="Ukrainian" data-lang="Ukrainian">Ukrainian</a></li>
+									<li><a href="#" class="Urdu" data-lang="Urdu">Urdu</a></li>
+									<li><a href="#" class="Vietnamese" data-lang="Vietnamese">Vietnamese</a></li>
+									<li><a href="#" class="Welsh" data-lang="Welsh">Welsh</a></li>
+									<li><a href="#" class="Yiddish" data-lang="Yiddish">Yiddish</a></li>
+									<li><a href="#" class="Yoruba" data-lang="Yoruba">Yoruba</a></li>
+									<li><a href="#" class="Zulu" data-lang="Zulu">Zulu</a></li>
+								</ul>
+							</li>
+						</ul><!--/#translation-links-->
+						<button class="search-toggle"><img src="_assets_/images/search.png" alt="search"></button>
+						<div class="social d-inline-block">
+							
+									
+							
+												
+							<a href="https://www.facebook.com/manassasparkfirerescue/" class="d-inline-block bg-white rounded-circle" target="_blank"><i class="fab fa-facebook-f"></i></a>	
+																
+						</div><!-- /.social -->
+					</div><!-- /.translate-section -->						
+				</div><!-- /.col-lg-2 -->				
+				<div class="col-lg-8 order-lg-2 d-flex position-static">
+					
+
+<!-- // BEG of  /plugins/menus/menus_topnav_list_include.jsp \\ --> 
+<ul id="nav" class="v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay"><a class="menuA level0 menuDisplay" href="index_fire.php" target="_self" id="li-17">Home</a></li>
+	<li class="menuLI level0 menuDisplay children"><a class="menuA level0 menuDisplay" href="about/index.php" target="_self" id="li-18">About</a>
+		<ul id="ul-1720" class="menuUL level1 menuHidden">
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="about/history.php" target="_self" id="li-1720">Department History</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="about/apparatus_equipment.php" target="_self" id="li-565">Apparatus/Equipment</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="about/mission___core_values.php" target="_self" id="li-566">Mission & Core Values</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="about/contact_us.php" target="_self" id="li-573">Contact Us</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="Manassas Park 2022 Annual Report Final.pdf" target="_new" id="li-3745">Annual Report</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="Standards of Cover 2022 Final.pdf" target="_new" id="li-3740">Standards of Coverage Report</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay children"><a class="menuA level0 menuDisplay" href="fire_prevention___safety/index.php" target="_self" id="li-567">Office of the Fire Marshal</a>
+		<ul id="ul-1739" class="menuUL level1 menuHidden">
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/fire_marshal_office.php" target="_self" id="li-1739">Operational Permits</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/citizen_fire_academy.php" target="_self" id="li-1740">Community Fire Academy</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/seasonal_safety_.php" target="_self" id="li-1741">Public Education/Home Safety Surveys</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/plan_review_.php" target="_self" id="li-1742">Plan Review</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/knox_boxes.php" target="_self" id="li-1743">Knox Boxes</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/fioa_request_.php" target="_self" id="li-1744">FOIA Request</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/index.php" target="_self" id="li-1964">Safety Tips</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay children"><a class="menuA level0 menuDisplay" href="community_services___activities/index.php" target="_self" id="li-20">Community Services & Activities</a>
+		<ul id="ul-570" class="menuUL level1 menuHidden">
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="community_services___activities/child_safety_seats.php" target="_self" id="li-570">Child Safety Seats</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="fire_prevention___safety/seasonal_safety_.php" target="_self" id="li-1909">Public Education/Home Safety Surveys</a></li>
+			<li class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/emergency_management/index.php" target="_self" id="li-2445">Emergency Management</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay"><a class="menuA level0 menuDisplay" href="departments/human_resources/fire_rescue_department_applications.php" target="_self" id="li-1862">Apply For a Job</a></li>
+</ul>
+<!-- \\ END of /plugins/menus/menus_topnav_list_include.jsp // -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NNK21966PR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-NNK21966PR');
+</script>
+	
+				</div><!-- /.col-lg-8 -->					
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</div><!-- /.bg-primary -->
+</header>
+	
+<div id="search" class="inner-page-search">
+	<form class="search-form" method="GET" action="search.php" role="search" aria-label="sitewide">
+		<label class="fa fa-search sr-only" for="search-input"><span class="sr-only">Search</span></label>
+		<input name="q" class="form-control search-input" placeholder="Welcome to Manassas Park. How may we help you?" type="search" id="search-input">
+		<button><img src="_assets_/images/search.png" alt="search"></button>
+	</form>
+</div><!-- /#search -->		
+		
+<section id="slider" role='complementary' aria-label='page banner'>
+
+    <div class="centerBtns">
+  
+  <div class="text-right">
+    <script language="JavaScript" type="text/JavaScript">
+      RZ.module = 'global';
+      RZ.nexturl = "editforms/top-bar-fire-editform.jsp?";
+      RZ.img = '<span class="rzBtn">Edit Top Bar Info</span>';
+      RZ.set = 'pageid=fire-top-bar';
+      RZ.options = '';
+      if (typeof RZaction != 'undefined') RZaction('editform');
+  </script>
+  <br>
+  <script language="JavaScript" type="text/JavaScript">
+      RZ.module = 'global';
+      RZ.nexturl = "editforms/social-editform.jsp";
+      RZ.img = '<span class="rzBtn">Edit Social Media</span>';
+      RZ.set = 'pageid=fire-socials';
+      RZ.options = '';
+      if (typeof RZaction != 'undefined') RZaction('editform');
+  </script>
+  </div>
+      
+      <script language="JavaScript" type="text/JavaScript">
+        RZ.module = 'revize_topnav';
+        RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=index_fire&"
+              + "linksfilter=linkplacement=topnavfire and linkparentid=0&"
+              + "numberoflevels=3&"
+              + "linkoptions=url,template,file&"
+              + "linknewsection=*all*";
+        RZ.img = '<span class="rzBtn">Edit Top Nav</span>';
+        RZ.caption = '';
+        RZ.set="links.linkplacement=topnavfire";
+        RZ.options = '';
+        if (typeof RZaction != 'undefined') RZaction('editlist');
+      </script>
+    <script language="JavaScript" type="text/JavaScript">
+      RZ.module = 'slider';
+      RZ.nexturl = "editforms/slider-editlist.jsp?pageid=index_fire&width=1700&height=700";
+      RZ.img = '<span class="rzBtn">Edit Image Banner List</span>';
+      RZ.caption = '';
+      RZ.options = '';
+      if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+  
+
+<br>
+<script language="JavaScript" type="text/JavaScript">
+    RZ.module = 'global';
+    RZ.nexturl = 'editforms/background-editform.jsp?width=805&height=125';
+    RZ.img = '<span class="rzBtn">Edit Slider Caption Image</span>';
+    RZ.set = 'pageid=fire-slider-cap';
+    RZ.options = '';
+    if (typeof RZaction != 'undefined') RZaction('editform');
+</script>
+
+
+</div><!-- centerBtns -->
+  
+  
+
+	<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+    <ul class="bxslider">
+      
+        
+          
+          <li style="background:url('_assets_/images/slide-4.jpg') center / cover no-repeat;"></li>
+        
+      
+    </ul>
+  <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('slider','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+  <div id="slider-dim"></div>
+	<div id="slider-caption" class="container target">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="container text-center"><h1 class="m-0"><img src="_assets_/images/slider-caption-fire.png" width="863px" class="d-block mx-auto"></h1></div>
+			</div><!-- /.col-lg-12 -->					
+		</div><!-- /.row -->
+	</div><!-- /#slider-caption.container -->
+  
+  
+</section><!--/#slider-->
+
+<div class="rzContainer text-center">
+	<script language="JavaScript" type="text/JavaScript">
+		RZ.module = 'qlinks';
+		RZ.nexturl = "editforms/quick-links-editlist.jsp?width=64&height=64&pageid=fire-quicks";
+		RZ.img = '<span class="rzBtn">Edit Quick Links</span>';
+		RZ.caption = '';
+		RZ.options = '';
+		if (typeof RZaction != 'undefined') RZaction('editlist');
+	</script>
+</div>
+<div class="q-links pattern-bg position-relative">
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(2)
+</script>
+
+	<div id="q-slider">
+	
+	
+	
+		<a href="fire_prevention___safety/fire_marshal_office.php" class="q-item"><img src="image_bank/Icons/Black%20Card%20Icon.png" alt="quick links icon"><span class="q-title">Pay</span></a>
+	
+	
+	
+	
+		<a href="calendar.php" class="q-item"><img src="image_bank/Icons/Gray%20Calendar%20Icon.png" alt="quick links icon"><span class="q-title">Calendar</span></a>
+	
+	
+	
+	
+		<a href="fire_prevention___safety/safety_tips.php" class="q-item"><img src="_assets_/images/q6.png" alt="quick links icon"><span class="q-title">Safety Tips</span></a>
+	
+	
+	
+	
+		<a href="about/contact_us.php" class="q-item"><img src="image_bank/Icons/Gray%20Ask%20Icon.png" alt="quick links icon"><span class="q-title">Contact</span></a>
+	
+	
+	
+	
+		<a href="https://www.smart911.com/smart911/login.action?cdnExternalPath=" class="q-item"><img src="_assets_/images/q6.png" alt="quick links icon"><span class="q-title">Alert 911</span></a>
+	
+	
+	</div>	
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('qlinks','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['qlinks_2']={field:'seq_no',seq:'6.00'};
+</script>
+	
+</div><!-- /#q-links -->
+	
+<main id="main">
+
+	<div class="news-section bg-primary">
+		<div class="container">
+			<div class="row">
+			<div class="col-lg-7 d-flex align-items-center">
+				
+				
+					<h2 class="text-white"><span class="d-block small">Latest News &</span>
+				
+				Announcements</h2>
+				</div><!-- /.col-lg-7 -->
+				<div class="col-lg-5 justify-content-between justify-content-lg-end d-flex align-items-lg-center">
+					<div class="section-right">
+						<span id="news-controls"></span><!--/#news-controls-->	
+				
+									
+						<a href="newslist.php" class="btn btn-secondary">See All News</a>
+					</div><!-- /.section-right -->
+				</div><!-- /.col-lg-5 -->
+			</div><!--/.row-->
+			<div class="rzContainer text-center">
+				<script language="JavaScript" type="text/JavaScript">
+					RZ.module = 'global';
+					RZ.nexturl = "editforms/header-extra-editform.jsp";
+					RZ.img = '<span class="rzBtn">Edit Text Content</span>';
+					RZ.set = 'pageid=fire-news';
+					RZ.options = '';
+					if (typeof RZaction != 'undefined') RZaction('editform');
+				</script>
+				<script language="JavaScript" type="text/JavaScript">
+					RZ.module = 'news';
+					RZ.nexturl = "editforms/news-links-editlist.jsp?pageid=news-fire&width=313&height=351";
+					RZ.img = '<span class="rzBtn">Edit News List</span>';
+					RZ.caption = '';
+					RZ.options = '';
+					if (typeof RZaction != 'undefined') RZaction('editlist');
+				</script>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="news-list">
+					<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(3)
+</script>
+
+						<div id="news-slider">
+						
+						</div><!-- /#news-slider -->
+					<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('news','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['news_3']={field:'',seq:'-1.00'};
+</script>
+	
+					</div><!-- /.news-list -->				
+		    	</div><!-- /.col-12 -->
+			</div><!-- /.row -->
+			<div class="rzContainer text-center">
+					<br>
+					<script language="JavaScript" type="text/JavaScript">
+						RZ.module = 'global';
+						RZ.nexturl = "editforms/header-extra-editform.jsp";
+						RZ.img = '<span class="rzBtn">Edit Alerts Content</span>';
+						RZ.set = 'pageid=fire-newsletter';
+						RZ.options = '';
+						if (typeof RZaction != 'undefined') RZaction('editform');
+					</script>
+				</div>
+			<div class="row d-flex align-items-center stay-informed">
+			<div class="col-lg-3">
+				
+				
+					<h4 class="text-white">Stay Informed <small class="d-block">
+				
+				Sign up to receive alerts</small></h4>
+				</div><!-- /.col-lg-3 -->
+				<div class="col-lg-9">
+					<form class="alerts-form" method="GET" action="" role="" aria-label="">
+					<input name="" class="form-control alerts-input" placeholder="Enter email address..." type="text" id="alerts-input">					
+				
+				
+				<button>Sign Up</button>
+					</form>					
+				</div><!-- /.col-lg-9 -->
+			</div><!-- /.row -->
+		</div><!--/.container-->
+	</div><!-- /.news-section -->
+	
+	<div class="connect-section pattern-bg">
+		<div class="rzContainer text-center">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = "editforms/connect-editform.jsp";
+				RZ.img = '<span class="rzBtn">Edit Content</span>';
+				RZ.set = 'pageid=fire-connect';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = "editforms/social-editform.jsp";
+				RZ.img = '<span class="rzBtn">Edit Social Media</span>';
+				RZ.set = 'pageid=fire-socials';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 d-flex align-items-center">
+				
+				
+					<h4 class="m-0">Manassas Park Fire Rescue <small class="d-block">
+				
+				Connect with us</small></h4>
+				</div><!-- /.col-lg-6 -->
+				<div class="col-lg-6 mt-4 mt-lg-0 justify-content-lg-end d-flex align-items-center connect-section-btns">
+					<div class="social d-inline-block">
+							
+									
+							
+												
+								<a href="https://www.facebook.com/manassasparkfirerescue/" class="d-inline-block bg-white rounded-circle" target="_blank"><i class="fab fa-facebook-f"></i></a>	
+													
+					</div><!-- /.social -->
+					
+				
+					<a href="https://member.everbridge.net/index/1332612387832054#/signup" class="btn btn-primary">
+				
+				Manassas Park Alerts</a>
+				
+										
+				</div><!-- /.col-lg-6 -->
+			</div><!-- /.row -->
+<div class="text-center">
+<div class="fb-page" data-href="https://www.facebook.com/manassasparkfirerescue" data-tabs="timeline" data-width="500" data-height="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/manassasparkfirerescue" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/manassasparkfirerescue">Manassas Park Fire Rescue</a></blockquote></div>
+</div>
+		</div><!-- /.container -->
+	</div><!-- /.connect-section -->
+	<section id="modal-section">
+		<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal" >
+		<i class="fa fa-share-alt"></i>
+		<span>Share <span class="sr-only">this page</span></span>
+	</button>
+
+	<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h2 class="modal-title" id="myModalLabel">Share this page</h2>
+				</div>
+				<div class="modal-body">
+					<div class="copylink">
+						<p>Copy and paste this code into your website.</p>
+						<pre>&lt;a href="http://www.manassasparkva.gov/index_fire.php">Your Link Name&lt;/a&gt;</pre>
+					</div><!-- /.copylink -->
+					<div class="share-btns">
+						<p>Share this page on your favorite Social network</p>
+						<div class="row">
+							<div class="col-sm-4">
+								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.manassasparkva.gov/index_fire.php" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-facebook"></i> Facebook
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.twitter.com/intent/tweet?url=http://www.manassasparkva.gov/index_fire.php" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.reddit.com/submit?url=http://www.manassasparkva.gov/index_fire.php" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-reddit"></i> Reddit
+								</a>
+							</div>
+						</div><!-- /.row -->
+					</div><!-- /.share-btns -->
+					<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+				</div><!-- /.modal-body -->
+			</div>
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</section><!-- /#modal-section --></main>
+
+
+
+
+
+ 
+
+  
+
+
+
+<footer>
+	<div class="footer text-white bg-primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+				
+				
+					<h5>Our Location</h5>					<p>
+				
+				
+					City of Manassas Park<br>
+				
+				
+					100 Park Central Plaza<br>
+				
+				
+					Manassas Park, VA 20111-2395<br>
+				
+				
+						Ph: (703) 335-8800<br>
+				
+				
+						Fax: (703) 335-0053
+					</p>
+					<div id="footer-translate">
+						<button type="button" class="translate-button" aria-label="translate website" aria-haspopup="true" aria-expanded="false">EN <i class="fas fa-chevron-down"></i></button>
+					</div>
+				</div><!--/.col-lg-3-->
+				<div class="col-lg-9">
+					<div class="row footer-links">
+						<div class="col-lg">
+								
+								
+				
+							<h5 class="mt-5 mt-lg-0">Departments</h5>							
+							<ul class="list-unstyled">
+							
+							
+							      
+							
+								<li><a href="https://manassasparkpolice.com/">Police</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="index_fire.php">Fire Rescue</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/emergency_management/index.php">Emergency Management</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="http://www.mpark.net/">Manassas Park City Schools</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/social_services/index.php">Social Services</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="https://www.manassasparkcommunitycenter.com/">Parks & Recreation</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="http://www.manassasparkcitylibrary.org/">Library</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/public_works/index.php">Public Works</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/development_zoning_and_code_enforcement_services/index.php">Development, Zoning, and Code Enforcement Services</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/general_services/index.php">General Services</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/human_resources/index.php">Human Resources</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/finance/index.php">Finance</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/city_assessor/index.php">City Assessor</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/county___regional_services/index.php">County & Regional Services</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/commissioner_of_the_revenue/index.php">Commissioner of the Revenue</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/treasurer/index.php">Treasurer</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/registrar_of_voters/index.php">Voter Registration</a></li>	
+							
+																																																																					
+							</ul>
+							
+						</div><!-- /.col-lg -->
+						<div class="col-lg">
+								
+							
+				
+							<h5 class="mt-5 mt-lg-0">ONLINE E-SERVICES</h5>							
+							<ul class="list-unstyled">
+							
+							
+							      
+							
+								<li><a href="http://portal.manassasparkva.gov/paas/">Real Estate Tax Inquiry</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="http://www.manassas-park.univers-clt.com/">Property Assessments</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="https://cityofmanassasparkva.tylerportico.com/payments/billsearch/">Payment Portal</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="departments/commissioner_of_the_revenue/downloadable_forms.php">Downloadable Forms</a></li>	
+							
+																																																																					
+							</ul>
+							
+						</div><!-- /.col-lg -->
+						<div class="col-lg">
+							
+							
+				
+							<h5 class="mt-5 mt-lg-0">PUBLIC SAFETY</h5>							
+							<ul class="list-unstyled">
+							
+							
+							      
+							
+								<li><a href="departments/emergency_management/index.php">Emergency Management</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="index_fire.php">Fire & Rescue</a></li>	
+							
+							
+							
+							      
+							
+								<li><a href="https://manassasparkpolice.com/">Police</a></li>	
+							
+																																																																					
+							</ul>
+							
+						</div><!-- /.col-lg -->
+					</div><!-- /.row -->
+				</div><!-- /.col-lg-9 -->					
+			</div><!--/.row-->
+		</div><!--/.container-->
+	</div><!-- /.footer -->
+	<div class="copy pattern-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6">					
+					
+				
+					&copy; 2024 <span class="footer-delimiter">?</span> City of Manassas Park, VA
+				</div><!--/.col-lg-6-->
+				
+				<div class="col-lg-6 mt-3 mt-lg-0 justify-content-lg-end d-lg-flex" id="revize">
+					Powered by <a href="https://www.revize.com" id="revize-link">revize.</a>, Government Website Experts  <span class="footer-delimiter">?</span><a href="https://cms7.revize.com/revize/security/index.jsp?webspace=manassasparkva&filename=/index_fire.php" id="revize-login">Login</a>
+				</div><!--/.col-lg-6#revize-->
+			</div><!--/.row-->
+		</div><!--/.container-->
+	</div><!--/.copy-->	
+</footer>
+
+
+
+  
+  
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+
+<div class="calendarEventPopup"> 
+  <script>
+    window.addEventListener('message', function(e) {
+      var $iframe = jQuery("#calendarEvent");
+      var eventName = e.data[0];
+      var data = e.data[1];
+      switch(eventName) {
+        case 'setHeight':
+          $iframe.height(data);
+          break;
+      }
+    }, false);
+  </script>
+    <style>
+        @media only screen and (max-width:768px){iframe#calendarEvent{height:auto!important}}
+        @media only screen and (max-height:700px){iframe#calendarEvent{height:auto!important}}
+    </style>
+    <div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
+      <div class="calendarEvent-overlay" style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div>
+      <!-- /.calendarEvent-overlay -->
+      <iframe src="about:blank" id="calendarEvent" style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
+    </div><!-- /#RZcalendar_detail --> 
+</div><!-- /.calendarEventPopup --> 
+<script src="_assets_/js/scripts.js?v=1707423504"></script>
+
+
+
+  <div class="modal fade" id="event-modal" tabindex="-1" role="dialog" aria-labelledby="event-modal" aria-hidden="true">
+  <div id="event-modal-dialog" class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+	  <div class="event-modal-header">
+		  <div class="modal-event-date-wrap">
+			<span class="modal-event-date-number"></span>
+			<span class="modal-event-date-month"></span>
+		  </div>
+      </div>
+	  <div class="modal-body" id="modal-event-body">
+		 <h2 class="modal-title" id="modal-event-title"></h2>
+		 <h3 class="modal-subtitle" id="modal-event-subtitle"></h3>
+		 <div class="modal-description clearfix" id="modal-event-description"></div>
+		 <div class="modal-location" id="modal-event-location"></div>
+	  </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <a href="#" id="modal-event-readmore" class="btn btn-primary">Read More</a>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="/revize/plugins/revize_calendar/moment.min.js"></script>
+<script src="/revize/plugins/revize_calendar/moment-timezone.min.js"></script>
+<script src="/revize/plugins/revize_calendar/rrule.js"></script>
+<script src="/revize/plugins/revize_calendar/ical.min.js"></script>
+<script src="/revize/plugins/revize_calendar/core/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/google-calendar/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/rrule/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/list/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/daygrid/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/timegrid/main.min.js"></script>
+<script src="/revize/plugins/revize_calendar/doT.min.js"></script>
+<script src="/revize/plugins/revize_calendar/ics/ics.deps.min.js"></script>
+<script src="/revize/plugins/revize_calendar/mini.js"></script>
+
+
+
+
+</body>
+</html>

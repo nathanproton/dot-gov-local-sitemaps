@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 31, 2024 at 9:06 pm by All in One SEO Pro v4.7.0 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://webstercountymo.gov/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://webstercountymo.gov/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-11T02:12:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://webstercountymo.gov/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-21T13:44:35+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

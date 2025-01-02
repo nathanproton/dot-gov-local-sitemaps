@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:pagemap="http://www.google.com/schemas/sitemap-pagemap/1.0"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+
+
+  <url>
+    <loc>https://durhamme.com/agendas</loc>
+    <lastmod>2024-08-26T13:16:31.861Z</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+,
+  <url>
+    <loc>https://durhamme.com/documents</loc>
+    <lastmod>2024-08-26T13:16:31.861Z</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+,
+  <url>
+    <loc>https://durhamme.com/news</loc>
+    <lastmod>2024-08-26T13:16:31.861Z</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+
+  
+    <url>
+      <loc>https://durhamme.com/pages/about-us</loc>
+      <lastmod>2023-10-20T19:50:21.185Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/animal-control</loc>
+      <lastmod>2024-06-28T02:45:21.420Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/assessing</loc>
+      <lastmod>2024-06-19T23:34:53.843Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/bill-pay</loc>
+      <lastmod>2024-06-06T06:05:44.474Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/boards-and-committees</loc>
+      <lastmod>2024-06-21T21:56:00.914Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/calendar</loc>
+      <lastmod>2024-06-09T14:31:41.780Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/code-enforcement</loc>
+      <lastmod>2024-06-18T00:58:52.768Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/comprehensive-plan-adopted-2018</loc>
+      <lastmod>2024-06-19T13:42:44.276Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/departments-and-hours</loc>
+      <lastmod>2024-06-26T17:13:05.381Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/elections-and-voter-information</loc>
+      <lastmod>2024-05-28T17:04:45.097Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/emergency-services</loc>
+      <lastmod>2023-08-28T17:47:43.333Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/general-assistance</loc>
+      <lastmod>2024-07-01T11:24:25.418Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/planning</loc>
+      <lastmod>2024-07-04T18:22:15.158Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/public-works</loc>
+      <lastmod>2024-06-23T00:26:34.791Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/solid-waste</loc>
+      <lastmod>2024-06-30T03:06:53.423Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/town-clerk</loc>
+      <lastmod>2024-06-09T15:29:53.339Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/pages/town-manager</loc>
+      <lastmod>2024-06-09T12:48:57.657Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  
+
+  
+    <url>
+      <loc>https://durhamme.com/news/absentee-ballot-request-now-available-for-the-november-5th-general-election</loc>
+      <lastmod>2024-08-09T11:09:35.328Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/news/afternoon-chat-with-the-town-manager</loc>
+      <lastmod>2024-07-11T20:17:19.994Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/news/hello-world</loc>
+      <lastmod>2024-07-01T18:18:15.196Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/news/town-office-will-be-closed-on-labor-day-monday-september-2-2024</loc>
+      <lastmod>2024-08-25T23:27:16.072Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  ,
+    <url>
+      <loc>https://durhamme.com/news/welcome-to-our-new-website</loc>
+      <lastmod>2024-07-06T12:15:26.329Z</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  
+
+</urlset>

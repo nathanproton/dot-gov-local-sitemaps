@@ -1,0 +1,706 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="https://www.elkocountynv.net/" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width">
+
+<!-- Metadata Area Starts -->
+	
+
+
+
+	
+	
+
+	<title>Welcome to Elko, Nevada</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content="Welcome to Elko, Nevada"/>
+
+
+
+	<meta name="robots" content="index, follow">
+<!-- Metadata Area Ends -->
+	
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+	<!-- Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms2.revize.com'
+
+RZ.pagetemplatename = 'fullwidth'
+RZ.pagetemplateid = '3'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '13067';
+
+RZ.pageid = 'links-13067';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '13067';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=13067';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=13067';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '13067';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '13067';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = ''
+RZ.page_key = 'fullwidth[13067]'
+RZ.parent_key = 'admin[]'
+RZ.inherit_key = ''
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'elkocountynevada'
+RZ.webspacedesc = "tinymce";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms2.revize.com/revize/elkocountynevada';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@elkocountynv.com";
+RZ.webspace_config.calendar_options = "";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-46614631-1";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "";
+RZ.webspace_config.image_maxheight = "300";
+RZ.webspace_config.image_maxwidth = "300";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_return_url = "";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "subscribers@elkocountynv.net";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = "webspace_page_permissions record not found where: webspace_page_permissions.page_key=admin[]"
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,Production';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+<a href="not_found/index.php#main" id="skip" tabindex="0">Skip to content</a>
+
+<header>
+	<div id="toggles" class="hidden-lg hidden-md">
+		<div id="nav-toggle" class="fa fa-bars"></div>
+	</div><!--/#toggles.hiddne-lg.hidden-md-->
+	<section id="top-bar" class="hidden-sm hidden-xs">
+		<div class="container">
+    
+<!-- Social Area Starts -->
+			<div class="pull-right clearfix" id="social-links">
+                                  
+
+
+
+ 
+            
+ 
+
+			</div><!--/.pull-right#social-links-->
+<!-- Social Area Ends -->
+
+<!-- Header links List Starts-->
+			<div id="controls" class="pull-right">
+				<div class="control" id="google-translate">
+          			<script type="text/javascript">
+	function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google-translate');
+	}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+				</div><!--/#google-translate-->
+                                  
+
+
+
+ 
+     <a class="control" href="http://cms2.revize.com/revize/elkocountynevada/enotify/index.php" id="e-notify">
+e-notify 
+<i class="fa fa-bullhorn"></i>
+</a>
+  
+  
+    <a class="control" href="https://www.elkocountynv.net/citizen_request_center/index.php" id="e-mail">
+        email 
+        <i class="fa fa-envelope"></i>
+    </a>
+   
+ 
+
+    <a class="control" href="javascript:print();" id="print">
+        print 
+        <i class="fa fa-print"></i>
+    </a>
+
+			</div><!--/#controls-->
+<!-- Header links List Ends-->
+
+		</div><!--/.container-->
+	</section><!--/#top-bar-->
+	<div class="container">
+        
+<!--Logo Area Starts-->
+		<a href="./" id="logo">
+            <h1>
+                <span class="sr-only">Elko County, NV</span>
+                <img src="_assets_/images/logo.png" alt="Elko County, Nevada">
+            </h1>
+        </a>
+<!--Logo Area Ends-->
+
+<!--Top Navigation Area Starts-->
+        
+
+
+ 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-53"><a class="menuA level0 menuDisplay" href="index.php" target="_self">Home</a></li>
+	<li class="menuLI level0 menuDisplay li-5740"><a class="menuA level0 menuDisplay" href="public_record/index.php" target="_self">Records</a></li>
+	<li class="menuLI level0 menuDisplay menuNone li-4 children"><span>Notices</span>
+		<ul class="menuUL level1 menuHidden ul-456">
+			<li class="menuLI level1 menuHidden li-456"><a class="menuA level1 menuHidden" href="notices/bids/index.php" target="_self">Bids, RFPs & SOQs</a></li>
+			<li class="menuLI level1 menuHidden li-458"><a class="menuA level1 menuHidden" href="notices/hearings/index.php" target="_self">Hearings</a></li>
+			<li class="menuLI level1 menuHidden li-1594"><a class="menuA level1 menuHidden" href="notices/psa/index.php" target="_self">PSA</a></li>
+			<li class="menuLI level1 menuHidden li-460"><a class="menuA level1 menuHidden" href="notices/misc/index.php" target="_self">Misc</a></li>
+			<li class="menuLI level1 menuHidden li-4439"><a class="menuA level1 menuHidden" href="notices/quorum_agendas/index.php" target="_self">Quorum Agendas</a></li>
+			<li class="menuLI level1 menuHidden li-464"><a class="menuA level1 menuHidden" href="notices/vacancies/index.php" target="_self">Vacancies</a></li>
+			<li class="menuLI level1 menuHidden li-12964"><a class="menuA level1 menuHidden" href="notices/short_list_for_professional_services/index.php" target="_self">Short List for Professional Services</a></li>
+			<li class="menuLI level1 menuHidden li-12992"><a class="menuA level1 menuHidden" href="notices/veteran_services/index.php" target="_self">Veteran Services</a></li>
+			<li class="menuLI level1 menuHidden li-14422"><a class="menuA level1 menuHidden" href="policies.php" target="_self">Policies</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay menuNone li-6 children"><span>Meetings</span>
+		<ul class="menuUL level1 menuHidden ul-181">
+			<li class="menuLI level1 menuHidden li-181"><a class="menuA level1 menuHidden" href="meetings/board_of_commissioners/index.php" target="_self">Agendas, Videos, Etc.</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-8 children"><a class="menuA level0 menuDisplay" href="departments/index.php" target="_new">Departments</a>
+		<ul class="menuUL level1 menuHidden ul-5718">
+			<li class="menuLI level1 menuHidden li-5718"><a class="menuA level1 menuHidden" href="departments/county_manager/index.php" target="_self">County Manager</a></li>
+			<li class="menuLI level1 menuHidden li-627"><a class="menuA level1 menuHidden" href="departments/ambulance_service/index.php" target="_self">Ambulance Service</a></li>
+			<li class="menuLI level1 menuHidden li-635"><a class="menuA level1 menuHidden" href="departments/assessor1/index.php" target="_self">Assessor</a></li>
+			<li class="menuLI level1 menuHidden li-391"><a class="menuA level1 menuHidden" href="departments/buildings_and_grounds/index.php" target="_self">Buildings & Grounds</a></li>
+			<li class="menuLI level1 menuHidden li-12268"><a class="menuA level1 menuHidden" href="departments/building_and_safety/index.php" target="_self">Building & Safety</a></li>
+			<li class="menuLI level1 menuHidden li-393"><a class="menuA level1 menuHidden" href="departments/clerk/index.php" target="_new">Clerk</a></li>
+			<li class="menuLI level1 menuHidden li-406"><a class="menuA level1 menuHidden" href="departments/district_attorney/index.php" target="_new">District Attorney</a></li>
+			<li class="menuLI level1 menuHidden menuNone li-408 children"><span>District Courts</span>
+				<ul class="menuUL level2 menuHidden ul-12867">
+					<li class="menuLI level2 menuHidden li-12867"><a class="menuA level2 menuHidden" href="departments/district_courts/department_1_-19/index.php" target="_self">Department 1</a></li>
+					<li class="menuLI level2 menuHidden li-414"><a class="menuA level2 menuHidden" href="departments/district_courts/district_court_ii/index.php" target="_self">Department II</a></li>
+					<li class="menuLI level2 menuHidden li-14298"><a class="menuA level2 menuHidden" href="departments/district_courts/department_iii.php" target="_self">Department III</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-8107"><a class="menuA level1 menuHidden" href="departments/ecfpd_-_fire_district/index.php" target="_self">ECFPD - Fire District</a></li>
+			<li class="menuLI level1 menuHidden li-12639"><a class="menuA level1 menuHidden" href="departments/emergency_management/index.php" target="_self">Emergency Management</a></li>
+			<li class="menuLI level1 menuHidden li-5727"><a class="menuA level1 menuHidden" href="departments/ag_extension/index.php" target="_self">Extension</a></li>
+			<li class="menuLI level1 menuHidden li-402"><a class="menuA level1 menuHidden" href="departments/fiscal_affairs/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-12762"><a class="menuA level1 menuHidden" href="departments/personnel/index.php" target="_self">Human Resources</a></li>
+			<li class="menuLI level1 menuHidden li-404"><a class="menuA level1 menuHidden" href="departments/information_technology/InfoTech19.php" target="_self">Information Technology</a></li>
+			<li class="menuLI level1 menuHidden menuNone li-422 children"><span>Justice Courts</span>
+				<ul class="menuUL level2 menuHidden ul-424">
+					<li class="menuLI level2 menuHidden li-424"><a class="menuA level2 menuHidden" href="departments/justice_courts/carlin/index.php" target="_new">Carlin</a></li>
+					<li class="menuLI level2 menuHidden li-426"><a class="menuA level2 menuHidden" href="departments/justice_courts/eastline/index.php" target="_new">Eastline</a></li>
+					<li class="menuLI level2 menuHidden li-428"><a class="menuA level2 menuHidden" href="departments/justice_courts/elko/index.php" target="_new">Elko</a></li>
+					<li class="menuLI level2 menuHidden li-432"><a class="menuA level2 menuHidden" href="departments/justice_courts/wells/index.php" target="_new">Wells</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden menuNone li-434 children"><span>Juvenile</span>
+				<ul class="menuUL level2 menuHidden ul-438">
+					<li class="menuLI level2 menuHidden li-438"><a class="menuA level2 menuHidden" href="departments/juvenile/detention/index.php" target="_new">Detention</a></li>
+					<li class="menuLI level2 menuHidden li-440"><a class="menuA level2 menuHidden" href="departments/juvenile/probation/index.php" target="_new">Probation</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-436"><a class="menuA level1 menuHidden" href="departments/library/index.php" target="_self">Mybrary</a></li>
+			<li class="menuLI level1 menuHidden li-12621"><a class="menuA level1 menuHidden" href="departments/natural_resources19/index.php" target="_self">Natural Resources</a></li>
+			<li class="menuLI level1 menuHidden li-13028"><a class="menuA level1 menuHidden" href="https://www.elkocountynv.net/departments/planning_and_zoningpz/index.php" target="_new">Planning and Zoning</a></li>
+			<li class="menuLI level1 menuHidden li-12280"><a class="menuA level1 menuHidden" href="departments/public_administrator19/index.php" target="_self">Public Administrator</a></li>
+			<li class="menuLI level1 menuHidden li-14450"><a class="menuA level1 menuHidden" href="departments/public_defender/public_defender_index.php" target="_self">Public Defender</a></li>
+			<li class="menuLI level1 menuHidden li-12276"><a class="menuA level1 menuHidden" href="departments/public_guardian19/index.php" target="_self">Public Guardian</a></li>
+			<li class="menuLI level1 menuHidden li-12602"><a class="menuA level1 menuHidden" href="departments/public_works19/index.php" target="_self">Public Works</a></li>
+			<li class="menuLI level1 menuHidden li-444"><a class="menuA level1 menuHidden" href="departments/recorder/index.php" target="_new">Recorder</a></li>
+			<li class="menuLI level1 menuHidden li-446"><a class="menuA level1 menuHidden" href="departments/roads/index19.php" target="_self">Roads</a></li>
+			<li class="menuLI level1 menuHidden li-448"><a class="menuA level1 menuHidden" href="departments/sheriff/index.php" target="_new">Sheriff</a></li>
+			<li class="menuLI level1 menuHidden li-12278"><a class="menuA level1 menuHidden" href="departments/social_services/index.php" target="_self">Social Services</a></li>
+			<li class="menuLI level1 menuHidden li-6533"><a class="menuA level1 menuHidden" href="departments/transit_service19/index.php" target="_self">Transit Service</a></li>
+			<li class="menuLI level1 menuHidden li-12847"><a class="menuA level1 menuHidden" href="departments/treasurer20/index.php" target="_self">Treasurer</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay menuNone li-10 children"><span>Boards</span>
+		<ul class="menuUL level1 menuHidden ul-238">
+			<li class="menuLI level1 menuHidden li-238"><a class="menuA level1 menuHidden" href="boards/commissioners/county_commission19.php" target="_self">County Commission</a></li>
+			<li class="menuLI level1 menuHidden li-973"><a class="menuA level1 menuHidden" href="boards/debt_management/index.php" target="_self">Debt Management</a></li>
+			<li class="menuLI level1 menuHidden li-11558"><a class="menuA level1 menuHidden" href="boards/e_911/index.php" target="_self">Enhanced 911</a></li>
+			<li class="menuLI level1 menuHidden li-971"><a class="menuA level1 menuHidden" href="boards/equalization/index.php" target="_self">Equalization</a></li>
+			<li class="menuLI level1 menuHidden li-977"><a class="menuA level1 menuHidden" href="boards/fair/index.php" target="_self">Fair</a></li>
+			<li class="menuLI level1 menuHidden li-13730"><a class="menuA level1 menuHidden" href="boards/fire/index.php" target="_self">Fire</a></li>
+			<li class="menuLI level1 menuHidden li-10238"><a class="menuA level1 menuHidden" href="boards/health_board/index.php" target="_self">Health Board</a></li>
+			<li class="menuLI level1 menuHidden li-12752"><a class="menuA level1 menuHidden" href="boards/jackpot_advisory_board19/index.php" target="_self">Jackpot Advisory Board</a></li>
+			<li class="menuLI level1 menuHidden li-981"><a class="menuA level1 menuHidden" href="boards/jarbidge_advisory_board/index.php" target="_self">Jarbidge Advisory Board</a></li>
+			<li class="menuLI level1 menuHidden li-12729"><a class="menuA level1 menuHidden" href="boards/lepc/index.php" target="_self">LEPC</a></li>
+			<li class="menuLI level1 menuHidden li-983"><a class="menuA level1 menuHidden" href="boards/library_board/index.php" target="_self">Library Board</a></li>
+			<li class="menuLI level1 menuHidden li-12544"><a class="menuA level1 menuHidden" href="boards/montello_advisory_board19/index19.php" target="_self">Montello Advisory Board</a></li>
+			<li class="menuLI level1 menuHidden li-987"><a class="menuA level1 menuHidden" href="boards/mtn_city_advisory/index.php" target="_self">Mountain City Advisory</a></li>
+			<li class="menuLI level1 menuHidden li-989"><a class="menuA level1 menuHidden" href="boards/natural_resources/index.php" target="_self">Natural Resources</a></li>
+			<li class="menuLI level1 menuHidden li-991"><a class="menuA level1 menuHidden" href="boards/planning/index.php" target="_self">Planning Commission</a></li>
+			<li class="menuLI level1 menuHidden li-14478"><a class="menuA level1 menuHidden" href="elko_county_recreation_board/index.php" target="_self">Recreation Board</a></li>
+			<li class="menuLI level1 menuHidden li-993"><a class="menuA level1 menuHidden" href="boards/rtc/index.php" target="_self">RTC</a></li>
+			<li class="menuLI level1 menuHidden li-975"><a class="menuA level1 menuHidden" href="boards/tv_district_-_elko/index.php" target="_self">TV District - Elko</a></li>
+			<li class="menuLI level1 menuHidden li-212"><a class="menuA level1 menuHidden" href="boards/wildlife/wildlife.php" target="_new">Wildlife</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-15550"><a class="menuA level0 menuDisplay" href="https://www.governmentjobs.com/careers/elkocountynv" target="_new">Jobs</a></li>
+</ul>
+
+<script type="text/javascript">
+window._monsido = window._monsido || {
+token: "j8C2PgnZguvMnpCsdg3LGw",
+statistics: {
+enabled: true,
+cookieLessTracking: true,
+documentTracking: {
+enabled: true,
+documentCls: "monsido_download",
+documentIgnoreCls: "monsido_ignore_download",
+documentExt: [".pdf",".doc",".docx"],
+},
+},
+heatmap: {
+enabled: true,
+},
+pageCorrect: {
+enabled: true,
+},
+pageAssistV2: {
+enabled: true,
+theme: "light",
+mainColor: "#783CE2",
+textColor: "#ffffff",
+linkColor: "#783CE2",
+buttonHoverColor: "#783CE2",
+mainDarkColor: "#052942",
+textDarkColor: "#ffffff",
+linkColorDark: "#FFCF4B",
+buttonHoverDarkColor: "#FFCF4B",
+greeting: "Discover your personalization options",
+direction: "leftbottom",
+coordinates: "undefined undefined undefined undefined",
+iconShape: "circle",
+title: "Personalization Options",
+titleText: "Welcome to PageAssist toolbar! Adjust the options below to cater the website to your accessibility needs.",
+iconPictureUrl: "logo",
+logoPictureUrl: "",
+logoPictureBase64: "",
+languages: [""],
+defaultLanguage: "",
+skipTo: false,
+alwaysOnTop: false,
+},
+};
+</script>
+<script type="text/javascript" async src="https://app-script.monsido.com/v2/monsido-script.js"></script>
+
+
+
+
+
+<!--Top Navigation Area Ends-->
+
+		<div id="weather" class="weather"></div>
+	</div><!--/.container-->
+	<img src="_assets_/images/graphic-1.png" alt="first graphic">
+</header>
+<section id="slider"> 
+    
+<!--Slider Wrap Starts--> 
+	<div class="sliderbtn">
+  	
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+    RZ.module = 'banner';
+    RZ.nexturl = "editforms/slider-editlist.jsp?pageid=13067";
+    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+    RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
+    RZ.caption = '';
+    RZ.options = '';
+    if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+    
+</div>
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+    
+    
+     
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('banner','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+<ul class="bxslider">
+    <li style="background: url('_assets_/images/slide-1.jpg') top no-repeat; background-size: cover;"></li>
+</ul><!-- /.bxslider -->
+
+<!--Slider Wrap Ends-->
+
+<!-- Search Area Starts -->
+	<div class="container for-search">
+		<div id="search">
+			<form class="search-form" method="get" action="search.php">
+				<label for="search-input" class="fa fa-search"></label>
+				<input name="q" class="form-control search-input" placeholder="I'm Looking For..." type="search" id="search-input">
+				<button>SEARCH</button>
+			</form><!--/.searc-form-->
+		</div><!-- /#search -->
+	</div><!--/.container.for-search-->
+<!-- Search Area Ends -->
+
+<!--Page Title Wrap Starts-->
+    
+	<h2 class="container" id="page-title">404. The page/URL requested wasn't found on this page.</h2>
+<!--Page Title Wrap Ends-->
+
+</section><!--/#slider-->
+<main id="main" tabindex="-1">
+	<div class="container">
+		<article id="entry">
+        
+<!--Breadcrumb Wrap Starts-->
+			<div id="breadcrumbs">
+				<a href="./">Home</a>  &nbsp;not&nbsp;found
+			</div><!--/#breadcrumbs-->
+<!--Breadcrumb Wrap Ends-->
+
+<!--Center Content Area Starts-->
+			<div id="post">
+                <div class="editcenterBtns">
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'content';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/freeform-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                    RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
+                    RZ.set = 'content.pageid=links-13067';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'content';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/metadata-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                    RZ.img = '<img src="images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
+                    RZ.set = 'content.pageid=links-13067';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.nexturl = '';
+                    RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('permissions');
+                    </script>
+                    
+                </div>                            
+                
+			</div><!--/#post-->
+<!--Center Content Area Ends--> 
+
+		</article><!--/#entry-->
+	</div><!--/.container-->
+</main>
+
+<!--Footer Area Starts-->
+<footer>
+	<div id="footer-top">
+			<div class="container">
+			<div class="row">
+
+<!--Copyright Area Starts-->
+                                  
+
+
+
+
+<div class="col-md-8" id="footer-text">
+	Copyright &copy; 2018 Elko County, NV, 571 Idaho Street, Elko, Nevada 89801
+</div><!--/.col-md-8#footer-text-->
+<!--Copyright Area Ends-->
+          
+<!--Login Area Starts-->
+				<div id="revize" class="col-md-4 text-right">
+					Powered by 
+<a href="http://www.revize.com" target="_blank" id="revize-link">revize.</a>
+
+<a id="revize-login" href="https://cms2.revize.com/revize/security/index.jsp?webspace=elkocountynevada&filename=/not_found/index.php">Login</a>
+
+				</div><!--/#revize.col-d-4.text-right-->
+<!--Login Area Ends-->
+
+			</div><!--/.row-->
+		</div><!--/.container-->
+	</div><!--/#footer-top-->
+    
+<!--Footer Links Starts-->
+
+<div class="text-center" id="footer-links">
+    <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(2)
+</script>
+
+    
+     
+     
+        <a href="index.php" target="_self" class="footer-link">Home</a> 
+    
+    
+     
+     
+        <a href="disclaimer/index.php" target="_self" class="footer-link">Disclaimer</a> 
+    
+    
+     
+     
+        <a href="privacy_policy.php" target="_self" class="footer-link">Privacy Policy</a> 
+    
+    
+     
+     
+        <a href="non-discrimination_statement/index.php" target="_self" class="footer-link">Non-Discrimination Statement</a> 
+    
+    
+     
+     
+        <a href="site_map.php" target="_self" class="footer-link">Site Map</a> 
+    
+    
+     
+     
+        <a href="phone_director/index.php" target="_self" class="footer-link">Phone Directory</a> 
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('links','','bottomnav')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.linknames['bottomnav']={field:'linkseq',seq:'6.00'};
+</script>
+
+</div><!--/.text-center#footer-links-->
+<!--Footer Links Ends-->
+
+</footer>
+<!--Footer Area Ends-->
+
+<!-- Share widget make into an include file -->
+
+<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal">
+	<i class="fa fa-share-alt"></i>
+	<span>SHARE</span>
+</button>
+
+<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h6 class="modal-title" id="myModalLabel">Share this page</h6>
+			</div>
+			<div class="modal-body">
+				<div class="copylink">
+					<p>Copy and paste this code into your website.</p>
+					<pre>&lt;a href="http://www.elkocountynv.net/sitemap.xml">Your Link Name&lt;/a&gt;</pre>
+				</div><!-- /.copylink -->
+				<div class="share-btns">
+					<p>Share this page on your favorite Social network</p>
+					<div class="row">
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.elkocountynv.net/sitemap.xml" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-facebook"></i> Facebook
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.twitter.com/home?status=http://www.elkocountynv.net/sitemap.xml" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-twitter"></i> Twitter
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.plus.google.com/share?url=http://www.elkocountynv.net/sitemap.xml" class="btn-google" onclick="return !window.open(this.href, 'google ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-google-plus"></i> Google Plus
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.reddit.com/submit?url=http://www.elkocountynv.net/sitemap.xml" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-reddit"></i> Reddit
+							</a>
+						</div>
+					</div><!-- /.row -->
+				</div><!-- /.share-btns -->
+				<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+			</div><!-- /.modal-body -->
+		</div>
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id= G-MD38RLTH5R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', ' G-MD38RLTH5R');
+</script>
+<!-- Share widget make into an include file -->
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/revizeWeather/js/revizeWeather.min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+<script type="text/javascript">
+var _userway_config = {
+/* uncomment the following line to override default position*/
+/* position: '5', */
+/* uncomment the following line to override default size (values: small, large)*/
+/* size: 'large', */
+/* uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)*/
+/* language: 'en-US', */
+/* uncomment the following line to override color set via widget (e.g., #053f67)*/
+/* color: '#053f67', */
+/* uncomment the following line to override type set via widget(1=person, 2=chair, 3=eye)*/
+/* type: '1', */
+/* uncomment the following line to override support on mobile devices*/
+/* mobile: true, */
+account: '96KQpa5ZO9'
+};
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+<!--Goole Analytics Code Area Starts-->
+<!--Goole Analytics Code Area Ends-->
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-46614631-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+
+</body>
+</html>
+</html>

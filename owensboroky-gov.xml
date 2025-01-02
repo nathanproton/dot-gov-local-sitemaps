@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="description" content=""> 
+<meta name="google-site-verification" content="-pR3pKe0jaJ0W99xu8cITbu0iQpvCb1uIqu787hIcaM" /> 
+<meta name="google-translate-customization" content="3faf695a637d602c-200d101eda7440b4-g6069f44b68391f41-11"></meta>  
+
+
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/img/icons/57x57default.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/icon-180x180.png">
+<link rel="alternate" type="application/atom+xml" title="City of Owensboro News" href="https://owensboro.org/posts/feed">
+<link rel="alternate" type="application/atom+xml" title="City of Owensboro Purchasing Bid Openings" href="https://owensboro.org/purchasing-department/bids/feed">
+    <title>
+                 City of Owensboro
+    </title>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://owensboro.org/builds/application-1fd907627d1f462e07cf18b6d8655876.css" />        <link rel="stylesheet" type="text/css" href="/assets/css/budget1.css" />
+    <!--[if lt IE 9]>
+    <link type="text/css" rel="stylesheet" href="/assets/css/jquery.mmenu.ie8.css" />
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+    <script src="/assets/js/html5shiv.js"></script>
+    <script src="/assets/js/respond.min.js"></script>
+    <![endif]-->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8E23HWZJGX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8E23HWZJGX');
+</script>
+
+
+<!--
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29222211-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+--></head>
+    <body class=" ">
+        <div class="mmenu-wrap">
+            <div id="wrap" class="clearfix">
+                                <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=160535693765";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>                                <header> 
+    <div class="visible-xs">
+        <a href="#mmenu" class="navbar-mmenu">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="pull-out">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </span>                
+        </a>  
+    </div>   
+    <div class="navbar-wrapper  hidden-xs ">      
+        <div class="navbar navbar-static-top" role="navigation">
+             <a href="#mmenu" class="navbar-mmenu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="pull-out">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </span>                
+            </a>  
+            <div class="container">
+                <div class="navbar-header">                                                     
+                    <a class="navbar-brand" href="/">                       
+                        <img class="img-responsive center-block" src="/assets/img/title.png" alt="City of Owensboro">                                               
+                    </a>                    
+                </div>  
+                <div class="navbar-collapse collapse">
+                    <div class="col-md-4 col-sm-6 pull-right hidden-xs hidden-sm">
+                        <form action="/search" method="GET" class="navbar-form navbar-right" role="search">                        
+                             <div class="input-group">                        
+                                <input name="q" type="search" class="form-control" placeholder="Search">  
+                                <span class="input-group-btn">                     
+                                    <button type="submit" class="btn btn-primary">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </span>
+                            </div>                        
+                        </form>
+                    </div>
+                </div>      
+            </div>
+        </div>      
+    </div>  
+    <div id="subnav">
+        <nav class="navbar navbar-default visible-lg visible-md" role="navigation">
+            <div class="container" style="min-width: 1320px !important;">               
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="hidden-sm">
+                            <a class="home" href="/">
+                                <span class="glyphicon glyphicon-home"></span>
+                            </a>
+                        </li>      
+                        <li class="information dropdown">
+                            <a class="dropdown-toggle" href="https://www.owensboro.org/assets/files/MissionStatement.pdf">
+                                Mission Statement
+                            </a>
+                        </li>                                                        
+                        <li class="information dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Information <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column" role="menu">                        
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="https://www.daviessky.org/flooding/">Flooding</a></li>
+                    <li><a href="/page/weather-stations">Local Weather Stations</a></li>
+                    <li><a href="https://owensboro.org/page/Commission-Meetings">Commission Webcast</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="http://my.textcaster.com/ServePopup.aspx?id=1517">City Text Alerts</a></li>
+                    <li><a href="/page/about-owensboro">About Owensboro</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>                            </ul>                                   
+                        </li> 
+                        <li class="departments dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Departments <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column" role="menu">
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="https://www.owensboro.org/page/Alcoholic-Beverage-Control">Alcoholic Beverage Control</a></li>
+                    <li><a href="/page/community-development">Community Development</a></li>
+                    <li><a href="/page/engineering-department">Engineering Department</a></li>
+                    <li><a href="/page/facilities-maintenance">Facilities Maintenance</a></li>
+                    <li><a href="/page/finance-department">Finance Department</a></li>
+                    <li><a href="http://www.owensborofire.org">Owensboro Fire Department</a></li>
+                    <li><a href="//www.owensboro.org/police">Owensboro Police Department</a></li>
+                    <li><a href="http://www.owensboroparks.org">Parks &amp; Recreation</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="/personnel-department/employment">Personnel Department</a></li>
+                    <li><a href="https://www.owensboro.org/page/property-maintenance">Property Maintenance</a></li>
+                    <li><a href="/purchasing-department/bids">Purchasing Department</a></li>
+                    <li><a href="/sanitation-department">Sanitation Department</a></li>
+                    <li><a href="/special-events">Special Events</a></li>
+                    <li><a href="/page/street-and-stormwater-department">Street & Stormwater</a></li>
+                    <li><a href="https://transit.owensboro.org">Transit Department</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>                            </ul>
+                        </li>           
+                        <li class="government dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Government <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column" role="menu">                                      
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="http://library.municode.com/index.aspx?clientID=11385&stateID=17&statename=Kentucky">Municipal Code</a></li>
+                    <li><a href="/assets/files/Open_Records_Policy.pdf">Open Records Policy and Application</a></li>
+                    <li><a href="https://laserfiche.owensboro.org/public/Browse.aspx?id=31826&dbid=0&repo=Owensboro">Ordinances/Municipal Orders</a></li>
+                    <li><a href="https://laserfiche.owensboro.org/public/Browse.aspx?id=10326409&dbid=0&repo=Owensboro">Property Maintenance Orders</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="https://owensboro.org/page/Commission-Meetings">Commission Meeting Video</a></li>
+                    <li><a href="/page/board-of-commissioners-biographies">Contact Elected Officials</a></li>
+                    <li><a href="https://www.owensboro.org/page/commission-agendas-and-minutes">Commission Agendas & Minutes</a></li>
+                    <li><a href="/page/board-of-commissioners-biographies">Biographies</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>  
+                            </ul>
+                        </li>
+                        <li class="residents dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Residents <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column" role="menu">
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="/page/boards-and-commissions">Boards & Commissions</a></li>
+                    <li><a href="https://owensboro.org/page/covid-owensboro">COVID-19 Information</a></li>
+                    <li><a href="/community-calendar">Community Calendar</a></li>
+                    <li><a href="https://www.daviessky.org/departments/emergency-management/">Daviess County Emergency Management</a></li>
+                    <li><a href="http://www.daviessky.org">Daviess County Fiscal Court</a></li>
+                    <li><a href="https://www.owensboro.org/assets/files/Gateway-Plan-Owensboro-final-report-feb-2009.pdf">Downtown Owensboro Placemaking Initiative</a></li>
+                    <li><a href="/safety/emergency-notification-system">Emergency Notification System</a></li>
+                    <li><a href="http://www.gradd.com">GRADD</a></li>
+                    <li><a href="http://www.healthdepartment.org">Green River Health District</a></li>
+                    <li><a href="http://www.owensborohrc.org">Human Relations Commission</a></li>
+                    <li><a href="http://kentucky.gov/Pages/home.aspx">Kentucky.gov</a></li>
+                    <li><a href="/page/neighborhood-alliances">Neighborhood Alliances</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="https://www.owensboro.org/assets/files/Visit_Owensboro.pdf">Owensboro Assessment Report</a></li>
+                    <li><a href="http://www.owensborocenter.com/">Owensboro Convention Center</a></li>
+                    <li><a href="http://www.omhs.org">Owensboro Health</a></li>
+                    <li><a href="http://www.iompc.org/">Owensboro Metropolitan Planning Commission</a></li>
+                    <li><a href="http://omu.org">Owensboro Municipal Utilities</a></li>
+                    <li><a href="https://www.owensborosistercities.org">Owensboro Sister Cities and Regions</a></li>
+                    <li><a href="http://www.rwra.org">Regional Water Resource Agency </a></li>
+                    <li><a href="/city-action">Report a Problem to CityAction</a></li>
+                    <li><a href="https://services.owensboro.org/propertytaxpublic">Search Property Taxes</a></li>
+                    <li><a href="https://seniorcenterodc.com/">Senior Community Center of Owensboro-Daviess County</a></li>
+                    <li><a href="https://thedistrict.owensboro.org/">The District</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>                            </ul>
+                        </li>
+                        <li class="businesses dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Businesses <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column" role="menu">                                       
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="http://chamber.owensboro.com">Chamber of Commerce</a></li>
+                    <li><a href="/purchasing-department/bids">Current Bid Openings</a></li>
+                    <li><a href="/page/doing-business-in-owensboro">Doing Business in Owensboro</a></li>
+                    <li><a href="http://edc.owensboro.com">Economic Development Corporation</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="http://www.iompc.org">Metropolitan Planning Commission Building Permits</a></li>
+                    <li><a href="http://www.owensbororiverport.com">Owensboro Riverport</a></li>
+                    <li><a href="https://owensboro.org/page/food-truck-permit-information-checklist">Food Truck Permit Information</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>                            </ul>
+                        </li>
+                        <li class="visitors dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Visitors <b class="caret"></b></a>
+                            <ul class="dropdown-menu two-column">
+                                <li class="column-menu">
+    <ul>                                    
+            <li><a href="http://www.visitowensboro.com/">Convention & Visitors Bureau</a></li>
+                    <li><a href="http://bluegrassmuseum.org/">Bluegrass Music Museum & Hall of Fame</a></li>
+                    <li><a href="http://www.omfa.us">Museum of Fine Art</a></li>
+                    <li><a href="http://www.owensboromuseum.org/">Museum of Science and History</a></li>
+                    <li><a href="http://www.owb.net/">Owensboro-Daviess County Regional Airport</a></li>
+                    <li><a href="http://www.owensboromls.com/">Owensboro MLS Real Estate</a></li>
+            </ul>
+</li>
+<li class="column-menu">
+    <ul>
+                <li><a href="http://www.owensborosymphony.org/">Owensboro Symphony</a></li>
+                    <li><a href="http://www.riverparkcenter.org/">RiverPark Center</a></li>
+                    <li><a href="http://www.theatreworkshop.org/">Theatre Workshop</a></li>
+                    <li><a href="http://www.wkbg.org/">Western Kentucky Botanical Garden</a></li>
+                    <li><a href="http://www.owensborocenter.com">Owensboro Convention Center</a></li>
+                                                                                                                                                                                                                           
+    </ul>
+</li>                               
+                            </ul>
+                        </li>    
+
+                    </ul>
+                </div>                
+            </div>
+        </nav>        
+    </div>     
+</header>                <div class="hidden-xs">
+	<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="8000">
+	<ol class="carousel-indicators">
+		<li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+		<li data-target="#home-carousel" data-slide-to="1"></li>
+		<li data-target="#home-carousel" data-slide-to="2"></li>
+		<li data-target="#home-carousel" data-slide-to="3"></li>
+		<li data-target="#home-carousel" data-slide-to="4"></li>
+		<li data-target="#home-carousel" data-slide-to="5"></li>
+	</ol>
+	<div class="carousel-inner">
+		<div class="item active">
+			<img class="img-responsive" src="/assets/img/slides/fountain.jpg" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/4th_of_July.png" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/Bluegrass_Museum.png" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/Crowd_at_Smothers.png" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/Legion_Park.png" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/Smothers_Park.png" alt="">
+		</div>
+	<!--
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/abe.jpg" alt="">
+		</div>
+		<div class="item">
+			<img class="img-responsive" src="/assets/img/slides/oboro.jpg" alt="">
+		</div>
+	-->
+	</div>
+</div></div>
+<div class="visible-xs">
+	<img src="/assets/img/xs_header.jpg" class="img-responsive center-block" alt="">
+</div>
+                <div class="heads-up-bar">
+	<div class="container">
+
+	</div>
+</div>
+<div id="quick-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3 item">
+					<div class="hidden-xs">
+						<div class="btn-group quick-links text-center">
+	<a class="dropdown-toggle" href="#" data-toggle="dropdown">
+		<strong>		
+			Quick Links
+		</strong>
+		<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu text-left" role="menu">
+				<li><a href="https://transparency-in-coverage.uhc.com/" title="">Transparency in Coverage</a></li>
+				<li><a href="https://youtu.be/bZLr_0QrIgc" title="">Shelton Memorial Paver Program</a></li>
+				<li><a href="https://www.owensboro.org/assets/files/CES-Paver-Program.pdf" title="">Shelton Memorial Paver Application Form</a></li>
+				<li><a href="http://my.textcaster.com/ServePopup.aspx?id=1517" title="">City Text Alerts</a></li>
+				<li><a href="/safety/emergency-notification-system" title="">Emergency Alerts</a></li>
+				<li><a href="/personnel-department/employment" title="">Employment Opportunities</a></li>
+				<li><a href="/page/food-truck-permit-information-checklist" title="">Food Truck Permit Information</a></li>
+				<li><a href="/page/finance-department" title="">Business License Forms</a></li>
+				<li><a href="/purchasing-department/bids" title="">Purchasing Bid Openings</a></li>
+				<li><a href="/city-action" title="">Report a Problem</a></li>
+				<li><a href="https://laserfiche.owensboro.org/Forms/DisabilityAssistance" title="">Request Disability Assistance</a></li>
+				<li><a href="/maps/walk-of-fame" title="">Walk of Fame</a></li>
+				<li><a href="https://www.owensboro.org/page/sanitation-department-leaf-and-limb-pickup" title="Leaf and Limb Pickup">Leaf and Limb Pickup</a></li>
+	</ul>
+</div>
+					</div>
+					<div class="visible-xs">
+						 <form action="/search" method="GET" role="search">
+						     <div class="input-group">
+						        <input name="q" type="search" class="form-control" placeholder="Search">
+						        <span class="input-group-btn">
+						            <button type="submit" class="btn btn-primary">
+						                <span class="glyphicon glyphicon-search"></span>
+						            </button>
+						        </span>
+						    </div>
+						</form>
+					</div>
+				</div>
+				<div class="col-sm-3 item">
+					<div class="hidden-xs">
+						<a href="/personnel-department/employment">
+							Employment Opportunities</strong>
+						</a>
+					</div>
+					<div class="visible-xs">
+						<a class="btn btn-default btn-block" href="/personnel-department/employment">
+							Employment Opportunities</strong>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-3 item text-center">
+					<div class="hidden-xs">
+						<a href="/city-action">
+							Contact Us</strong>
+						</a>
+					</div>
+					<div class="visible-xs">
+						<a class="btn btn-default btn-block" href="/city-action">
+							Contact Us</strong>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-3 item">
+					<div class="hidden-xs">
+						<a href="https://laserfiche.owensboro.org/Forms/DisabilityAssistance">
+							Request Disability Assistance</strong>
+						</a>
+					</div>
+					<div class="visible-xs">
+						<a class="btn btn-default btn-block" href="https://laserfiche.owensboro.org/Forms/DisabilityAssistance">
+							Request Disability Assistance</strong>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  	
+                                <div style="margin:32px 0;">
+	<div class="container">
+		<div style="margin-bottom: 32px;">
+		
+		<div class="row" style="width: fit-content; margin: auto;">
+	<!--		<div class="col-sm-6">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://owensboro.org/page/sanitation-department-leaf-and-limb-pickup">
+						<img src="/assets/img/front-page/Leaf_Collection_Schedule.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>	
+			<div class="col-sm-12">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://owensboro.org/assets/files/Delinquent-TaxList-2023.pdf">
+						<img src="/assets/img/front-page/City_Delinquent_Tax_Notice.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>		
+		</div> 
+		<div class="row" style="width: fit-content; margin: auto;">
+			<div class="col-sm-12">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://owensboro.org/page/owensboro-s-nicest-lawn-in-the-neighborhood-contest">
+						<img src="/assets/img/front-page/Nicest_Lawn_Icon_For_Front_Page.png" class="img-responsive center-block" alt="Information Map" style="border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>	
+		</div>  -->
+		
+			
+		<div class="row" style="width: fit-content; margin: auto;">
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://www.owensboro.org/assets/files/CES-Paver-Program.pdf">
+						<img src="/assets/img/front-page/Shelton_Memorial_Paver.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;max-width:360px;margin:0 auto;margin-bottom:18px;">
+					<a href="https://services.owensboro.org/propertytaxpublic">
+						<img src="/assets/img/front-page/Pay_Your_Property_Tax.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>	
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://services.owensboro.org/maps/citizen-information">
+						<img src="/assets/img/front-page/Information_Map.png" class="img-responsive center-block" alt="Information Map" style="border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>					
+		</div>
+		<div class="row" style="width: fit-content; margin: auto;">
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					    <a href="https://laserfiche.owensboro.org/public/Browse.aspx?id=10418503&dbid=0&repo=Owensboro">        
+						<img src="/assets/img/front-page/Published_Ordinances.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://www.owensboro.org/page/commission-agendas-and-minutes">
+						<img src="/assets/img/front-page/City_Commission_Meeting_Agendas.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="text-center" style="background:#f1f1f0;margin:0 auto;margin-bottom:18px;max-width:360px;">
+					<a href="https://www.owensboro.org/page/Commission-Meetings">
+						<img src="/assets/img/front-page/Commission_Meeting_Livestream.png" class="img-responsive center-block" style="margin-bottom:18px;border-radius: 10px;"/>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		</div>
+	</div>
+</div>  
+<div id="heads-up">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="well">
+					<h3 class="title">
+						<a href="https://owensboro.org/news">
+							<span class="glyphicon glyphicon-file"></span>
+							Latest News
+						</a>
+					</h3>
+					<div class="list-group news-items">
+												<a href="https://owensboro.org/post/owensboro-street-closure-west-10th-street" class="list-group-item clearfix">
+							<div class="pull-left">
+																<img class="news-thumb" src="/assets/img/thumbs/detour-sign.jpg"
+									width="78" height="78" alt="">
+															</div>
+							<h4 class="list-group-item-heading">
+								Owensboro Street Closure - West 10th Street							</h4>
+							<p class="list-group-item-text">Posted on
+								Friday Aug 30, 2024 at
+								4:54 pm</p>
+						</a>
+												<a href="https://owensboro.org/post/owensboro-neighborhood-alliance-meetings-september-2024" class="list-group-item clearfix">
+							<div class="pull-left">
+																<img class="news-thumb" src="/assets/img/thumbs/NHA.jpg"
+									width="78" height="78" alt="">
+															</div>
+							<h4 class="list-group-item-heading">
+								Owensboro  Neighborhood Alliance Meetings September 2024							</h4>
+							<p class="list-group-item-text">Posted on
+								Friday Aug 30, 2024 at
+								4:39 pm</p>
+						</a>
+												<a href="https://owensboro.org/post/board-of-commissioners-meetings" class="list-group-item clearfix">
+							<div class="pull-left">
+																<img class="news-thumb" src="/assets/img/thumbs/City_Logo_New.jpg"
+									width="78" height="78" alt="">
+															</div>
+							<h4 class="list-group-item-heading">
+								Board of Commissioners Meetings							</h4>
+							<p class="list-group-item-text">Posted on
+								Friday Aug 30, 2024 at
+								11:01 am</p>
+						</a>
+											</div>
+					<div class="text-right">
+						<a class="btn btn-success btn-xs" href="https://owensboro.org/news">
+							More
+							<span class="glyphicon glyphicon-chevron-right"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="well">
+					<h3 class="title">
+						<a href="https://owensboro.org/community-calendar">
+							<span class="glyphicon glyphicon-calendar orange"></span>
+							Upcoming Events
+						</a>
+					</h3>
+					<div class="list-group upcoming-events">
+																		<a href="https://owensboro.org/event/williams-bar-b-q-contest/1393/8/31/2024"
+							class="list-group-item clearfix">
+							<div class="pull-left">
+								<div class="event-date-block">
+									<span class="notranslate">Aug</span><br>
+									<span class="day">31</span>
+								</div>
+							</div>
+							<h4 class="list-group-item-heading">Williams Bar B Q Contest</h4>
+							<p class="list-group-item-text">Saturday August 31, 2024</p>
+						</a>
+												<a href="https://owensboro.org/event/public-ice-skating-33/1355/8/31/2024"
+							class="list-group-item clearfix">
+							<div class="pull-left">
+								<div class="event-date-block">
+									<span class="notranslate">Aug</span><br>
+									<span class="day">31</span>
+								</div>
+							</div>
+							<h4 class="list-group-item-heading">Public Ice Skating</h4>
+							<p class="list-group-item-text">Saturday August 31, 2024</p>
+						</a>
+												<a href="https://owensboro.org/event/live-on-the-banks-2/1256/8/31/2024"
+							class="list-group-item clearfix">
+							<div class="pull-left">
+								<div class="event-date-block">
+									<span class="notranslate">Aug</span><br>
+									<span class="day">31</span>
+								</div>
+							</div>
+							<h4 class="list-group-item-heading">Live on the Banks</h4>
+							<p class="list-group-item-text">Saturday August 31, 2024</p>
+						</a>
+																								<a href="https://owensboro.org/event/games-on-the-river-2/1389/9/1/2024"
+							class="list-group-item clearfix">
+							<div class="pull-left">
+								<div class="event-date-block">
+									<span class="notranslate">Sep</span><br>
+									<span class="day">1</span>
+								</div>
+							</div>
+							<h4 class="list-group-item-heading">Games on the River</h4>
+							<p class="list-group-item-text">Sunday September 1, 2024</p>
+						</a>
+																								<a href="https://owensboro.org/event/owensboro-area-clc-labor-day-picnic/683/9/2/2024"
+							class="list-group-item clearfix">
+							<div class="pull-left">
+								<div class="event-date-block">
+									<span class="notranslate">Sep</span><br>
+									<span class="day">2</span>
+								</div>
+							</div>
+							<h4 class="list-group-item-heading">Owensboro Area CLC Labor Day Picnic</h4>
+							<p class="list-group-item-text">Monday September 2, 2024</p>
+						</a>
+																	</div>
+					<div class="text-right">
+						<a class="btn btn-success btn-xs" href="https://owensboro.org/community-calendar">
+							More
+							<span class="glyphicon glyphicon-chevron-right"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="hidden-xs">
+			<hr>
+		</div>
+	</div>
+</div>
+
+
+<div style="margin:32px 0;padding:32px;background: #eeeeec;">
+	<div class="row" style="
+    width: fit-content;
+    margin: auto !important;
+">
+<img src="/assets/img/MissionStatement.png" alt="" style="
+    width: 800px;
+">
+	</div>
+</div>
+
+<!--
+
+<div style="margin:32px 0;padding:32px;background: #eeeeec;">
+	<div class="row" style="
+    width: fit-content;
+    margin: auto !important;
+">
+		<p style="
+    text-align: center;
+    font-size: 26px;
+">
+			<label style="
+    font-size: 40px;
+    padding-top: ;
+"><strong>City of Owensboro Mission Statement</strong></label><br><img src="/assets/img/CitySealpng.png" alt="">
+<br style="
+    /* font-size: 48px; */
+">
+
+			<label style="
+    padding-top: 10px;
+">The goals of the City of Owensboro are:</label><br style="
+">
+			<label style="
+    padding-top: 10px;
+">To provide first-class public safety;</label><br>
+			<label style="
+    padding-top: 10px;
+">To improve the efficiency and effectiveness of government services;</label><br>
+			<label style="
+    padding-top: 10px;
+">To promote economic development;</label><br>
+			<label style="
+    padding-top: 10px;
+">To enhance neighborhood quality and values; and</label><br>
+			<label style="
+    padding-top: 10px;
+">To provide appropriate community facilities.</label><br>
+		</p>
+	</div>
+</div>
+
+-->
+                                                <div id="main" role="main">
+                    
+<section class="gray" style="margin-bottom:0;">
+	<div class="container">
+		<h3 class="text-center">Download our mobile app available for iOS and Android</h3>
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-2">
+                <a href="https://play.google.com/store/apps/details?id=com.publicstuff.owensboro&hl=en" target="_blank">
+                    <img class="img-responsive center-block mobile-app-btn" src="/assets/img/gplay.png" alt="">
+                </a>
+	      	</div>
+	      	<div class="col-sm-4">
+                <a href="https://itunes.apple.com/us/app/onlyowensboro/id930179585?mt=8&uo=4" target="itunes_store">
+                    <img class="img-responsive center-block mobile-app-btn" src="/assets/img/astore.png" alt="">
+                </a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="accolades">
+	<div class="container">
+		<div class="page-header text-center">
+			<h2>Accolades</h2>
+		</div>
+		<div class="row">
+            <div class="col-sm-4">
+                <div class="thumbnail">
+                    <a href="https://smartasset.com/mortgage/the-best-places-to-work-in-manufacturing-2017-edition">
+                        <img class="img-responsive center-block" src="/assets/img/manufacturing.png" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3 class="text-center">Best Places to Work in Manufacturing</h3>
+                        <p>
+                            Based on manufacturing as a percent of workforce, job growth, income growth,
+                            and income after housing, Owensboro ranks 17<sup>th</sup> in the best places
+                            to work in manufacturing in 2017.
+                        </p>
+                    </div>
+                </div>
+            </div>			
+            <div class="col-sm-4">
+                <div class="thumbnail">
+                    <a href="https://www.usatoday.com/story/money/personalfinance/2017/10/07/where-millennials-moving-answer-may-surprise-you/734212001/">
+                        <img class="img-responsive center-block" src="/assets/img/accolade-wmam.jpg" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3 class="text-center">#11 City of Millennial Home Buyers</h3>
+                        <p>According to Ellie Mae, Millennials make up 48% of home buyers in Owensboro.
+                        A downtown makeover has made this river city a nice place to live and work.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+				<div class="thumbnail">
+					<a href="http://www.owensboro.org/post/milken-institute-ranks-owensboro-85-best-performing-small-cities">
+						<img class="img-responsive center-block" src="/assets/img/2016-best-performing-city.jpg" alt="">
+					</a>
+					<div class="caption">
+						<h3 class="text-center">2016 Best-Performing Cities</h3>
+						<p>
+							The 2016 Milken Institute Best-Performing Cities Index ranks U.S. metropolitan areas by how well
+							they are creating and sustaining jobs and economic growth. The components include job, wage and
+							salary, and technology growth. In most years, these give a good indication of the underlying
+							structural performance of regional economics.
+						</p>
+					</div>
+				</div>
+			</div>      
+        </div>
+        <div class="row">			  
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+					<a href="http://www.nerdwallet.com/blog/cities/best-small-cities-america-2015/" target="_blank">
+						<img class="img-responsive center-block" src="/assets/img/nerd-wallet.jpg" alt="">
+					</a>
+					<div class="caption">
+						<h3 class="text-center">Best Small Cities in America</h3>
+						<p>
+							NerdWallet crunched the numbers to find the best small cities in America — places that hit the mark
+							in three key areas: economic health, affordability and quality of life.
+						</p>
+					</div>
+				</div>
+			</div>
+            <div class="col-sm-4">
+				<div class="thumbnail">
+					<img class="img-responsive center-block" src="/assets/img/oaacf1.jpg" alt="">
+					<div class="caption">
+						<h3 class="text-center">2013 All-American City Award</h3>
+						<p>
+							The City of Owensboro was named as one of ten winners of the 2013 All-America City Awards,
+							an honor given each year to towns, cities, counties, neighborhoods and metropolitan regions for outstanding civic achievement.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+                </div>
+            </div>
+                            <footer role="footer">
+    <div class="container">
+        <div class="footer-top">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="text-center">    
+                        <a class="seal" href="http://www.owensboro.org"><img src="/assets/img/cs.png" alt=""></a>                                    
+                    </div>                                
+                </div>
+            </div>
+        </div>
+        <div id="connect-horizontal">
+    <div class="row">  
+        <div class="col-sm-3 connect-item">
+            <a href="http://www.facebook.com/CityofOwensboro?v=wall" target="_blank">
+                <i class="fa fa-facebook"></i>
+                Like us on Facebook
+            </a>
+        </div>
+        <div class="col-sm-3 connect-item">
+            <a class="text-center" href="https://twitter.com/CityofOwensboro" target="_blank">
+                <i class="fa fa-twitter"></i>
+                Follow us on Twitter
+            </a>
+        </div>                     
+        <div class="col-sm-3 connect-item">
+           <a  href="https://instagram.com/cityofowensboro/">
+                <i class="fa fa-instagram"></i>
+                Follow us on Instagram
+            </a>
+        </div>            
+        <div class="col-sm-3 connect-item">
+            <a href="http://www.youtube.com/user/cityofowensboro" target="_blank">
+                <i class="fa fa-youtube"></i>
+                Subscribe to our YouTube channel
+            </a>
+        </div>                                                                
+    </div>
+</div>
+                 
+        <hr> 
+        <div class="text-center">
+            <p><a  href="tel:12706874444"><i class="fa fa-mobile-phone"></i> Call CityAction at 270-687-4444</a></p>
+        </div>
+        <div id="translator" class="text-center">
+            <div id="google_translate_element"></div>
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'cs,de,es,fr,is,it,ja,ko,pt,ru,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-29222211-6'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>            
+        </div>                        
+        <div class="row">
+            <div class="col-md-4 clearfix">                                                    
+                <div class="city-address">
+                    <img class="city-seal" src="/assets/img/csf.jpg" alt="">
+                    <p>
+                        City of Owensboro<br>
+                        <a href="http://goo.gl/v4UKMj" target="_blank">101 East 4<sup>th</sup> Street</a><br>
+                        Owensboro, KY 42303
+                    </p>          
+                </div>                                               
+            </div>                       
+            <div class="col-md-4 col-md-offset-4">
+                <div class="text-center">
+                    <a class="unbridled-spirit" href="http://kentucky.gov/Pages/home.aspx" target="_blank" title="Kentucky Unbridled Spirit">
+                        <img src="/assets/img/unbridled-spirit.jpg" alt="">
+                    </a>
+                </div>                            
+            </div>
+        </div>               
+    </div>
+</footer>                                    </div>
+                <div id="mmenu" class="hide">
+            <ul>
+	<li><a href="/">Home</a></li>
+	<li>
+		<span>Quick Links</span>
+		<ul>
+						<li><a href="https://transparency-in-coverage.uhc.com/">Transparency in Coverage</a></li>
+						<li><a href="https://youtu.be/bZLr_0QrIgc">Shelton Memorial Paver Program</a></li>
+						<li><a href="https://www.owensboro.org/assets/files/CES-Paver-Program.pdf">Shelton Memorial Paver Application Form</a></li>
+						<li><a href="http://my.textcaster.com/ServePopup.aspx?id=1517">City Text Alerts</a></li>
+						<li><a href="/safety/emergency-notification-system">Emergency Alerts</a></li>
+						<li><a href="/personnel-department/employment">Employment Opportunities</a></li>
+						<li><a href="/page/food-truck-permit-information-checklist">Food Truck Permit Information</a></li>
+						<li><a href="/page/finance-department">Business License Forms</a></li>
+						<li><a href="/purchasing-department/bids">Purchasing Bid Openings</a></li>
+						<li><a href="/city-action">Report a Problem</a></li>
+						<li><a href="https://laserfiche.owensboro.org/Forms/DisabilityAssistance">Request Disability Assistance</a></li>
+						<li><a href="/maps/walk-of-fame">Walk of Fame</a></li>
+					</ul>
+	</li>
+	<li>
+		<span>Information</span>
+		<ul>
+						<li><a href="https://www.daviessky.org/flooding/">Flooding</a></li>
+ 						<li><a href="/page/weather-stations">Local Weather Stations</a></li>
+ 						<li><a href="https://owensboro.org/page/Commission-Meetings">Commission Webcast</a></li>
+ 						<li><a href="http://my.textcaster.com/ServePopup.aspx?id=1517">City Text Alerts</a></li>
+ 						<li><a href="/page/about-owensboro">About Owensboro</a></li>
+ 					</ul>
+	</li> 	
+ 	<li>
+ 		<span>Departments</span>
+ 		<ul>
+						<li><a href="https://www.owensboro.org/page/Alcoholic-Beverage-Control">Alcoholic Beverage Control</a></li>
+ 						<li><a href="/page/community-development">Community Development</a></li>
+ 						<li><a href="/page/engineering-department">Engineering Department</a></li>
+ 						<li><a href="/page/facilities-maintenance">Facilities Maintenance</a></li>
+ 						<li><a href="/page/finance-department">Finance Department</a></li>
+ 						<li><a href="http://www.owensborofire.org">Owensboro Fire Department</a></li>
+ 						<li><a href="//www.owensboro.org/police">Owensboro Police Department</a></li>
+ 						<li><a href="http://www.owensboroparks.org">Parks &amp; Recreation</a></li>
+ 						<li><a href="/personnel-department/employment">Personnel Department</a></li>
+ 						<li><a href="https://www.owensboro.org/page/property-maintenance">Property Maintenance</a></li>
+ 						<li><a href="/purchasing-department/bids">Purchasing Department</a></li>
+ 						<li><a href="/sanitation-department">Sanitation Department</a></li>
+ 						<li><a href="/special-events">Special Events</a></li>
+ 						<li><a href="/page/street-and-stormwater-department">Street & Stormwater</a></li>
+ 						<li><a href="https://transit.owensboro.org">Transit Department</a></li>
+ 			 		</ul>
+ 	</li> 	
+ 	<li>
+ 		<span>Government</span>
+ 		<ul>
+						<li><a href="http://library.municode.com/index.aspx?clientID=11385&stateID=17&statename=Kentucky">Municipal Code</a></li>
+ 						<li><a href="/assets/files/Open_Records_Policy.pdf">Open Records Policy and Application</a></li>
+ 						<li><a href="https://laserfiche.owensboro.org/public/Browse.aspx?id=31826&dbid=0&repo=Owensboro">Ordinances/Municipal Orders</a></li>
+ 						<li><a href="https://laserfiche.owensboro.org/public/Browse.aspx?id=10326409&dbid=0&repo=Owensboro">Property Maintenance Orders</a></li>
+ 						<li><a href="https://owensboro.org/page/Commission-Meetings">Commission Meeting Video</a></li>
+ 						<li><a href="/page/board-of-commissioners-biographies">Contact Elected Officials</a></li>
+ 						<li><a href="https://www.owensboro.org/page/commission-agendas-and-minutes">Commission Agendas & Minutes</a></li>
+ 						<li><a href="/page/board-of-commissioners-biographies">Biographies</a></li>
+ 			 		</ul>
+ 	</li> 	
+ 	<li>
+ 		<span>Residents</span>
+		<ul>
+						<li><a href="/page/boards-and-commissions">Boards & Commissions</a></li>
+ 						<li><a href="https://owensboro.org/page/covid-owensboro">COVID-19 Information</a></li>
+ 						<li><a href="/community-calendar">Community Calendar</a></li>
+ 						<li><a href="https://www.daviessky.org/departments/emergency-management/">Daviess County Emergency Management</a></li>
+ 						<li><a href="http://www.daviessky.org">Daviess County Fiscal Court</a></li>
+ 						<li><a href="https://www.owensboro.org/assets/files/Gateway-Plan-Owensboro-final-report-feb-2009.pdf">Downtown Owensboro Placemaking Initiative</a></li>
+ 						<li><a href="/safety/emergency-notification-system">Emergency Notification System</a></li>
+ 						<li><a href="http://www.gradd.com">GRADD</a></li>
+ 						<li><a href="http://www.healthdepartment.org">Green River Health District</a></li>
+ 						<li><a href="http://www.owensborohrc.org">Human Relations Commission</a></li>
+ 						<li><a href="http://kentucky.gov/Pages/home.aspx">Kentucky.gov</a></li>
+ 						<li><a href="/page/neighborhood-alliances">Neighborhood Alliances</a></li>
+ 						<li><a href="https://www.owensboro.org/assets/files/Visit_Owensboro.pdf">Owensboro Assessment Report</a></li>
+ 						<li><a href="http://www.owensborocenter.com/">Owensboro Convention Center</a></li>
+ 						<li><a href="http://www.omhs.org">Owensboro Health</a></li>
+ 						<li><a href="http://www.iompc.org/">Owensboro Metropolitan Planning Commission</a></li>
+ 						<li><a href="http://omu.org">Owensboro Municipal Utilities</a></li>
+ 						<li><a href="https://www.owensborosistercities.org">Owensboro Sister Cities and Regions</a></li>
+ 						<li><a href="http://www.rwra.org">Regional Water Resource Agency </a></li>
+ 						<li><a href="/city-action">Report a Problem to CityAction</a></li>
+ 						<li><a href="https://services.owensboro.org/propertytaxpublic">Search Property Taxes</a></li>
+ 						<li><a href="https://seniorcenterodc.com/">Senior Community Center of Owensboro-Daviess County</a></li>
+ 						<li><a href="https://thedistrict.owensboro.org/">The District</a></li>
+ 					</ul>
+ 	</li> 	
+ 	<li>
+ 		<span>Businesses</span>
+ 		<ul>
+						<li><a href="http://chamber.owensboro.com">Chamber of Commerce</a></li>
+ 						<li><a href="/purchasing-department/bids">Current Bid Openings</a></li>
+ 						<li><a href="/page/doing-business-in-owensboro">Doing Business in Owensboro</a></li>
+ 						<li><a href="http://edc.owensboro.com">Economic Development Corporation</a></li>
+ 						<li><a href="http://www.iompc.org">Metropolitan Planning Commission Building Permits</a></li>
+ 						<li><a href="http://www.owensbororiverport.com">Owensboro Riverport</a></li>
+ 						<li><a href="https://owensboro.org/page/food-truck-permit-information-checklist">Food Truck Permit Information</a></li>
+ 			 		</ul>
+ 	</li> 	
+ 	<li>
+ 		<span>Visitors</span>
+ 		<ul>
+						<li><a href="http://www.visitowensboro.com/">Convention & Visitors Bureau</a></li>
+ 						<li><a href="http://bluegrassmuseum.org/">Bluegrass Music Museum & Hall of Fame</a></li>
+ 						<li><a href="http://www.omfa.us">Museum of Fine Art</a></li>
+ 						<li><a href="http://www.owensboromuseum.org/">Museum of Science and History</a></li>
+ 						<li><a href="http://www.owb.net/">Owensboro-Daviess County Regional Airport</a></li>
+ 						<li><a href="http://www.owensboromls.com/">Owensboro MLS Real Estate</a></li>
+ 						<li><a href="http://www.owensborosymphony.org/">Owensboro Symphony</a></li>
+ 						<li><a href="http://www.riverparkcenter.org/">RiverPark Center</a></li>
+ 						<li><a href="http://www.theatreworkshop.org/">Theatre Workshop</a></li>
+ 						<li><a href="http://www.wkbg.org/">Western Kentucky Botanical Garden</a></li>
+ 						<li><a href="http://www.owensborocenter.com">Owensboro Convention Center</a></li>
+ 			 		</ul>
+ 	</li> 	
+</ul>        </div>
+                <script src="//www.google.com/jsapi"></script>
+<script src="https://owensboro.org/builds/application-2b2577f0023da185bad64ae3197142f3.js"></script>        
+<script>
+	$(document).ready(function() {
+		setTimeout(function() {
+			setHeight($("#accolades .thumbnail"));
+			setHeight($("#heads-up .well"));
+		}, 500);
+
+		$(window).on('resize', function() {
+			$("#heads-up .well, #accolades .thumbnail").css("height", "auto");
+			setHeight($("#accolades .thumbnail"));
+			setHeight($("#heads-up .well"));
+		});
+
+		function setHeight(obj) {
+			var longest = 0;
+			obj.each(function(i, item) {
+				if ($(item).outerHeight() > longest)
+					longest = $(item).outerHeight();
+			}).height(longest);
+		}
+	});
+</script>
+
+                <script>
+            videojs.options.flash.swf = "/assets/flash/video-js.swf";
+
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/platform.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+               
+    </body>
+</html>

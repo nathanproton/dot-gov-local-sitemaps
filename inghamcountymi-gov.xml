@@ -1,0 +1,1060 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="//clerk.ingham.org/index.php" /><!-- s3 -->	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width">
+
+<!--Metadata Area Starts-->
+	
+
+ 
+
+	
+	
+
+	<title>Ingham County Clerk</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content=""/>    <meta name="robots" content="index, follow">
+<!--Metadata Area Ends-->    
+	
+	
+
+
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+
+
+
+<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+	
+	<!--[if !IE]><!-->
+	<link rel="stylesheet" href="_assets_/plugins/add-to-homescreen/style/addtohomescreen.css">
+	<script src="_assets_/plugins/add-to-homescreen/src/addtohomescreen.min.js"></script>
+	<script>addToHomescreen();</script>
+	<!--<![endif]-->
+
+	<!-- Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!--Faq files Starts-->
+<link rel="stylesheet" href="/revize/plugins/faq/css/faqs.css">
+<script src="/revize/plugins/faq/js/faqs.js"></script>
+<!--Faq files Ends-->    
+    
+
+</head>
+<body id="freeform">
+
+
+
+
+<script type="text/javascript">
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../../'
+RZ.baseurlpath = 'departments_and_officials/county_clerk/'
+RZ.protocolRelativeRevizeBaseUrl='//cms3.revize.com'
+
+RZ.pagetemplatename = 'faq'
+RZ.pagetemplateid = '15'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '19';
+
+RZ.pageid = 'links-19';
+RZ.pageparentid = '2';
+RZ.pagesectionid = '19';
+RZ.pagesectionname = 'county_clerk';
+RZ.pagesectionlevel = '2';
+RZ.pagesectionfolder = 'departments_and_officials/county_clerk/';
+RZ.pagesectionfilter = 'sectionid=19';
+RZ.pagelinkfilter = 'linklevel=2 and linksectionid=19';
+RZ.pagelinklevel = '2';
+RZ.pagelinkid = '19';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '19';
+RZ.editrecordversion = '';
+RZ.editversion = '';
+RZ.editaction = '';
+
+RZ.page_roles = ''
+RZ.page_users = '20855f36cfddd1b5b354aaf3b6dd4d07cc112bb49cea90317475df6ad193164a|9a9717dbe496a50d942d9f6895fdc923a2e73f4adb069cefaf0a890bebed0e02|c7d57b67d2a4b37ae543d1e3e8dc9b39b502925128c4dd36f472aa5993811d1a|87ccf475e0eeed8b2576487289c17c2ba692d02fe317466ac26a02c49e729135|020ccfa8b096b4303601f39d2855548ee6d5697484cce3956d41c96b0fb1b691|faf79fabf6fbf77086cae01833840da987d8eb60b05a9917da63907144806c46|7851b08f93977900de9c63e9ce84431041557bedd113fd64005e3b36a1518fba'
+RZ.page_key = 'faq[19]'
+RZ.parent_key = 'freeform[2]'
+RZ.inherit_key = 'faq[19]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'inghamcounty'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms3.revize.com/revize/inghamcounty';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@ingham.org";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-202872430-1";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.sitemap_options = "absoluteurls";
+RZ.webspace_config.to_email = "subscribers@ingham.org";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'revize,production';
+RZ.jsversion = 1.2</script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+
+<script defer src="https://www.googletagmanager.com/gtag/js?id=G-T16E8B7XNQ"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-T16E8B7XNQ');
+</script>
+
+
+<a href="departments_and_officials/county_clerk/index.php#main" id="skip" tabindex="0">Skip to content</a>
+
+<header>
+	<section id="top-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 clearfix">
+                
+<!-- Search Area Starts -->                   
+					<div id="search">
+						<form class="search-form" method="get" action="search.php">
+							<input name="q" class="form-control search-input" placeholder="Search..." type="search" id="search-input">
+							<button aria-label="search" class="fa fa-search"></button>
+						</form><!--/.search-form-->
+					</div><!-- /#search -->
+<!-- Search Area Ends -->                       
+                    
+					<div id="weather" class="weather"></div>
+				</div><!--/.col-md-6.clearfix-->
+                
+				<div class="col-md-6 clearfix hidden-sm hidden-xs">
+
+<!-- Social Area Starts -->                 
+                  <div id="social-links">
+						                    	
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+
+					</div><!--/#social-links-->
+<!-- Social Area Ends -->  
+
+<!-- Translate Area Starts -->                    
+					<div id="google-translate" class="hidden">							
+						<script type="text/javascript">
+							function googleTranslateElementInit() {
+								new google.translate.TranslateElement({pagelanguage: 'en',
+									layout: google.translate.TranslateElement.InlineLayout.SIMPLE},
+									'google-translate');
+							}
+						</script>
+						<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+					</div><!--/#google-translate.control.hidden-sm.hidden-xs-->
+					<ul class="translation-links links">
+						<li><span aria-label="translate website"><img src="_assets_/images/translate.png" alt="translate image"></span>
+							<ul class="clearfix">
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Afrikaans" data-lang="Afrikaans">Afrikaans</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Albanian" data-lang="Albanian">Albanian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Arabic" data-lang="Arabic">Arabic</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Armenian" data-lang="Armenian">Armenian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Azerbaijani" data-lang="Azerbaijani">Azerbaijani</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Basque" data-lang="Basque">Basque</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Belarusian" data-lang="Belarusian">Belarusian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Bengali" data-lang="Bengali">Bengali</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Bosnian" data-lang="Bosnian">Bosnian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Bulgarian" data-lang="Bulgarian">Bulgarian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Catalan" data-lang="Catalan">Catalan</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Cebuano" data-lang="Cebuano">Cebuano</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Chinese" data-lang="Chinese (Simplified)">Chinese (Simplified)</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Chinese" data-lang="Chinese (Traditional)">Chinese (Traditional)</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Croatian" data-lang="Croatian">Croatian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Czech" data-lang="Czech">Czech</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Danish" data-lang="Danish">Danish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Dutch" data-lang="Dutch">Dutch</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="English" data-lang="English">English</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Esperanto" data-lang="Esperanto">Esperanto</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Estonian" data-lang="Estonian">Estonian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Filipino" data-lang="Filipino">Filipino</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Finnish" data-lang="Finnish">Finnish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="French" data-lang="French">French</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Galician" data-lang="Galician">Galician</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Georgian" data-lang="Georgian">Georgian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="German" data-lang="German">German</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Greek" data-lang="Greek">Greek</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Gujarati" data-lang="Gujarati">Gujarati</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Haitian Creole" data-lang="Haitian Creole">Haitian Creole</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Hausa" data-lang="Hausa">Hausa</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Hebrew" data-lang="Hebrew">Hebrew</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Hindi" data-lang="">Hindi</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Hmong" data-lang="Hmong">Hmong</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Hungarian" data-lang="Hungarian">Hungarian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Icelandic" data-lang="Icelandic">Icelandic</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Igbo" data-lang="Igbo">Igbo</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Indonesian" data-lang="Indonesian">Indonesian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Irish" data-lang="Irish">Irish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Italian" data-lang="Italian">Italian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Japanese" data-lang="Japanese">Japanese</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Javanese" data-lang="Javanese">Javanese</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Kannada" data-lang="Kannada">Kannada</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Khmer" data-lang="Khmer">Khmer</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Korean" data-lang="Korean">Korean</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Lao" data-lang="Lao">Lao</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Latin" data-lang="Latin">Latin</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Latvian" data-lang="Latvian">Latvian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Lithuanian" data-lang="Lithuanian">Lithuanian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Macedonian" data-lang="Macedonian">Macedonian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Malay" data-lang="Malay">Malay</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Maltese" data-lang="Maltese">Maltese</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Maori" data-lang="Maori">Maori</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Marathi" data-lang="Marathi">Marathi</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Mongolian" data-lang="Mongolian">Mongolian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Nepali" data-lang="Nepali">Nepali</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Norwegian" data-lang="Norwegian">Norwegian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Persian" data-lang="Persian">Persian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Polish" data-lang="Polish">Polish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Portuguese" data-lang="Portuguese">Portuguese</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Punjabi" data-lang="Punjabi">Punjabi</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Romanian" data-lang="Romanian">Romanian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Russian" data-lang="Russian">Russian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Serbian" data-lang="Serbian">Serbian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Slovak" data-lang="Slovak">Slovak</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Slovenian" data-lang="Slovenian">Slovenian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Somali" data-lang="Somali">Somali</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Spanish" data-lang="Spanish">Spanish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Swahili" data-lang="Swahili">Swahili</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Swedish" data-lang="Swedish">Swedish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Tamil" data-lang="Tamil">Tamil</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Telugu" data-lang="Telugu">Telugu</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Thai" data-lang="Thai">Thai</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Turkish" data-lang="Turkish">Turkish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Ukrainian" data-lang="Ukrainian">Ukrainian</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Urdu" data-lang="Urdu">Urdu</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Vietnamese" data-lang="Vietnamese">Vietnamese</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Welsh" data-lang="Welsh">Welsh</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Yiddish" data-lang="Yiddish">Yiddish</a></li>
+								<li><a href="departments_and_officials/county_clerk/index.php#" class="Yoruba" data-lang="Yoruba">Yoruba</a></li>
+							<li><a href="departments_and_officials/county_clerk/index.php#" class="Zulu" data-lang="Zulu">Zulu</a></li>
+							</ul>
+						</li>
+					</ul>
+<!-- Translate Area Ends -->
+                    
+				</div><!--/.col-md-6-->
+			</div><!--/.row-->
+		</div><!--/.container-->
+	</section><!--/#top-bar-->
+    
+  <nav class="clearfix">
+
+<!-- Logo Area Starts -->     
+	<a href="./" id="logo"><h1><span class="sr-only">Ingham County</span><img src="_assets_/images/logo.png" alt="describe site"></h1></a>
+<!-- Logo Area Ends -->         
+        
+	<div id="toggles" class="hidden-lg hidden-md">
+			<label for="search-input" id="search-toggle" class="fa fa-search"><span class="sr-only">Search toggle</span></label>
+			<div id="nav-toggle" class="fa fa-bars"></div>
+		</div><!--/#toggles.hiddne-lg.hidden-md-->
+
+<!-- Topnav Area Starts -->        
+	  
+
+
+<ul id="nav" class="topnav v2_05-23-2012">
+	<!-- <li class="menuLI level0 menuDisplay li-1"><a class="menuA level0 menuDisplay" href="http://www.ingham.org/Residents/OnlineServices.aspx" target="_self">Online services</a></li> -->
+	<li class="menuLI level0 menuDisplay li-2 children"><a class="menuA level0 menuDisplay" href="http://www.ingham.org/Departments.aspx" target="_self">Departments & Officials</a></li>
+	<li class="menuLI level0 menuDisplay li-3"><a class="menuA level0 menuDisplay" href="http://www.ingham.org/CourtsLaw/CourtsLawinIngham.aspx" target="_self">courts & Sheriff</a></li>
+	<li class="menuLI level0 menuDisplay li-4"><a class="menuA level0 menuDisplay" href="http://pk.ingham.org/" target="_self">Parks & Rec</a></li>
+	<li class="menuLI level0 menuDisplay li-5"><a class="menuA level0 menuDisplay" href="http://hd.ingham.org/" target="_self">Health & Safety</a></li>
+	<li class="menuLI level0 menuDisplay li-6"><a class="menuA level0 menuDisplay" href="http://ic911.ingham.org/" target="_self">emergencies</a></li>
+	<li class="menuLI level0 menuDisplay li-7"><a class="menuA level0 menuDisplay" href="http://ingham.org/Contact.aspx" target="_self">contacts</a></li>
+</ul>
+
+<style>#flyout .children:hover, #flyout .children:hover *{background:#0072a8!important;color:#fff!important;-webkit-transition:color 0s linear;-moz-transition:color 0s linear;-o-transition:color 0s linear;transition:color 0s linear;
+-webkit-transition:background 0s linear;-moz-transition:background 0s linear;-o-transition:background 0s linear;transition:background 0s linear}#flyout li, #flyout a, #flyout span {transition:all 0s;}</style>
+
+
+
+
+
+<!-- Topnav Area Ends -->                    
+                    
+    </nav>
+
+<!--Alert Section Starts-->     
+        
+
+
+<!--Alert Section Ends--> 
+    
+</header>
+
+<!-- Navicon Image Area Starts -->
+    
+ 
+
+
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div id="navigation-images" class="hidden">
+    <a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span></span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 2</span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 3</span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 4</span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 5</span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 6</span>
+					</a>
+					<a href=./ class="navigation-image" style="background:url('nimage-1.jpg') center no-repeat;background-size:cover">
+		<span>Caption for this clickable image 7</span>
+					</a>
+					
+</div>
+
+<!-- Navicon Image Area Ends -->
+
+<section id="slider">
+
+<!--Slider Wrap Starts-->                
+	<div class="sliderbtn">
+  	
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+		RZ.module = 'banner';
+		RZ.nexturl = "editforms/slider-editlist.jsp?pageid=19";
+		RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+		RZ.img = '<span class="rz-new-edit-btn">Edit This List</span>';
+		RZ.caption = '';
+		RZ.options = '';
+		if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+    
+
+	<script language="JavaScript" type="text/JavaScript">
+		RZ.module = 'global';
+		RZ.recordid = '';
+		RZ.nexturl = "editforms/sub_settings-editform.jsp";
+		RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+		RZ.img = '<span class="rz-new-edit-btn">Edit Subdomain Settings</span>';
+		RZ.set = "global.pageid=section-19";
+		RZ.options = '';
+		if (typeof RZaction != 'undefined') RZaction('editform');
+	</script>
+
+</div>
+
+	
+	
+	
+	
+
+
+	
+	     
+		 
+	    
+        
+    
+<ul class="bxslider">
+    <li style="background:url('_assets_/images/slide-2.jpg') center no-repeat;background-size:cover"></li>
+</ul>
+
+
+
+
+
+<!--Slider Wrap Ends--> 
+
+<!--Page Header Area Starts-->
+                            
+ 
+    <h2 class="text-center container" id="page-title">County Clerk</h2>
+<!--Page Header Area Ends-->			
+
+</section>
+
+<main id="main" tabindex="-1" class="clearfix">
+
+<!-- Leftnav Area Starts -->
+	<aside id="flyout-wrap">
+			  <!-- start plugin: menus.leftnav-section -->
+			  
+              
+
+
+              
+              
+              <script language="JavaScript" type="text/JavaScript">
+              RZ.module = 'links';
+              RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=links-19&"
+                       + "linksfilter=linkplacement=leftnav and linkparentid=19&"
+                       + "numberoflevels=2&"
+                       + "linkoptions=url,template,file&"
+                       + "linknewsection=*all*";
+              RZ.img = '<img src="images/edit/edit_left_nav.jpg" alt="Edit Left Navigation" border="0" />';
+              RZ.caption = '';
+              RZ.set = "links.linkplacement=leftnav"
+              RZ.options = '';
+              if (typeof RZaction != 'undefined') RZaction('editlist');
+              </script>
+              
+              
+ <ul  id="flyout" class="leftnav v08-30-2012">
+	<li id="li-10753" class="menuLI level0 menuSelectedChild first"><a class="menuA level0 menuSelectedChild first" href="departments_and_officials/county_clerk/index.php" target="_self" >Home Page</a></li>
+	<li id="li-31" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/contact_information.php" target="_self" >Contact Information</a>
+		<ul id="ul-9160" class="menuUL level1 menuHidden">
+			<li id="li-9160" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/in_the_news.php" target="_self" >In The News</a></li>
+		</ul>
+	</li>
+	<li id="li-52" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/vital_records.php" target="_self" >Vital Records</a>
+		<ul id="ul-53" class="menuUL level1 menuHidden">
+			<li id="li-53" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/vital_records_birth_certificates.php" target="_self" >Birth Certificates</a></li>
+			<li id="li-55" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/vital_records_death_certificates.php" target="_self" >Death Certificates</a></li>
+			<li id="li-3942" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/weekly_deceased_report.php" target="_self" >Weekly Deceased Report</a></li>
+			<li id="li-56" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/vital_records_marriage_license.php" target="_self" >Marriage Licenses</a></li>
+			<li id="li-268" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/weekly_marriage_license_applicants.php" target="_self" >Weekly Marriage License Applicants Report</a></li>
+			<li id="li-54" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/vital_records_dd214.php" target="_self" >Military Discharge (DD-214)</a></li>
+		</ul>
+	</li>
+	<li id="li-32" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/campaign_finance_reporting.php" target="_self" >Campaign Finance Reporting</a>
+		<ul id="ul-14382" class="menuUL level1 menuHidden">
+			<li id="li-14382" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/campaign_finance_information.php" target="_self" >Campaign Finance Dates & Forms</a></li>
+		</ul>
+	</li>
+	<li id="li-33" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/clerk_of_the_board_of_commissioners.php" target="_self" >Clerk of Committees and Commissions</a>
+		<ul id="ul-666" class="menuUL level1 menuHidden">
+			<li id="li-666" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/board_leadership.php" target="_self" >Board Leadership</a></li>
+			<li id="li-35" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/board_of_commissioners.php" target="_self" >Board of Commissioners</a></li>
+			<li id="li-36" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/county_services_committee.php" target="_self" >County Services Committee</a></li>
+			<li id="li-34" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/democratic_caucus.php" target="_self" >Democratic Caucus</a></li>
+			<li id="li-37" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/finance_committee.php" target="_self" >Finance Committee</a></li>
+			<li id="li-38" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/human_services_committee.php" target="_self" >Human Services Committee</a></li>
+			<li id="li-39" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/law_&_courts_committee.php" target="_self" >Law & Courts Committee</a></li>
+			<li id="li-761" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/archived_minutes.php" target="_self" >Archived Minutes</a></li>
+			<li id="li-794" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/plat_board.php" target="_self" >Plat Board</a></li>
+			<li id="li-1277" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/publicnotices.php" target="_self" >Public Notices</a></li>
+			<li id="li-13734" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/treasurer_appointment_commission.php" target="_self" >Treasurer Appointment Commission</a></li>
+		</ul>
+	</li>
+	<li id="li-40" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/cpl.php" target="_self" >Concealed Pistol License</a></li>
+	<li id="li-41" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/dba_doing_business_as.php" target="_self" >Business Filings</a>
+		<ul id="ul-42" class="menuUL level1 menuHidden">
+			<li id="li-42" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="https://clerkrecords.ingham.org/web/" target="_blank" >Search Business Filings</a></li>
+			<li id="li-43" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/weekly_business_filings.php" target="_self" >Weekly Business Filings</a></li>
+		</ul>
+	</li>
+	<li id="li-44" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/elections.php" target="_self" >Elections</a>
+		<ul id="ul-8523" class="menuUL level1 menuHidden">
+			<li id="li-8523" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/candidates.php" target="_self" >Candidates</a></li>
+			<li id="li-45" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/election_results.php" target="_self" >Election Results</a></li>
+			<li id="li-46" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/election_commission.php" target="_self" >Election Commission</a></li>
+			<li id="li-47" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/ingham_county_apportionment_commission.php" target="_self" >Ingham County Apportionment Commission</a></li>
+			<li id="li-48" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/voter_registration_information.php" target="_self" >Voter Registration Information</a></li>
+			<li id="li-49" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="http://bc.ingham.org/MeetYourCountyCommissioner.aspx" target="_blank" >Current County Commissioner Districts</a></li>
+			<li id="li-759" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/board_of_canvassers.php" target="_self" >Board of Canvassers</a></li>
+			<li id="li-6224" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/absent_voter_information.php" target="_self" >Absent Voter Information</a></li>
+			<li id="li-7376" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments_and_officials/county_clerk/military_and_overseas_voters.php" target="_self" >Military and Overseas Voters</a></li>
+		</ul>
+	</li>
+	<li id="li-50" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/genealogy_research.php" target="_self" >Genealogy Research</a></li>
+	<li id="li-51" class="menuLI level0 menuSelectedChild children"><a class="menuA level0 menuSelectedChild" href="https://www.michigan.gov/sos/all-services/notary-application" target="_blank" >Notary Public</a>
+		<ul id="ul-7285" class="menuUL level1 menuHidden">
+			<li id="li-7285" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="https://www.michigan.gov/documents/sos/Application_for_Michigan_Notary_Public_194159_7.pdf" target="_blank" >Michigan Notary Public Application</a></li>
+		</ul>
+	</li>
+	<li id="li-10534" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments_and_officials/county_clerk/clerk_of_the_circuit_court.php" target="_self" >Clerk of the Circuit Court</a></li>
+</ul>
+
+              <!-- end plugin: menus.leftnav-section -->
+	</aside>
+<!-- Leftnav Area Ends -->
+    
+	<article id="entry">
+
+<!--Breadcrumb Area Starts-->
+		<div id="breadcrumbs">
+			<a href="./">Home</a>  &nbsp;<a href="departments_and_officials/county_clerk/../index.php">Departments&nbsp;&&nbsp;Officials</a>  &nbsp;County&nbsp;Clerk
+        </div><!-- end breadcrumbs -->
+<!--Breadcrumb Area Ends-->
+    
+<!-- Center Content Area Starts -->          
+        <div id="post">
+			<div class="editcenterBtns">
+                            
+                            
+                            
+                            <script language="JavaScript" type="text/JavaScript">
+                            RZ.module = 'freeform';
+                            RZ.recordid = '';
+                            RZ.nexturl = "editforms/freeform-editform.jsp";
+                            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                            RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
+                            RZ.set = 'freeform.pageid=links-19';
+                            RZ.options = '';
+                            if (typeof RZaction != 'undefined') RZaction('editform');
+                            </script>
+                            <script language="JavaScript" type="text/JavaScript">
+                            RZ.module = 'global';
+                            RZ.recordid = '';
+                            RZ.nexturl = "editforms/faq-sort-editform.jsp";
+                            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                            RZ.img = '<span class="rz-new-edit-btn">Edit FAQ Sort</span>';
+                            RZ.set = 'global.pageid=links-19';
+                            RZ.options = '';
+                            if (typeof RZaction != 'undefined') RZaction('editform');
+                            </script>
+                            
+                            
+                            
+                            <script language="JavaScript" type="text/JavaScript">
+                            RZ.module = 'freeform';
+                            RZ.recordid = '';
+                            RZ.nexturl = "editforms/metadata-editform.jsp";
+                            RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                            RZ.img = '<img src="images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
+                            RZ.set = 'freeform.pageid=links-19';
+                            RZ.options = '';
+                            if (typeof RZaction != 'undefined') RZaction('editform');
+                            </script>
+                            
+                            
+                            
+                            <script language="JavaScript" type="text/JavaScript">
+                            RZ.nexturl = '';
+                            RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+                            RZ.options = '';
+                            if (typeof RZaction != 'undefined') RZaction('permissions');
+                            </script>
+                            
+            </div>                            
+                <div class="row">
+<div class="col-lg-6 col-md-12 text-center"><img src="Department/County Clerk/Revize - Headshot Seal2.jpg" alt="" align="middle" />
+<div style="font-size: 27px; margin-top: 5px; font-weight: bold;" align="center">Ingham County Clerk Barb Byrum&nbsp;</div>
+<div class="hidden-lg"><br /><br /></div>
+</div>
+<div class="col-lg-6 col-md-12">
+<div class="row col-lg-12">
+<div class="panel panel-default">
+<div class="panel-heading text-center" style="background: #4682b4; color: white;"><strong><span style="font-size: 14pt;">Contact Information</span></strong></div>
+<div class="panel-body text-center">
+<div>Email: <a href="/cdn-cgi/l/email-protection#8be8e7eef9e0cbe2e5ece3eae6a5e4f9ec" target="_blank"><span class="__cf_email__" data-cfemail="c7a4aba2b5ac87aea9a0afa6aae9a8b5a0">[email&#160;protected]</span></a></div>
+<div>Phone: <a href="tel:5176767201">(517) 676-7201</a></div>
+<div>Fax:&nbsp; (517) 676-7254<br /><br /><strong><strong><a href="https://lp.constantcontactpages.com/su/axFkVxE/websitesignup" target="_blank">Sign Up for Email Updates from the Ingham County Clerk's Office</a></strong></strong></div>
+</div>
+</div>
+</div>
+<div class="row col-lg-12">
+<div class="panel panel-default">
+<div class="panel-heading text-center" style="background: #4682b4; color: white;"><strong><span style="font-size: 14pt;">Hours of Operation</span></strong></div>
+<div class="panel-body text-center">
+<div>8:00 a.m. to 5:00 p.m.*</div>
+<div>Monday through Friday</div>
+<div><strong><strong><br />* Clerk Byrum's Office will be closed between 12:30 p.m. and 1:30 p.m. each day for lunch.</strong></strong><strong><br /><span style="color: #b96ad9;">The Ingham County Clerk's Office will be able to process CPL applications between 8:00AM-12:00PM and 1:30PM-4:00PM.</span><br /></strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="panel panel-default">
+<div class="panel-heading text-center" style="background: #4682b4; color: white; text-align: center;"><span style="font-size: 14pt;">Important Updates</span></div>
+<div class="panel-body text-center">
+<div style="text-align: center;">
+<p><span style="color: #b96ad9; background-color: #ffffff;"><strong>Clerk Byrum's Office will be closed on Monday, September 2, 2024, in observance of Labor Day. We apologize for any inconvenience.&nbsp;</strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="panel panel-default" style="text-align: center;">
+<div class="panel-heading text-center" style="background: #4682b4; color: white;"><strong><span style="font-size: 14pt;">Responsibilities</span></strong></div>
+<br /><iframe src="https://www.youtube.com/embed/BIa_UL4wPbU?controls=0" title="YouTube video player" width="560" height="315" allowfullscreen="allowfullscreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><br /><br />The County Clerk is elected for a four-year term and is responsible for keeping records of birth, death, assumed names, co-partnerships, and issuing and filing marriage licenses. In addition, the Clerk's Office processes concealed pistol licenses and notary applications. The Clerk also serves as the Clerk of the Board of Commissioners, the Board of Canvassers, and the Circuit Court. The Clerk is also a member of the Plat Board and Election Commission. The Clerk also serves as an officiant for wedding ceremonies.<br /><br />One of the more prominent responsibilities of the Clerk is serving as the chief election official in the County. As such, the Clerk administers all election functions required by law. Part of those duties include the supervision of all national, state, and local elections and also the training of election workers in the County for those communities with a population of under 10,000. The Clerk is also responsible for the administration of the Michigan Campaign Finance Reporting Act for those candidates that file for office at the local level.</div>
+<br />
+<div><br /><br /></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-8 md-6 col-sm-12">
+<div class="panel panel-default">
+<div class="panel-heading text-center" style="background: #4682b4; color: white;"><strong><span style="font-size: 14pt;">Quick Links</span></strong></div>
+<div class="panel-body"><a href="https://forms.office.com/g/jYdn7DByVS" target="_blank">Election Inspector Application</a><a href= "departments_and_officials/county_clerk/absent_voter_information.php"><br /></a><a href= "departments_and_officials/county_clerk/absent_voter_information.php">Absent Voter Information</a><br /><a href= "departments_and_officials/county_clerk/election_results.php">Election Results</a><br /><a href="https://clerk.ingham.org/departments_and_officials/county_clerk/vital_records_marriage_license.php">Marriage License Application</a><br /><a href="https://clerk.ingham.org/departments_and_officials/county_clerk/vital_records.php">Vital Records Requests</a></div>
+</div>
+</div>
+<div class="col-lg-4 col-sm-12 text-center"><img src="Department/County Clerk/courthouse.png" alt="courthouse" alt="" /></div>
+</div>
+ <!--FAQ List Starts-->
+
+<div class="faqs-main clearfix">
+    <div class="faqs-wrap">
+      <div class="faqs-toggle">
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script language="JavaScript" type="text/JavaScript">
+RZ.module = 'faq'; RZ.linkname = '';
+RZ.template = '*none*'; RZ.recordid = 'new';
+RZ.nexturl = "/revize/plugins/faq/faq-editform.jsp?pageid=links-19";
+RZ.popupwidth = '907'; RZ.popupheight = '736'; RZ.popupscroll = 'yes';
+RZ.img = '<img src="images/edit/new_small.jpg" alt="New Item" border="0" />';
+RZ.set = 'placement=19';
+RZ.options = '';
+if (typeof RZaction != 'undefined') RZaction('newitem');
+</script>
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(3)
+</script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('faq','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['faq_3']={field:'seq_no',seq:'1.00'};
+</script>
+
+      </div><!-- end faqs-toggle  -->
+    </div><!-- end faqs-wrap  -->
+</div><!-- end faqs-main  -->   
+<!--FAQ List Ends-->
+
+		</div><!--/#post-->
+<!-- Center Content Area Ends -->                  
+        
+	</article><!--/#entry-->
+</main>
+
+<footer>
+	<div id="footer-top">
+		<img src="./_assets_/images/seal.png" alt="website seal" id="seal">
+        
+		<div class="container">
+			<div class="row">
+            
+            <div class="col-md-3 col-md-push-1">
+    <div class="row text-center">
+    	<div id="footer-logo"></div>
+    </div>
+    <div class="row">
+<!-- Address Area Ends -->  		
+		<div class="addressBtn">
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/check_address-editfrom.jsp';
+				RZ.img = '<span class="rz-new-edit-btn">Edit Checkbox</span>';
+				RZ.set = 'pageid=addresslinks-19';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+			<script language="JavaScript" type="text/JavaScript">
+				RZ.module = 'global';
+				RZ.nexturl = 'editforms/copyright-editform.jsp';
+				RZ.img = '<span class="rz-new-edit-btn">Edit Address</span>';
+				RZ.set = 'pageid=addresslinks-19';
+				RZ.options = '';
+				if (typeof RZaction != 'undefined') RZaction('editform');
+			</script>
+		</div> 
+		
+						   
+			
+		 
+		341 S. Jefferson, Mason MI 48854
+    	<div id="footer-social-links"></div>
+	</div>     
+<!-- Address Area Ends -->  
+	<div id="footer-social-links"></div>
+</div><!--/col-md-3.col-md-push-1-->
+
+<!-- Contact Area Starts -->                
+				<div class="col-md-7 col-md-push-1">
+					<h2 id="contacts-header">Contacts</h2>
+                    
+					                
+
+
+
+
+ 
+
+                                    
+                                    
+
+
+
+
+                                    
+                                    
+
+
+
+
+                                    
+                                    
+
+
+
+
+                                    
+                                    
+
+
+
+
+                                    
+                                    
+<section id="contacts" class="row"> <div class="col-lg-6">
+					<div class="contact">
+					<h3 class="contact-header equal">Elected Officials Contacts</h3>
+					<div class="contact-list">
+					County Clerk 517-676-7201<br />Drain Commissioner 517-676-8395<br />Prosecuting Attorney 517-483-6108<br />Register of Deeds 517-676-7216<br />Sheriff 517-676-2431<br />Treasurer 517-676-7220
+					</div>
+					</div>
+					</div>
+					<div class="col-lg-6">
+					<div class="contact">
+					<h3 class="contact-header equal">Courts Contacts</h3>
+					<div class="contact-list">
+					30th Judicial Circuit Court 517-483-6500<br />General Trial Division 517-483-6500<br />Family Division 517-483-6500<br />Friend of the Court 517-483-6103<br />Probate Court 517-483-6300<br />55th District Court 517-676-8400
+					</div>
+					</div>
+					</div>
+					<div class="col-lg-6">
+					<div class="contact">
+					<h3 class="contact-header equal">Board of Commissioners</h3>
+					<div class="contact-list">
+					Board of Commissioners 517-676-7200
+					</div>
+					</div>
+					</div>
+					<div class="col-lg-6">
+					<div class="contact">
+					<h3 class="contact-header equal">Department Contacts</h3>
+					<div class="contact-list">
+					Animal Control 517-676-8370<br />Community Corrections 517-676-7232<br />Controller/Administrator 517-676-7206<br />Economic Development 517-676-7285<br />Equalization/Tax Mapping 517-676-7212<br />Facilities 517-676-7312<br />Fair 517-676-2428<br />Farmland Preservation 517-244-7197<br />Financial Services 517-676-7329<br />Health Department 517-887-4311<br />Housing Commission 517-349-1643<br />Human Resources 517-887-4328<br />Jury Administration 517-483-6522<br />55th District Court Jury 517-676-8420<br />Innovation &amp; Technology 517-676-7373<br />Medical Care Facility 517-381-6100<br />MSU Extension 517-676-7208<br />Parks Department 517-676-2233<br />Potter Park Zoo 517-483-4222<br />Purchasing Department 517-676-7222<br />Road Department 517-676-9722<br />Veterans Affairs 517-887-4331
+					</div>
+					</div>
+					</div>
+					 </section>
+<!--/#contacts-->
+				</div><!--/.col-md-7-->
+<!-- Contact Area Ends -->                
+                
+			</div><!--/.row-->
+		</div><!--/.container-->
+	</div><!--/#footer-top-->
+    
+	<div class="container text-center">
+
+<!-- Copyright Area Starts -->    
+                
+        <div id="copyright"><span>&copy; Copyright&nbsp;&nbsp;&bull;&nbsp;&nbsp;2018 Ingham County. All Rights Reserved.</span></div>
+<!-- Copyright Area Ends -->
+        
+<!-- Login Area Starts -->        
+	  <div id="revize">
+        	 
+<a id="revize-login" href="https://cms3.revize.com/revize/security/index.jsp?webspace=inghamcounty&filename=/departments_and_officials/county_clerk/index.php"> Login </a>
+
+
+		</div><!--/#revize-->
+<!-- Login Area Ends --> 
+        
+	</div><!--/.container.text-center-->
+</footer>
+
+<!-- Share widget make into an include file -->
+<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal">
+	<i class="fa fa-share-alt"></i>
+	<span>SHARE</span>
+</button>
+
+<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h6 class="modal-title" id="myModalLabel">Share this page</h6>
+			</div>
+			<div class="modal-body">
+				<div class="copylink">
+					<p>Copy and paste this code into your website.</p>
+					<pre>&lt;a href="http://clerk.ingham.org/departments_and_officials/county_clerk/">Your Link Name&lt;/a&gt;</pre>
+				</div><!-- /.copylink -->
+				<div class="share-btns">
+					<p>Share this page on your favorite Social network</p>
+					<div class="row">
+						<div class="col-sm-4">
+							<a href="https://www.facebook.com/sharer/sharer.php?u=http://clerk.ingham.org/departments_and_officials/county_clerk/" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-facebook"></i> Facebook
+							</a>
+						</div>
+						<div class="col-sm-4">
+							<a href="https://www.twitter.com/home?status=http://clerk.ingham.org/departments_and_officials/county_clerk/" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-twitter"></i> Twitter
+							</a>
+						</div>
+						<div class="col-sm-4">
+							<a href="https://www.reddit.com/submit?url=http://clerk.ingham.org/departments_and_officials/county_clerk/" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-reddit"></i> Reddit
+							</a>
+						</div>
+					</div><!-- /.row -->
+				</div><!-- /.share-btns -->
+				<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+			</div><!-- /.modal-body -->
+		</div>
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal --><!-- Share widget make into an include file -->
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/sticky/jquery.sticky.js"></script>
+<script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/revizeWeather/js/revizeWeather.min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+
+<!--Goole Analytics Code Area Starts-->
+
+<script>
+function removeCookieString(value, domain) {
+		domain = domain ? 'domain='+domain+'; ' : '';
+		return value+'; expires=Thu, 01 Jan 1970 00:00:01 GMT; '+domain+'path=/';
+	}
+
+	function unsetGoogtransCookie() {
+		for (var domains = window.location.hostname.split('.'); domains.length >= 2; domains.shift()) {
+			var cookieString = removeCookieString('googtrans=unset', domains.join('.'));
+			document.cookie=cookieString;
+			if	(domains.length === 2) {
+				cookieString = removeCookieString('googtrans=unset', '.'+domains.join('.'));
+				document.cookie=cookieString;
+			}
+		}
+		document.cookie=removeCookieString('googtrans=unset');
+	}
+
+	if (!String.prototype.startsWith) {
+		String.prototype.startsWith = function(searchString, position) {
+			position = position || 0;
+			return this.indexOf(searchString, position) === position;
+		};
+	}
+
+	if (document.cookie.split(';').some(function(item) { return item.trim().startsWith('googtrans=/auto/en'); })) {
+		unsetGoogtransCookie();
+	}
+
+	// Translate Script
+	var translateURL = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+	$.getScript(translateURL);
+	$('.translation-links a').click(function() {
+		
+		var lang = $(this).data('lang');
+		var $frame = $('iframe.skiptranslate');
+
+		var frameId = $frame.attr("id");
+		if (lang === 'English') {
+			if (frameId) {
+				$frame.contents().find("#\\"+frameId.replace(".container", "\\.restore")).click();
+				return false;
+			};
+		}
+
+		if (!$frame.length) {
+			return false;
+		}
+		
+		var $el = $frame.contents().find('span.text:contains(' + lang + ')').parents("a").get(0);
+		if (!$el) {
+			$el = $frame.contents().find('span.text:contains("English")').parents("a").get(0);
+		}
+		
+		if (frameId) {
+			var $confirm = $frame.contents().find("#\\"+frameId.replace(".container", "\\.promptSection"));
+			if ($confirm.css("display") !== "none") {
+				$confirm.find("#\\"+frameId.replace(".container", "\\.confirm")).click();
+				setTimeout(function() { $el.click(); }, 500);
+				return false;
+			}
+		}
+		$el.click();
+		
+		return false;
+	});
+</script><!--Goole Analytics Code Area Ends-->
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-202872430-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</body>
+</html>

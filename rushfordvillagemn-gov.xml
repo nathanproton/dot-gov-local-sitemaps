@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 31, 2024 at 9:01 PM by All in One SEO Pro v4.6.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://www.rushfordvillagemn.gov/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://www.rushfordvillagemn.gov/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-09T20:02:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://www.rushfordvillagemn.gov/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-07-08T19:55:55+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://www.rushfordvillagemn.gov/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-08-26T15:59:06+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
